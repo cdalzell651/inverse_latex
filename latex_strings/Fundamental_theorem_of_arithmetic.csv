@@ -1,0 +1,47 @@
+name,latex
+Fundamental_theorem_of_arithmetic_0,{\displaystyle 1200=2^{4}\cdot 3^{1}\cdot 5^{2}=(2\cdot 2\cdot 2\cdot 2)\cdot 3\cdot (5\cdot 5)=5\cdot 2\cdot 5\cdot 2\cdot 3\cdot 2\cdot 2=\ldots }
+Fundamental_theorem_of_arithmetic_1,{\displaystyle 12=2\cdot 6=3\cdot 4}
+Fundamental_theorem_of_arithmetic_2,{\displaystyle 2=2\cdot 1=2\cdot 1\cdot 1=\ldots }
+Fundamental_theorem_of_arithmetic_3,"{\displaystyle n=p_{1}^{n_{1}}p_{2}^{n_{2}}\cdots p_{k}^{n_{k}}=\prod _{i=1}^{k}p_{i}^{n_{i}},}"
+Fundamental_theorem_of_arithmetic_4,"{\displaystyle n=2^{n_{1}}3^{n_{2}}5^{n_{3}}7^{n_{4}}\cdots =\prod _{i=1}^{\infty }p_{i}^{n_{i}},}"
+Fundamental_theorem_of_arithmetic_5,"{\displaystyle {\begin{alignedat}{2}a\cdot b&=2^{a_{1}+b_{1}}3^{a_{2}+b_{2}}5^{a_{3}+b_{3}}7^{a_{4}+b_{4}}\cdots &&=\prod p_{i}^{a_{i}+b_{i}},\\\gcd(a,b)&=2^{\min(a_{1},b_{1})}3^{\min(a_{2},b_{2})}5^{\min(a_{3},b_{3})}7^{\min(a_{4},b_{4})}\cdots &&=\prod p_{i}^{\min(a_{i},b_{i})},\\\operatorname {lcm} (a,b)&=2^{\max(a_{1},b_{1})}3^{\max(a_{2},b_{2})}5^{\max(a_{3},b_{3})}7^{\max(a_{4},b_{4})}\cdots &&=\prod p_{i}^{\max(a_{i},b_{i})}.\end{alignedat}}}"
+Fundamental_theorem_of_arithmetic_6,{\displaystyle s}
+Fundamental_theorem_of_arithmetic_7,{\displaystyle s}
+Fundamental_theorem_of_arithmetic_8,{\displaystyle 1}
+Fundamental_theorem_of_arithmetic_9,{\displaystyle {\begin{aligned}s&=p_{1}p_{2}\cdots p_{m}\\&=q_{1}q_{2}\cdots q_{n}.\end{aligned}}}
+Fundamental_theorem_of_arithmetic_10,{\displaystyle p_{i}}
+Fundamental_theorem_of_arithmetic_11,{\displaystyle q_{j}.}
+Fundamental_theorem_of_arithmetic_12,"{\displaystyle p_{i}=q_{j},}"
+Fundamental_theorem_of_arithmetic_13,{\displaystyle t=s/p_{i}=s/q_{j}}
+Fundamental_theorem_of_arithmetic_14,"{\displaystyle p_{1}<q_{1},}"
+Fundamental_theorem_of_arithmetic_15,{\displaystyle P=p_{2}\cdots p_{m}}
+Fundamental_theorem_of_arithmetic_16,"{\displaystyle Q=q_{2}\cdots q_{n},}"
+Fundamental_theorem_of_arithmetic_17,{\displaystyle s=p_{1}P=q_{1}Q.}
+Fundamental_theorem_of_arithmetic_18,"{\displaystyle p_{1}<q_{1},}"
+Fundamental_theorem_of_arithmetic_19,{\displaystyle Q<P.}
+Fundamental_theorem_of_arithmetic_20,{\displaystyle s-p_{1}Q=(q_{1}-p_{1})Q=p_{1}(P-Q)<s.}
+Fundamental_theorem_of_arithmetic_21,{\displaystyle p_{1}}
+Fundamental_theorem_of_arithmetic_22,{\displaystyle q_{1}-p_{1}}
+Fundamental_theorem_of_arithmetic_23,{\displaystyle p_{1}}
+Fundamental_theorem_of_arithmetic_24,{\displaystyle q_{j}.}
+Fundamental_theorem_of_arithmetic_25,{\displaystyle p_{1}}
+Fundamental_theorem_of_arithmetic_26,"{\displaystyle q_{1}-p_{1},}"
+Fundamental_theorem_of_arithmetic_27,"{\displaystyle q_{1},}"
+Fundamental_theorem_of_arithmetic_28,{\displaystyle p_{1}}
+Fundamental_theorem_of_arithmetic_29,{\displaystyle q_{1}}
+Fundamental_theorem_of_arithmetic_30,{\displaystyle 1}
+Fundamental_theorem_of_arithmetic_31,{\displaystyle \mathbb {Z} [i].}
+Fundamental_theorem_of_arithmetic_32,{\displaystyle \mathbb {Z} [\omega ]}
+Fundamental_theorem_of_arithmetic_34,{\displaystyle \omega ^{3}=1}
+Fundamental_theorem_of_arithmetic_35,"{\displaystyle \pm 1,\pm \omega ,\pm \omega ^{2}}"
+Fundamental_theorem_of_arithmetic_36,{\displaystyle \mathbb {Z} [{\sqrt {-5}}]}
+Fundamental_theorem_of_arithmetic_37,{\displaystyle 6=2\cdot 3=\left(1+{\sqrt {-5}}\right)\left(1-{\sqrt {-5}}\right).}
+Fundamental_theorem_of_arithmetic_38,{\displaystyle \mathbb {Z} \left[{\sqrt {-5}}\right]}
+Fundamental_theorem_of_arithmetic_39,{\displaystyle \mathbb {Z} \left[{\sqrt {-5}}\right]}
+Fundamental_theorem_of_arithmetic_40,{\displaystyle \mathbb {Z} \left[{\sqrt {-5}}\right]}
+Fundamental_theorem_of_arithmetic_41,{\displaystyle \mathbb {Z} \left[{\sqrt {-5}}\right]}
+Fundamental_theorem_of_arithmetic_42,{\displaystyle \mathbb {Z} .}
+Fundamental_theorem_of_arithmetic_43,{\displaystyle \mathbb {Z} }
+Fundamental_theorem_of_arithmetic_44,{\displaystyle \mathbb {Z} [i]}
+Fundamental_theorem_of_arithmetic_45,"{\displaystyle \mathbb {Z} [\omega ],}"
+Fundamental_theorem_of_arithmetic_46,{\displaystyle \mathbb {Z} [{\sqrt {-5}}].}

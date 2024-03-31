@@ -1,0 +1,46 @@
+name,latex
+Natural_number_1,{\displaystyle 1/n}
+Natural_number_2,{\displaystyle \mathbb {N} .}
+Natural_number_4,"{\displaystyle \;\{0,1,2,...\}=\mathbb {N} _{0}=\mathbb {N} ^{0}=\mathbb {N} ^{*}\cup \{0\}}"
+Natural_number_5,{\displaystyle \mathbb {Z} }
+Natural_number_6,{\displaystyle *}
+Natural_number_7,"{\displaystyle \{1,2,3,\dots \}=\{x\in \mathbb {Z} :x>0\}=\mathbb {Z} ^{+}=\mathbb {Z} _{>0}}"
+Natural_number_8,"{\displaystyle \{0,1,2,\dots \}=\{x\in \mathbb {Z} :x\geq 0\}=\mathbb {Z} _{0}^{+}=\mathbb {Z} _{\geq 0}}"
+Natural_number_9,{\displaystyle \mathbb {N} =\mathbb {N} _{0}=\mathbb {N} ^{*}\cup \{0\}}
+Natural_number_10,{\displaystyle \mathbb {N} }
+Natural_number_11,{\displaystyle S\colon \mathbb {N} \to \mathbb {N} }
+Natural_number_12,"{\displaystyle (\mathbb {N} ,+)}"
+Natural_number_13,{\displaystyle \times }
+Natural_number_14,"{\displaystyle (\mathbb {N} ^{*},\times )}"
+Natural_number_15,{\displaystyle \mathbb {N} }
+Natural_number_16,{\displaystyle \mathbb {N} }
+Natural_number_17,"{\displaystyle (\mathbb {N^{*}} ,+)}"
+Natural_number_18,{\displaystyle a=bq+r{\text{ and }}r<b.}
+Natural_number_19,{\displaystyle \emptyset }
+Natural_number_20,{\displaystyle \emptyset }
+Natural_number_21,{\displaystyle \mathbb {N} }
+Natural_number_22,{\displaystyle x}
+Natural_number_23,{\displaystyle y}
+Natural_number_24,{\displaystyle x}
+Natural_number_25,{\displaystyle y}
+Natural_number_26,{\displaystyle x}
+Natural_number_27,{\displaystyle x+1}
+Natural_number_28,{\displaystyle :\;\mathbb {C} }
+Natural_number_29,{\displaystyle :\;\mathbb {R} }
+Natural_number_30,{\displaystyle :\;\mathbb {Q} }
+Natural_number_31,{\displaystyle :\;\mathbb {Z} }
+Natural_number_32,{\displaystyle :\;\mathbb {N} }
+Natural_number_33,{\displaystyle \mathbb {N} }
+Natural_number_34,"{\displaystyle \mathbb {N} =\{0,1,2,\ldots \}}"
+Natural_number_35,{\displaystyle \mathbb {N} }
+Natural_number_36,{\displaystyle \mathbb {N} }
+Natural_number_37,{\displaystyle \mathbb {Z} }
+Natural_number_38,{\displaystyle \mathbb {Q} }
+Natural_number_39,{\displaystyle \mathbb {A} }
+Natural_number_40,{\displaystyle \mathbb {R} }
+Natural_number_41,{\displaystyle \mathbb {C} }
+Natural_number_42,{\displaystyle \mathbb {H} }
+Natural_number_43,{\displaystyle \mathbb {O} }
+Natural_number_44,{\displaystyle \mathbb {R} }
+Natural_number_45,{\displaystyle \mathbb {C} }
+Natural_number_46,{\displaystyle \mathbb {S} }

@@ -1,0 +1,43 @@
+name,latex
+Lattice_(group)_0,{\displaystyle \mathbb {Z} }
+Lattice_(group)_1,{\displaystyle \mathbb {Z} }
+Lattice_(group)_2,{\displaystyle \mathbb {Z} }
+Lattice_(group)_3,{\displaystyle \mathbb {R} ^{n}}
+Lattice_(group)_4,{\displaystyle n}
+Lattice_(group)_5,{\displaystyle \mathbb {R} ^{n}}
+Lattice_(group)_6,{\displaystyle \mathbb {R} ^{n}}
+Lattice_(group)_7,{\displaystyle \mathbb {Z} ^{n}}
+Lattice_(group)_8,{\displaystyle \mathbb {R} ^{n}}
+Lattice_(group)_9,{\displaystyle \mathbb {Z} ^{n}}
+Lattice_(group)_10,{\displaystyle \mathbb {R} ^{8}}
+Lattice_(group)_11,{\displaystyle \mathbb {R} ^{24}}
+Lattice_(group)_12,{\displaystyle \mathbb {R} ^{2}}
+Lattice_(group)_13,{\displaystyle \Lambda }
+Lattice_(group)_14,{\displaystyle \mathbb {R} ^{n}}
+Lattice_(group)_15,"{\displaystyle \Lambda ={\biggl \{}\sum _{i=1}^{n}a_{i}v_{i}\mathbin {\bigg \vert } a_{i}\in \mathbb {Z} {\biggr \}},}"
+Lattice_(group)_16,{\displaystyle \mathbb {R} ^{n}}
+Lattice_(group)_17,{\displaystyle \mathbb {R} ^{n}}
+Lattice_(group)_18,{\displaystyle T:z\mapsto z+1}
+Lattice_(group)_19,{\displaystyle S:z\mapsto -1/z}
+Lattice_(group)_20,{\displaystyle \mathbb {C} ^{n}}
+Lattice_(group)_21,{\displaystyle \mathbb {C} ^{n}}
+Lattice_(group)_22,{\displaystyle \mathbb {C} ^{n}}
+Lattice_(group)_23,{\displaystyle \mathbb {C} ^{n}}
+Lattice_(group)_24,{\displaystyle 2n}
+Lattice_(group)_25,{\displaystyle \mathbb {C} ^{n}}
+Lattice_(group)_26,{\displaystyle 2n}
+Lattice_(group)_27,{\displaystyle \mathbb {Z} [i]=\mathbb {Z} +i\mathbb {Z} }
+Lattice_(group)_28,{\displaystyle \mathbb {C} =\mathbb {C} ^{1}}
+Lattice_(group)_29,"{\displaystyle (1,i)}"
+Lattice_(group)_30,{\displaystyle \mathbb {C} }
+Lattice_(group)_31,{\displaystyle \mathbb {R} }
+Lattice_(group)_32,{\displaystyle \mathbb {Z} }
+Lattice_(group)_33,{\displaystyle \mathbb {R} ^{n}}
+Lattice_(group)_34,"{\displaystyle B=\{\mathbf {v} _{1},\ldots ,\mathbf {v} _{n}\}}"
+Lattice_(group)_35,{\displaystyle {\mathcal {L}}}
+Lattice_(group)_36,{\displaystyle {\mathcal {L}}={\biggl \{}\sum _{i=1}^{n}a_{i}\mathbf {v} _{i}\mathbin {\bigg \vert } a_{i}\in R{\biggr \}}.}
+Lattice_(group)_37,{\displaystyle \mathrm {GL} _{n}(R)}
+Lattice_(group)_38,{\displaystyle T^{-1}}
+Lattice_(group)_39,{\displaystyle R^{*}}
+Lattice_(group)_40,"{\displaystyle {\mathcal {L}}^{*}=\{\mathbf {v} \in V\mid \langle \mathbf {v} ,\mathbf {x} \rangle \in R\,{\text{ for all }}\,\mathbf {x} \in {\mathcal {L}}\},}"
+Lattice_(group)_41,"{\displaystyle {\mathcal {L}}^{*}=\{\mathbf {v} \in V\mid \langle \mathbf {v} ,\mathbf {v} _{i}\rangle \in R,\ i=1,...,n\}.}"

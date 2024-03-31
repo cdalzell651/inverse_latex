@@ -1,0 +1,36 @@
+name,latex
+Mathematical_logic_0,{\displaystyle A\land B}
+Mathematical_logic_1,{\displaystyle A\cdot B}
+Mathematical_logic_2,{\displaystyle AB}
+Mathematical_logic_3,{\displaystyle A\&B}
+Mathematical_logic_4,{\displaystyle A\&\&B}
+Mathematical_logic_5,{\displaystyle A\equiv B}
+Mathematical_logic_6,{\displaystyle A\Leftrightarrow B}
+Mathematical_logic_8,{\displaystyle A\Rightarrow B}
+Mathematical_logic_9,{\displaystyle A\supset B}
+Mathematical_logic_10,{\displaystyle A\rightarrow B}
+Mathematical_logic_11,{\displaystyle A{\overline {\land }}B}
+Mathematical_logic_12,{\displaystyle A\mid B}
+Mathematical_logic_13,{\displaystyle {\overline {A\cdot B}}}
+Mathematical_logic_14,{\displaystyle A\not \equiv B}
+Mathematical_logic_15,{\displaystyle A\not \Leftrightarrow B}
+Mathematical_logic_17,{\displaystyle A{\overline {\lor }}B}
+Mathematical_logic_18,{\displaystyle A\downarrow B}
+Mathematical_logic_19,{\displaystyle {\overline {A+B}}}
+Mathematical_logic_20,{\displaystyle \neg A}
+Mathematical_logic_21,{\displaystyle -A}
+Mathematical_logic_22,{\displaystyle {\overline {A}}}
+Mathematical_logic_23,{\displaystyle \sim A}
+Mathematical_logic_24,{\displaystyle A\lor B}
+Mathematical_logic_25,{\displaystyle A+B}
+Mathematical_logic_26,{\displaystyle A\mid B}
+Mathematical_logic_27,{\displaystyle A\parallel B}
+Mathematical_logic_28,{\displaystyle A\ {\text{XNOR}}\ B}
+Mathematical_logic_29,{\displaystyle A{\underline {\lor }}B}
+Mathematical_logic_30,{\displaystyle A\oplus B}
+Mathematical_logic_31,{\displaystyle A\Leftarrow B}
+Mathematical_logic_32,{\displaystyle A\subset B}
+Mathematical_logic_33,{\displaystyle A\leftarrow B}
+Mathematical_logic_34,"{\displaystyle L_{\omega _{1},\omega }}"
+Mathematical_logic_35,"{\displaystyle L_{\omega _{1},\omega }}"
+Mathematical_logic_36,{\displaystyle (x=0)\lor (x=1)\lor (x=2)\lor \cdots .}

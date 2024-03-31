@@ -1,0 +1,26 @@
+name,latex
+Turing_machine_0,"{\displaystyle M=\langle Q,\Gamma ,b,\Sigma ,\delta ,q_{0},F\rangle }"
+Turing_machine_1,{\displaystyle \Gamma }
+Turing_machine_2,{\displaystyle b\in \Gamma }
+Turing_machine_3,{\displaystyle \Sigma \subseteq \Gamma \setminus \{b\}}
+Turing_machine_4,{\displaystyle Q}
+Turing_machine_5,{\displaystyle q_{0}\in Q}
+Turing_machine_6,{\displaystyle F\subseteq Q}
+Turing_machine_7,{\displaystyle M}
+Turing_machine_8,{\displaystyle F}
+Turing_machine_9,"{\displaystyle \delta :(Q\setminus F)\times \Gamma \not \to Q\times \Gamma \times \{L,R\}}"
+Turing_machine_10,{\displaystyle \delta }
+Turing_machine_11,"{\displaystyle \{L,R\}}"
+Turing_machine_12,"{\displaystyle Q=\{{\mbox{A}},{\mbox{B}},{\mbox{C}},{\mbox{HALT}}\}}"
+Turing_machine_13,"{\displaystyle \Gamma =\{0,1\}}"
+Turing_machine_14,{\displaystyle b=0}
+Turing_machine_15,{\displaystyle \Sigma =\{1\}}
+Turing_machine_16,{\displaystyle q_{0}={\mbox{A}}}
+Turing_machine_17,{\displaystyle F=\{{\mbox{HALT}}\}}
+Turing_machine_18,{\displaystyle \delta =}
+Turing_machine_19,{\displaystyle 0}
+Turing_machine_20,"{\displaystyle \{L,R\}}"
+Turing_machine_21,"{\displaystyle \{L,R,N\}}"
+Turing_machine_22,{\displaystyle 2^{2^{n}}}
+Turing_machine_23,{\displaystyle \delta }
+Turing_machine_24,{\displaystyle F}

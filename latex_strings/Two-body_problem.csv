@@ -1,0 +1,29 @@
+name,latex
+Two-body_problem_0,{\displaystyle {\boldsymbol {R}}={\frac {m_{1}}{M}}{\boldsymbol {x}}_{1}+{\frac {m_{2}}{M}}{\boldsymbol {x}}_{2}}
+Two-body_problem_1,{\displaystyle {\boldsymbol {r}}={\boldsymbol {x}}_{1}-{\boldsymbol {x}}_{2}}
+Two-body_problem_2,{\displaystyle M=m_{1}+m_{2}\ }
+Two-body_problem_3,"{\displaystyle \mathbf {F} _{12}(\mathbf {x} _{1},\mathbf {x} _{2})=m_{1}{\ddot {\mathbf {x} }}_{1}}"
+Two-body_problem_4,"{\displaystyle \mathbf {F} _{21}(\mathbf {x} _{1},\mathbf {x} _{2})=m_{2}{\ddot {\mathbf {x} }}_{2}}"
+Two-body_problem_5,{\displaystyle \mathbf {R} }
+Two-body_problem_6,{\displaystyle m_{1}{\ddot {\mathbf {x} }}_{1}+m_{2}{\ddot {\mathbf {x} }}_{2}=(m_{1}+m_{2}){\ddot {\mathbf {R} }}=\mathbf {F} _{12}+\mathbf {F} _{21}=0}
+Two-body_problem_7,{\displaystyle {\ddot {\mathbf {R} }}\equiv {\frac {m_{1}{\ddot {\mathbf {x} }}_{1}+m_{2}{\ddot {\mathbf {x} }}_{2}}{m_{1}+m_{2}}}.}
+Two-body_problem_8,{\displaystyle {\ddot {\mathbf {R} }}=0}
+Two-body_problem_9,{\displaystyle \mathbf {v} ={\frac {dR}{dt}}}
+Two-body_problem_10,{\displaystyle {\ddot {\mathbf {r} }}={\ddot {\mathbf {x} }}_{1}-{\ddot {\mathbf {x} }}_{2}=\left({\frac {\mathbf {F} _{12}}{m_{1}}}-{\frac {\mathbf {F} _{21}}{m_{2}}}\right)=\left({\frac {1}{m_{1}}}+{\frac {1}{m_{2}}}\right)\mathbf {F} _{12}}
+Two-body_problem_11,"{\displaystyle \mu {\ddot {\mathbf {r} }}=\mathbf {F} _{12}(\mathbf {x} _{1},\mathbf {x} _{2})=\mathbf {F} (\mathbf {r} )}"
+Two-body_problem_12,{\displaystyle \mu }
+Two-body_problem_13,{\displaystyle \mu ={\frac {1}{{\frac {1}{m_{1}}}+{\frac {1}{m_{2}}}}}={\frac {m_{1}m_{2}}{m_{1}+m_{2}}}.}
+Two-body_problem_14,{\displaystyle \mathbf {F} (\mathbf {r} )}
+Two-body_problem_15,{\displaystyle \mathbf {F} (\mathbf {r} )}
+Two-body_problem_16,{\displaystyle \mathbf {x} _{1}(t)=\mathbf {R} (t)+{\frac {m_{2}}{m_{1}+m_{2}}}\mathbf {r} (t)}
+Two-body_problem_17,{\displaystyle \mathbf {x} _{2}(t)=\mathbf {R} (t)-{\frac {m_{1}}{m_{1}+m_{2}}}\mathbf {r} (t)}
+Two-body_problem_18,"{\displaystyle \mathbf {L} =\mathbf {r} \times \mathbf {p} =\mathbf {r} \times \mu {\frac {d\mathbf {r} }{dt}},}"
+Two-body_problem_19,"{\displaystyle \mathbf {N} ={\frac {d\mathbf {L} }{dt}}={\dot {\mathbf {r} }}\times \mu {\dot {\mathbf {r} }}+\mathbf {r} \times \mu {\ddot {\mathbf {r} }}\ ,}"
+Two-body_problem_20,"{\displaystyle \mathbf {N} \ =\ {\frac {d\mathbf {L} }{dt}}=\mathbf {r} \times \mathbf {F} \ ,}"
+Two-body_problem_21,{\displaystyle E_{\text{tot}}={\frac {1}{2}}m_{1}{\dot {\mathbf {x} }}_{1}^{2}+{\frac {1}{2}}m_{2}{\dot {\mathbf {x} }}_{2}^{2}+U(\mathbf {r} )={\frac {1}{2}}(m_{1}+m_{2}){\dot {\mathbf {R} }}^{2}+{1 \over 2}\mu {\dot {\mathbf {r} }}^{2}+U(\mathbf {r} )}
+Two-body_problem_22,{\displaystyle E={\frac {1}{2}}\mu {\dot {\mathbf {r} }}^{2}+U(\mathbf {r} )}
+Two-body_problem_23,{\displaystyle \mathbf {x} _{1}={\frac {\mu }{m_{1}}}\mathbf {r} }
+Two-body_problem_24,{\displaystyle \mathbf {x} _{2}=-{\frac {\mu }{m_{2}}}\mathbf {r} }
+Two-body_problem_25,{\displaystyle {\begin{aligned}E_{1}&={\frac {\mu }{m_{1}}}E={\frac {1}{2}}m_{1}{\dot {\mathbf {x} }}_{1}^{2}+{\frac {\mu }{m_{1}}}U(\mathbf {r} )\\[4pt]E_{2}&={\frac {\mu }{m_{2}}}E={\frac {1}{2}}m_{2}{\dot {\mathbf {x} }}_{2}^{2}+{\frac {\mu }{m_{2}}}U(\mathbf {r} )\\[4pt]E_{\text{tot}}&=E_{1}+E_{2}\end{aligned}}}
+Two-body_problem_26,{\displaystyle \mathbf {F} (\mathbf {r} )=F(r){\hat {\mathbf {r} }}}
+Two-body_problem_27,"{\displaystyle \mu {\ddot {\mathbf {r} }}={F}(r){\hat {\mathbf {r} }}\ ,}"

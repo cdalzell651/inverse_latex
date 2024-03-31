@@ -1,0 +1,29 @@
+name,latex
+Fair_item_allocation_0,{\displaystyle m}
+Fair_item_allocation_1,{\displaystyle 2^{m}}
+Fair_item_allocation_2,{\displaystyle 2^{m}}
+Fair_item_allocation_3,{\displaystyle 1/n}
+Fair_item_allocation_4,{\displaystyle 1/n}
+Fair_item_allocation_5,{\displaystyle NP^{NP}}
+Fair_item_allocation_6,{\displaystyle m}
+Fair_item_allocation_7,{\displaystyle n}
+Fair_item_allocation_8,{\displaystyle n}
+Fair_item_allocation_9,"{\displaystyle {\mathcal {A}}=\{(A^{1},\dots ,A^{n})\mid \forall i\in [n]\colon A^{i}\subseteq [m],\quad \forall i\neq j\in [n]\colon A^{i}\cap A^{j}=\emptyset ,\quad \cup _{i=1}^{n}A^{i}=[m]\}}"
+Fair_item_allocation_10,{\displaystyle {\mathcal {A}}}
+Fair_item_allocation_11,"{\displaystyle {\mathcal {D}}=\{d\mid p_{d}\colon {\mathcal {A}}\to [0,1],\sum _{A\in {\mathcal {A}}}p_{d}(A)=1\}}"
+Fair_item_allocation_12,{\displaystyle u_{i}\colon {\mathcal {A}}\to \mathbb {R} _{+}}
+Fair_item_allocation_13,{\displaystyle E_{i}\colon {\mathcal {D}}\to \mathbb {R} _{+}}
+Fair_item_allocation_14,{\displaystyle u_{i}}
+Fair_item_allocation_15,{\displaystyle E_{i}(d)=\sum _{A\in {\mathcal {A}}}p_{d}(A)\cdot u_{i}(A)}
+Fair_item_allocation_16,{\displaystyle d^{*}\in {\mathcal {D}}}
+Fair_item_allocation_17,{\displaystyle d^{*}={\text{argmax}}_{d\in {\mathcal {D}}}\sum _{i=1}^{n}\sum _{A\in {\mathcal {A}}}\left(p_{d}(A)\cdot u_{i}(A)\right)}
+Fair_item_allocation_18,{\displaystyle A^{*}={\text{argmax}}_{A\in {\mathcal {A}}\colon p_{d^{*}}(A)>0}\sum _{i=1}^{n}u_{i}(A)}
+Fair_item_allocation_19,{\displaystyle d^{*}}
+Fair_item_allocation_20,{\displaystyle \sum _{i=1}^{n}\sum _{A\in {\mathcal {A}}}\left(p_{d^{*}}(A)\cdot u_{i}(A)\right)=\sum _{A\in {\mathcal {A}}}p_{d^{*}}(A)\sum _{i=1}^{n}u_{i}(A)\leq \max _{A\in {\mathcal {A}}\colon p_{d^{*}}(A)>0}\sum _{i=1}^{n}u_{i}(A)}
+Fair_item_allocation_21,{\displaystyle d^{*}\in {\mathcal {D}}}
+Fair_item_allocation_22,"{\displaystyle d^{*}={\text{argmax}}_{d\in {\mathcal {D}}}\min _{i=1,\ldots ,n}\sum _{A\in {\mathcal {A}}}\left(p_{d}(A)\cdot u_{i}(A)\right)}"
+Fair_item_allocation_23,{\displaystyle 0}
+Fair_item_allocation_24,{\displaystyle 50}
+Fair_item_allocation_25,{\displaystyle 1-{\frac {1}{e}}}
+Fair_item_allocation_26,{\displaystyle \alpha }
+Fair_item_allocation_27,{\displaystyle \alpha }

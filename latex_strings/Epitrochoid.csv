@@ -1,0 +1,4 @@
+name,latex
+Epitrochoid_0,{\displaystyle {\begin{aligned}&x(\theta )=(R+r)\cos \theta -d\cos \left({R+r \over r}\theta \right)\\&y(\theta )=(R+r)\sin \theta -d\sin \left({R+r \over r}\theta \right)\end{aligned}}}
+Epitrochoid_1,"{\displaystyle (x(\theta ),y(\theta ))}"
+Epitrochoid_2,"{\displaystyle d>r,}"

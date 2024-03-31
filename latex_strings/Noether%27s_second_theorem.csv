@@ -1,0 +1,47 @@
+name,latex
+Noether%27s_second_theorem_13,"{\displaystyle I=(i_{1},\dots ,i_{k})}"
+Noether%27s_second_theorem_16,{\displaystyle \sum _{|I|=0}^{r}f_{I}g^{I}=fg+f_{i}g^{i}+f_{ij}g^{ij}+\dots +f_{i_{1}...i_{r}}g^{i_{1}...i_{r}}.}
+Noether%27s_second_theorem_18,"{\displaystyle \delta L={\frac {\partial L}{\partial u^{\sigma }}}\delta u^{\sigma }+{\frac {\partial L}{\partial u_{i}^{\sigma }}}\delta u_{i}^{\sigma }+\dots +{\frac {\partial L}{\partial u_{i_{1}...i_{r}}^{\sigma }}}\delta u_{i_{1}...i_{r}}^{\sigma }=\sum _{|I|=0}^{r}{\frac {\partial L}{\partial u_{I}^{\sigma }}}\delta u_{I}^{\sigma },}"
+Noether%27s_second_theorem_19,{\displaystyle \delta L=E_{\sigma }\delta u^{\sigma }+d_{i}\left(\sum _{|I|=0}^{r-1}P_{\sigma }^{iI}\delta u_{I}^{\sigma }\right)}
+Noether%27s_second_theorem_20,{\displaystyle E_{\sigma }={\frac {\partial L}{\partial u^{\sigma }}}-d_{i}{\frac {\partial L}{\partial u_{i}^{\sigma }}}+\dots +(-1)^{r}d_{i_{1}}\dots d_{i_{r}}{\frac {\partial L}{\partial u_{i_{1}...i_{r}}^{\sigma }}}=\sum _{|I|=0}^{r}(-1)^{|I|}d_{I}{\frac {\partial L}{\partial u_{I}^{\sigma }}}}
+Noether%27s_second_theorem_22,{\displaystyle P_{\sigma }^{I}=\sum _{|J|=0}^{r-|I|}(-1)^{|J|}d_{J}{\frac {\partial L}{\partial u_{IJ}^{\sigma }}}}
+Noether%27s_second_theorem_28,{\displaystyle \delta x^{i}\neq 0}
+Noether%27s_second_theorem_29,{\displaystyle \delta x^{i}=0}
+Noether%27s_second_theorem_30,"{\displaystyle \delta _{\lambda }u^{\sigma }=R_{a}^{\sigma }\lambda ^{a}+R_{a}^{\sigma ,i}\lambda _{i}^{a}+\dots +R_{a}^{\sigma ,i_{1}...i_{s}}\lambda _{i_{1}...i_{s}}^{a}=\sum _{|I|=0}^{s}R_{a}^{\sigma ,I}\lambda _{I}^{a},}"
+Noether%27s_second_theorem_31,"{\displaystyle R_{a}^{\sigma ,I}}"
+Noether%27s_second_theorem_32,{\displaystyle \lambda ^{a}=\lambda ^{a}(x)}
+Noether%27s_second_theorem_33,"{\displaystyle a,b,\dots }"
+Noether%27s_second_theorem_34,"{\displaystyle 1,\dots ,q}"
+Noether%27s_second_theorem_35,{\displaystyle q}
+Noether%27s_second_theorem_36,{\displaystyle \delta _{\lambda }L=0}
+Noether%27s_second_theorem_37,{\displaystyle \lambda ^{a}(x)}
+Noether%27s_second_theorem_38,{\displaystyle \delta _{\lambda }L=d_{i}K_{\lambda }^{i}}
+Noether%27s_second_theorem_39,"{\displaystyle K_{\lambda }^{i}=K_{a}^{i}\lambda ^{a}+K_{a}^{i,j}\lambda _{j}^{a}+K_{a}^{i,j_{1}j_{2}}\lambda _{j_{1}j_{2}}^{a}\dots }"
+Noether%27s_second_theorem_41,{\displaystyle \delta _{\lambda }u^{\sigma }}
+Noether%27s_second_theorem_42,{\displaystyle q}
+Noether%27s_second_theorem_43,{\displaystyle q}
+Noether%27s_second_theorem_46,"{\displaystyle 0=E_{\sigma }\delta _{\lambda }u^{\sigma }+d_{i}W_{\lambda }^{i},\quad W_{\lambda }^{i}=\sum _{|I|=0}^{r}P_{\sigma }^{iI}\delta _{\lambda }u^{\sigma },}"
+Noether%27s_second_theorem_47,"{\displaystyle E_{\sigma }\delta _{\lambda }u^{\sigma }=\sum _{|I|=0}^{s}E_{\sigma }R_{a}^{\sigma ,I}\lambda _{I}^{a}=Q_{a}\lambda ^{a}+d_{i}\left(\sum _{|I|=0}^{s-1}Q_{a}^{iI}\lambda _{I}^{a}\right),}"
+Noether%27s_second_theorem_48,"{\displaystyle Q_{a}^{I}=\sum _{|J|=0}^{s-|I|}(-1)^{|J|}d_{J}\left(E_{\sigma }R_{a}^{\sigma ,IJ}\right),}"
+Noether%27s_second_theorem_50,"{\displaystyle Q_{a}=E_{\sigma }R_{a}^{\sigma }-d_{i}\left(E_{\sigma }R_{a}^{\sigma ,i}\right)+\dots +(-1)^{s}d_{i_{1}}\dots d_{i_{s}}\left(E_{\sigma }R_{a}^{\sigma ,i_{1}...i_{s}}\right)=\sum _{|I|=0}^{s}(-1)^{|I|}d_{I}\left(E_{\sigma }R_{a}^{\sigma ,I}\right).}"
+Noether%27s_second_theorem_51,"{\displaystyle 0=Q_{a}\lambda ^{a}+d_{i}S_{\lambda }^{i},}"
+Noether%27s_second_theorem_55,{\displaystyle Q_{a}\equiv 0}
+Noether%27s_second_theorem_56,{\displaystyle Q_{a}}
+Noether%27s_second_theorem_57,{\displaystyle d_{i}S_{\lambda }^{i}=0}
+Noether%27s_second_theorem_58,{\displaystyle Q_{a}}
+Noether%27s_second_theorem_59,"{\displaystyle Q_{a}={\mathcal {D}}_{a}[E]=\sum _{|I|=0}^{s}(-1)^{|I|}d_{I}\left(E_{\sigma }R_{a}^{\sigma ,I}\right)=\sum _{|I|=0}^{s}F_{a}^{\sigma ,I}d_{I}E_{\sigma },}"
+Noether%27s_second_theorem_60,"{\displaystyle F_{a}^{\sigma ,I}=\sum _{|J|=0}^{s-|I|}{\binom {|I|+|J|}{|I|}}(-1)^{|I|+|J|}d_{J}R_{a}^{\sigma ,IJ}.}"
+Noether%27s_second_theorem_61,{\displaystyle 0={\mathcal {D}}_{a}[E]}
+Noether%27s_second_theorem_63,{\displaystyle E_{\sigma }}
+Noether%27s_second_theorem_64,{\displaystyle q}
+Noether%27s_second_theorem_65,"{\displaystyle 0={\mathcal {D}}_{a}[E]=\sum _{|I|=0}^{s}F_{a}^{\sigma ,I}d_{I}E_{\sigma }.}"
+Noether%27s_second_theorem_69,"{\displaystyle E_{\sigma }({\mathcal {D}}^{+})^{\sigma }[\lambda ]-\lambda ^{a}{\mathcal {D}}_{a}[E]=d_{i}B_{\lambda }^{i},}"
+Noether%27s_second_theorem_70,{\displaystyle ({\mathcal {D}}^{+})^{\sigma }}
+Noether%27s_second_theorem_71,"{\displaystyle ({\mathcal {D}}^{+})^{\sigma }[\lambda ]=\sum _{|I|=0}^{s}R_{a}^{\sigma ,I}\lambda _{I}^{a},}"
+Noether%27s_second_theorem_72,"{\displaystyle R_{a}^{\sigma ,I}=\sum _{|J|=0}^{s-|I|}(-1)^{|I|+|J|}{\binom {|I|+|J|}{|I|}}d_{J}F_{a}^{\sigma ,IJ}.}"
+Noether%27s_second_theorem_73,{\displaystyle 0={\mathcal {D}}_{a}[E]}
+Noether%27s_second_theorem_75,{\displaystyle \lambda }
+Noether%27s_second_theorem_76,"{\displaystyle E_{\sigma }({\mathcal {D}}^{+})^{\sigma }[\lambda ]=d_{i}B_{\lambda }^{i},}"
+Noether%27s_second_theorem_77,"{\displaystyle \delta _{\lambda }u^{\sigma }:=({\mathcal {D}}^{+})^{\sigma }[\lambda ]=\sum _{|I|=0}^{s}R_{a}^{\sigma ,I}\lambda _{I}^{a},}"
+Noether%27s_second_theorem_78,{\displaystyle \delta _{\lambda }L=E_{\sigma }\delta _{\lambda }u^{\sigma }+d_{i}W_{\lambda }^{i}=d_{i}\left(B_{\lambda }^{i}+W_{\lambda }^{i}\right)}
+Noether%27s_second_theorem_80,{\displaystyle \lambda ^{a}}

@@ -1,0 +1,58 @@
+name,latex
+Electrostatics_0,{\displaystyle r}
+Electrostatics_1,{\displaystyle q}
+Electrostatics_2,{\displaystyle Q}
+Electrostatics_3,"{\displaystyle F={\frac {1}{4\pi \varepsilon _{0}}}{\frac {qQ}{r^{2}}}=k_{\text{e}}{\frac {qQ}{r^{2}}}\,,}"
+Electrostatics_4,{\displaystyle \varepsilon _{0}\approx \mathrm {8.854\ 187\ 817\times 10^{-12}~C^{2}{\cdot }N^{-1}{\cdot }m^{-2}} .}
+Electrostatics_5,{\displaystyle k_{\text{e}}={\frac {1}{4\pi \varepsilon _{0}}}\approx \mathrm {8.987\ 551\ 792\times 10^{9}~N{\cdot }m^{2}{\cdot }C^{-2}} .}
+Electrostatics_6,{\displaystyle \mathbf {E} }
+Electrostatics_7,"{\displaystyle \mathbf {F} ,}"
+Electrostatics_8,"{\displaystyle q\,}"
+Electrostatics_9,{\displaystyle \mathbf {E} ={\mathbf {F}  \over q}}
+Electrostatics_10,{\displaystyle n}
+Electrostatics_11,{\displaystyle q_{i}}
+Electrostatics_12,{\displaystyle \mathbf {r} _{i}}
+Electrostatics_13,{\displaystyle \mathbf {r} }
+Electrostatics_14,"{\displaystyle \mathbf {E} (\mathbf {r} )={1 \over 4\pi \varepsilon _{0}}\sum _{i=1}^{n}q_{i}{{\hat {\mathbf {r} }}_{i} \over {|\mathbf {r} _{i}|}^{2}}={1 \over 4\pi \varepsilon _{0}}\sum _{i=1}^{n}q_{i}{\mathbf {r} _{i} \over {|\mathbf {r} _{i}|}^{3}},}"
+Electrostatics_16,{\displaystyle \mathbf {r} _{i}}
+Electrostatics_17,{\displaystyle \mathbf {r} }
+Electrostatics_19,{\displaystyle E=k_{\text{e}}Q/r^{2}}
+Electrostatics_20,{\displaystyle \rho (\mathbf {r} )}
+Electrostatics_21,"{\displaystyle \mathbf {E} (\mathbf {r} )={\frac {1}{4\pi \varepsilon _{0}}}\iiint \,\rho (\mathbf {r} '){\mathbf {r} ' \over {|\mathbf {r} '|}^{3}}\mathrm {d} ^{3}|\mathbf {r} '|}"
+Electrostatics_22,"{\displaystyle \Phi _{E}=\oint _{S}\mathbf {E} \cdot \mathrm {d} \mathbf {A} ={Q_{\text{enclosed}} \over \varepsilon _{0}}=\int _{V}{\rho  \over \varepsilon _{0}}\mathrm {d} ^{3}r,}"
+Electrostatics_23,{\displaystyle \mathrm {d} ^{3}r=\mathrm {d} x\ \mathrm {d} y\ \mathrm {d} z}
+Electrostatics_24,"{\displaystyle \rho \,\mathrm {d} ^{3}r}"
+Electrostatics_25,"{\displaystyle \sigma \,\mathrm {d} A}"
+Electrostatics_26,"{\displaystyle \lambda \,\mathrm {d} \ell }"
+Electrostatics_27,{\displaystyle {\vec {\nabla }}\cdot {\vec {E}}={\rho  \over \varepsilon _{0}}.}
+Electrostatics_28,{\displaystyle {\vec {\nabla }}\cdot }
+Electrostatics_29,{\displaystyle {\nabla }^{2}\phi =-{\rho  \over \varepsilon _{0}}.}
+Electrostatics_30,"{\displaystyle {\nabla }^{2}\phi =0,}"
+Electrostatics_31,{\displaystyle {\vec {\nabla }}\times {\vec {E}}=0.}
+Electrostatics_32,{\displaystyle {\partial {\vec {B}} \over \partial t}=0.}
+Electrostatics_33,{\displaystyle \phi }
+Electrostatics_34,{\displaystyle E}
+Electrostatics_35,{\displaystyle {\vec {E}}=-{\vec {\nabla }}\phi .}
+Electrostatics_36,{\displaystyle a}
+Electrostatics_37,{\displaystyle b}
+Electrostatics_38,{\displaystyle -\int _{a}^{b}{{\vec {E}}\cdot \mathrm {d} {\vec {\ell }}}=\phi ({\vec {b}})-\phi ({\vec {a}}).}
+Electrostatics_39,{\displaystyle U_{\mathrm {E} }^{\text{single}}}
+Electrostatics_40,{\displaystyle q_{n}{\vec {E}}\cdot \mathrm {d} {\vec {\ell }}}
+Electrostatics_41,{\displaystyle N}
+Electrostatics_42,{\displaystyle Q_{n}}
+Electrostatics_43,{\displaystyle {\vec {r}}_{i}}
+Electrostatics_44,{\displaystyle U_{\mathrm {E} }^{\text{single}}=q\phi ({\vec {r}})={\frac {q}{4\pi \varepsilon _{0}}}\sum _{i=1}^{N}{\frac {Q_{i}}{\left\|{\mathcal {{\vec {R}}_{i}}}\right\|}}}
+Electrostatics_45,{\displaystyle {\vec {\mathcal {R_{i}}}}={\vec {r}}-{\vec {r}}_{i}}
+Electrostatics_46,{\displaystyle Q_{i}}
+Electrostatics_47,{\displaystyle q}
+Electrostatics_48,{\displaystyle {\vec {r}}}
+Electrostatics_49,{\displaystyle \phi ({\vec {r}})}
+Electrostatics_50,{\displaystyle {\vec {r}}}
+Electrostatics_51,{\displaystyle k_{\text{e}}Q_{1}Q_{2}/r}
+Electrostatics_52,"{\displaystyle U_{\mathrm {E} }^{\text{total}}={\frac {1}{4\pi \varepsilon _{0}}}\sum _{j=1}^{N}Q_{j}\sum _{i=1}^{j-1}{\frac {Q_{i}}{r_{ij}}}={\frac {1}{2}}\sum _{i=1}^{N}Q_{i}\phi _{i},}"
+Electrostatics_53,{\displaystyle \phi _{i}={\frac {1}{4\pi \varepsilon _{0}}}\sum _{\stackrel {j=1}{j\neq i}}^{N}{\frac {Q_{j}}{r_{ij}}}.}
+Electrostatics_54,{\displaystyle \phi _{i}}
+Electrostatics_55,{\displaystyle {\vec {r}}_{i}}
+Electrostatics_56,{\displaystyle Q_{i}}
+Electrostatics_58,"{\displaystyle U_{\mathrm {E} }^{\text{total}}={\frac {1}{2}}\int \rho ({\vec {r}})\phi ({\vec {r}})\,\mathrm {d} ^{3}r={\frac {\varepsilon _{0}}{2}}\int \left|{\mathbf {E} }\right|^{2}\,\mathrm {d} ^{3}r,}"
+Electrostatics_61,"{\displaystyle P={\frac {\varepsilon _{0}}{2}}E^{2},}"

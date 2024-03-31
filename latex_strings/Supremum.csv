@@ -1,0 +1,280 @@
+name,latex
+Supremum_0,{\displaystyle P}
+Supremum_1,{\displaystyle S}
+Supremum_2,{\displaystyle P}
+Supremum_3,{\displaystyle S.}
+Supremum_4,{\displaystyle A}
+Supremum_5,{\displaystyle A}
+Supremum_6,{\displaystyle A}
+Supremum_7,{\displaystyle S}
+Supremum_8,{\displaystyle P}
+Supremum_9,{\displaystyle P}
+Supremum_10,"{\displaystyle S,}"
+Supremum_11,{\displaystyle S}
+Supremum_12,{\displaystyle S}
+Supremum_13,{\displaystyle S}
+Supremum_14,{\displaystyle S}
+Supremum_15,{\displaystyle P}
+Supremum_16,{\displaystyle P}
+Supremum_17,"{\displaystyle S,}"
+Supremum_18,{\displaystyle S}
+Supremum_19,{\displaystyle S}
+Supremum_20,{\displaystyle S}
+Supremum_21,{\displaystyle \mathbb {R} ^{+}}
+Supremum_22,{\displaystyle 0}
+Supremum_23,{\displaystyle \mathbb {R} ^{+}}
+Supremum_24,{\displaystyle \mathbb {R} ^{+}.}
+Supremum_25,"{\displaystyle 0,}"
+Supremum_26,{\displaystyle S}
+Supremum_27,"{\displaystyle (P,\leq )}"
+Supremum_28,{\displaystyle a}
+Supremum_29,{\displaystyle P}
+Supremum_30,{\displaystyle a\leq x}
+Supremum_31,{\displaystyle x\in S.}
+Supremum_32,{\displaystyle a}
+Supremum_33,{\displaystyle S}
+Supremum_34,{\displaystyle S}
+Supremum_35,{\displaystyle y}
+Supremum_36,{\displaystyle S}
+Supremum_37,"{\displaystyle P,}"
+Supremum_38,{\displaystyle y\leq a}
+Supremum_39,{\displaystyle a}
+Supremum_40,{\displaystyle S}
+Supremum_41,"{\displaystyle (P,\leq )}"
+Supremum_42,{\displaystyle b}
+Supremum_43,{\displaystyle P}
+Supremum_44,{\displaystyle b\geq x}
+Supremum_45,{\displaystyle x\in S.}
+Supremum_46,{\displaystyle b}
+Supremum_47,{\displaystyle S}
+Supremum_48,{\displaystyle S}
+Supremum_49,{\displaystyle z}
+Supremum_50,{\displaystyle S}
+Supremum_51,"{\displaystyle P,}"
+Supremum_52,{\displaystyle z\geq b}
+Supremum_53,{\displaystyle b}
+Supremum_54,{\displaystyle S}
+Supremum_55,{\displaystyle P}
+Supremum_56,{\displaystyle S}
+Supremum_57,{\displaystyle \{x\in \mathbb {Q} :x^{2}<2\}}
+Supremum_58,{\displaystyle \mathbb {Q} }
+Supremum_59,{\displaystyle \mathbb {Q} }
+Supremum_60,{\displaystyle S}
+Supremum_61,{\displaystyle S}
+Supremum_62,{\displaystyle S}
+Supremum_63,{\displaystyle S}
+Supremum_64,{\displaystyle S}
+Supremum_65,{\displaystyle S}
+Supremum_66,"{\displaystyle P,}"
+Supremum_67,{\displaystyle S.}
+Supremum_68,{\displaystyle S.}
+Supremum_69,{\displaystyle S}
+Supremum_70,"{\displaystyle S,}"
+Supremum_71,{\displaystyle S.}
+Supremum_72,"{\displaystyle x,}"
+Supremum_73,"{\displaystyle {\tfrac {x}{2}},}"
+Supremum_74,{\displaystyle 0}
+Supremum_75,{\displaystyle S}
+Supremum_76,{\displaystyle S}
+Supremum_77,{\displaystyle \mathbb {Z} }
+Supremum_78,"{\displaystyle \mathbb {R} ^{+},}"
+Supremum_79,{\displaystyle \mathbb {Z} }
+Supremum_80,{\displaystyle \mathbb {R} ^{+}}
+Supremum_81,{\displaystyle \mathbb {R} ^{+}}
+Supremum_82,{\displaystyle \mathbb {Z} }
+Supremum_83,{\displaystyle S}
+Supremum_84,{\displaystyle S}
+Supremum_85,{\displaystyle S}
+Supremum_86,{\displaystyle \mathbb {R} }
+Supremum_87,{\displaystyle \mathbb {Z} }
+Supremum_88,{\displaystyle S}
+Supremum_89,{\displaystyle \mathbb {Z} }
+Supremum_90,{\displaystyle n}
+Supremum_91,{\displaystyle s}
+Supremum_92,{\displaystyle S}
+Supremum_93,"{\displaystyle n,}"
+Supremum_94,{\displaystyle u}
+Supremum_95,"{\displaystyle S,}"
+Supremum_96,{\displaystyle S}
+Supremum_97,{\displaystyle S.}
+Supremum_98,"{\displaystyle \mathbb {Q} ,}"
+Supremum_99,{\displaystyle S}
+Supremum_100,{\displaystyle q}
+Supremum_101,{\displaystyle q^{2}<2.}
+Supremum_102,{\displaystyle S}
+Supremum_103,"{\displaystyle 1000,}"
+Supremum_104,{\displaystyle 6}
+Supremum_105,{\displaystyle \mathbb {Q} }
+Supremum_106,{\displaystyle p\in \mathbb {Q} }
+Supremum_107,{\displaystyle x}
+Supremum_108,{\displaystyle y}
+Supremum_109,{\displaystyle {\sqrt {2}}}
+Supremum_110,{\displaystyle p}
+Supremum_111,"{\displaystyle r,}"
+Supremum_112,{\displaystyle p>{\sqrt {2}}}
+Supremum_113,{\displaystyle S}
+Supremum_114,{\displaystyle p}
+Supremum_115,{\displaystyle p<{\sqrt {2}}}
+Supremum_116,{\displaystyle P}
+Supremum_117,"{\displaystyle X,}"
+Supremum_118,{\displaystyle X}
+Supremum_119,"{\displaystyle P,}"
+Supremum_120,{\displaystyle f\leq g}
+Supremum_121,{\displaystyle f(x)\leq g(x)}
+Supremum_122,{\displaystyle x\in X.}
+Supremum_123,{\displaystyle n}
+Supremum_124,{\displaystyle S}
+Supremum_125,{\displaystyle 0}
+Supremum_126,{\displaystyle S}
+Supremum_127,{\displaystyle S}
+Supremum_128,{\displaystyle \inf _{}S=-\infty .}
+Supremum_129,{\displaystyle S}
+Supremum_130,{\displaystyle \inf _{}S=+\infty .}
+Supremum_131,{\displaystyle A}
+Supremum_133,"{\displaystyle \sup A\geq \inf A,}"
+Supremum_135,{\displaystyle A\subseteq B}
+Supremum_136,{\displaystyle \inf A\geq \inf B}
+Supremum_138,{\displaystyle \sup A\leq \sup B.}
+Supremum_139,{\displaystyle A}
+Supremum_140,{\displaystyle \inf A}
+Supremum_141,{\displaystyle p}
+Supremum_142,{\displaystyle p=\inf A}
+Supremum_143,{\displaystyle p}
+Supremum_144,{\displaystyle \epsilon >0}
+Supremum_145,{\displaystyle a_{\epsilon }\in A}
+Supremum_146,{\displaystyle a_{\epsilon }<p+\epsilon .}
+Supremum_147,{\displaystyle \sup A}
+Supremum_148,{\displaystyle p}
+Supremum_149,{\displaystyle p=\sup A}
+Supremum_150,{\displaystyle p}
+Supremum_151,{\displaystyle \epsilon >0}
+Supremum_152,{\displaystyle a_{\epsilon }\in A}
+Supremum_153,{\displaystyle a_{\epsilon }>p-\epsilon .}
+Supremum_155,{\displaystyle s_{1}\leq s_{2}\leq \cdots }
+Supremum_156,{\displaystyle S}
+Supremum_157,{\displaystyle \lim _{n\to \infty }s_{n}=\sup S.}
+Supremum_158,{\displaystyle s_{1}\geq s_{2}\geq \cdots }
+Supremum_159,{\displaystyle S}
+Supremum_160,{\displaystyle \lim _{n\to \infty }s_{n}=\inf S.}
+Supremum_161,{\displaystyle f}
+Supremum_162,"{\displaystyle s_{1},s_{2},\ldots }"
+Supremum_163,"{\displaystyle p,}"
+Supremum_164,"{\displaystyle f\left(s_{1}\right),f\left(s_{2}\right),\ldots }"
+Supremum_165,{\displaystyle f(p).}
+Supremum_166,{\displaystyle \lim _{n\to \infty }s_{n}=\sup S}
+Supremum_167,"{\displaystyle s_{1},s_{2},\ldots }"
+Supremum_168,{\displaystyle S}
+Supremum_169,{\displaystyle f}
+Supremum_170,{\displaystyle S}
+Supremum_171,"{\displaystyle \sup S,}"
+Supremum_172,"{\displaystyle f(\sup S)=f\left(\lim _{n\to \infty }s_{n}\right)=\lim _{n\to \infty }f\left(s_{n}\right),}"
+Supremum_173,{\displaystyle f(\sup S)}
+Supremum_174,"{\displaystyle f(S)\,{\stackrel {\scriptscriptstyle {\text{def}}}{=}}\,\{f(s):s\in S\}.}"
+Supremum_175,{\displaystyle f}
+Supremum_176,{\displaystyle \sup f(S)=f(\sup S).}
+Supremum_177,{\displaystyle g}
+Supremum_179,"{\displaystyle \|g\|_{\infty }\,{\stackrel {\scriptscriptstyle {\text{def}}}{=}}\,\sup _{x\in \Omega }|g(x)|}"
+Supremum_180,"{\displaystyle q,}"
+Supremum_181,{\displaystyle \|g\|_{\infty }^{q}~{\stackrel {\scriptscriptstyle {\text{def}}}{=}}~\left(\sup _{x\in \Omega }|g(x)|\right)^{q}=\sup _{x\in \Omega }\left(|g(x)|^{q}\right)}
+Supremum_182,"{\displaystyle f:[0,\infty )\to \mathbb {R} }"
+Supremum_183,{\displaystyle f(x)=x^{q}}
+Supremum_184,"{\displaystyle [0,\infty )}"
+Supremum_185,{\displaystyle S:=\{|g(x)|:x\in \Omega \}}
+Supremum_186,"{\displaystyle \sup S\,{\stackrel {\scriptscriptstyle {\text{def}}}{=}}\,\|g\|_{\infty }.}"
+Supremum_187,"{\displaystyle \sup ,}"
+Supremum_188,{\displaystyle \inf }
+Supremum_189,{\displaystyle f}
+Supremum_190,{\displaystyle \sup }
+Supremum_191,{\displaystyle \inf }
+Supremum_192,"{\displaystyle L^{p,w}}"
+Supremum_193,{\displaystyle 1\leq p<\infty }
+Supremum_194,"{\displaystyle L^{\infty }(\Omega ,\mu ),}"
+Supremum_195,{\displaystyle S}
+Supremum_196,{\displaystyle \sup S}
+Supremum_197,{\displaystyle \inf S}
+Supremum_198,"{\displaystyle A,B\subseteq \mathbb {R} }"
+Supremum_199,{\displaystyle A}
+Supremum_200,{\displaystyle B}
+Supremum_201,"{\displaystyle A+B~:=~\{a+b:a\in A,b\in B\}}"
+Supremum_202,{\displaystyle \inf(A+B)=(\inf A)+(\inf B)}
+Supremum_203,{\displaystyle \sup(A+B)=(\sup A)+(\sup B).}
+Supremum_204,{\displaystyle A}
+Supremum_205,{\displaystyle B}
+Supremum_206,"{\displaystyle A\cdot B~:=~\{a\cdot b:a\in A,b\in B\}.}"
+Supremum_207,{\displaystyle A}
+Supremum_208,{\displaystyle B}
+Supremum_209,{\displaystyle \inf(A\cdot B)=(\inf A)\cdot (\inf B)}
+Supremum_210,{\displaystyle \sup(A\cdot B)=(\sup A)\cdot (\sup B).}
+Supremum_211,{\displaystyle r}
+Supremum_212,{\displaystyle B}
+Supremum_213,{\displaystyle rB~:=~\{r\cdot b:b\in B\}.}
+Supremum_214,{\displaystyle r\geq 0}
+Supremum_215,"{\displaystyle \inf(r\cdot A)=r(\inf A)\quad {\text{ and }}\quad \sup(r\cdot A)=r(\sup A),}"
+Supremum_216,{\displaystyle r\leq 0}
+Supremum_217,{\displaystyle \inf(r\cdot A)=r(\sup A)\quad {\text{ and }}\quad \sup(r\cdot A)=r(\inf A).}
+Supremum_218,{\displaystyle r=-1}
+Supremum_220,{\displaystyle \inf(-A)=-\sup A\quad {\text{ and }}\quad \sup(-A)=-\inf A.}
+Supremum_221,{\displaystyle S}
+Supremum_222,"{\displaystyle 0,}"
+Supremum_223,{\displaystyle {\frac {1}{S}}~:=\;\left\{{\tfrac {1}{s}}:s\in S\right\}.}
+Supremum_224,"{\displaystyle S\subseteq (0,\infty )}"
+Supremum_225,{\displaystyle {\frac {1}{\sup _{}S}}~=~\inf _{}{\frac {1}{S}}}
+Supremum_226,{\displaystyle \sup _{}S=\infty }
+Supremum_227,{\displaystyle {\frac {1}{\infty }}:=0}
+Supremum_228,{\displaystyle {\frac {1}{\displaystyle \sup _{s\in S}s}}=\inf _{s\in S}{\tfrac {1}{s}}.}
+Supremum_229,{\displaystyle \inf _{}S=0}
+Supremum_230,"{\displaystyle \sup _{}{\tfrac {1}{S}}=\infty ,}"
+Supremum_231,"{\displaystyle \inf _{}S>0,}"
+Supremum_232,{\displaystyle {\tfrac {1}{\inf _{}S}}=\sup _{}{\tfrac {1}{S}}.}
+Supremum_233,{\displaystyle P^{\operatorname {op} }}
+Supremum_234,{\displaystyle P}
+Supremum_235,"{\displaystyle x{\text{ and }}y,}"
+Supremum_236,"{\displaystyle x\leq y{\text{ in }}P^{\operatorname {op} }\quad {\text{ if and only if }}\quad x\geq y{\text{ in }}P,}"
+Supremum_237,{\displaystyle S}
+Supremum_238,{\displaystyle P}
+Supremum_239,{\displaystyle S}
+Supremum_240,{\displaystyle P^{\operatorname {op} }}
+Supremum_241,"{\displaystyle \inf S=-\sup(-S),}"
+Supremum_242,{\displaystyle -S:=\{-s~:~s\in S\}.}
+Supremum_243,"{\displaystyle \{2,3,4\}}"
+Supremum_244,{\displaystyle 2.}
+Supremum_245,{\displaystyle 1}
+Supremum_246,"{\displaystyle \inf\{1,2,3,\ldots \}=1.}"
+Supremum_247,{\displaystyle \inf\{x\in \mathbb {R} :0<x<1\}=0.}
+Supremum_248,{\displaystyle \inf \left\{x\in \mathbb {Q} :x^{3}>2\right\}={\sqrt[{3}]{2}}.}
+Supremum_249,"{\displaystyle \inf \left\{(-1)^{n}+{\tfrac {1}{n}}:n=1,2,3,\ldots \right\}=-1.}"
+Supremum_250,{\displaystyle \left(x_{n}\right)_{n=1}^{\infty }}
+Supremum_251,"{\displaystyle x,}"
+Supremum_252,{\displaystyle \inf x_{n}=x.}
+Supremum_253,"{\displaystyle \{1,2,3\}}"
+Supremum_254,{\displaystyle 3.}
+Supremum_255,{\displaystyle 4}
+Supremum_256,{\displaystyle \sup\{x\in \mathbb {R} :0<x<1\}=\sup\{x\in \mathbb {R} :0\leq x\leq 1\}=1.}
+Supremum_257,"{\displaystyle \sup \left\{(-1)^{n}-{\tfrac {1}{n}}:n=1,2,3,\ldots \right\}=1.}"
+Supremum_258,"{\displaystyle \sup\{a+b:a\in A,b\in B\}=\sup A+\sup B.}"
+Supremum_259,{\displaystyle \sup \left\{x\in \mathbb {Q} :x^{2}<2\right\}={\sqrt {2}}.}
+Supremum_260,{\displaystyle \sup\{f(t)+g(t):t\in A\}~\leq ~\sup\{f(t):t\in A\}+\sup\{g(t):t\in A\}}
+Supremum_261,{\displaystyle f}
+Supremum_262,{\displaystyle g.}
+Supremum_263,{\displaystyle S}
+Supremum_264,"{\displaystyle (\mathbb {N} ,\mid \,)}"
+Supremum_265,"{\displaystyle \,\mid \,}"
+Supremum_266,{\displaystyle S.}
+Supremum_267,{\displaystyle S}
+Supremum_268,{\displaystyle X}
+Supremum_269,"{\displaystyle (P(X),\subseteq )}"
+Supremum_270,{\displaystyle P}
+Supremum_271,{\displaystyle X}
+Supremum_272,"{\displaystyle \,\subseteq \,}"
+Supremum_273,"{\displaystyle f\left(s_{1}\right),f\left(s_{2}\right),\ldots }"
+Supremum_274,{\displaystyle f(S)}
+Supremum_275,"{\displaystyle f(\sup S),}"
+Supremum_276,{\displaystyle f(\sup S)}
+Supremum_277,{\displaystyle f(S).}
+Supremum_278,{\displaystyle {\tfrac {1}{\infty }}:=0}
+Supremum_279,{\displaystyle {\tfrac {1}{\sup _{}S}}=\inf _{}{\tfrac {1}{S}}}
+Supremum_280,"{\displaystyle S\subseteq (0,\infty ].}"
+Supremum_281,{\displaystyle {\tfrac {1}{0}}}
+Supremum_282,{\displaystyle {\tfrac {1}{\inf _{}S}}=\sup _{}{\tfrac {1}{S}}}
+Supremum_283,{\displaystyle \inf _{}S>0.}
+Supremum_284,{\displaystyle L^{\infty }}

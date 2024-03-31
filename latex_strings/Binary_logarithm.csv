@@ -1,0 +1,18 @@
+name,latex
+Binary_logarithm_0,{\displaystyle x=\log _{2}n\quad \Longleftrightarrow \quad 2^{x}=n.}
+Binary_logarithm_1,{\displaystyle \log _{2}xy=\log _{2}x+\log _{2}y}
+Binary_logarithm_2,{\displaystyle \log _{2}{\frac {x}{y}}=\log _{2}x-\log _{2}y}
+Binary_logarithm_3,{\displaystyle \log _{2}x^{y}=y\log _{2}x.}
+Binary_logarithm_4,{\displaystyle \lfloor \log _{2}n\rfloor +1.}
+Binary_logarithm_5,{\displaystyle \left|1200\log _{2}{\frac {f_{1}}{f_{2}}}\right|.}
+Binary_logarithm_6,{\displaystyle \log _{2}{\frac {N^{2}}{t}}}
+Binary_logarithm_7,"{\displaystyle \log _{2}n={\frac {\ln n}{\ln 2}}={\frac {\log _{10}n}{\log _{10}2}},}"
+Binary_logarithm_8,{\displaystyle \log _{2}n\approx 1.442695\ln n\approx 3.321928\log _{10}n.}
+Binary_logarithm_9,"{\displaystyle \lfloor \log _{2}(n)\rfloor =\lceil \log _{2}(n+1)\rceil -1,{\text{ if }}n\geq 1.}"
+Binary_logarithm_10,{\displaystyle \lfloor \log _{2}(0)\rfloor =-1}
+Binary_logarithm_11,{\displaystyle \lfloor \log _{2}(n)\rfloor =31-\operatorname {nlz} (n).}
+Binary_logarithm_12,{\displaystyle \lfloor \log _{2}x\rfloor }
+Binary_logarithm_13,"{\displaystyle \log _{2}x=n+\log _{2}y\quad {\text{where }}y=2^{-n}x{\text{ and }}y\in [1,2)}"
+Binary_logarithm_14,{\displaystyle {\begin{aligned}\log _{2}z&=2^{m}\log _{2}y\\\log _{2}y&={\frac {\log _{2}z}{2^{m}}}\\&={\frac {1+\log _{2}(z/2)}{2^{m}}}\\&=2^{-m}+2^{-m}\log _{2}(z/2).\end{aligned}}}
+Binary_logarithm_15,{\displaystyle m_{i}}
+Binary_logarithm_16,{\displaystyle {\begin{aligned}\log _{2}x&=n+2^{-m_{1}}\left(1+2^{-m_{2}}\left(1+2^{-m_{3}}\left(1+\cdots \right)\right)\right)\\&=n+2^{-m_{1}}+2^{-m_{1}-m_{2}}+2^{-m_{1}-m_{2}-m_{3}}+\cdots \end{aligned}}}

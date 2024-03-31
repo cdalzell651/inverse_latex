@@ -1,0 +1,52 @@
+name,latex
+Topos_theory_0,{\displaystyle \left(\coprod _{i\in I}B_{i}\right)\times _{A}A'\cong \coprod _{i\in I}(B_{i}\times _{A}A').}
+Topos_theory_1,"{\displaystyle R\to X\times _{X/R}X\,\!}"
+Topos_theory_2,{\displaystyle BG}
+Topos_theory_3,{\displaystyle G}
+Topos_theory_4,{\displaystyle G}
+Topos_theory_5,{\displaystyle G}
+Topos_theory_6,{\displaystyle G}
+Topos_theory_7,{\displaystyle G}
+Topos_theory_8,{\displaystyle {\mathcal {G}}}
+Topos_theory_9,{\displaystyle {\mathcal {G}}}
+Topos_theory_10,{\displaystyle {\mathcal {G}}}
+Topos_theory_11,{\displaystyle {\mathcal {G}}}
+Topos_theory_12,{\displaystyle X}
+Topos_theory_13,{\displaystyle {\text{Open}}(X)}
+Topos_theory_14,{\displaystyle (X)_{Zar}}
+Topos_theory_15,{\displaystyle X}
+Topos_theory_16,{\displaystyle Y}
+Topos_theory_17,{\displaystyle u:X\to Y}
+Topos_theory_18,{\displaystyle X}
+Topos_theory_19,{\displaystyle Y}
+Topos_theory_20,{\displaystyle u}
+Topos_theory_21,"{\displaystyle {\text{Open}}(X),{\text{Open}}(Y)}"
+Topos_theory_22,{\displaystyle X}
+Topos_theory_23,{\displaystyle X}
+Topos_theory_24,{\displaystyle (X)_{et}}
+Topos_theory_25,{\displaystyle X}
+Topos_theory_26,{\displaystyle x:{\text{Spec}}(\kappa (x))\to X}
+Topos_theory_27,{\displaystyle X}
+Topos_theory_28,{\displaystyle x'}
+Topos_theory_29,{\displaystyle (X)_{et}}
+Topos_theory_30,{\displaystyle k}
+Topos_theory_31,{\displaystyle \kappa (x)}
+Topos_theory_32,{\displaystyle x':{\text{Spec}}(k)\to X}
+Topos_theory_33,{\displaystyle x}
+Topos_theory_34,{\displaystyle {\text{Spec}}(k)\to {\text{Spec}}(\kappa (x))}
+Topos_theory_35,{\displaystyle X}
+Topos_theory_36,"{\displaystyle (PX,\ni _{X})}"
+Topos_theory_37,{\displaystyle {\ni _{X}}\subseteq PX\times X}
+Topos_theory_38,{\displaystyle I}
+Topos_theory_39,{\displaystyle r\colon I\to PX}
+Topos_theory_40,"{\displaystyle \{(i,x)~|~x\in r(i)\}\subseteq I\times X}"
+Topos_theory_41,{\displaystyle \ni _{X}}
+Topos_theory_42,{\displaystyle r\times X:I\times X\to PX\times X}
+Topos_theory_43,{\displaystyle R\subseteq I\times X}
+Topos_theory_44,{\displaystyle r\colon I\to PX}
+Topos_theory_45,{\displaystyle PX}
+Topos_theory_46,{\displaystyle X}
+Topos_theory_47,{\displaystyle 1}
+Topos_theory_48,{\displaystyle r\colon 1\to PX}
+Topos_theory_49,{\displaystyle 1\times X}
+Topos_theory_50,{\displaystyle X}

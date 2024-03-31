@@ -1,0 +1,72 @@
+name,latex
+E_(mathematical_constant)_0,{\displaystyle \gamma }
+E_(mathematical_constant)_1,{\displaystyle e^{i\pi }+1=0}
+E_(mathematical_constant)_2,{\displaystyle e=\sum \limits _{n=0}^{\infty }{\frac {1}{n!}}=1+{\frac {1}{1}}+{\frac {1}{1\cdot 2}}+{\frac {1}{1\cdot 2\cdot 3}}+\cdots .}
+E_(mathematical_constant)_3,{\displaystyle e}
+E_(mathematical_constant)_4,"{\displaystyle \lim _{n\to \infty }\left(1+{\frac {1}{n}}\right)^{n},}"
+E_(mathematical_constant)_5,{\displaystyle n=12}
+E_(mathematical_constant)_6,"{\displaystyle e=\sum _{n=0}^{\infty }{\frac {1}{n!}}={\frac {1}{0!}}+{\frac {1}{1!}}+{\frac {1}{2!}}+{\frac {1}{3!}}+{\frac {1}{4!}}+\cdots ,}"
+E_(mathematical_constant)_7,{\displaystyle y=1000e^{0.2t}}
+E_(mathematical_constant)_8,{\displaystyle \Pr[k~\mathrm {wins~of} ~n]={\binom {n}{k}}\left({\frac {1}{n}}\right)^{k}\left(1-{\frac {1}{n}}\right)^{n-k}.}
+E_(mathematical_constant)_9,{\displaystyle \Pr[0~\mathrm {wins~of} ~n]=\left(1-{\frac {1}{n}}\right)^{n}.}
+E_(mathematical_constant)_10,{\displaystyle x(t)=x_{0}\cdot e^{kt}=x_{0}\cdot e^{t/\tau }.}
+E_(mathematical_constant)_11,{\displaystyle x_{0}}
+E_(mathematical_constant)_12,{\displaystyle \tau }
+E_(mathematical_constant)_13,{\displaystyle \phi (x)={\frac {1}{\sqrt {2\pi }}}e^{-{\frac {1}{2}}x^{2}}.}
+E_(mathematical_constant)_14,{\displaystyle \phi (x)}
+E_(mathematical_constant)_15,{\displaystyle \textstyle 1/{\sqrt {2\pi }}}
+E_(mathematical_constant)_16,{\displaystyle \textstyle 1/{\sqrt {2\pi }}}
+E_(mathematical_constant)_17,{\displaystyle p_{n}\!}
+E_(mathematical_constant)_18,{\displaystyle p_{n}=1-{\frac {1}{1!}}+{\frac {1}{2!}}-{\frac {1}{3!}}+\cdots +{\frac {(-1)^{n}}{n!}}=\sum _{k=0}^{n}{\frac {(-1)^{k}}{k!}}.}
+E_(mathematical_constant)_19,{\displaystyle {\sqrt[{x}]{x}}}
+E_(mathematical_constant)_20,{\displaystyle x=e}
+E_(mathematical_constant)_21,{\displaystyle x^{-1}\log _{b}x}
+E_(mathematical_constant)_22,{\displaystyle x=e}
+E_(mathematical_constant)_23,{\displaystyle n=\left\lfloor {\frac {L}{e}}\right\rfloor }
+E_(mathematical_constant)_24,{\displaystyle \left\lceil {\frac {L}{e}}\right\rceil .}
+E_(mathematical_constant)_25,{\displaystyle x^{-1}\log _{b}x}
+E_(mathematical_constant)_26,{\displaystyle 1/x}
+E_(mathematical_constant)_27,{\displaystyle 36.8\%}
+E_(mathematical_constant)_28,{\displaystyle x=e}
+E_(mathematical_constant)_29,{\displaystyle n!\sim {\sqrt {2\pi n}}\left({\frac {n}{e}}\right)^{n}.}
+E_(mathematical_constant)_30,{\displaystyle e=\lim _{n\to \infty }{\frac {n}{\sqrt[{n}]{n!}}}.}
+E_(mathematical_constant)_31,{\displaystyle {\begin{aligned}{\frac {d}{dx}}a^{x}&=\lim _{h\to 0}{\frac {a^{x+h}-a^{x}}{h}}=\lim _{h\to 0}{\frac {a^{x}a^{h}-a^{x}}{h}}\\&=a^{x}\cdot \left(\lim _{h\to 0}{\frac {a^{h}-1}{h}}\right).\end{aligned}}}
+E_(mathematical_constant)_32,{\displaystyle {\frac {d}{dx}}e^{x}=e^{x}.}
+E_(mathematical_constant)_33,"{\displaystyle {\begin{aligned}{\frac {d}{dx}}\log _{a}x&=\lim _{h\to 0}{\frac {\log _{a}(x+h)-\log _{a}(x)}{h}}\\&=\lim _{h\to 0}{\frac {\log _{a}(1+h/x)}{x\cdot h/x}}\\&={\frac {1}{x}}\log _{a}\left(\lim _{u\to 0}(1+u)^{\frac {1}{u}}\right)\\&={\frac {1}{x}}\log _{a}e,\end{aligned}}}"
+E_(mathematical_constant)_34,{\displaystyle {\frac {d}{dx}}\log _{e}x={\frac {1}{x}}.}
+E_(mathematical_constant)_35,{\displaystyle xy=1.}
+E_(mathematical_constant)_36,{\displaystyle e^{x}=\sum _{n=0}^{\infty }{\frac {x^{n}}{n!}}.}
+E_(mathematical_constant)_37,{\displaystyle x=1}
+E_(mathematical_constant)_38,{\displaystyle x}
+E_(mathematical_constant)_39,{\displaystyle 1/t}
+E_(mathematical_constant)_40,{\displaystyle x=1}
+E_(mathematical_constant)_41,"{\displaystyle \int _{1}^{e}{\frac {1}{t}}\,dt=1.}"
+E_(mathematical_constant)_42,"{\displaystyle {\frac {d}{dx}}Ke^{x}=Ke^{x},}"
+E_(mathematical_constant)_43,"{\displaystyle \int Ke^{x}\,dx=Ke^{x}+C.}"
+E_(mathematical_constant)_44,{\displaystyle y(x)=Ke^{x}}
+E_(mathematical_constant)_45,{\displaystyle y'=y.}
+E_(mathematical_constant)_46,{\displaystyle \left(1+{\frac {1}{x}}\right)^{x}<e<\left(1+{\frac {1}{x}}\right)^{x+1}}
+E_(mathematical_constant)_47,{\displaystyle e^{x}\geq x+1}
+E_(mathematical_constant)_48,{\displaystyle f(x)=x^{\frac {1}{x}}.}
+E_(mathematical_constant)_49,{\displaystyle f(x)=x^{x}.}
+E_(mathematical_constant)_50,{\displaystyle x^{x^{x^{\cdot ^{\cdot ^{\cdot }}}}}}
+E_(mathematical_constant)_51,{\displaystyle {^{\infty }}x}
+E_(mathematical_constant)_52,{\displaystyle e^{x}=1+{x \over 1!}+{x^{2} \over 2!}+{x^{3} \over 3!}+\cdots =\sum _{n=0}^{\infty }{\frac {x^{n}}{n!}}.}
+E_(mathematical_constant)_53,"{\displaystyle e^{ix}=\cos x+i\sin x,}"
+E_(mathematical_constant)_54,"{\displaystyle e^{i\pi }+1=0,}"
+E_(mathematical_constant)_55,{\displaystyle \ln(-1)=i\pi .}
+E_(mathematical_constant)_56,{\displaystyle (\cos x+i\sin x)^{n}=\left(e^{ix}\right)^{n}=e^{inx}=\cos nx+i\sin nx}
+E_(mathematical_constant)_57,"{\displaystyle \cos x={\frac {e^{ix}+e^{-ix}}{2}},\qquad \sin x={\frac {e^{ix}-e^{-ix}}{2i}}.}"
+E_(mathematical_constant)_59,"{\displaystyle e=[2;1,2,1,1,4,1,1,6,1,...,1,2n,1,...],}"
+E_(mathematical_constant)_60,{\displaystyle e=2+{\cfrac {1}{1+{\cfrac {1}{2+{\cfrac {1}{1+{\cfrac {1}{1+{\cfrac {1}{4+{\cfrac {1}{1+{\cfrac {1}{1+\ddots }}}}}}}}}}}}}}.}
+E_(mathematical_constant)_61,{\displaystyle e={\frac {2}{1}}\left({\frac {4}{3}}\right)^{1/2}\left({\frac {6\cdot 8}{5\cdot 7}}\right)^{1/4}\left({\frac {10\cdot 12\cdot 14\cdot 16}{9\cdot 11\cdot 13\cdot 15}}\right)^{1/8}\cdots .}
+E_(mathematical_constant)_62,{\displaystyle V=\min \left\{n\mid X_{1}+X_{2}+\cdots +X_{n}>1\right\}.}
+E_(mathematical_constant)_63,{\displaystyle e=\sum _{k=0}^{\infty }{\frac {1}{k!}}.}
+E_(mathematical_constant)_64,"{\displaystyle p(a,b)}"
+E_(mathematical_constant)_65,"{\displaystyle q(a,b)}"
+E_(mathematical_constant)_66,"{\displaystyle {\binom {p(a,b)}{q(a,b)}}={\begin{cases}{\binom {1}{b}},&{\text{if }}b=a+1{\text{,}}\\{\binom {p(a,m)q(m,b)+p(m,b)}{q(a,m)q(m,b)}},&{\text{otherwise, where }}m=\lfloor (a+b)/2\rfloor .\end{cases}}}"
+E_(mathematical_constant)_67,"{\displaystyle 1+{\frac {p(0,n)}{q(0,n)}}}"
+E_(mathematical_constant)_68,{\displaystyle {\frac {dc}{c}}={\frac {dyds}{rdx}}}
+E_(mathematical_constant)_69,{\displaystyle c=e^{\int {\frac {dyds}{rdx}}}}
+E_(mathematical_constant)_70,{\displaystyle {\frac {dc}{c}}={\frac {dyds}{rdx}}}
+E_(mathematical_constant)_71,{\displaystyle c=e^{\int {\frac {dyds}{rdx}}}}

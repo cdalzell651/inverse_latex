@@ -1,0 +1,15 @@
+name,latex
+Numeral_system_0,{\displaystyle (a_{n}a_{n-1}\cdots a_{1}a_{0}.c_{1}c_{2}c_{3}\cdots )_{b}=\sum _{k=0}^{n}a_{k}b^{k}+\sum _{k=1}^{\infty }c_{k}b^{-k}.}
+Numeral_system_1,{\displaystyle k=\log _{b}w=\log _{b}b^{k}}
+Numeral_system_2,{\displaystyle k+1=\log _{b}w+1}
+Numeral_system_3,{\displaystyle \log _{10}1000+1=3+1}
+Numeral_system_4,{\displaystyle \log _{b}k+1=\log _{b}\log _{b}w+1}
+Numeral_system_5,{\displaystyle {\begin{array}{l|rrrrrrr}{\text{Position}}&3&2&1&0&-1&-2&\cdots \\\hline {\text{Weight}}&b^{3}&b^{2}&b^{1}&b^{0}&b^{-1}&b^{-2}&\cdots \\{\text{Digit}}&a_{3}&a_{2}&a_{1}&a_{0}&c_{1}&c_{2}&\cdots \\\hline {\text{Decimal example weight}}&1000&100&10&1&0.1&0.01&\cdots \\{\text{Decimal example digit}}&4&3&2&7&0&0&\cdots \end{array}}}
+Numeral_system_6,{\displaystyle a_{0}a_{1}a_{2}}
+Numeral_system_7,{\displaystyle a_{0}+a_{1}b_{1}+a_{2}b_{1}b_{2}}
+Numeral_system_8,"{\displaystyle t_{0},t_{1},\ldots }"
+Numeral_system_9,{\displaystyle a_{i}}
+Numeral_system_10,{\displaystyle t_{i}}
+Numeral_system_11,{\displaystyle b_{n+1}=36-t_{n}}
+Numeral_system_12,{\displaystyle 36-t_{0}=35}
+Numeral_system_13,{\displaystyle 35(36-t_{1})=35\cdot 34=1190}

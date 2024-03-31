@@ -1,0 +1,38 @@
+name,latex
+Breadth-first_search_0,{\displaystyle O(|V|+|E|)=O(b^{d})}
+Breadth-first_search_1,{\displaystyle O(|V|)=O(b^{d})}
+Breadth-first_search_2,{\displaystyle O(|V|+|E|)}
+Breadth-first_search_3,{\displaystyle |V|}
+Breadth-first_search_4,{\displaystyle |E|}
+Breadth-first_search_5,{\displaystyle O(|E|)}
+Breadth-first_search_6,{\displaystyle O(1)}
+Breadth-first_search_7,{\displaystyle O(|V|^{2})}
+Breadth-first_search_8,{\displaystyle O(|V|)}
+Breadth-first_search_9,{\displaystyle |V|}
+Breadth-first_search_10,"{\displaystyle G=(V,E)}"
+Breadth-first_search_11,{\displaystyle n}
+Breadth-first_search_12,{\displaystyle N(v)}
+Breadth-first_search_13,{\displaystyle v}
+Breadth-first_search_14,"{\displaystyle \sigma =(v_{1},\dots ,v_{m})}"
+Breadth-first_search_15,{\displaystyle V}
+Breadth-first_search_16,"{\displaystyle v\in V\setminus \{v_{1},\dots ,v_{m}\}}"
+Breadth-first_search_17,{\displaystyle \nu _{\sigma }(v)}
+Breadth-first_search_18,{\displaystyle i}
+Breadth-first_search_19,{\displaystyle v_{i}}
+Breadth-first_search_20,{\displaystyle v}
+Breadth-first_search_21,{\displaystyle i}
+Breadth-first_search_22,{\displaystyle \infty }
+Breadth-first_search_23,"{\displaystyle \sigma =(v_{1},\dots ,v_{n})}"
+Breadth-first_search_24,{\displaystyle V}
+Breadth-first_search_25,{\displaystyle \sigma }
+Breadth-first_search_26,{\displaystyle v_{1}}
+Breadth-first_search_27,{\displaystyle 1<i\leq n}
+Breadth-first_search_28,{\displaystyle v_{i}}
+Breadth-first_search_29,"{\displaystyle w\in V\setminus \{v_{1},\dots ,v_{i-1}\}}"
+Breadth-first_search_30,"{\displaystyle \nu _{(v_{1},\dots ,v_{i-1})}(w)}"
+Breadth-first_search_31,{\displaystyle \sigma }
+Breadth-first_search_32,{\displaystyle 1\leq i<j<k\leq n}
+Breadth-first_search_33,{\displaystyle v_{i}\in N(v_{k})\setminus N(v_{j})}
+Breadth-first_search_34,{\displaystyle v_{m}}
+Breadth-first_search_35,{\displaystyle v_{j}}
+Breadth-first_search_36,{\displaystyle m<i}

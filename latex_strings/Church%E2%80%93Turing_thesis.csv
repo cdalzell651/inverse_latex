@@ -1,0 +1,10 @@
+name,latex
+Church%E2%80%93Turing_thesis_0,{\displaystyle \lambda {\mbox{-definable}}}
+Church%E2%80%93Turing_thesis_1,{\displaystyle {\stackrel {triv}{\implies }}}
+Church%E2%80%93Turing_thesis_2,{\displaystyle \lambda {\mbox{-}}K{\mbox{-definable}}}
+Church%E2%80%93Turing_thesis_3,{\displaystyle {\stackrel {160}{\implies }}}
+Church%E2%80%93Turing_thesis_4,{\displaystyle {\mbox{Turing computable}}}
+Church%E2%80%93Turing_thesis_5,{\displaystyle {\stackrel {161}{\implies }}}
+Church%E2%80%93Turing_thesis_6,{\displaystyle \mu {\mbox{-recursive}}}
+Church%E2%80%93Turing_thesis_7,{\displaystyle {\stackrel {Kleene}{\implies }}}
+Church%E2%80%93Turing_thesis_8,{\displaystyle \lambda {\mbox{-definable}}}

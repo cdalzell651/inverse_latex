@@ -1,0 +1,22 @@
+name,latex
+Convex_body_0,{\displaystyle n}
+Convex_body_1,{\displaystyle \mathbb {R} ^{n}}
+Convex_body_2,{\displaystyle K}
+Convex_body_3,{\displaystyle x}
+Convex_body_4,{\displaystyle K}
+Convex_body_5,{\displaystyle -x}
+Convex_body_6,{\displaystyle K.}
+Convex_body_7,{\displaystyle \mathbb {R} ^{n}.}
+Convex_body_8,{\displaystyle {\mathcal {K}}^{n}}
+Convex_body_9,{\displaystyle \mathbb {R} ^{n}}
+Convex_body_10,{\displaystyle {\mathcal {K}}^{n}}
+Convex_body_11,"{\displaystyle d(K,L):=\inf\{\epsilon \geq 0:K\subset L+B^{n}(\epsilon ),L\subset K+B^{n}(\epsilon )\}}"
+Convex_body_12,{\displaystyle {\mathcal {K}}^{n}}
+Convex_body_13,{\displaystyle K}
+Convex_body_14,{\displaystyle O}
+Convex_body_15,{\displaystyle K^{*}}
+Convex_body_16,"{\displaystyle \{u:\langle u,v\rangle \leq 1,\forall v\in K\}}"
+Convex_body_17,{\displaystyle (K^{*})^{*}=K}
+Convex_body_18,{\displaystyle K^{*}}
+Convex_body_19,{\displaystyle K_{1}\subset K_{2}}
+Convex_body_20,{\displaystyle K_{2}^{*}\subset K_{1}^{*}}

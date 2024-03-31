@@ -1,0 +1,194 @@
+name,latex
+Lie_group_0,{\displaystyle \mathbb {Z} }
+Lie_group_1,{\displaystyle \mathbb {Z} }
+Lie_group_2,{\displaystyle \mathbb {Z} }
+Lie_group_3,{\displaystyle G}
+Lie_group_4,{\displaystyle {\text{GL}}_{n}(\mathbb {R} )}
+Lie_group_5,{\displaystyle {\text{GL}}_{n}(\mathbb {C} )}
+Lie_group_6,{\displaystyle n\times n}
+Lie_group_7,{\displaystyle \mathbb {R} }
+Lie_group_8,{\displaystyle \mathbb {C} }
+Lie_group_9,{\displaystyle \mathbb {R} ^{3}}
+Lie_group_10,"{\displaystyle \mu :G\times G\to G\quad \mu (x,y)=xy}"
+Lie_group_11,"{\displaystyle (x,y)\mapsto x^{-1}y}"
+Lie_group_12,"{\displaystyle \operatorname {GL} (2,\mathbf {R} )=\left\{A={\begin{pmatrix}a&b\\c&d\end{pmatrix}}:\,\det A=ad-bc\neq 0\right\}.}"
+Lie_group_13,{\displaystyle \mathbb {R} ^{4}}
+Lie_group_14,{\displaystyle \varphi }
+Lie_group_15,"{\displaystyle \operatorname {SO} (2,\mathbf {R} )=\left\{{\begin{pmatrix}\cos \varphi &-\sin \varphi \\\sin \varphi &\cos \varphi \end{pmatrix}}:\,\varphi \in \mathbf {R} /2\pi \mathbf {Z} \right\}.}"
+Lie_group_16,{\displaystyle 2\times 2}
+Lie_group_17,"{\displaystyle A=\left({\begin{array}{cc}a&b\\0&1\end{array}}\right),\quad a>0,\,b\in \mathbb {R} .}"
+Lie_group_18,"{\displaystyle H=\left\{\left({\begin{matrix}e^{2\pi i\theta }&0\\0&e^{2\pi ia\theta }\end{matrix}}\right):\,\theta \in \mathbb {R} \right\}\subset \mathbb {T} ^{2}=\left\{\left({\begin{matrix}e^{2\pi i\theta }&0\\0&e^{2\pi i\phi }\end{matrix}}\right):\,\theta ,\phi \in \mathbb {R} \right\},}"
+Lie_group_19,{\displaystyle a\in \mathbb {R} \setminus \mathbb {Q} }
+Lie_group_20,{\displaystyle \mathbb {T} ^{2}}
+Lie_group_21,{\displaystyle U}
+Lie_group_22,{\displaystyle h}
+Lie_group_23,{\displaystyle H}
+Lie_group_24,{\displaystyle H}
+Lie_group_25,{\displaystyle U}
+Lie_group_26,{\displaystyle H}
+Lie_group_27,{\displaystyle \mathbb {T} ^{2}}
+Lie_group_28,{\displaystyle H}
+Lie_group_29,{\displaystyle \mathbb {T} ^{2}}
+Lie_group_30,{\displaystyle h\in H}
+Lie_group_31,{\displaystyle H}
+Lie_group_32,{\displaystyle H}
+Lie_group_33,"{\displaystyle h_{1},h_{2}\in H}"
+Lie_group_34,{\displaystyle H}
+Lie_group_35,{\displaystyle h_{1}}
+Lie_group_36,{\displaystyle h_{2}}
+Lie_group_37,{\displaystyle H}
+Lie_group_38,{\displaystyle \theta }
+Lie_group_39,{\displaystyle H}
+Lie_group_40,{\displaystyle H}
+Lie_group_41,{\displaystyle H}
+Lie_group_42,"{\displaystyle \operatorname {GL} (n,\mathbb {C} )}"
+Lie_group_43,{\displaystyle n\times n}
+Lie_group_44,{\displaystyle \mathbb {C} }
+Lie_group_45,"{\displaystyle \operatorname {GL} (n,\mathbb {C} )}"
+Lie_group_46,{\displaystyle \mathbb {R} }
+Lie_group_47,{\displaystyle \mathbb {C} }
+Lie_group_48,"{\displaystyle \operatorname {SL} (n,\mathbb {R} )}"
+Lie_group_49,"{\displaystyle \operatorname {SL} (n,\mathbb {C} )}"
+Lie_group_50,{\displaystyle n\times n}
+Lie_group_51,{\displaystyle \mathbb {R} }
+Lie_group_52,{\displaystyle \mathbb {C} }
+Lie_group_53,{\displaystyle {\text{U}}(n)}
+Lie_group_54,{\displaystyle {\text{SU}}(n)}
+Lie_group_55,{\displaystyle n\times n}
+Lie_group_56,{\displaystyle U^{*}=U^{-1}}
+Lie_group_57,{\displaystyle \det(U)=1}
+Lie_group_58,{\displaystyle {\text{SU}}(n)}
+Lie_group_59,{\displaystyle {\text{O}}(n)}
+Lie_group_60,{\displaystyle {\text{SO}}(n)}
+Lie_group_61,{\displaystyle n\times n}
+Lie_group_62,{\displaystyle R^{\mathrm {T} }=R^{-1}}
+Lie_group_63,{\displaystyle \det(R)=1}
+Lie_group_64,{\displaystyle {\text{SO}}(n)}
+Lie_group_65,"{\displaystyle \operatorname {SL} (2,\mathbb {C} )}"
+Lie_group_66,{\displaystyle \mathbb {Q} }
+Lie_group_67,"{\displaystyle \operatorname {GL} (n,\mathbb {C} )}"
+Lie_group_68,"{\displaystyle \operatorname {GL} (n,\mathbb {C} )}"
+Lie_group_69,"{\displaystyle \operatorname {GL} (n,\mathbb {C} )}"
+Lie_group_70,"{\displaystyle \operatorname {GL} (n,\mathbb {C} )}"
+Lie_group_71,"{\displaystyle G'\subset \operatorname {GL} (n,\mathbb {C} )}"
+Lie_group_72,"{\displaystyle G,G'}"
+Lie_group_73,{\displaystyle G'}
+Lie_group_74,{\displaystyle G'}
+Lie_group_75,{\displaystyle \mathbb {R} }
+Lie_group_76,{\displaystyle S^{1}}
+Lie_group_77,{\displaystyle S^{1}}
+Lie_group_78,{\displaystyle U(1)}
+Lie_group_79,{\displaystyle 1\times 1}
+Lie_group_80,{\displaystyle \mathbb {R} ^{2}}
+Lie_group_81,{\displaystyle 2\times 2}
+Lie_group_82,{\displaystyle 1}
+Lie_group_83,{\displaystyle {\text{SU}}(2)}
+Lie_group_84,{\displaystyle 3}
+Lie_group_85,{\displaystyle S^{3}}
+Lie_group_86,{\displaystyle 3}
+Lie_group_87,"{\displaystyle {\text{Sp}}(2n,\mathbb {R} )}"
+Lie_group_88,{\displaystyle 2n\times 2n}
+Lie_group_89,{\displaystyle \mathbb {R} ^{2n}}
+Lie_group_90,{\displaystyle 2n^{2}+n}
+Lie_group_91,{\displaystyle \mathbb {R} }
+Lie_group_92,{\displaystyle S^{1}}
+Lie_group_93,{\displaystyle X}
+Lie_group_94,{\displaystyle G}
+Lie_group_95,"{\displaystyle C^{\infty }(X,G)}"
+Lie_group_96,"{\displaystyle \operatorname {Lie} (G)=\{X\in M(n;\mathbb {C} )|\operatorname {exp} (tX)\in G{\text{ for all }}t{\text{ in }}\mathbb {\mathbb {R} } \},}"
+Lie_group_97,"{\displaystyle [X,Y]=XY-YX}"
+Lie_group_98,{\displaystyle {\mathfrak {g}}.}
+Lie_group_99,{\displaystyle {\mathfrak {g}}}
+Lie_group_100,{\displaystyle {\mathfrak {g}}}
+Lie_group_101,{\displaystyle \phi \colon G\to H}
+Lie_group_102,{\displaystyle \phi _{*}}
+Lie_group_103,{\displaystyle \phi _{*}}
+Lie_group_104,"{\displaystyle \phi _{*}\colon {\mathfrak {g}}\to {\mathfrak {h}},}"
+Lie_group_105,{\displaystyle G}
+Lie_group_106,{\displaystyle H}
+Lie_group_107,{\displaystyle G}
+Lie_group_108,{\displaystyle G}
+Lie_group_109,{\displaystyle G}
+Lie_group_110,{\displaystyle G}
+Lie_group_111,{\displaystyle H}
+Lie_group_112,{\displaystyle {\mathfrak {g}}}
+Lie_group_113,{\displaystyle {\mathfrak {h}}}
+Lie_group_114,{\displaystyle f:{\mathfrak {g}}\rightarrow {\mathfrak {h}}}
+Lie_group_115,{\displaystyle G}
+Lie_group_116,{\displaystyle \phi :G\rightarrow H}
+Lie_group_117,{\displaystyle \phi _{*}=f}
+Lie_group_118,{\displaystyle \phi _{*}}
+Lie_group_119,{\displaystyle \phi }
+Lie_group_120,{\displaystyle n\geq 3}
+Lie_group_121,{\displaystyle \mathrm {M} (n;\mathbb {C} )}
+Lie_group_122,{\displaystyle \mathrm {GL} (n;\mathbb {C} )}
+Lie_group_123,{\displaystyle \mathrm {GL} (n;\mathbb {C} )}
+Lie_group_124,{\displaystyle \exp(X)=1+X+{\frac {X^{2}}{2!}}+{\frac {X^{3}}{3!}}+\cdots }
+Lie_group_125,{\displaystyle X}
+Lie_group_126,{\displaystyle G}
+Lie_group_127,{\displaystyle \mathrm {GL} (n;\mathbb {C} )}
+Lie_group_128,{\displaystyle G}
+Lie_group_129,{\displaystyle G}
+Lie_group_130,{\displaystyle G}
+Lie_group_131,{\displaystyle X}
+Lie_group_132,{\displaystyle {\mathfrak {g}}}
+Lie_group_133,{\displaystyle G}
+Lie_group_134,{\displaystyle G}
+Lie_group_135,{\displaystyle c:\mathbb {R} \rightarrow G}
+Lie_group_136,{\displaystyle c'(0)=X}
+Lie_group_137,{\displaystyle c}
+Lie_group_138,{\displaystyle c}
+Lie_group_139,{\displaystyle G}
+Lie_group_140,{\displaystyle c(s+t)=c(s)c(t)\ }
+Lie_group_141,{\displaystyle s}
+Lie_group_142,{\displaystyle t}
+Lie_group_143,{\displaystyle G}
+Lie_group_144,{\displaystyle \exp(X)=c(1).\ }
+Lie_group_145,{\displaystyle {\mathfrak {g}}}
+Lie_group_146,{\displaystyle G}
+Lie_group_147,{\displaystyle {\mathfrak {g}}}
+Lie_group_148,{\displaystyle e}
+Lie_group_149,{\displaystyle G}
+Lie_group_150,{\displaystyle \mathbb {R} }
+Lie_group_151,{\displaystyle \mathbb {C} }
+Lie_group_152,"{\displaystyle M(n,\mathbb {R} )}"
+Lie_group_153,"{\displaystyle \mathrm {GL} (n,\mathbb {R} )}"
+Lie_group_154,{\displaystyle N}
+Lie_group_155,{\displaystyle e}
+Lie_group_156,{\displaystyle G}
+Lie_group_157,{\displaystyle G}
+Lie_group_158,{\displaystyle N}
+Lie_group_159,{\displaystyle G}
+Lie_group_160,{\displaystyle U}
+Lie_group_161,{\displaystyle {\mathfrak {g}}}
+Lie_group_162,"{\displaystyle X,Y\in U}"
+Lie_group_163,"{\displaystyle \exp(X)\,\exp(Y)=\exp \left(X+Y+{\tfrac {1}{2}}[X,Y]+{\tfrac {1}{12}}[\,[X,Y],Y]-{\tfrac {1}{12}}[\,[X,Y],X]-\cdots \right),}"
+Lie_group_164,{\displaystyle X}
+Lie_group_165,{\displaystyle Y}
+Lie_group_166,{\displaystyle \exp(X)\exp(Y)=\exp(X+Y)}
+Lie_group_167,{\displaystyle \phi :G\to H}
+Lie_group_168,{\displaystyle \phi _{*}:{\mathfrak {g}}\to {\mathfrak {h}}}
+Lie_group_169,{\displaystyle x\in {\mathfrak {g}}}
+Lie_group_170,"{\displaystyle \phi (\exp(x))=\exp(\phi _{*}(x)).\,}"
+Lie_group_171,{\displaystyle H}
+Lie_group_172,{\displaystyle G}
+Lie_group_173,{\displaystyle G}
+Lie_group_174,{\displaystyle H}
+Lie_group_175,{\displaystyle G}
+Lie_group_176,{\displaystyle G}
+Lie_group_177,{\displaystyle G}
+Lie_group_178,{\displaystyle G}
+Lie_group_179,{\displaystyle H}
+Lie_group_180,{\displaystyle \varphi :\mathbb {R} \to G}
+Lie_group_181,{\displaystyle \mathrm {im} (\varphi )=H}
+Lie_group_182,{\displaystyle H}
+Lie_group_183,{\displaystyle G}
+Lie_group_184,{\displaystyle G}
+Lie_group_185,{\displaystyle G}
+Lie_group_186,{\displaystyle G}
+Lie_group_187,{\displaystyle {\hat {H}}\psi =E\psi }
+Lie_group_188,{\displaystyle {\hat {H}}}
+Lie_group_189,{\displaystyle \psi }
+Lie_group_190,{\displaystyle \psi }
+Lie_group_191,{\displaystyle {\hat {H}}\psi =E\psi }
+Lie_group_192,{\displaystyle E}

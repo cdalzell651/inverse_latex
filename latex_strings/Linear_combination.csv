@@ -1,0 +1,24 @@
+name,latex
+Linear_combination_0,{\displaystyle a_{1}\mathbf {v} _{1}+a_{2}\mathbf {v} _{2}+a_{3}\mathbf {v} _{3}+\cdots +a_{n}\mathbf {v} _{n}.}
+Linear_combination_1,"{\displaystyle {\begin{aligned}(a_{1},a_{2},a_{3})&=(a_{1},0,0)+(0,a_{2},0)+(0,0,a_{3})\\[6pt]&=a_{1}(1,0,0)+a_{2}(0,1,0)+a_{3}(0,0,1)\\[6pt]&=a_{1}\mathbf {e} _{1}+a_{2}\mathbf {e} _{2}+a_{3}\mathbf {e} _{3}.\end{aligned}}}"
+Linear_combination_2,"{\displaystyle \cos t={\tfrac {1}{2}}\,e^{it}+{\tfrac {1}{2}}\,e^{-it}}"
+Linear_combination_3,{\displaystyle 2\sin t=(-i)e^{it}+(i)e^{-it}.}
+Linear_combination_4,{\displaystyle a_{1}(1)+a_{2}(x+1)+a_{3}(x^{2}+x+1)=x^{2}-1.}
+Linear_combination_5,{\displaystyle (a_{1})+(a_{2}x+a_{2})+(a_{3}x^{2}+a_{3}x+a_{3})=x^{2}-1}
+Linear_combination_6,{\displaystyle a_{3}x^{2}+(a_{2}+a_{3})x+(a_{1}+a_{2}+a_{3})=1x^{2}+0x+(-1).}
+Linear_combination_7,"{\displaystyle a_{3}=1,\quad a_{2}+a_{3}=0,\quad a_{1}+a_{2}+a_{3}=-1.}"
+Linear_combination_8,{\displaystyle x^{2}-1=-1-(x+1)+(x^{2}+x+1)=-p_{1}-p_{2}+p_{3}}
+Linear_combination_9,{\displaystyle {\begin{aligned}&0x^{3}+a_{3}x^{2}+(a_{2}+a_{3})x+(a_{1}+a_{2}+a_{3})\\[5pt]={}&1x^{3}+0x^{2}+0x+(-1).\end{aligned}}}
+Linear_combination_10,{\displaystyle 0=1}
+Linear_combination_11,"{\displaystyle \operatorname {span} (\mathbf {v} _{1},\ldots ,\mathbf {v} _{n}):=\{a_{1}\mathbf {v} _{1}+\cdots +a_{n}\mathbf {v} _{n}:a_{1},\ldots ,a_{n}\in K\}.}"
+Linear_combination_12,{\displaystyle \mathbf {v} =\sum _{i}a_{i}\mathbf {v} _{i}=\sum _{i}b_{i}\mathbf {v} _{i}{\text{ where }}a_{i}\neq b_{i}.}
+Linear_combination_13,{\displaystyle c_{i}:=a_{i}-b_{i}}
+Linear_combination_14,{\displaystyle \mathbf {0} =\sum _{i}c_{i}\mathbf {v} _{i}.}
+Linear_combination_15,{\displaystyle \mathbf {R} ^{n}}
+Linear_combination_17,{\displaystyle a_{i}\geq 0}
+Linear_combination_18,{\displaystyle a_{i}\geq 0}
+Linear_combination_20,{\displaystyle \mathbf {R} ^{\infty }}
+Linear_combination_21,"{\displaystyle (2,3,-5,0,\dots )}"
+Linear_combination_22,{\displaystyle 2\mathbf {v} _{1}+3\mathbf {v} _{2}-5\mathbf {v} _{3}+0\mathbf {v} _{4}+\cdots }
+Linear_combination_23,{\displaystyle \mathbf {R} ^{n}}
+Linear_combination_24,{\displaystyle a_{1}\mathbf {v} _{1}b_{1}+\cdots +a_{n}\mathbf {v} _{n}b_{n}}

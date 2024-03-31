@@ -1,0 +1,137 @@
+name,latex
+Transcendental_number_0,{\displaystyle \varphi }
+Transcendental_number_1,{\displaystyle \phi }
+Transcendental_number_2,{\displaystyle {\begin{aligned}L_{b}&=\sum _{n=1}^{\infty }10^{-n!}\\[2pt]&=10^{-1}+10^{-2}+10^{-6}+10^{-24}+10^{-120}+10^{-720}+10^{-5040}+10^{-40320}+\ldots \\[4pt]&=0.{\textbf {1}}{\textbf {1}}000{\textbf {1}}00000000000000000{\textbf {1}}00000000000000000000000000000000000000000000000000000\ \ldots \end{aligned}}}
+Transcendental_number_3,{\displaystyle 5\pi }
+Transcendental_number_4,{\displaystyle {\tfrac {\pi -3}{\sqrt {2}}}}
+Transcendental_number_5,{\displaystyle ({\sqrt {\pi }}-{\sqrt {3}})^{8}}
+Transcendental_number_6,{\displaystyle {\sqrt[{4}]{\pi ^{5}+7}}}
+Transcendental_number_7,{\displaystyle 2^{\sqrt {2}}}
+Transcendental_number_8,{\displaystyle {\tfrac {J'_{\nu }(x)}{J_{\nu }(x)}}}
+Transcendental_number_9,{\displaystyle a\neq 0}
+Transcendental_number_10,{\displaystyle \operatorname {\Gamma } \left({\tfrac {1}{3}}\right)\ }
+Transcendental_number_11,{\displaystyle \operatorname {\Gamma } \left({\tfrac {1}{4}}\right)\ }
+Transcendental_number_12,{\displaystyle \operatorname {\Gamma } \left({\tfrac {1}{6}}\right)\ }
+Transcendental_number_13,"{\displaystyle \ \operatorname {\Gamma } \left({\tfrac {2}{3}}\right)\ ,}"
+Transcendental_number_14,"{\displaystyle \ \operatorname {\Gamma } \left({\tfrac {3}{4}}\right)\ ,}"
+Transcendental_number_15,{\displaystyle \ \operatorname {\Gamma } \left({\tfrac {5}{6}}\right)\ }
+Transcendental_number_16,{\displaystyle \ {\tfrac {1}{\pi }}\operatorname {\Gamma } \left({\tfrac {1}{4}}\right)^{4}\ }
+Transcendental_number_17,{\displaystyle \ {\tfrac {1}{\pi }}\operatorname {\Gamma } \left({\tfrac {1}{3}}\right)^{2}\ }
+Transcendental_number_18,"{\displaystyle \mathrm {B} (a,b)}"
+Transcendental_number_19,{\displaystyle a+b}
+Transcendental_number_20,{\displaystyle \pi +\ln(2)+{\sqrt {2}}\ln(3)}
+Transcendental_number_21,{\displaystyle \pi +\beta _{1}\ln(a_{1})+\cdots +\beta _{n}\ln(a_{n})}
+Transcendental_number_22,{\displaystyle \beta _{j}}
+Transcendental_number_23,{\displaystyle 1\leq j\leq n}
+Transcendental_number_24,{\displaystyle a_{j}}
+Transcendental_number_25,{\displaystyle 1\leq j\leq n}
+Transcendental_number_26,{\displaystyle \sum _{n=0}^{\infty }10^{-2^{n}}=0.{\textbf {1}}{\textbf {1}}0{\textbf {1}}000{\textbf {1}}0000000{\textbf {1}}\ldots }
+Transcendental_number_27,{\displaystyle {\frac {\arctan(x)}{\pi }}}
+Transcendental_number_28,"{\displaystyle x\notin \{0,\pm {1}\}}"
+Transcendental_number_29,{\displaystyle R(q)}
+Transcendental_number_30,{\displaystyle {q}\in \mathbb {C} }
+Transcendental_number_31,{\displaystyle 0<|q|<1}
+Transcendental_number_32,{\displaystyle \sum _{n=-\infty }^{\infty }q^{n^{2}}}
+Transcendental_number_33,{\displaystyle {q}}
+Transcendental_number_34,{\displaystyle {q}\in \mathbb {C} }
+Transcendental_number_35,{\displaystyle \mathbb {Q} }
+Transcendental_number_36,{\displaystyle \sum _{n=1}^{\infty }{\frac {3^{n}}{2^{3^{n}}}}}
+Transcendental_number_37,{\displaystyle \sum _{n=0}^{\infty }{\frac {E_{n}(\beta ^{r^{n}})}{F_{n}(\beta ^{r^{n}})}}}
+Transcendental_number_38,{\displaystyle E_{n}(z)}
+Transcendental_number_39,{\displaystyle F_{n}(z)}
+Transcendental_number_40,{\displaystyle n}
+Transcendental_number_41,{\displaystyle z}
+Transcendental_number_42,{\displaystyle \beta }
+Transcendental_number_43,{\displaystyle \beta \neq 0}
+Transcendental_number_44,{\displaystyle r}
+Transcendental_number_45,{\displaystyle \sum _{k=0}^{\infty }10^{-\left\lfloor \beta ^{k}\right\rfloor };}
+Transcendental_number_46,{\displaystyle \beta \mapsto \lfloor \beta \rfloor }
+Transcendental_number_47,{\displaystyle {\tfrac {\pi }{2}}{\tfrac {Y_{0}(2)}{J_{0}(2)}}-\gamma }
+Transcendental_number_48,"{\displaystyle \pi ,e^{\pi }}"
+Transcendental_number_49,{\displaystyle \Gamma (1/4)}
+Transcendental_number_50,{\displaystyle \sum _{n=2}^{\infty }{\frac {1}{n^{4}-1}}}
+Transcendental_number_51,{\displaystyle \leq 8}
+Transcendental_number_52,{\displaystyle e^{-1/2}}
+Transcendental_number_53,{\displaystyle \Gamma (1/5)}
+Transcendental_number_54,"{\displaystyle c_{0}+c_{1}e+c_{2}e^{2}+\cdots +c_{n}e^{n}=0,\qquad c_{0},c_{n}\neq 0~.}"
+Transcendental_number_55,"{\displaystyle f_{k}(x)=x^{k}\left[(x-1)\cdots (x-n)\right]^{k+1},}"
+Transcendental_number_56,"{\displaystyle \int _{0}^{\infty }f_{k}(x)\,e^{-x}\,\mathrm {d} x\ ,}"
+Transcendental_number_57,"{\displaystyle c_{0}\left(\int _{0}^{\infty }f_{k}(x)e^{-x}\,\mathrm {d} x\right)+c_{1}e\left(\int _{0}^{\infty }f_{k}(x)e^{-x}\,\mathrm {d} x\right)+\cdots +c_{n}e^{n}\left(\int _{0}^{\infty }f_{k}(x)e^{-x}\,\mathrm {d} x\right)=0~.}"
+Transcendental_number_58,{\displaystyle P+Q=0}
+Transcendental_number_59,"{\displaystyle {\begin{aligned}P&=c_{0}\left(\int _{0}^{\infty }f_{k}(x)e^{-x}\,\mathrm {d} x\right)+c_{1}e\left(\int _{1}^{\infty }f_{k}(x)e^{-x}\,\mathrm {d} x\right)+c_{2}e^{2}\left(\int _{2}^{\infty }f_{k}(x)e^{-x}\,\mathrm {d} x\right)+\cdots +c_{n}e^{n}\left(\int _{n}^{\infty }f_{k}(x)e^{-x}\,\mathrm {d} x\right)\\Q&=c_{1}e\left(\int _{0}^{1}f_{k}(x)e^{-x}\,\mathrm {d} x\right)+c_{2}e^{2}\left(\int _{0}^{2}f_{k}(x)e^{-x}\,\mathrm {d} x\right)+\cdots +c_{n}e^{n}\left(\int _{0}^{n}f_{k}(x)e^{-x}\,\mathrm {d} x\right)\end{aligned}}}"
+Transcendental_number_60,{\displaystyle \ {\tfrac {P}{k!}}\ }
+Transcendental_number_61,"{\displaystyle \int _{0}^{\infty }t^{j}e^{-t}\,\mathrm {d} t=j!}"
+Transcendental_number_62,{\displaystyle j}
+Transcendental_number_63,{\displaystyle g(t)=\sum _{j=0}^{m}b_{j}t^{j}}
+Transcendental_number_64,"{\displaystyle \int _{0}^{\infty }g(t)e^{-t}\,\mathrm {d} t=\sum _{j=0}^{m}b_{j}j!}"
+Transcendental_number_65,{\displaystyle P}
+Transcendental_number_66,{\displaystyle P}
+Transcendental_number_67,"{\displaystyle c_{a}e^{a}\int _{a}^{\infty }f_{k}(x)e^{-x}\,\mathrm {d} x=c_{a}\int _{a}^{\infty }f_{k}(x)e^{-(x-a)}\,\mathrm {d} x=\left\{{\begin{aligned}t&=x-a\\x&=t+a\\\mathrm {d} x&=\mathrm {d} t\end{aligned}}\right\}=c_{a}\int _{0}^{\infty }f_{k}(t+a)e^{-t}\,\mathrm {d} t}"
+Transcendental_number_68,"{\displaystyle P=\sum _{a=0}^{n}c_{a}\int _{0}^{\infty }f_{k}(t+a)e^{-t}\,\mathrm {d} t=\int _{0}^{\infty }{\biggl (}\sum _{a=0}^{n}c_{a}f_{k}(t+a){\biggr )}e^{-t}\,\mathrm {d} t}"
+Transcendental_number_69,{\displaystyle t}
+Transcendental_number_70,{\displaystyle t^{j}}
+Transcendental_number_71,{\displaystyle P}
+Transcendental_number_72,{\displaystyle j!}
+Transcendental_number_73,{\displaystyle P}
+Transcendental_number_74,{\displaystyle j!}
+Transcendental_number_75,{\displaystyle P}
+Transcendental_number_76,{\displaystyle j!}
+Transcendental_number_77,{\displaystyle t^{j}}
+Transcendental_number_78,{\displaystyle \textstyle \sum _{a=0}^{n}c_{a}f_{k}(t+a)}
+Transcendental_number_79,{\displaystyle j}
+Transcendental_number_80,{\displaystyle t=0}
+Transcendental_number_81,{\displaystyle f_{k}(x)}
+Transcendental_number_82,{\displaystyle k}
+Transcendental_number_83,{\displaystyle x=0}
+Transcendental_number_84,{\displaystyle k+1}
+Transcendental_number_85,{\displaystyle x=a}
+Transcendental_number_86,"{\displaystyle a=1,\dots ,n}"
+Transcendental_number_87,{\displaystyle t^{k}}
+Transcendental_number_88,{\displaystyle f_{k}(t)}
+Transcendental_number_89,{\displaystyle t^{k+1}}
+Transcendental_number_90,{\displaystyle f_{k}(t+a)}
+Transcendental_number_91,{\displaystyle a>0}
+Transcendental_number_92,{\displaystyle k!}
+Transcendental_number_93,{\displaystyle P}
+Transcendental_number_94,{\displaystyle P}
+Transcendental_number_95,{\displaystyle k+1}
+Transcendental_number_96,{\displaystyle P}
+Transcendental_number_97,{\displaystyle k+1}
+Transcendental_number_98,{\displaystyle n}
+Transcendental_number_99,{\displaystyle |c_{0}|}
+Transcendental_number_100,{\displaystyle (k+1)!}
+Transcendental_number_101,"{\displaystyle \textstyle c_{a}\int _{0}^{\infty }f_{k}(t+a)e^{-t}\,\mathrm {d} t}"
+Transcendental_number_103,{\displaystyle k+1}
+Transcendental_number_104,"{\displaystyle \textstyle c_{0}\int _{0}^{\infty }f_{k}(t)e^{-t}\,\mathrm {d} t}"
+Transcendental_number_105,{\displaystyle f_{k}(t)=t^{k}{\bigl [}(t-1)\cdots (t-n){\bigr ]}^{k+1}={\bigl [}(-1)^{n}(n!){\bigr ]}^{k+1}t^{k}+{\text{higher degree terms}}}
+Transcendental_number_106,{\displaystyle (k+1)!}
+Transcendental_number_107,"{\displaystyle P\equiv c_{0}\int _{0}^{\infty }f_{k}(t)e^{-t}\,\mathrm {d} t\equiv c_{0}{\bigl [}(-1)^{n}(n!){\bigr ]}^{k+1}k!{\pmod {(k+1)}}}"
+Transcendental_number_108,{\displaystyle k+1}
+Transcendental_number_109,{\displaystyle k+1}
+Transcendental_number_110,{\displaystyle P}
+Transcendental_number_111,{\displaystyle P}
+Transcendental_number_112,{\displaystyle \left|{\tfrac {Q}{k!}}\right|<1}
+Transcendental_number_113,{\displaystyle {\begin{aligned}f_{k}e^{-x}&=x^{k}\left[(x-1)(x-2)\cdots (x-n)\right]^{k+1}e^{-x}\\&=\left(x(x-1)\cdots (x-n)\right)^{k}\cdot \left((x-1)\cdots (x-n)e^{-x}\right)\\&=u(x)^{k}\cdot v(x)\end{aligned}}}
+Transcendental_number_114,{\displaystyle \ \left|f_{k}e^{-x}\right|\leq |u(x)|^{k}\cdot |v(x)|<G^{k}H\quad {\text{ for }}0\leq x\leq n~.}
+Transcendental_number_115,{\displaystyle \left|\int _{0}^{n}f_{k}e^{-x}\ \mathrm {d} \ x\right|\leq \int _{0}^{n}\left|f_{k}e^{-x}\right|\ \mathrm {d} \ x\leq \int _{0}^{n}G^{k}H\ \mathrm {d} \ x=nG^{k}H~.}
+Transcendental_number_116,"{\displaystyle |Q|<G^{k}\cdot nH\left(|c_{1}|e+|c_{2}|e^{2}+\cdots +|c_{n}|e^{n}\right)=G^{k}\cdot M\ ,}"
+Transcendental_number_117,"{\displaystyle \ \left|{\frac {Q}{k!}}\right|<M\cdot {\frac {G^{k}}{k!}}\to 0\quad {\text{ as }}k\to \infty \ ,}"
+Transcendental_number_118,{\displaystyle \left({\tfrac {P}{k!}}\right)}
+Transcendental_number_119,{\displaystyle \left({\tfrac {Q}{k!}}\right)}
+Transcendental_number_120,{\displaystyle :\;\mathbb {C} }
+Transcendental_number_121,{\displaystyle :\;\mathbb {R} }
+Transcendental_number_122,{\displaystyle :\;\mathbb {Q} }
+Transcendental_number_123,{\displaystyle :\;\mathbb {Z} }
+Transcendental_number_124,{\displaystyle :\;\mathbb {N} }
+Transcendental_number_125,{\displaystyle \pi }
+Transcendental_number_126,{\displaystyle \mathbb {N} }
+Transcendental_number_127,{\displaystyle \mathbb {Z} }
+Transcendental_number_128,{\displaystyle \mathbb {Q} }
+Transcendental_number_129,{\displaystyle \mathbb {A} }
+Transcendental_number_130,{\displaystyle \mathbb {R} }
+Transcendental_number_131,{\displaystyle \mathbb {C} }
+Transcendental_number_132,{\displaystyle \mathbb {H} }
+Transcendental_number_133,{\displaystyle \mathbb {O} }
+Transcendental_number_134,{\displaystyle \mathbb {R} }
+Transcendental_number_135,{\displaystyle \mathbb {C} }
+Transcendental_number_136,{\displaystyle \mathbb {S} }

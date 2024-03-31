@@ -1,0 +1,9 @@
+name,latex
+Final_stellation_of_the_icosahedron_0,"{\displaystyle {\sqrt {{\frac {3}{2}}\left(3+{\sqrt {5}}\right)}}\,:\,{\sqrt {{\frac {1}{2}}\left(25+11{\sqrt {5}}\right)}}\,:\,{\sqrt {{\frac {1}{2}}\left(97+43{\sqrt {5}}\right)}}\,.}"
+Final_stellation_of_the_icosahedron_1,{\displaystyle a}
+Final_stellation_of_the_icosahedron_2,{\displaystyle \varphi a}
+Final_stellation_of_the_icosahedron_3,{\displaystyle \varphi ^{2}a}
+Final_stellation_of_the_icosahedron_4,{\displaystyle \varphi ^{2}a{\sqrt {2}}}
+Final_stellation_of_the_icosahedron_5,{\displaystyle \varphi }
+Final_stellation_of_the_icosahedron_6,"{\displaystyle S={\frac {1}{20}}(13211+{\sqrt {174306161}})a^{2}\,,}"
+Final_stellation_of_the_icosahedron_7,"{\displaystyle V=(210+90{\sqrt {5}})a^{3}\,.}"

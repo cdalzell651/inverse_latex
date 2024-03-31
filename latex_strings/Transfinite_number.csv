@@ -1,0 +1,30 @@
+name,latex
+Transfinite_number_0,{\displaystyle \omega }
+Transfinite_number_1,{\displaystyle \aleph _{0}}
+Transfinite_number_2,{\displaystyle \aleph _{1}.}
+Transfinite_number_3,{\displaystyle \aleph _{0}}
+Transfinite_number_4,{\displaystyle \aleph _{1}}
+Transfinite_number_5,{\displaystyle {\mathfrak {m}}}
+Transfinite_number_6,{\displaystyle A}
+Transfinite_number_7,{\displaystyle A}
+Transfinite_number_8,{\displaystyle {\mathfrak {m}}.}
+Transfinite_number_9,{\displaystyle {\mathfrak {m}}+1={\mathfrak {m}}.}
+Transfinite_number_10,{\displaystyle \aleph _{0}\leq {\mathfrak {m}}.}
+Transfinite_number_11,{\displaystyle {\mathfrak {n}}}
+Transfinite_number_12,{\displaystyle \aleph _{0}+{\mathfrak {n}}={\mathfrak {m}}.}
+Transfinite_number_13,{\displaystyle \omega }
+Transfinite_number_14,{\displaystyle \omega +1}
+Transfinite_number_15,{\displaystyle \omega }
+Transfinite_number_16,{\displaystyle \omega \cdot 2}
+Transfinite_number_17,{\displaystyle \omega ^{2}}
+Transfinite_number_18,{\displaystyle \omega ^{\omega }}
+Transfinite_number_19,{\displaystyle \omega }
+Transfinite_number_20,{\displaystyle \omega }
+Transfinite_number_21,{\displaystyle \omega ^{\omega ^{\omega ^{...}}}}
+Transfinite_number_22,{\displaystyle \varepsilon _{0}}
+Transfinite_number_23,{\displaystyle \varepsilon _{0}}
+Transfinite_number_24,{\displaystyle \omega ^{\varepsilon }=\varepsilon }
+Transfinite_number_25,"{\displaystyle \varepsilon _{1},...,\varepsilon _{\omega },...,\varepsilon _{\varepsilon _{0}},...}"
+Transfinite_number_26,{\displaystyle \varepsilon _{\varepsilon _{\varepsilon _{...}}}}
+Transfinite_number_27,{\displaystyle \varepsilon _{\alpha }=\alpha }
+Transfinite_number_28,{\displaystyle \aleph _{0}}

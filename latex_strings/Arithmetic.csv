@@ -1,0 +1,130 @@
+name,latex
+Arithmetic_0,"{\displaystyle \{1,2,3,4,...\}}"
+Arithmetic_1,{\displaystyle \mathbb {N} }
+Arithmetic_2,"{\displaystyle \{0,1,2,3,4,...\}}"
+Arithmetic_3,{\displaystyle \mathbb {N} _{0}}
+Arithmetic_4,{\displaystyle \mathbb {Z} }
+Arithmetic_5,"{\displaystyle \{...,-2,-1,0,1,2,...\}}"
+Arithmetic_6,{\displaystyle {\tfrac {1}{2}}}
+Arithmetic_7,{\displaystyle {\tfrac {3}{4}}}
+Arithmetic_8,{\displaystyle {\tfrac {281}{3}}}
+Arithmetic_9,{\displaystyle \mathbb {Q} }
+Arithmetic_10,{\displaystyle {\tfrac {3}{10}}}
+Arithmetic_11,{\displaystyle {\tfrac {2512}{100}}}
+Arithmetic_12,{\displaystyle {\sqrt {2}}}
+Arithmetic_13,{\displaystyle \mathbb {R} }
+Arithmetic_14,{\displaystyle 10^{0}}
+Arithmetic_15,{\displaystyle 10^{1}}
+Arithmetic_16,{\displaystyle 5\cdot 10^{2}+3\cdot 10^{1}+2\cdot 10^{0}}
+Arithmetic_17,{\displaystyle 2^{0}}
+Arithmetic_18,{\displaystyle 2^{1}}
+Arithmetic_19,{\displaystyle 1\cdot 2^{3}+1\cdot 2^{2}+0\cdot 2^{1}+1\cdot 2^{0}}
+Arithmetic_20,{\displaystyle 13+4-4=13}
+Arithmetic_21,{\displaystyle \star }
+Arithmetic_22,{\displaystyle \circ }
+Arithmetic_23,{\displaystyle t\star s=r}
+Arithmetic_24,{\displaystyle r\circ s=t}
+Arithmetic_25,{\displaystyle 7+9}
+Arithmetic_26,{\displaystyle 9+7}
+Arithmetic_27,{\displaystyle (5\times 4)\times 2}
+Arithmetic_28,{\displaystyle 5\times (4\times 2)}
+Arithmetic_29,{\displaystyle +}
+Arithmetic_30,{\displaystyle 2+2=4}
+Arithmetic_31,{\displaystyle 6.3+1.26=7.56}
+Arithmetic_32,{\displaystyle -}
+Arithmetic_33,{\displaystyle 14-8=6}
+Arithmetic_34,{\displaystyle 45-1.7=43.3}
+Arithmetic_35,{\displaystyle 14-8=14+(-8)}
+Arithmetic_36,{\displaystyle 13+0=13}
+Arithmetic_37,{\displaystyle 13+(-13)=0}
+Arithmetic_38,{\displaystyle \times }
+Arithmetic_39,{\displaystyle \cdot }
+Arithmetic_40,{\displaystyle 2\times 3=6}
+Arithmetic_41,{\displaystyle 0.3\cdot 5=1.5}
+Arithmetic_42,{\displaystyle 2\times 3=2+2+2}
+Arithmetic_43,{\displaystyle \div }
+Arithmetic_44,{\displaystyle /}
+Arithmetic_45,{\displaystyle 48\div 8=6}
+Arithmetic_46,{\displaystyle 29.4/1.4=21}
+Arithmetic_47,{\displaystyle 48\div 8=48\times {\tfrac {1}{8}}}
+Arithmetic_48,{\displaystyle 13\times 1=13}
+Arithmetic_49,{\displaystyle 13\times {\tfrac {1}{13}}=1}
+Arithmetic_50,{\displaystyle 2^{4}=16}
+Arithmetic_51,{\displaystyle 3}
+Arithmetic_52,{\displaystyle 3=27}
+Arithmetic_53,{\displaystyle 2^{4}=2\times 2\times 2\times 2}
+Arithmetic_54,{\displaystyle {\tfrac {1}{2}}}
+Arithmetic_55,{\displaystyle {\tfrac {1}{3}}}
+Arithmetic_56,{\displaystyle {\sqrt {4}}=4^{\frac {1}{2}}=2}
+Arithmetic_57,{\displaystyle {\sqrt[{3}]{27}}=27^{\frac {1}{3}}=3}
+Arithmetic_58,{\displaystyle x}
+Arithmetic_59,{\displaystyle b}
+Arithmetic_60,{\displaystyle b}
+Arithmetic_61,{\displaystyle x}
+Arithmetic_62,{\displaystyle 1000=10^{3}}
+Arithmetic_63,{\displaystyle x}
+Arithmetic_64,{\displaystyle b}
+Arithmetic_65,{\displaystyle \log _{b}(x)}
+Arithmetic_66,{\displaystyle \log _{b}x}
+Arithmetic_67,{\displaystyle \log x}
+Arithmetic_68,{\displaystyle \log _{10}1000=3}
+Arithmetic_69,{\displaystyle 14^{1}=14}
+Arithmetic_70,{\displaystyle 5+2}
+Arithmetic_71,{\displaystyle 3\times 4}
+Arithmetic_72,{\displaystyle 3+3+3+3}
+Arithmetic_73,{\displaystyle 3^{4}}
+Arithmetic_74,{\displaystyle 3\times 3\times 3\times 3}
+Arithmetic_75,{\displaystyle 3^{65}}
+Arithmetic_76,{\displaystyle (((((3^{2})^{2})^{2})^{2})^{2})^{2}\times 3}
+Arithmetic_77,{\displaystyle 2\times 3\times 3}
+Arithmetic_78,{\displaystyle a}
+Arithmetic_79,{\displaystyle b}
+Arithmetic_80,{\displaystyle c}
+Arithmetic_81,{\displaystyle a^{n}+b^{n}=c^{n}}
+Arithmetic_82,{\displaystyle n}
+Arithmetic_83,{\displaystyle 2}
+Arithmetic_84,{\displaystyle {\tfrac {2}{7}}+{\tfrac {3}{7}}={\tfrac {5}{7}}}
+Arithmetic_85,{\displaystyle {\tfrac {1}{3}}+{\tfrac {1}{2}}={\tfrac {1\cdot 2}{3\cdot 2}}+{\tfrac {1\cdot 3}{2\cdot 3}}={\tfrac {2}{6}}+{\tfrac {3}{6}}={\tfrac {5}{6}}}
+Arithmetic_86,{\displaystyle {\tfrac {2}{3}}\cdot {\tfrac {2}{5}}={\tfrac {2\cdot 2}{3\cdot 5}}={\tfrac {4}{15}}}
+Arithmetic_87,{\displaystyle {\tfrac {3}{5}}:{\tfrac {2}{7}}={\tfrac {3}{5}}\cdot {\tfrac {7}{2}}={\tfrac {21}{10}}}
+Arithmetic_88,{\displaystyle 5^{\frac {2}{3}}={\sqrt[{3}]{5^{2}}}}
+Arithmetic_89,{\displaystyle {\tfrac {1}{10}}}
+Arithmetic_90,{\displaystyle {\tfrac {371}{100}}}
+Arithmetic_91,{\displaystyle {\tfrac {44}{10000}}}
+Arithmetic_92,{\displaystyle {\tfrac {1}{3}}}
+Arithmetic_93,{\displaystyle {\sqrt {2}}+\pi }
+Arithmetic_94,{\displaystyle e\cdot {\sqrt {3}}}
+Arithmetic_95,{\displaystyle {\sqrt {2}}}
+Arithmetic_96,"{\displaystyle [1,2]+[3,4]=[4,6]}"
+Arithmetic_97,"{\displaystyle [1,2]\times [3,4]=[3,8]}"
+Arithmetic_98,{\displaystyle 8.276\times 10^{6}}
+Arithmetic_99,{\displaystyle 7.35\times 10^{-3}}
+Arithmetic_100,{\displaystyle 1.20\times 10^{3}}
+Arithmetic_101,{\displaystyle (a+b)+c}
+Arithmetic_102,{\displaystyle a+(b+c)}
+Arithmetic_103,{\displaystyle 85-47}
+Arithmetic_104,{\displaystyle 85-50}
+Arithmetic_105,{\displaystyle 3}
+Arithmetic_106,{\displaystyle 1+1=1}
+Arithmetic_107,{\displaystyle 2+2=5}
+Arithmetic_108,{\displaystyle 1+1=1}
+Arithmetic_109,{\displaystyle s}
+Arithmetic_110,{\displaystyle 1}
+Arithmetic_111,{\displaystyle s(0)}
+Arithmetic_112,{\displaystyle 3}
+Arithmetic_113,{\displaystyle s(s(s(0)))}
+Arithmetic_114,{\displaystyle 2}
+Arithmetic_116,{\displaystyle 1=0\cup \{0\}=\{0\}}
+Arithmetic_117,"{\displaystyle 2=1\cup \{1\}=\{0,1\}}"
+Arithmetic_118,"{\displaystyle 3=2\cup \{2\}=\{0,1,2\}}"
+Arithmetic_119,{\displaystyle {\tfrac {3}{7}}}
+Arithmetic_120,{\displaystyle \mathbb {N} ^{*}}
+Arithmetic_121,{\displaystyle \mathbb {N} ^{+}}
+Arithmetic_122,{\displaystyle \mathbb {N} _{1}}
+Arithmetic_123,{\displaystyle \mathbf {N} }
+Arithmetic_124,{\displaystyle \mathbb {N} ^{0}}
+Arithmetic_125,{\displaystyle \mathbb {N} \cup \{0\}}
+Arithmetic_126,{\displaystyle W}
+Arithmetic_127,{\displaystyle {\tfrac {1}{9}}}
+Arithmetic_128,{\displaystyle 7^{0}=1}
+Arithmetic_129,{\displaystyle 0^{0}}

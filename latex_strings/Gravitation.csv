@@ -1,0 +1,8 @@
+name,latex
+Gravitation_0,{\displaystyle {\textbf {F}}={\frac {d}{dt}}(m{\textbf {v}})}
+Gravitation_1,"{\displaystyle F=G{\frac {m_{1}m_{2}}{r^{2}}},}"
+Gravitation_2,{\displaystyle G_{\mu \nu }+\Lambda g_{\mu \nu }={\kappa }T_{\mu \nu }}
+Gravitation_3,"{\displaystyle G_{\mu \nu }+\Lambda g_{\mu \nu }=\kappa T_{\mu \nu },}"
+Gravitation_4,{\displaystyle G}
+Gravitation_5,{\displaystyle c}
+Gravitation_6,{\displaystyle \kappa ={\frac {8\pi G}{c^{4}}}}

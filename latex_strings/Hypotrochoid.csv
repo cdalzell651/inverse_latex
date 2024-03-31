@@ -1,0 +1,5 @@
+name,latex
+Hypotrochoid_0,{\displaystyle {\begin{aligned}&x(\theta )=(R-r)\cos \theta +d\cos \left({R-r \over r}\theta \right)\\&y(\theta )=(R-r)\sin \theta -d\sin \left({R-r \over r}\theta \right)\end{aligned}}}
+Hypotrochoid_1,"{\displaystyle 2\pi \times {\tfrac {\operatorname {LCM} (r,R)}{R}}}"
+Hypotrochoid_2,{\displaystyle e={\frac {2{\sqrt {d/r}}}{1+(d/r)}}}
+Hypotrochoid_3,{\displaystyle d=r}

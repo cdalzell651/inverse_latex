@@ -1,0 +1,33 @@
+name,latex
+Set_(mathematics)_0,"{\displaystyle F=\{n\mid n{\text{ is an integer, and }}0\leq n\leq 19\}.}"
+Set_(mathematics)_1,{\displaystyle \emptyset }
+Set_(mathematics)_2,{\displaystyle \mathbb {N} }
+Set_(mathematics)_3,{\displaystyle \mathbb {Z} }
+Set_(mathematics)_4,{\displaystyle \mathbb {Q} }
+Set_(mathematics)_5,{\displaystyle \mathbb {R} }
+Set_(mathematics)_6,{\displaystyle \mathbb {C} }
+Set_(mathematics)_7,{\displaystyle \mathbf {Z} }
+Set_(mathematics)_8,{\displaystyle \mathbb {Z} }
+Set_(mathematics)_9,{\displaystyle \mathbf {N} }
+Set_(mathematics)_10,{\displaystyle \mathbb {N} }
+Set_(mathematics)_11,"{\displaystyle \mathbf {N} =\{0,1,2,3,...\}}"
+Set_(mathematics)_12,{\displaystyle \mathbf {Z} }
+Set_(mathematics)_13,{\displaystyle \mathbb {Z} }
+Set_(mathematics)_14,"{\displaystyle \mathbf {Z} =\{...,-2,-1,0,1,2,3,...\}}"
+Set_(mathematics)_15,{\displaystyle \mathbf {Q} }
+Set_(mathematics)_16,{\displaystyle \mathbb {Q} }
+Set_(mathematics)_17,"{\displaystyle \mathbf {Q} =\left\{{\frac {a}{b}}\mid a,b\in \mathbf {Z} ,b\neq 0\right\}}"
+Set_(mathematics)_18,{\displaystyle \mathbf {R} }
+Set_(mathematics)_19,{\displaystyle \mathbb {R} }
+Set_(mathematics)_20,{\displaystyle {\sqrt {2}}}
+Set_(mathematics)_21,{\displaystyle \mathbf {C} }
+Set_(mathematics)_22,{\displaystyle \mathbb {C} }
+Set_(mathematics)_23,{\displaystyle \mathbf {Q} ^{+}}
+Set_(mathematics)_24,{\displaystyle \mathbb {N} }
+Set_(mathematics)_25,{\displaystyle \mathbb {N} }
+Set_(mathematics)_26,{\displaystyle \mathbb {N} }
+Set_(mathematics)_27,{\displaystyle \mathbb {N} }
+Set_(mathematics)_28,{\displaystyle A^{\text{c}}=\{a\in U:a\notin A\}}
+Set_(mathematics)_29,"{\displaystyle A\,\Delta \,B=(A\setminus B)\cup (B\setminus A)}"
+Set_(mathematics)_30,{\displaystyle |A\cup B|=|A|+|B|-|A\cap B|.}
+Set_(mathematics)_31,{\displaystyle {\begin{aligned}\left|A_{1}\cup A_{2}\cup A_{3}\cup \ldots \cup A_{n}\right|=&\left(\left|A_{1}\right|+\left|A_{2}\right|+\left|A_{3}\right|+\ldots \left|A_{n}\right|\right)\\&{}-\left(\left|A_{1}\cap A_{2}\right|+\left|A_{1}\cap A_{3}\right|+\ldots \left|A_{n-1}\cap A_{n}\right|\right)\\&{}+\ldots \\&{}+\left(-1\right)^{n-1}\left(\left|A_{1}\cap A_{2}\cap A_{3}\cap \ldots \cap A_{n}\right|\right).\end{aligned}}}

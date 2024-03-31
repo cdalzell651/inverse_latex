@@ -1,0 +1,21 @@
+name,latex
+Radar_0,{\displaystyle P_{r}={\frac {P_{t}G_{t}A_{r}\sigma F^{4}}{{(4\pi )}^{2}R_{t}^{2}R_{r}^{2}}}}
+Radar_1,{\displaystyle {G_{r}\lambda ^{2}} \over {4\pi }}
+Radar_2,{\displaystyle \lambda }
+Radar_3,{\displaystyle P_{r}={{P_{t}G_{t}A_{r}\sigma F^{4}} \over {{(4\pi )}^{2}R^{4}}}.}
+Radar_4,{\displaystyle F_{D}}
+Radar_5,{\displaystyle F_{T}}
+Radar_6,{\displaystyle V_{R}}
+Radar_7,{\displaystyle C}
+Radar_8,{\displaystyle F_{D}=2\times F_{T}\times \left({\frac {V_{R}}{C}}\right)}
+Radar_9,{\displaystyle F_{D}=F_{T}\times \left({\frac {V_{R}}{C}}\right)}
+Radar_10,{\displaystyle F_{T}}
+Radar_11,{\displaystyle F_{R}}
+Radar_12,{\displaystyle F_{T}}
+Radar_13,{\displaystyle F_{R}}
+Radar_14,{\displaystyle F_{R}}
+Radar_15,{\displaystyle |F_{D}|<{\frac {F_{R}}{2}}}
+Radar_16,{\displaystyle F_{D}}
+Radar_17,{\displaystyle |V_{R}|<{\frac {F_{R}\times {\frac {C}{F_{T}}}}{4}}}
+Radar_18,{\displaystyle H=\left({\sqrt {r^{2}+(k_{e}a_{e})^{2}+2rk_{e}a_{e}sin(\theta _{e})}}\right)-k_{e}a_{e}+h_{a}}
+Radar_19,{\displaystyle {\sqrt {2}}}

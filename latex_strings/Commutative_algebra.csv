@@ -1,0 +1,18 @@
+name,latex
+Commutative_algebra_0,{\displaystyle \mathbb {Z} }
+Commutative_algebra_1,{\displaystyle 0=\mathbb {Z} /1\mathbb {Z} }
+Commutative_algebra_2,{\displaystyle \mathbb {Z} /1\mathbb {Z} }
+Commutative_algebra_3,{\displaystyle \mathbb {Z} /p^{n}\mathbb {Z} }
+Commutative_algebra_4,{\displaystyle \mathbb {Z} (p^{\infty })}
+Commutative_algebra_5,{\displaystyle \mathbb {T} }
+Commutative_algebra_6,{\displaystyle \mathbb {Z} }
+Commutative_algebra_7,{\displaystyle \mathbb {Z} [1/p]}
+Commutative_algebra_8,{\displaystyle \mathbb {R} }
+Commutative_algebra_9,{\displaystyle \mathbb {Z} _{p}}
+Commutative_algebra_10,{\displaystyle \mathbb {Q} _{p}}
+Commutative_algebra_11,{\displaystyle \mathbb {T} _{p}}
+Commutative_algebra_12,{\displaystyle \mathbb {Z} }
+Commutative_algebra_13,{\displaystyle I=\bigcap _{i=1}^{t}Q_{i}}
+Commutative_algebra_14,{\displaystyle I=\bigcap _{i=1}^{k}P_{i}}
+Commutative_algebra_15,{\displaystyle {\frac {m}{s}}}
+Commutative_algebra_16,"{\displaystyle V(I)=\{P\in \operatorname {Spec} \,(A)\mid I\subseteq P\}}"

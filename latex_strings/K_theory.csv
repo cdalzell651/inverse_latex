@@ -1,0 +1,165 @@
+name,latex
+K_theory_0,"{\displaystyle (A,+')}"
+K_theory_1,{\displaystyle \sim }
+K_theory_2,{\displaystyle A^{2}=A\times A}
+K_theory_3,"{\displaystyle (a_{1},a_{2})\sim (b_{1},b_{2})}"
+K_theory_4,{\displaystyle c\in A}
+K_theory_5,{\displaystyle a_{1}+'b_{2}+'c=a_{2}+'b_{1}+'c.}
+K_theory_6,{\displaystyle G(A)=A^{2}/\sim }
+K_theory_7,"{\displaystyle (G(A),+)}"
+K_theory_8,"{\displaystyle [(a_{1},a_{2})]+[(b_{1},b_{2})]=[(a_{1}+'b_{1},a_{2}+'b_{2})].}"
+K_theory_9,"{\displaystyle (G(A),+)}"
+K_theory_10,{\displaystyle i:A\to G(A)}
+K_theory_11,"{\displaystyle a\mapsto [(a,0)],}"
+K_theory_12,"{\displaystyle (A,+)}"
+K_theory_13,{\displaystyle A}
+K_theory_14,{\displaystyle 0}
+K_theory_15,"{\displaystyle [(0,0)]}"
+K_theory_16,"{\displaystyle (G(A),+).}"
+K_theory_17,"{\displaystyle (0,0)\sim (n,n)}"
+K_theory_18,{\displaystyle n\in A}
+K_theory_19,{\displaystyle c=0}
+K_theory_20,{\displaystyle n=n.}
+K_theory_21,"{\displaystyle [(a,b)]+[(b,a)]=[(a+b,a+b)]=[(0,0)]}"
+K_theory_22,{\displaystyle G(A)}
+K_theory_23,"{\displaystyle [(a,b)]}"
+K_theory_24,{\displaystyle a-b.}
+K_theory_25,"{\displaystyle (a,b)\sim (a+k,b+k)}"
+K_theory_26,{\displaystyle k\in A.}
+K_theory_27,"{\displaystyle G:\mathbf {AbMon} \to \mathbf {AbGrp} ,}"
+K_theory_28,{\displaystyle U:\mathbf {AbGrp} \to \mathbf {AbMon} .}
+K_theory_29,{\displaystyle \phi :A\to U(B)}
+K_theory_30,{\displaystyle A}
+K_theory_31,"{\displaystyle B,}"
+K_theory_32,{\displaystyle G(A)\to B.}
+K_theory_33,{\displaystyle \mathbb {N} }
+K_theory_34,"{\displaystyle G((\mathbb {N} ,+))=(\mathbb {Z} ,+).}"
+K_theory_35,"{\displaystyle (a,b)}"
+K_theory_36,"{\displaystyle (a',b')}"
+K_theory_37,"{\displaystyle (4,6)\sim (3,5)\sim (2,4)\sim (1,3)\sim (0,2)}"
+K_theory_38,"{\displaystyle k:=\min\{a,b\}}"
+K_theory_39,"{\displaystyle (a,b)\sim (a-k,b-k)}"
+K_theory_40,"{\displaystyle (c,0)}"
+K_theory_41,"{\displaystyle (0,d).}"
+K_theory_42,"{\displaystyle (a,0)}"
+K_theory_43,"{\displaystyle (0,b)}"
+K_theory_44,{\displaystyle X}
+K_theory_45,{\displaystyle X}
+K_theory_46,{\displaystyle {\text{Vect}}(X)}
+K_theory_47,{\displaystyle \pi :E\to X}
+K_theory_48,{\displaystyle [E]}
+K_theory_49,{\displaystyle [E]\oplus [E']=[E\oplus E']}
+K_theory_50,"{\displaystyle ({\text{Vect}}(X),\oplus )}"
+K_theory_51,{\displaystyle \mathbb {R} ^{0}\times X\to X}
+K_theory_52,{\displaystyle X}
+K_theory_53,{\displaystyle K^{0}(X)}
+K_theory_54,{\displaystyle C^{0}(X;\mathbb {C} )}
+K_theory_55,{\displaystyle M_{n\times n}(C^{0}(X;\mathbb {C} ))}
+K_theory_56,{\displaystyle {\textbf {Idem}}(X)}
+K_theory_57,{\displaystyle K^{0}(X)}
+K_theory_58,{\displaystyle K^{0}}
+K_theory_59,{\displaystyle S^{n}}
+K_theory_60,{\displaystyle X}
+K_theory_61,{\displaystyle {\text{Vect}}(X)}
+K_theory_62,{\displaystyle X}
+K_theory_63,{\displaystyle \oplus }
+K_theory_64,"{\displaystyle ({\text{Vect}}(X),\oplus )}"
+K_theory_65,{\displaystyle K^{0}(X)}
+K_theory_66,{\displaystyle X}
+K_theory_67,{\displaystyle \operatorname {Coh} (X)}
+K_theory_68,{\displaystyle [{\mathcal {E}}]=[{\mathcal {E}}']+[{\mathcal {E}}'']}
+K_theory_69,{\displaystyle 0\to {\mathcal {E}}'\to {\mathcal {E}}\to {\mathcal {E}}''\to 0.}
+K_theory_70,{\displaystyle K_{0}(X)}
+K_theory_71,{\displaystyle K^{0}(X)}
+K_theory_72,{\displaystyle X}
+K_theory_73,{\displaystyle K_{0}(X)}
+K_theory_74,"{\displaystyle [{\mathcal {E}}]\cdot [{\mathcal {E}}']=\sum (-1)^{k}\left[\operatorname {Tor} _{k}^{{\mathcal {O}}_{X}}({\mathcal {E}},{\mathcal {E}}')\right].}"
+K_theory_75,{\displaystyle \operatorname {ch} :K_{0}(X)\otimes \mathbb {Q} \to A(X)\otimes \mathbb {Q} }
+K_theory_76,{\displaystyle K_{0}(X)}
+K_theory_77,{\displaystyle {\text{Spec}}(\mathbb {F} )}
+K_theory_78,{\displaystyle \mathbb {F} }
+K_theory_79,{\displaystyle \mathbb {N} }
+K_theory_80,{\displaystyle \mathbb {Z} }
+K_theory_81,{\displaystyle X}
+K_theory_82,{\displaystyle K(X)=K(X_{\text{red}})}
+K_theory_83,{\displaystyle \mathbb {F} }
+K_theory_84,{\displaystyle \mathbb {Z} }
+K_theory_85,{\displaystyle K_{0}\left({\text{Spec}}\left({\frac {\mathbb {F} [x]}{(x^{9})}}\times \mathbb {F} \right)\right)=\mathbb {Z} \oplus \mathbb {Z} }
+K_theory_86,{\displaystyle K(\mathbb {P} ^{n})}
+K_theory_87,{\displaystyle X}
+K_theory_88,{\displaystyle i:X\hookrightarrow \mathbb {P} ^{n}}
+K_theory_89,{\displaystyle i^{*}([i_{*}{\mathcal {E}}]\cdot [i_{*}{\mathcal {F}}])}
+K_theory_90,{\displaystyle K(X)}
+K_theory_91,{\displaystyle K(\mathbb {P} ^{n})={\frac {\mathbb {Z} [T]}{(T^{n+1})}}}
+K_theory_92,{\displaystyle \mathbb {P} ^{n}}
+K_theory_93,{\displaystyle \mathbb {P} ^{n}=\mathbb {A} ^{n}\coprod \mathbb {A} ^{n-1}\coprod \cdots \coprod \mathbb {A} ^{0}}
+K_theory_94,{\displaystyle \mathbb {Z} }
+K_theory_95,"{\displaystyle \mathbb {A} ^{n-k_{1}},\mathbb {A} ^{n-k_{2}}}"
+K_theory_96,{\displaystyle \mathbb {A} ^{n-k_{1}}\cap \mathbb {A} ^{n-k_{2}}=\mathbb {A} ^{n-k_{1}-k_{2}}}
+K_theory_97,{\displaystyle k_{1}+k_{2}\leq n}
+K_theory_98,{\displaystyle {\mathcal {E}}}
+K_theory_99,{\displaystyle X}
+K_theory_100,{\displaystyle \mathbb {P} ({\mathcal {E}})=\operatorname {Proj} (\operatorname {Sym} ^{\bullet }({\mathcal {E}}^{\vee }))}
+K_theory_101,{\displaystyle K(X)}
+K_theory_102,"{\displaystyle 1,\xi ,\dots ,\xi ^{n-1}}"
+K_theory_103,{\displaystyle \mathbb {P} _{\mathbb {F} }^{n}}
+K_theory_104,{\displaystyle K_{0}}
+K_theory_105,{\displaystyle K(\mathbb {P} ^{n})}
+K_theory_106,{\displaystyle \mathbb {F} }
+K_theory_107,{\displaystyle K^{0}(X)}
+K_theory_108,{\displaystyle K_{0}(X)}
+K_theory_109,{\displaystyle D_{sg}(X)}
+K_theory_110,{\displaystyle \cdots \to K^{0}(X)\to K_{0}(X)\to K_{sg}(X)\to 0}
+K_theory_111,{\displaystyle X}
+K_theory_112,{\displaystyle E\to X_{sm}}
+K_theory_113,{\displaystyle X_{sm}\hookrightarrow X}
+K_theory_114,{\displaystyle G_{i}}
+K_theory_115,{\displaystyle K^{0}(X)\to K_{0}(X)}
+K_theory_116,"{\displaystyle {\text{lcm}}(|G_{1}|,\ldots ,|G_{k}|)^{n-1}}"
+K_theory_117,{\displaystyle n=\dim X}
+K_theory_118,{\displaystyle C}
+K_theory_119,{\displaystyle K_{0}(C)=\mathbb {Z} \oplus {\text{Pic}}(C)}
+K_theory_120,{\displaystyle C}
+K_theory_121,"{\displaystyle E_{1}^{p,q}=\coprod _{x\in X^{(p)}}K^{-p-q}(k(x))\Rightarrow K_{-p-q}(X)}"
+K_theory_122,{\displaystyle X^{(p)}}
+K_theory_123,{\displaystyle p}
+K_theory_124,{\displaystyle x:Y\to X}
+K_theory_125,{\displaystyle p}
+K_theory_126,{\displaystyle k(x)}
+K_theory_127,"{\displaystyle E_{2}^{p,-p}\cong {\text{CH}}^{p}(X)}"
+K_theory_128,{\displaystyle X}
+K_theory_129,{\displaystyle K_{0}(C)}
+K_theory_130,{\displaystyle C}
+K_theory_131,{\displaystyle 2}
+K_theory_132,"{\displaystyle E_{1}^{0,q},E_{1}^{1,q}}"
+K_theory_133,"{\displaystyle {\begin{aligned}E_{\infty }^{1,-1}\cong E_{2}^{1,-1}&\cong {\text{CH}}^{1}(C)\\E_{\infty }^{0,0}\cong E_{2}^{0,0}&\cong {\text{CH}}^{0}(C)\end{aligned}}}"
+K_theory_134,{\displaystyle K_{0}(C)}
+K_theory_135,{\displaystyle 0\to F^{1}(K_{0}(X))\to K_{0}(X)\to K_{0}(X)/F^{1}(K_{0}(X))\to 0}
+K_theory_136,{\displaystyle {\text{CH}}^{1}(C)\cong {\text{Pic}}(C)}
+K_theory_137,{\displaystyle CH^{0}(C)\cong \mathbb {Z} }
+K_theory_138,"{\displaystyle {\text{Ext}}_{\text{Ab}}^{1}(\mathbb {Z} ,G)=0}"
+K_theory_139,{\displaystyle C}
+K_theory_140,{\displaystyle g}
+K_theory_141,{\displaystyle \mathbb {C} }
+K_theory_142,{\displaystyle K_{0}(C)\cong \mathbb {Z} \oplus (\mathbb {C} ^{g}/\mathbb {Z} ^{2g})}
+K_theory_143,{\displaystyle Y\hookrightarrow X}
+K_theory_144,{\displaystyle 0\to \Omega _{Y}\to \Omega _{X}|_{Y}\to C_{Y/X}\to 0}
+K_theory_145,{\displaystyle C_{Y/X}}
+K_theory_146,{\displaystyle Y}
+K_theory_147,{\displaystyle X}
+K_theory_148,{\displaystyle Y}
+K_theory_149,{\displaystyle X}
+K_theory_150,{\displaystyle [\Omega _{X}|_{Y}]-[\Omega _{Y}]}
+K_theory_151,"{\displaystyle Y_{1},Y_{2}\subset X}"
+K_theory_152,{\displaystyle Z=Y_{1}\cap Y_{2}}
+K_theory_153,{\displaystyle [T_{Z}]^{vir}=[T_{Y_{1}}]|_{Z}+[T_{Y_{2}}]|_{Z}-[T_{X}]|_{Z}.}
+K_theory_154,{\displaystyle \operatorname {ch} (L)=\exp(c_{1}(L)):=\sum _{m=0}^{\infty }{\frac {c_{1}(L)^{m}}{m!}}.}
+K_theory_155,{\displaystyle V=L_{1}\oplus \dots \oplus L_{n}}
+K_theory_156,"{\displaystyle x_{i}=c_{1}(L_{i}),}"
+K_theory_157,{\displaystyle \operatorname {ch} (V)=e^{x_{1}}+\dots +e^{x_{n}}:=\sum _{m=0}^{\infty }{\frac {1}{m!}}(x_{1}^{m}+\dots +x_{n}^{m}).}
+K_theory_158,{\displaystyle \operatorname {Coh} ^{G}(X)}
+K_theory_159,{\displaystyle X}
+K_theory_160,{\displaystyle G}
+K_theory_161,{\displaystyle K_{i}^{G}(X)=\pi _{i}(B^{+}\operatorname {Coh} ^{G}(X)).}
+K_theory_162,{\displaystyle K_{0}^{G}(C)}
+K_theory_163,{\displaystyle \operatorname {Coh} ^{G}(X)}

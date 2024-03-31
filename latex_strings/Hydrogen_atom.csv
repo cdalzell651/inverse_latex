@@ -1,0 +1,121 @@
+name,latex
+Hydrogen_atom_0,"{\displaystyle t_{\text{fall}}\approx {\frac {a_{0}^{3}}{4r_{0}^{2}c}}\approx 1.6\times 10^{-11}{\text{ s}},}"
+Hydrogen_atom_1,{\displaystyle a_{0}}
+Hydrogen_atom_2,{\displaystyle r_{0}}
+Hydrogen_atom_3,{\displaystyle L=n\hbar }
+Hydrogen_atom_4,"{\displaystyle n=1,2,3,\ldots }"
+Hydrogen_atom_5,{\displaystyle \hbar }
+Hydrogen_atom_6,{\displaystyle 2\pi }
+Hydrogen_atom_7,"{\displaystyle E_{n}=-{\frac {m_{e}e^{4}}{2(4\pi \varepsilon _{0})^{2}\hbar ^{2}}}{\frac {1}{n^{2}}},}"
+Hydrogen_atom_8,{\displaystyle m_{e}}
+Hydrogen_atom_9,{\displaystyle e}
+Hydrogen_atom_10,{\displaystyle \varepsilon _{0}}
+Hydrogen_atom_11,{\displaystyle n}
+Hydrogen_atom_12,{\displaystyle n=1}
+Hydrogen_atom_13,"{\displaystyle {\frac {m_{e}e^{4}}{2(4\pi \varepsilon _{0})^{2}\hbar ^{2}}}={\frac {m_{\text{e}}e^{4}}{8h^{2}\varepsilon _{0}^{2}}}=1\,{\text{Ry}}=13.605\;693\;122\;994(26)\,{\text{eV}}}"
+Hydrogen_atom_14,{\displaystyle R_{\infty }}
+Hydrogen_atom_15,"{\displaystyle 1\,{\text{Ry}}\equiv hcR_{\infty }.}"
+Hydrogen_atom_16,"{\displaystyle R_{M}={\frac {R_{\infty }}{1+m_{\text{e}}/M}},}"
+Hydrogen_atom_17,{\displaystyle M}
+Hydrogen_atom_18,"{\displaystyle m_{\text{e}}/M,}"
+Hydrogen_atom_19,{\displaystyle \alpha ^{2}\approx 10^{-5}}
+Hydrogen_atom_20,{\displaystyle \alpha }
+Hydrogen_atom_21,{\displaystyle r}
+Hydrogen_atom_22,{\displaystyle 1\mathrm {s} }
+Hydrogen_atom_23,{\displaystyle \psi _{1\mathrm {s} }(r)={\frac {1}{{\sqrt {\pi }}a_{0}^{3/2}}}e^{-r/a_{0}}.}
+Hydrogen_atom_24,{\displaystyle a_{0}}
+Hydrogen_atom_25,{\displaystyle r}
+Hydrogen_atom_26,{\displaystyle |\psi _{1\mathrm {s} }(r)|^{2}={\frac {1}{\pi a_{0}^{3}}}e^{-2r/a_{0}}.}
+Hydrogen_atom_27,{\displaystyle 1\mathrm {s} }
+Hydrogen_atom_28,{\displaystyle r}
+Hydrogen_atom_29,{\displaystyle 4\pi r^{2}}
+Hydrogen_atom_30,"{\displaystyle P(r)\,dr}"
+Hydrogen_atom_31,{\displaystyle r}
+Hydrogen_atom_32,{\displaystyle dr}
+Hydrogen_atom_33,"{\displaystyle P(r)\,dr=4\pi r^{2}|\psi _{1\mathrm {s} }(r)|^{2}\,dr.}"
+Hydrogen_atom_34,{\displaystyle r=a_{0}}
+Hydrogen_atom_35,{\displaystyle a_{0}}
+Hydrogen_atom_36,{\displaystyle r}
+Hydrogen_atom_37,"{\displaystyle P(r)\,dr}"
+Hydrogen_atom_38,{\displaystyle 1\mathrm {s} }
+Hydrogen_atom_39,"{\displaystyle (n=1,\ell =0,m=0)}"
+Hydrogen_atom_40,"{\displaystyle (2,0,0)}"
+Hydrogen_atom_41,"{\displaystyle (2,1,0)}"
+Hydrogen_atom_42,"{\displaystyle (2,1,\pm 1)}"
+Hydrogen_atom_43,{\displaystyle n=2}
+Hydrogen_atom_44,{\displaystyle 2\mathrm {s} }
+Hydrogen_atom_45,{\displaystyle 2\mathrm {p} }
+Hydrogen_atom_46,{\displaystyle 2\mathrm {s} }
+Hydrogen_atom_47,"{\displaystyle \psi _{2,0,0}={\frac {1}{4{\sqrt {2\pi }}a_{0}^{3/2}}}\left(2-{\frac {r}{a_{0}}}\right)e^{-r/2a_{0}},}"
+Hydrogen_atom_48,{\displaystyle 2\mathrm {p} }
+Hydrogen_atom_49,"{\displaystyle \psi _{2,1,0}={\frac {1}{4{\sqrt {2\pi }}a_{0}^{3/2}}}{\frac {r}{a_{0}}}e^{-r/2a_{0}}\cos \theta ,}"
+Hydrogen_atom_50,"{\displaystyle \psi _{2,1,\pm 1}=\mp {\frac {1}{8{\sqrt {\pi }}a_{0}^{3/2}}}{\frac {r}{a_{0}}}e^{-r/2a_{0}}\sin \theta ~e^{\pm i\varphi }.}"
+Hydrogen_atom_51,{\displaystyle 2\mathrm {s} }
+Hydrogen_atom_52,{\displaystyle 2\mathrm {p} }
+Hydrogen_atom_53,{\displaystyle \mu =m_{e}M/(m_{e}+M)}
+Hydrogen_atom_54,"{\displaystyle \left(-{\frac {\hbar ^{2}}{2\mu }}\nabla ^{2}-{\frac {e^{2}}{4\pi \varepsilon _{0}r}}\right)\psi (r,\theta ,\varphi )=E\psi (r,\theta ,\varphi )}"
+Hydrogen_atom_55,{\displaystyle -{\frac {\hbar ^{2}}{2\mu }}\left[{\frac {1}{r^{2}}}{\frac {\partial }{\partial r}}\left(r^{2}{\frac {\partial \psi }{\partial r}}\right)+{\frac {1}{r^{2}\sin \theta }}{\frac {\partial }{\partial \theta }}\left(\sin \theta {\frac {\partial \psi }{\partial \theta }}\right)+{\frac {1}{r^{2}\sin ^{2}\theta }}{\frac {\partial ^{2}\psi }{\partial \varphi ^{2}}}\right]-{\frac {e^{2}}{4\pi \varepsilon _{0}r}}\psi =E\psi }
+Hydrogen_atom_56,{\displaystyle R(r)}
+Hydrogen_atom_57,{\displaystyle \Theta (\theta )}
+Hydrogen_atom_58,{\displaystyle \Phi (\varphi )}
+Hydrogen_atom_59,{\displaystyle {\frac {d}{dr}}\left(r^{2}{\frac {dR}{dr}}\right)+{\frac {2\mu r^{2}}{\hbar ^{2}}}\left(E+{\frac {e^{2}}{4\pi \varepsilon _{0}r}}\right)R-AR=0}
+Hydrogen_atom_60,{\displaystyle {\frac {\sin \theta }{\Theta }}{\frac {d}{d\theta }}\left(\sin \theta {\frac {d\Theta }{d\theta }}\right)+A\sin ^{2}\theta -B=0}
+Hydrogen_atom_61,{\displaystyle {\frac {1}{\Phi }}{\frac {d^{2}\Phi }{d\varphi ^{2}}}+B=0.}
+Hydrogen_atom_62,"{\displaystyle \psi _{n\ell m}(r,\theta ,\varphi )={\sqrt {{\left({\frac {2}{na_{0}^{*}}}\right)}^{3}{\frac {(n-\ell -1)!}{2n(n+\ell )!}}}}e^{-\rho /2}\rho ^{\ell }L_{n-\ell -1}^{2\ell +1}(\rho )Y_{\ell }^{m}(\theta ,\varphi )}"
+Hydrogen_atom_63,"{\displaystyle \psi _{4,3,1}}"
+Hydrogen_atom_64,{\displaystyle \rho ={2r \over {na_{0}^{*}}}}
+Hydrogen_atom_65,{\displaystyle a_{0}^{*}}
+Hydrogen_atom_66,{\displaystyle a_{0}^{*}={{4\pi \varepsilon _{0}\hbar ^{2}} \over {\mu e^{2}}}}
+Hydrogen_atom_67,{\displaystyle L_{n-\ell -1}^{2\ell +1}(\rho )}
+Hydrogen_atom_68,{\displaystyle n-\ell -1}
+Hydrogen_atom_69,"{\displaystyle Y_{\ell }^{m}(\theta ,\varphi )}"
+Hydrogen_atom_70,{\displaystyle \ell }
+Hydrogen_atom_71,{\displaystyle m}
+Hydrogen_atom_72,{\displaystyle (n+\ell )!}
+Hydrogen_atom_73,{\displaystyle L_{n+\ell }^{2\ell +1}(\rho )}
+Hydrogen_atom_74,"{\displaystyle n=1,2,3,\ldots }"
+Hydrogen_atom_75,"{\displaystyle \ell =0,1,2,\ldots ,n-1}"
+Hydrogen_atom_76,"{\displaystyle m=-\ell ,\ldots ,\ell }"
+Hydrogen_atom_77,"{\displaystyle \int _{0}^{\infty }r^{2}\,dr\int _{0}^{\pi }\sin \theta \,d\theta \int _{0}^{2\pi }d\varphi \,\psi _{n\ell m}^{*}(r,\theta ,\varphi )\psi _{n'\ell 'm'}(r,\theta ,\varphi )=\langle n,\ell ,m|n',\ell ',m'\rangle =\delta _{nn'}\delta _{\ell \ell '}\delta _{mm'},}"
+Hydrogen_atom_78,"{\displaystyle |n,\ell ,m\rangle }"
+Hydrogen_atom_79,{\displaystyle \psi _{n\ell m}}
+Hydrogen_atom_80,{\displaystyle \delta }
+Hydrogen_atom_81,"{\displaystyle \varphi (p,\theta _{p},\varphi _{p})=(2\pi \hbar )^{-3/2}\int e^{-i{\vec {p}}\cdot {\vec {r}}/\hbar }\psi (r,\theta ,\varphi )\,dV,}"
+Hydrogen_atom_82,"{\displaystyle \varphi (p,\theta _{p},\varphi _{p})={\sqrt {{\frac {2}{\pi }}{\frac {(n-\ell -1)!}{(n+\ell )!}}}}n^{2}2^{2\ell +2}\ell !{\frac {n^{\ell }p^{\ell }}{(n^{2}p^{2}+1)^{\ell +2}}}C_{n-\ell -1}^{\ell +1}\left({\frac {n^{2}p^{2}-1}{n^{2}p^{2}+1}}\right)Y_{\ell }^{m}(\theta _{p},\varphi _{p}),}"
+Hydrogen_atom_83,{\displaystyle C_{N}^{\alpha }(x)}
+Hydrogen_atom_84,{\displaystyle p}
+Hydrogen_atom_85,{\displaystyle \hbar /a_{0}^{*}}
+Hydrogen_atom_86,{\displaystyle \ell }
+Hydrogen_atom_87,{\displaystyle m}
+Hydrogen_atom_88,"{\displaystyle \ell =0,1,2,\ldots }"
+Hydrogen_atom_89,"{\displaystyle m=-\ell ,\ldots ,+\ell }"
+Hydrogen_atom_90,{\displaystyle z}
+Hydrogen_atom_91,{\displaystyle 1/r}
+Hydrogen_atom_92,{\displaystyle r}
+Hydrogen_atom_93,"{\displaystyle n=1,2,3,\ldots }"
+Hydrogen_atom_94,{\displaystyle n-1}
+Hydrogen_atom_95,"{\displaystyle \ell =0,1,\ldots ,n-1}"
+Hydrogen_atom_96,{\displaystyle \ell }
+Hydrogen_atom_97,{\displaystyle m}
+Hydrogen_atom_98,{\displaystyle n}
+Hydrogen_atom_99,{\displaystyle \ell }
+Hydrogen_atom_100,{\displaystyle 1/r}
+Hydrogen_atom_101,{\displaystyle z}
+Hydrogen_atom_102,{\displaystyle z}
+Hydrogen_atom_103,{\displaystyle \ell }
+Hydrogen_atom_104,{\displaystyle m'}
+Hydrogen_atom_105,{\displaystyle z'}
+Hydrogen_atom_106,{\displaystyle m}
+Hydrogen_atom_107,{\displaystyle \ell }
+Hydrogen_atom_108,{\displaystyle z}
+Hydrogen_atom_109,"{\displaystyle {\begin{aligned}E_{j\,n}={}&-\mu c^{2}\left[1-\left(1+\left[{\frac {\alpha }{n-j-{\frac {1}{2}}+{\sqrt {\left(j+{\frac {1}{2}}\right)^{2}-\alpha ^{2}}}}}\right]^{2}\right)^{-1/2}\right]\\\approx {}&-{\frac {\mu c^{2}\alpha ^{2}}{2n^{2}}}\left[1+{\frac {\alpha ^{2}}{n^{2}}}\left({\frac {n}{j+{\frac {1}{2}}}}-{\frac {3}{4}}\right)\right],\end{aligned}}}"
+Hydrogen_atom_110,{\displaystyle \alpha }
+Hydrogen_atom_111,{\displaystyle j}
+Hydrogen_atom_112,{\displaystyle \left|\ell \pm {\tfrac {1}{2}}\right|}
+Hydrogen_atom_113,{\displaystyle n-1}
+Hydrogen_atom_114,{\displaystyle \ell }
+Hydrogen_atom_115,{\displaystyle m}
+Hydrogen_atom_116,{\displaystyle \varphi }
+Hydrogen_atom_117,{\displaystyle \ell -m}
+Hydrogen_atom_118,{\displaystyle \theta }
+Hydrogen_atom_119,{\displaystyle n-\ell -1}

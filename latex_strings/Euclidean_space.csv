@@ -1,0 +1,109 @@
+name,latex
+Euclidean_space_0,{\displaystyle \mathbf {E} ^{n}}
+Euclidean_space_1,{\displaystyle \mathbb {E} ^{n}}
+Euclidean_space_2,{\displaystyle \mathbb {R} ^{n}}
+Euclidean_space_3,{\displaystyle \mathbb {R} ^{n}}
+Euclidean_space_4,{\displaystyle \mathbb {R} ^{n}}
+Euclidean_space_5,{\displaystyle \mathbb {R} ^{n}.}
+Euclidean_space_6,{\displaystyle \mathbb {R} ^{n}}
+Euclidean_space_7,{\displaystyle \mathbb {R} ^{n}}
+Euclidean_space_8,{\displaystyle {\overrightarrow {E}}.}
+Euclidean_space_9,{\displaystyle {\overrightarrow {E}}}
+Euclidean_space_10,{\displaystyle P+(v+w)=(P+v)+w.}
+Euclidean_space_11,{\displaystyle {\overrightarrow {PQ}}{\vphantom {\frac {)}{}}}.}
+Euclidean_space_12,{\displaystyle \mathbb {R} ^{n}}
+Euclidean_space_13,{\displaystyle {\overrightarrow {E}}}
+Euclidean_space_14,{\displaystyle \mathbb {R} ^{n}.}
+Euclidean_space_15,{\displaystyle \mathbb {R} ^{n}}
+Euclidean_space_16,{\displaystyle {\overrightarrow {E}}}
+Euclidean_space_17,"{\displaystyle {\overrightarrow {F}}={\Bigl \{}{\overrightarrow {PQ}}\mathrel {\Big |} P\in F,Q\in F{\Bigr \}}{\vphantom {\frac {(}{}}}}"
+Euclidean_space_18,{\displaystyle {\overrightarrow {E}}.}
+Euclidean_space_19,{\displaystyle {\overrightarrow {F}}}
+Euclidean_space_20,{\displaystyle {\overrightarrow {F}}}
+Euclidean_space_21,{\displaystyle F={\Bigl \{}P+v\mathrel {\Big |} v\in {\overrightarrow {F}}{\Bigr \}}.}
+Euclidean_space_22,{\displaystyle {\overrightarrow {V}}}
+Euclidean_space_23,"{\displaystyle {\overrightarrow {E}},}"
+Euclidean_space_24,{\displaystyle P+{\overrightarrow {V}}={\Bigl \{}P+v\mathrel {\Big |} v\in {\overrightarrow {V}}{\Bigr \}}}
+Euclidean_space_25,{\displaystyle {\overrightarrow {V}}}
+Euclidean_space_26,{\displaystyle {\overrightarrow {V}}}
+Euclidean_space_27,{\displaystyle {\overrightarrow {E}}}
+Euclidean_space_28,{\displaystyle {\overrightarrow {E}}}
+Euclidean_space_29,"{\displaystyle {\Bigl \{}P+\lambda {\overrightarrow {PQ}}\mathrel {\Big |} \lambda \in \mathbb {R} {\Bigr \}},{\vphantom {\frac {(}{}}}}"
+Euclidean_space_30,"{\displaystyle {\Bigl \{}O+(1-\lambda ){\overrightarrow {OP}}+\lambda {\overrightarrow {OQ}}\mathrel {\Big |} \lambda \in \mathbb {R} {\Bigr \}},{\vphantom {\frac {(}{}}}}"
+Euclidean_space_31,{\displaystyle {\bigl \{}(1-\lambda )P+\lambda Q\mathrel {\big |} \lambda \in \mathbb {R} {\bigr \}}.}
+Euclidean_space_32,{\displaystyle PQ=QP={\Bigl \{}P+\lambda {\overrightarrow {PQ}}\mathrel {\Big |} 0\leq \lambda \leq 1{\Bigr \}}.{\vphantom {\frac {(}{}}}}
+Euclidean_space_33,{\displaystyle T=S+v.}
+Euclidean_space_34,{\displaystyle P+{\overrightarrow {S}}.}
+Euclidean_space_35,{\displaystyle {\overrightarrow {E}}}
+Euclidean_space_36,"{\displaystyle {\begin{aligned}{\overrightarrow {E}}\times {\overrightarrow {E}}&\to \mathbb {R} \\(x,y)&\mapsto \langle x,y\rangle \end{aligned}}}"
+Euclidean_space_37,"{\displaystyle \langle x,x\rangle }"
+Euclidean_space_38,"{\displaystyle \langle x,y\rangle }"
+Euclidean_space_39,{\displaystyle \|x\|={\sqrt {x\cdot x}}.}
+Euclidean_space_40,{\displaystyle {\overrightarrow {E}}}
+Euclidean_space_41,"{\displaystyle d(P,Q)={\Bigl \|}{\overrightarrow {PQ}}{\Bigr \|}.{\vphantom {\frac {(}{}}}}"
+Euclidean_space_42,{\displaystyle |PQ|}
+Euclidean_space_43,"{\displaystyle d(P,Q)\leq d(P,R)+d(R,Q).}"
+Euclidean_space_44,{\displaystyle {\overrightarrow {E}}}
+Euclidean_space_45,{\displaystyle u\cdot v=0}
+Euclidean_space_46,{\displaystyle {\overrightarrow {E}}}
+Euclidean_space_47,{\displaystyle {\overrightarrow {AB}}{\vphantom {\frac {)}{}}}}
+Euclidean_space_48,{\displaystyle {\overrightarrow {AC}}{\vphantom {\frac {)}{}}}}
+Euclidean_space_49,{\displaystyle |BC|^{2}=|AB|^{2}+|AC|^{2}.}
+Euclidean_space_51,{\displaystyle {\overrightarrow {AB}}\cdot {\overrightarrow {AC}}=0{\vphantom {\frac {(}{}}}}
+Euclidean_space_52,{\displaystyle {\overrightarrow {E}}}
+Euclidean_space_53,"{\displaystyle \theta =\arccos \left({\frac {x\cdot y}{|x|\,|y|}}\right)}"
+Euclidean_space_54,"{\displaystyle \operatorname {angle} (\lambda x,\mu y)={\begin{cases}\operatorname {angle} (x,y)\qquad \qquad {\text{if }}\lambda {\text{ and }}\mu {\text{ have the same sign}}\\\pi -\operatorname {angle} (x,y)\qquad {\text{otherwise}}.\end{cases}}}"
+Euclidean_space_55,{\displaystyle {\overrightarrow {AB}}{\vphantom {\frac {(}{}}}}
+Euclidean_space_56,{\displaystyle {\overrightarrow {AC}}.{\vphantom {\frac {(}{}}}}
+Euclidean_space_57,"{\displaystyle (e_{1},\dots ,e_{n})}"
+Euclidean_space_58,{\displaystyle \|e_{i}\|=1}
+Euclidean_space_59,{\displaystyle e_{i}\cdot e_{j}=0}
+Euclidean_space_60,"{\displaystyle (b_{1},\dots ,b_{n}),}"
+Euclidean_space_61,"{\displaystyle (e_{1},\dots ,e_{i})}"
+Euclidean_space_62,"{\displaystyle (b_{1},\dots ,b_{i})}"
+Euclidean_space_63,"{\displaystyle {\overrightarrow {E}},}"
+Euclidean_space_64,"{\displaystyle (O,e_{1},\dots ,e_{n})}"
+Euclidean_space_65,{\displaystyle {\overrightarrow {E}}}
+Euclidean_space_66,{\displaystyle {\overrightarrow {E}}}
+Euclidean_space_67,"{\displaystyle e_{1},\dots ,e_{n}.}"
+Euclidean_space_68,{\displaystyle v}
+Euclidean_space_69,"{\displaystyle (e_{1},e_{2},e_{3})}"
+Euclidean_space_70,"{\displaystyle (x,y,z)}"
+Euclidean_space_71,"{\displaystyle (\alpha _{1},\alpha _{2},\alpha _{3})}"
+Euclidean_space_72,{\displaystyle v=\alpha _{1}e_{1}+\alpha _{2}e_{2}+\alpha _{3}e_{3}}
+Euclidean_space_73,{\displaystyle \alpha _{i}}
+Euclidean_space_74,{\displaystyle v\cdot e_{i}.}
+Euclidean_space_75,{\displaystyle {\overrightarrow {OP}}.{\vphantom {\frac {(}{}}}}
+Euclidean_space_76,{\displaystyle \mathbb {R} ^{n}.}
+Euclidean_space_77,"{\displaystyle d(f(x),f(y))=d(x,y).}"
+Euclidean_space_78,"{\displaystyle \|f(x)\|=\|x\|,}"
+Euclidean_space_79,"{\displaystyle f(x)\cdot f(y)=x\cdot y,}"
+Euclidean_space_80,{\displaystyle x\cdot y={\tfrac {1}{2}}\left(\|x+y\|^{2}-\|x\|^{2}-\|y\|^{2}\right).}
+Euclidean_space_81,{\displaystyle f\colon E\to F}
+Euclidean_space_82,{\displaystyle {\overrightarrow {f}}\colon {\overrightarrow {E}}\to {\overrightarrow {F}}}
+Euclidean_space_83,{\displaystyle {\overrightarrow {f}}\colon {\overrightarrow {E}}\to {\overrightarrow {F}}}
+Euclidean_space_84,{\displaystyle f\colon E\to F}
+Euclidean_space_85,{\displaystyle f(P)=O'+{\overrightarrow {f}}{\Bigl (}{\overrightarrow {OP}}{\Bigr )}{\vphantom {\frac {(}{}}}}
+Euclidean_space_86,{\displaystyle {\overrightarrow {E}}}
+Euclidean_space_87,"{\displaystyle P\mapsto {\overrightarrow {OP}},{\vphantom {\frac {(}{}}}}"
+Euclidean_space_88,{\displaystyle v\mapsto O+v.}
+Euclidean_space_89,"{\displaystyle (O,e_{1},\dots ,e_{n})}"
+Euclidean_space_90,"{\displaystyle {\begin{aligned}E&\to \mathbb {R} ^{n}\\P&\mapsto {\Bigl (}e_{1}\cdot {\overrightarrow {OP}},\dots ,e_{n}\cdot {\overrightarrow {OP}}{\Bigr )},{\vphantom {\frac {(}{}}}\end{aligned}}}"
+Euclidean_space_91,"{\displaystyle {\begin{aligned}\mathbb {R} ^{n}&\to E\\(x_{1}\dots ,x_{n})&\mapsto \left(O+x_{1}e_{1}+\dots +x_{n}e_{n}\right).\end{aligned}}}"
+Euclidean_space_92,{\displaystyle \mathbb {R} ^{n}}
+Euclidean_space_93,{\displaystyle P\to P+v.}
+Euclidean_space_94,{\displaystyle {\overrightarrow {f}}}
+Euclidean_space_95,"{\displaystyle {\overrightarrow {PQ}},{\vphantom {\frac {(}{}}}}"
+Euclidean_space_96,{\displaystyle {\overrightarrow {f}}{\Bigl (}{\overrightarrow {OP}}{\Bigr )}=f(P)-f(O).{\vphantom {\frac {(}{}}}}
+Euclidean_space_97,{\displaystyle f\to {\overrightarrow {f}}}
+Euclidean_space_98,{\displaystyle g=t^{-1}\circ f}
+Euclidean_space_99,"{\displaystyle f=t\circ g,}"
+Euclidean_space_100,{\displaystyle f\to {\overrightarrow {f}}}
+Euclidean_space_101,"{\displaystyle \mathbb {R} ^{n},}"
+Euclidean_space_102,"{\displaystyle x^{2}+y^{2}+z^{2}-t^{2},}"
+Euclidean_space_103,{\displaystyle f(\lambda x+\mu y)-\lambda f(x)-\mu f(y)=0}
+Euclidean_space_104,"{\displaystyle \|f(x)\|^{2},}"
+Euclidean_space_105,"{\displaystyle \|f(y)\|^{2},}"
+Euclidean_space_106,{\displaystyle f(x)\cdot f(y).}
+Euclidean_space_107,"{\displaystyle \|x\|^{2},\|y\|^{2},}"
+Euclidean_space_108,"{\displaystyle x\cdot y,}"

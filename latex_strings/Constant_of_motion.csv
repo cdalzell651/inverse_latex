@@ -1,0 +1,24 @@
+name,latex
+Constant_of_motion_0,{\displaystyle A}
+Constant_of_motion_1,"{\displaystyle 0={\frac {dA}{dt}}={\frac {\partial A}{\partial t}}+\{A,H\},}"
+Constant_of_motion_2,{\displaystyle A}
+Constant_of_motion_3,"{\displaystyle {\frac {\partial A}{\partial t}}=-\{A,H\}.}"
+Constant_of_motion_4,{\displaystyle A}
+Constant_of_motion_5,{\displaystyle B}
+Constant_of_motion_6,"{\displaystyle \{A,B\}}"
+Constant_of_motion_7,"{\displaystyle {\frac {d}{dt}}\langle \psi |Q|\psi \rangle =-{\frac {1}{i\hbar }}\left\langle \psi \right|\left[H,Q\right]\left|\psi \right\rangle +\left\langle \psi \right|{\frac {dQ}{dt}}\left|\psi \right\rangle \,}"
+Constant_of_motion_8,"{\displaystyle [H,Q]=HQ-QH\,}"
+Constant_of_motion_9,"{\displaystyle Q=Q(x,p,t)}"
+Constant_of_motion_10,{\displaystyle i\hbar {\frac {\partial \psi }{\partial t}}=H\psi .}
+Constant_of_motion_11,"{\displaystyle {\begin{aligned}{\frac {d}{dt}}\left\langle Q\right\rangle &={\frac {d}{dt}}\left\langle \psi \right|Q\left|\psi \right\rangle \\[1ex]&=\left({\frac {d}{dt}}\left\langle \psi \right|\right)Q\left|\psi \right\rangle +\left\langle \psi \right|{\frac {dQ}{dt}}\left|\psi \right\rangle +\left\langle \psi \right|Q\left({\frac {d}{dt}}\left|\psi \right\rangle \right)\\[1ex]&=-{\frac {1}{i\hbar }}\left\langle H\psi \right|Q\left|\psi \right\rangle +\left\langle \psi \right|{\frac {dQ}{dt}}\left|\psi \right\rangle +{\frac {1}{i\hbar }}\left\langle \psi \right|Q\left|H\psi \right\rangle \\[1ex]&=-{\frac {1}{i\hbar }}\left\langle \psi \right|HQ\left|\psi \right\rangle +\left\langle \psi \right|{\frac {dQ}{dt}}\left|\psi \right\rangle +{\frac {1}{i\hbar }}\left\langle \psi \right|QH\left|\psi \right\rangle \\[1ex]&=-{\frac {1}{i\hbar }}\left\langle \psi \right|\left[H,Q\right]\left|\psi \right\rangle +\left\langle \psi \right|{\frac {dQ}{dt}}\left|\psi \right\rangle \end{aligned}}}"
+Constant_of_motion_12,"{\displaystyle {\frac {d}{dt}}\langle \psi |Q|\psi \rangle ={\frac {-1}{i\hbar }}\langle \psi |\left[H,Q\right]|\psi \rangle +\langle \psi |{\frac {dQ}{dt}}|\psi \rangle \,}"
+Constant_of_motion_13,"{\displaystyle \left[H,Q\right]=0}"
+Constant_of_motion_14,{\displaystyle {\frac {d}{dt}}\langle Q\rangle =0}
+Constant_of_motion_15,{\displaystyle \psi }
+Constant_of_motion_16,"{\displaystyle \left[H,Q\right]\neq 0}"
+Constant_of_motion_17,{\displaystyle {\frac {d}{dt}}\langle Q\rangle =0}
+Constant_of_motion_18,"{\displaystyle {\frac {d}{dt}}\langle Q\rangle =-{\frac {1}{i\hbar }}\langle \psi |\left[H,Q\right]|\psi \rangle =-{\frac {1}{i\hbar }}\langle \psi |\left(HQ-QH\right)|\psi \rangle }"
+Constant_of_motion_19,"{\displaystyle H|\psi \rangle =E|\psi \rangle \,}"
+Constant_of_motion_20,{\displaystyle {\begin{aligned}{\frac {d}{dt}}\langle Q\rangle &=-{\frac {1}{i\hbar }}\left(E\langle \psi |Q|\psi \rangle -E\langle \psi |Q|\psi \rangle \right)\\[1ex]&=0\end{aligned}}}
+Constant_of_motion_21,{\displaystyle \mathbf {L} =\mathbf {x} \times \mathbf {v} }
+Constant_of_motion_23,"{\displaystyle C(x,v,t)=x-vt}"

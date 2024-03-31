@@ -1,0 +1,235 @@
+name,latex
+Spacetime_0,{\displaystyle c}
+Spacetime_1,{\displaystyle \Delta {d}}
+Spacetime_2,{\displaystyle (\Delta {d})^{2}=(\Delta {x})^{2}+(\Delta {y})^{2}+(\Delta {z})^{2}}
+Spacetime_3,{\displaystyle \Delta t}
+Spacetime_4,{\displaystyle \Delta x.}
+Spacetime_5,{\displaystyle (\Delta {s})^{2}}
+Spacetime_6,{\displaystyle \Delta {x}}
+Spacetime_7,{\displaystyle \Delta {ct}=c\Delta t}
+Spacetime_8,{\displaystyle ct}
+Spacetime_9,"{\displaystyle (\Delta s)^{2}=(\Delta ct)^{2}-(\Delta x)^{2},}"
+Spacetime_10,{\displaystyle (\Delta s)^{2}=(\Delta ct)^{2}-(\Delta x)^{2}-(\Delta y)^{2}-(\Delta z)^{2}.}
+Spacetime_11,"{\displaystyle c,}"
+Spacetime_12,{\displaystyle \Delta s^{2}}
+Spacetime_13,{\displaystyle \Delta t}
+Spacetime_14,{\displaystyle \Delta s=0}
+Spacetime_15,{\displaystyle ds^{2}=c^{2}dt^{2}-dx^{2}-dy^{2}-dz^{2}.}
+Spacetime_16,"{\displaystyle (t',x',y',z')}"
+Spacetime_17,{\displaystyle ds'}
+Spacetime_18,{\displaystyle ds=ds'=0}
+Spacetime_19,{\displaystyle ds\neq 0}
+Spacetime_20,{\displaystyle ds^{2}=ds'^{2}}
+Spacetime_21,{\displaystyle s=s'}
+Spacetime_22,{\displaystyle x}
+Spacetime_23,{\displaystyle \Delta {x}}
+Spacetime_24,{\displaystyle (ct)^{2}}
+Spacetime_25,{\displaystyle x^{2}}
+Spacetime_26,"{\displaystyle s^{2},}"
+Spacetime_27,{\displaystyle s}
+Spacetime_28,{\displaystyle s^{2}}
+Spacetime_29,{\displaystyle s^{2}=(ct)^{2}-x^{2}-y^{2}-z^{2}}
+Spacetime_30,{\displaystyle s^{2}=-(ct)^{2}+x^{2}+y^{2}+z^{2}}
+Spacetime_31,{\displaystyle s^{2}}
+Spacetime_32,{\displaystyle s^{2}}
+Spacetime_33,{\displaystyle s^{2}}
+Spacetime_34,{\displaystyle x=\pm ct.}
+Spacetime_35,{\displaystyle c}
+Spacetime_36,{\displaystyle \tan(\theta )=v/c.}
+Spacetime_37,{\displaystyle {\sqrt {-s^{2}}}.}
+Spacetime_38,{\displaystyle {\sqrt {s^{2}}}.}
+Spacetime_39,"{\displaystyle (ct)^{2}-x^{2}=\pm s^{2},}"
+Spacetime_40,{\displaystyle s^{2}}
+Spacetime_41,{\displaystyle c}
+Spacetime_42,{\displaystyle c}
+Spacetime_43,{\displaystyle x'=x-vt}
+Spacetime_44,{\displaystyle y'=y}
+Spacetime_45,{\displaystyle z'=z}
+Spacetime_46,{\displaystyle t'=t.}
+Spacetime_47,{\displaystyle u'=u-v}
+Spacetime_48,"{\displaystyle u=u'+v,}"
+Spacetime_49,{\displaystyle \beta =v/c}
+Spacetime_50,{\displaystyle u={v+u' \over 1+(vu'/c^{2})}.}
+Spacetime_51,{\displaystyle \mathrm {T} =ct}
+Spacetime_52,{\displaystyle w=ct}
+Spacetime_53,{\displaystyle c=1.}
+Spacetime_55,{\displaystyle \gamma }
+Spacetime_56,{\displaystyle \gamma ={\frac {1}{\sqrt {1-v^{2}/c^{2}}}}={\frac {1}{\sqrt {1-\beta ^{2}}}}}
+Spacetime_57,{\displaystyle \gamma }
+Spacetime_58,{\displaystyle OB/OK=\gamma (1-\beta ^{2})={\frac {1}{\gamma }}}
+Spacetime_59,{\displaystyle {\begin{aligned}t'&=\gamma \left(t-{\frac {vx}{c^{2}}}\right)\\x'&=\gamma \left(x-vt\right)\\y'&=y\\z'&=z\end{aligned}}}
+Spacetime_60,{\displaystyle {\begin{aligned}t&=\gamma \left(t'+{\frac {vx'}{c^{2}}}\right)\\x&=\gamma \left(x'+vt'\right)\\y&=y'\\z&=z'\end{aligned}}}
+Spacetime_61,"{\displaystyle t'=\gamma (t-vx/c^{2}),}"
+Spacetime_62,{\displaystyle x'=\gamma (x-vt)}
+Spacetime_63,"{\displaystyle \Delta t'=\gamma (\Delta t-v\Delta x/c^{2}),}"
+Spacetime_64,{\displaystyle \Delta x'=\gamma (\Delta x-v\Delta t)}
+Spacetime_65,{\displaystyle t^{\prime }=\gamma \left(t-vx/c^{2}\right)=519.62\ {\text{s}}}
+Spacetime_66,{\displaystyle w=\gamma w'+\beta \gamma x'}
+Spacetime_67,{\displaystyle x=\gamma x'+\beta \gamma w'}
+Spacetime_68,{\displaystyle f={\frac {1}{1+\beta _{s}}}f_{0}}
+Spacetime_69,{\displaystyle f=(1-\beta _{r})f_{0}}
+Spacetime_70,{\displaystyle W=YW^{\prime }}
+Spacetime_71,{\displaystyle {T}=W+\beta w=\gamma w^{\prime }(1+\beta )}
+Spacetime_72,"{\displaystyle f={\sqrt {\frac {1-\beta }{1+\beta }}}\,f_{0}.}"
+Spacetime_73,{\displaystyle f=f'\gamma =f'/{\sqrt {1-\beta ^{2}}}}
+Spacetime_74,{\displaystyle f=f'/\gamma =f'{\sqrt {1-\beta ^{2}}}}
+Spacetime_75,{\displaystyle \gamma }
+Spacetime_76,"{\displaystyle (x,t)}"
+Spacetime_77,{\displaystyle (mc)^{\prime }=\gamma mc}
+Spacetime_78,{\displaystyle p^{\prime }=-\beta \gamma mc}
+Spacetime_79,{\displaystyle E/p=c}
+Spacetime_80,{\displaystyle E/c=p}
+Spacetime_81,{\displaystyle E^{\prime }=(1-\beta )\gamma E}
+Spacetime_82,{\displaystyle \beta \gamma mc=\gamma mv}
+Spacetime_83,{\displaystyle m_{\text{rel}}=\gamma m}
+Spacetime_84,{\displaystyle \gamma mc=m_{\text{rel}}c=E/c}
+Spacetime_85,{\displaystyle E=m_{\text{rel}}c^{2}}
+Spacetime_86,{\displaystyle E=\gamma mc^{2}={\frac {mc^{2}}{\sqrt {1-\beta ^{2}}}}}
+Spacetime_87,{\displaystyle \approx mc^{2}+{\frac {1}{2}}mv^{2}...}
+Spacetime_88,{\displaystyle E^{2}-p^{2}c^{2}=m_{\text{rest}}^{2}c^{4}}
+Spacetime_89,{\displaystyle E=\pm pc}
+Spacetime_90,"{\displaystyle P\equiv (E/c,{\vec {p}})=(E/c,p_{x},p_{y},p_{z})}"
+Spacetime_91,"{\displaystyle P\equiv (E,{\vec {p}})=(E,p_{x},p_{y},p_{z})}"
+Spacetime_92,{\displaystyle c=1.}
+Spacetime_93,{\displaystyle {\boldsymbol {p}}_{\boldsymbol {1}}=m_{1}{\boldsymbol {v}}_{\boldsymbol {1}}}
+Spacetime_94,{\displaystyle {\boldsymbol {p}}_{\boldsymbol {2}}=m_{2}{\boldsymbol {v}}_{\boldsymbol {2}}}
+Spacetime_95,{\displaystyle m=m_{1}+m_{2}}
+Spacetime_96,{\displaystyle {\boldsymbol {v_{cm}}}=\left(m_{1}{\boldsymbol {v_{1}}}+m_{2}{\boldsymbol {v_{2}}}\right)/\left(m_{1}+m_{2}\right)}
+Spacetime_97,{\displaystyle {\boldsymbol {p=p_{1}+p_{2}}}}
+Spacetime_98,{\displaystyle E_{1}/c}
+Spacetime_99,{\displaystyle E_{2}/c}
+Spacetime_100,{\displaystyle {\boldsymbol {p_{1}}}}
+Spacetime_101,{\displaystyle {\boldsymbol {p_{2}}}}
+Spacetime_102,{\displaystyle m>m_{1}+m_{2}}
+Spacetime_103,{\displaystyle v'=v-u}
+Spacetime_104,{\displaystyle p'=p-mu}
+Spacetime_105,{\displaystyle m=m_{1}+m_{2}}
+Spacetime_106,{\displaystyle p=mv}
+Spacetime_107,{\displaystyle v'=v-u}
+Spacetime_108,{\displaystyle v^{\prime }=(v-u){\Big /}\left(1-{\frac {vu}{c^{2}}}\right)}
+Spacetime_109,"{\displaystyle E_{v}=pc,}"
+Spacetime_110,{\displaystyle {\text{slope}}=\tan a={\frac {\sin a}{\cos a}}.}
+Spacetime_111,{\displaystyle {\begin{pmatrix}x'\\y'\\\end{pmatrix}}={\begin{pmatrix}\cos \theta &-\sin \theta \\\sin \theta &\cos \theta \\\end{pmatrix}}{\begin{pmatrix}x\\y\\\end{pmatrix}}.}
+Spacetime_112,{\displaystyle \beta }
+Spacetime_113,"{\displaystyle \beta \equiv \tanh \phi \equiv {\frac {v}{c}},}"
+Spacetime_114,{\displaystyle \tanh \phi ={\frac {\sinh \phi }{\cosh \phi }}={\frac {e^{\phi }-e^{-\phi }}{e^{\phi }+e^{-\phi }}}.}
+Spacetime_115,{\displaystyle \beta ={\frac {\beta _{1}+\beta _{2}}{1+\beta _{1}\beta _{2}}}=}
+Spacetime_116,{\displaystyle {\frac {\tanh \phi _{1}+\tanh \phi _{2}}{1+\tanh \phi _{1}\tanh \phi _{2}}}=}
+Spacetime_117,"{\displaystyle \tanh(\phi _{1}+\phi _{2}),}"
+Spacetime_118,{\displaystyle \phi =\phi _{1}+\phi _{2}.}
+Spacetime_119,{\displaystyle \gamma ={\frac {1}{\sqrt {1-\beta ^{2}}}}={\frac {1}{\sqrt {1-\tanh ^{2}\phi }}}}
+Spacetime_120,"{\displaystyle =\cosh \phi ,}"
+Spacetime_121,{\displaystyle \gamma \beta ={\frac {\beta }{\sqrt {1-\beta ^{2}}}}={\frac {\tanh \phi }{\sqrt {1-\tanh ^{2}\phi }}}}
+Spacetime_122,{\displaystyle =\sinh \phi .}
+Spacetime_123,"{\displaystyle {\begin{pmatrix}ct'\\x'\end{pmatrix}}={\begin{pmatrix}\cosh \phi &-\sinh \phi \\-\sinh \phi &\cosh \phi \end{pmatrix}}{\begin{pmatrix}ct\\x\end{pmatrix}},}"
+Spacetime_124,{\displaystyle {\begin{pmatrix}ct\\x\end{pmatrix}}={\begin{pmatrix}\cosh \phi &\sinh \phi \\\sinh \phi &\cosh \phi \end{pmatrix}}{\begin{pmatrix}ct'\\x'\end{pmatrix}}.}
+Spacetime_125,"{\displaystyle A=\left(A_{0},A_{1},A_{2},A_{3}\right)}"
+Spacetime_126,"{\displaystyle (ct,x,y,z)}"
+Spacetime_127,{\displaystyle {\begin{aligned}A_{0}'&=\gamma \left(A_{0}-(v/c)A_{1}\right)\\A_{1}'&=\gamma \left(A_{1}-(v/c)A_{0}\right)\\A_{2}'&=A_{2}\\A_{3}'&=A_{3}\end{aligned}}}
+Spacetime_128,"{\displaystyle (c\Delta t,\Delta x,\Delta y,\Delta z)}"
+Spacetime_129,{\displaystyle C=aA+aB}
+Spacetime_130,{\displaystyle {\vec {A}}}
+Spacetime_131,{\displaystyle {\vec {B}}}
+Spacetime_132,{\displaystyle A\cdot B\equiv }
+Spacetime_133,{\displaystyle A_{0}B_{0}-A_{1}B_{1}-A_{2}B_{2}-A_{3}B_{3}\equiv }
+Spacetime_134,{\displaystyle A_{0}B_{0}-{\vec {A}}\cdot {\vec {B}}}
+Spacetime_135,{\displaystyle A\cdot B=0.}
+Spacetime_136,"{\displaystyle A\cdot A=0,}"
+Spacetime_137,{\displaystyle c^{2}t^{2}-x^{2}}
+Spacetime_138,{\displaystyle E^{2}-p^{2}c^{2}.}
+Spacetime_139,"{\displaystyle dS\equiv (dt,dx,dy,dz)}"
+Spacetime_140,{\displaystyle d\tau }
+Spacetime_141,{\displaystyle d\tau }
+Spacetime_142,"{\displaystyle V\equiv {\frac {dS}{d\tau }}={\frac {(dt,dx,dy,dz)}{dt/\gamma }}=}"
+Spacetime_143,"{\displaystyle \gamma \left(1,{\frac {dx}{dt}},{\frac {dy}{dt}},{\frac {dz}{dt}}\right)=}"
+Spacetime_144,"{\displaystyle (\gamma ,\gamma {\vec {v}})}"
+Spacetime_145,{\displaystyle d\tau =0}
+Spacetime_146,"{\displaystyle P\equiv (E/c,{\vec {p}})=(E/c,p_{x},p_{y},p_{z})}"
+Spacetime_147,"{\displaystyle (E,{\vec {p}})}"
+Spacetime_148,"{\displaystyle (E,{\vec {p}}c).}"
+Spacetime_149,{\displaystyle \tau .}
+Spacetime_150,{\displaystyle A\equiv {\frac {dV}{d\tau }}=}
+Spacetime_151,"{\displaystyle {\frac {d}{d\tau }}(\gamma ,\gamma {\vec {v}})=}"
+Spacetime_152,"{\displaystyle \gamma \left({\frac {d\gamma }{dt}},{\frac {d(\gamma {\vec {v}})}{dt}}\right)}"
+Spacetime_153,{\displaystyle \tau .}
+Spacetime_154,{\displaystyle F\equiv {\frac {dP}{d\tau }}=}
+Spacetime_155,"{\displaystyle \gamma \left({\frac {dE}{dt}},{\frac {d{\vec {p}}}{dt}}\right)=}"
+Spacetime_156,"{\displaystyle \gamma \left({\frac {dE}{dt}},{\vec {f}}\right)}"
+Spacetime_157,{\displaystyle k}
+Spacetime_158,{\displaystyle \sigma }
+Spacetime_159,{\displaystyle A'B''}
+Spacetime_160,{\displaystyle AB}
+Spacetime_161,{\displaystyle S'.}
+Spacetime_162,{\displaystyle x_{A}}
+Spacetime_163,{\displaystyle x_{B}=x_{A}+L}
+Spacetime_164,"{\displaystyle S,}"
+Spacetime_165,{\displaystyle S'}
+Spacetime_166,{\displaystyle {\begin{aligned}x'_{A}&=\gamma \left(x_{A}-vt\right)\\x'_{B}&=\gamma \left(x_{A}+L-vt\right)\\L'&=x'_{B}-x'_{A}=\gamma L\end{aligned}}}
+Spacetime_167,{\displaystyle S}
+Spacetime_168,{\displaystyle AB}
+Spacetime_169,{\displaystyle A'B'}
+Spacetime_170,{\displaystyle S}
+Spacetime_171,{\displaystyle A'B''}
+Spacetime_172,{\displaystyle S'}
+Spacetime_173,{\displaystyle \beta }
+Spacetime_174,{\displaystyle ct}
+Spacetime_175,{\displaystyle \gamma }
+Spacetime_176,{\displaystyle \beta =ct/x.}
+Spacetime_177,"{\displaystyle c^{2}t^{2}-x^{2}=s^{2},}"
+Spacetime_178,{\displaystyle \beta (ct)=ct/{\sqrt {c^{2}t^{2}-s^{2}}}.}
+Spacetime_179,{\displaystyle \gamma =1/{\sqrt {1-\beta ^{2}}}=}
+Spacetime_180,{\displaystyle {\sqrt {c^{2}t^{2}-s^{2}}}/s}
+Spacetime_181,{\displaystyle F=dp/dt=}
+Spacetime_182,{\displaystyle dpc/d(ct)=d(\beta \gamma mc^{2})/d(ct).}
+Spacetime_183,{\displaystyle \beta (ct)}
+Spacetime_184,{\displaystyle \gamma }
+Spacetime_185,"{\displaystyle F=mc^{2}/s,}"
+Spacetime_186,{\displaystyle m+{\frac {{\frac {1}{2}}mv^{2}}{c^{2}}}=m+{\frac {mgh}{c^{2}}}}
+Spacetime_187,"{\displaystyle {\frac {E'}{E}}={\frac {h\nu \,'}{h\nu }}={\frac {m}{m+{\frac {mgh}{c^{2}}}}}=1-{\frac {gh}{c^{2}}}}"
+Spacetime_188,"{\displaystyle \Delta s^{2}=\left(1-{\frac {2GM}{c^{2}r}}\right)(c\Delta t)^{2}-\,(\Delta x)^{2}-(\Delta y)^{2}-(\Delta z)^{2}}"
+Spacetime_189,{\displaystyle (1-2GM/(c^{2}r))}
+Spacetime_190,{\displaystyle (c\Delta t)^{2}}
+Spacetime_191,{\displaystyle G}
+Spacetime_192,{\displaystyle M}
+Spacetime_193,{\displaystyle r}
+Spacetime_194,{\displaystyle (c\Delta t)^{2}}
+Spacetime_195,{\displaystyle \Delta s^{2}=\left(1-{\frac {2GM}{c^{2}r}}\right)(c\Delta t)^{2}}
+Spacetime_196,"{\displaystyle -\,\left(1+{\frac {2GM}{c^{2}r}}\right)\left[(\Delta x)^{2}+(\Delta y)^{2}+(\Delta z)^{2}\right]}"
+Spacetime_197,{\displaystyle (1-2GM/(c^{2}r))}
+Spacetime_198,{\displaystyle (c\Delta t)^{2}}
+Spacetime_199,{\displaystyle (1+2GM/(c^{2}r))}
+Spacetime_200,{\displaystyle \left[(\Delta x)^{2}+(\Delta y)^{2}+(\Delta z)^{2}\right]}
+Spacetime_201,"{\displaystyle T_{\mu \nu },}"
+Spacetime_202,{\displaystyle T^{00}}
+Spacetime_203,{\displaystyle T^{0i}}
+Spacetime_204,{\displaystyle T^{i0}}
+Spacetime_205,{\displaystyle T^{ij}}
+Spacetime_206,"{\displaystyle E=mgh,}"
+Spacetime_207,{\displaystyle v\ll c}
+Spacetime_208,{\displaystyle m_{a}}
+Spacetime_209,{\displaystyle m_{p}}
+Spacetime_210,{\displaystyle m_{i}}
+Spacetime_211,{\displaystyle m_{p}}
+Spacetime_212,{\displaystyle m_{g}}
+Spacetime_213,{\displaystyle m_{a}}
+Spacetime_214,{\displaystyle m_{p}}
+Spacetime_215,{\displaystyle m_{p}}
+Spacetime_216,{\displaystyle m_{i}}
+Spacetime_217,{\displaystyle m_{p}}
+Spacetime_218,{\displaystyle m_{i}}
+Spacetime_219,{\displaystyle m_{a}}
+Spacetime_220,{\displaystyle m_{p}}
+Spacetime_221,{\displaystyle m_{a}/m_{p}}
+Spacetime_222,"{\displaystyle (M,g)}"
+Spacetime_223,{\displaystyle g}
+Spacetime_224,"{\displaystyle (3,1)}"
+Spacetime_225,"{\displaystyle (x,y,z,t)}"
+Spacetime_226,{\displaystyle c}
+Spacetime_227,{\displaystyle p}
+Spacetime_228,{\displaystyle p}
+Spacetime_229,{\displaystyle p}
+Spacetime_230,{\displaystyle p}
+Spacetime_231,{\displaystyle q}
+Spacetime_232,{\displaystyle p}
+Spacetime_233,"{\displaystyle (x,y,z,t)}"
+Spacetime_234,{\displaystyle 5+2k}

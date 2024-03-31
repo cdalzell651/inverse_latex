@@ -1,0 +1,194 @@
+name,latex
+Fibonacci_number_0,"{\displaystyle F_{0}=0,\quad F_{1}=1,}"
+Fibonacci_number_1,{\displaystyle F_{n}=F_{n-1}+F_{n-2}}
+Fibonacci_number_2,{\displaystyle F_{0}=0}
+Fibonacci_number_3,"{\displaystyle F_{1}=F_{2}=1,}"
+Fibonacci_number_4,{\displaystyle F_{n}=F_{n-1}+F_{n-2}}
+Fibonacci_number_5,"{\displaystyle F_{n}={\frac {\varphi ^{n}-\psi ^{n}}{\varphi -\psi }}={\frac {\varphi ^{n}-\psi ^{n}}{\sqrt {5}}},}"
+Fibonacci_number_6,"{\displaystyle \varphi ={\frac {1+{\sqrt {5}}}{2}}\approx 1.61803\,39887\ldots }"
+Fibonacci_number_7,"{\displaystyle \psi ={\frac {1-{\sqrt {5}}}{2}}=1-\varphi =-{1 \over \varphi }\approx -0.61803\,39887\ldots .}"
+Fibonacci_number_8,{\displaystyle \psi =-\varphi ^{-1}}
+Fibonacci_number_9,{\displaystyle F_{n}={\frac {\varphi ^{n}-(-\varphi )^{-n}}{\sqrt {5}}}={\frac {\varphi ^{n}-(-\varphi )^{-n}}{2\varphi -1}}.}
+Fibonacci_number_11,"{\displaystyle x^{n}=x^{n-1}+x^{n-2},}"
+Fibonacci_number_13,{\displaystyle U_{n}=a\varphi ^{n}+b\psi ^{n}}
+Fibonacci_number_15,{\displaystyle \left\{{\begin{aligned}a+b&=0\\\varphi a+\psi b&=1\end{aligned}}\right.}
+Fibonacci_number_16,"{\displaystyle a={\frac {1}{\varphi -\psi }}={\frac {1}{\sqrt {5}}},\quad b=-a,}"
+Fibonacci_number_17,{\displaystyle U_{n}=a\varphi ^{n}+b\psi ^{n}}
+Fibonacci_number_20,{\displaystyle {\frac {\varphi ^{n}}{\sqrt {5}}}}
+Fibonacci_number_21,"{\displaystyle F_{n}=\left\lfloor {\frac {\varphi ^{n}}{\sqrt {5}}}\right\rceil ,\ n\geq 0.}"
+Fibonacci_number_22,"{\displaystyle n(F)=\left\lfloor \log _{\varphi }{\sqrt {5}}F\right\rceil ,\ F\geq 1.}"
+Fibonacci_number_23,"{\displaystyle n_{\mathrm {largest} }(F)=\left\lfloor \log _{\varphi }{\sqrt {5}}(F+1/2)\right\rfloor ,\ F\geq 0,}"
+Fibonacci_number_24,{\displaystyle \log _{\varphi }(x)=\ln(x)/\ln(\varphi )=\log _{10}(x)/\log _{10}(\varphi )}
+Fibonacci_number_25,{\displaystyle \ln(\varphi )=0.481211\ldots }
+Fibonacci_number_26,{\displaystyle \log _{10}(\varphi )=0.208987\ldots }
+Fibonacci_number_27,{\displaystyle \varphi ^{n}/{\sqrt {5}}}
+Fibonacci_number_28,"{\displaystyle n\log _{10}\varphi \approx 0.2090\,n}"
+Fibonacci_number_29,{\displaystyle n\log _{b}\varphi ={\frac {n\log \varphi }{\log b}}.}
+Fibonacci_number_30,{\displaystyle \varphi \colon }
+Fibonacci_number_31,{\displaystyle \lim _{n\to \infty }{\frac {F_{n+1}}{F_{n}}}=\varphi .}
+Fibonacci_number_32,{\displaystyle U_{0}}
+Fibonacci_number_33,{\displaystyle U_{1}}
+Fibonacci_number_34,{\displaystyle U_{1}=-U_{0}/\varphi }
+Fibonacci_number_35,{\displaystyle \lim _{n\to \infty }{\frac {F_{n+m}}{F_{n}}}=\varphi ^{m}}
+Fibonacci_number_36,{\displaystyle \varphi }
+Fibonacci_number_37,"{\displaystyle \varphi ^{2}=\varphi +1,}"
+Fibonacci_number_38,{\displaystyle \varphi ^{n}}
+Fibonacci_number_39,{\displaystyle \varphi }
+Fibonacci_number_40,{\displaystyle \varphi ^{n}=F_{n}\varphi +F_{n-1}.}
+Fibonacci_number_41,{\displaystyle \varphi ^{n+1}=(F_{n}\varphi +F_{n-1})\varphi =F_{n}\varphi ^{2}+F_{n-1}\varphi =F_{n}(\varphi +1)+F_{n-1}\varphi =(F_{n}+F_{n-1})\varphi +F_{n}=F_{n+1}\varphi +F_{n}.}
+Fibonacci_number_42,{\displaystyle \psi =-1/\varphi }
+Fibonacci_number_43,{\displaystyle \psi ^{2}=\psi +1}
+Fibonacci_number_44,{\displaystyle \psi ^{n}=F_{n}\psi +F_{n-1}.}
+Fibonacci_number_45,{\displaystyle F_{n}=F_{n+2}-F_{n+1}.}
+Fibonacci_number_46,{\displaystyle 5x^{2}+4}
+Fibonacci_number_47,{\displaystyle 5x^{2}-4}
+Fibonacci_number_48,{\displaystyle F_{n}=(\varphi ^{n}-(-1)^{n}\varphi ^{-n})/{\sqrt {5}}}
+Fibonacci_number_49,{\displaystyle {\sqrt {5}}\varphi ^{n}}
+Fibonacci_number_50,{\displaystyle \varphi ^{n}}
+Fibonacci_number_51,{\displaystyle \varphi ^{n}={\frac {F_{n}{\sqrt {5}}\pm {\sqrt {5{F_{n}}^{2}+4(-1)^{n}}}}{2}}.}
+Fibonacci_number_52,{\displaystyle \varphi ^{n}=F_{n}\varphi +F_{n-1}=(F_{n}{\sqrt {5}}+F_{n}+2F_{n-1})/2}
+Fibonacci_number_53,"{\displaystyle 5{F_{n}}^{2}+4(-1)^{n}=(F_{n}+2F_{n-1})^{2}\,.}"
+Fibonacci_number_54,{\displaystyle {F_{k+2} \choose F_{k+1}}={\begin{pmatrix}1&1\\1&0\end{pmatrix}}{F_{k+1} \choose F_{k}}}
+Fibonacci_number_55,"{\displaystyle {\vec {F}}_{k+1}=\mathbf {A} {\vec {F}}_{k},}"
+Fibonacci_number_56,{\displaystyle {\vec {F}}_{n}=\mathbf {A} ^{n}{\vec {F}}_{0}}
+Fibonacci_number_57,{\displaystyle \varphi ={\tfrac {1}{2}}{\bigl (}1+{\sqrt {5}}~\!{\bigr )}}
+Fibonacci_number_58,{\displaystyle \psi =-\varphi ^{-1}={\tfrac {1}{2}}{\bigl (}1-{\sqrt {5}}~\!{\bigr )}}
+Fibonacci_number_59,"{\displaystyle {\vec {\mu }}={\varphi  \choose 1},\quad {\vec {\nu }}={-\varphi ^{-1} \choose 1}.}"
+Fibonacci_number_60,"{\displaystyle {\vec {F}}_{0}={1 \choose 0}={\frac {1}{\sqrt {5}}}{\vec {\mu }}-{\frac {1}{\sqrt {5}}}{\vec {\nu }},}"
+Fibonacci_number_61,"{\displaystyle {\begin{aligned}{\vec {F}}_{n}&={\frac {1}{\sqrt {5}}}A^{n}{\vec {\mu }}-{\frac {1}{\sqrt {5}}}A^{n}{\vec {\nu }}\\&={\frac {1}{\sqrt {5}}}\varphi ^{n}{\vec {\mu }}-{\frac {1}{\sqrt {5}}}(-\varphi )^{-n}{\vec {\nu }}\\&={\cfrac {1}{\sqrt {5}}}\left({\cfrac {1+{\sqrt {5}}}{2}}\right)^{\!n}{\varphi  \choose 1}\,-\,{\cfrac {1}{\sqrt {5}}}\left({\cfrac {1-{\sqrt {5}}}{2}}\right)^{\!n}{-\varphi ^{-1} \choose 1}.\end{aligned}}}"
+Fibonacci_number_62,"{\displaystyle F_{n}={\cfrac {1}{\sqrt {5}}}\left({\cfrac {1+{\sqrt {5}}}{2}}\right)^{\!n}-\,{\cfrac {1}{\sqrt {5}}}\left({\cfrac {1-{\sqrt {5}}}{2}}\right)^{\!n}.}"
+Fibonacci_number_64,"{\displaystyle \Lambda ={\begin{pmatrix}\varphi &0\\0&-\varphi ^{-1}\!\end{pmatrix}},\quad S={\begin{pmatrix}\varphi &-\varphi ^{-1}\\1&1\end{pmatrix}}.}"
+Fibonacci_number_65,"{\displaystyle {\begin{aligned}{F_{n+1} \choose F_{n}}&=A^{n}{F_{1} \choose F_{0}}\\&=S\Lambda ^{n}S^{-1}{F_{1} \choose F_{0}}\\&=S{\begin{pmatrix}\varphi ^{n}&0\\0&(-\varphi )^{-n}\end{pmatrix}}S^{-1}{F_{1} \choose F_{0}}\\&={\begin{pmatrix}\varphi &-\varphi ^{-1}\\1&1\end{pmatrix}}{\begin{pmatrix}\varphi ^{n}&0\\0&(-\varphi )^{-n}\end{pmatrix}}{\frac {1}{\sqrt {5}}}{\begin{pmatrix}1&\varphi ^{-1}\\-1&\varphi \end{pmatrix}}{1 \choose 0},\end{aligned}}}"
+Fibonacci_number_66,{\displaystyle F_{n}={\cfrac {\varphi ^{n}-(-\varphi )^{-n}}{\sqrt {5}}}.}
+Fibonacci_number_67,{\displaystyle \varphi =1+{\cfrac {1}{1+{\cfrac {1}{1+{\cfrac {1}{1+\ddots }}}}}}.}
+Fibonacci_number_68,{\displaystyle {\begin{pmatrix}1&1\\1&0\end{pmatrix}}^{n}={\begin{pmatrix}F_{n+1}&F_{n}\\F_{n}&F_{n-1}\end{pmatrix}}.}
+Fibonacci_number_69,{\displaystyle (-1)^{n}=F_{n+1}F_{n-1}-{F_{n}}^{2}.}
+Fibonacci_number_72,{\displaystyle F_{n}}
+Fibonacci_number_73,{\displaystyle n-1}
+Fibonacci_number_74,{\displaystyle F_{n}}
+Fibonacci_number_75,{\displaystyle F_{0}=0}
+Fibonacci_number_76,{\displaystyle F_{1}=1}
+Fibonacci_number_77,{\displaystyle |{...}|}
+Fibonacci_number_78,{\displaystyle F_{0}=0=|\{\}|}
+Fibonacci_number_79,{\displaystyle F_{1}=1=|\{()\}|}
+Fibonacci_number_80,{\displaystyle F_{2}=1=|\{(1)\}|}
+Fibonacci_number_81,"{\displaystyle F_{3}=2=|\{(1,1),(2)\}|}"
+Fibonacci_number_82,"{\displaystyle F_{4}=3=|\{(1,1,1),(1,2),(2,1)\}|}"
+Fibonacci_number_83,"{\displaystyle F_{5}=5=|\{(1,1,1,1),(1,1,2),(1,2,1),(2,1,1),(2,2)\}|}"
+Fibonacci_number_84,{\displaystyle F_{n}=F_{n-1}+F_{n-2}}
+Fibonacci_number_85,{\displaystyle F_{n}}
+Fibonacci_number_86,"{\displaystyle F_{n}=|\{(1,...),(1,...),...\}|+|\{(2,...),(2,...),...\}|}"
+Fibonacci_number_87,{\displaystyle n-2}
+Fibonacci_number_88,{\displaystyle n-3}
+Fibonacci_number_89,{\displaystyle F_{n-1}}
+Fibonacci_number_90,{\displaystyle F_{n-2}}
+Fibonacci_number_91,{\displaystyle F_{n-1}+F_{n-2}}
+Fibonacci_number_92,{\displaystyle F_{n}}
+Fibonacci_number_93,{\displaystyle \sum _{i=1}^{n}F_{i}=F_{n+2}-1}
+Fibonacci_number_94,{\displaystyle n+1}
+Fibonacci_number_95,"{\displaystyle (2,...),(1,2,...),...,}"
+Fibonacci_number_96,"{\displaystyle \{(1,1,...,1,2)\},\{(1,1,...,1)\}}"
+Fibonacci_number_97,"{\displaystyle F_{n+2}=F_{n}+F_{n-1}+...+|\{(1,1,...,1,2)\}|+|\{(1,1,...,1)\}|}"
+Fibonacci_number_98,{\displaystyle F_{1}=1}
+Fibonacci_number_99,{\displaystyle \sum _{i=1}^{n}F_{i}=F_{n+2}-1}
+Fibonacci_number_100,{\displaystyle \sum _{i=0}^{n-1}F_{2i+1}=F_{2n}}
+Fibonacci_number_101,{\displaystyle \sum _{i=1}^{n}F_{2i}=F_{2n+1}-1.}
+Fibonacci_number_102,{\displaystyle F_{2n-1}}
+Fibonacci_number_103,{\displaystyle F_{2n}}
+Fibonacci_number_104,{\displaystyle \sum _{i=1}^{n}F_{i}^{2}=F_{n}F_{n+1}}
+Fibonacci_number_105,{\displaystyle F_{n}}
+Fibonacci_number_106,{\displaystyle F_{n}\times F_{n+1}}
+Fibonacci_number_107,"{\displaystyle F_{n},F_{n-1},...,F_{1}}"
+Fibonacci_number_108,{\displaystyle (F_{n})_{n\in \mathbb {N} }}
+Fibonacci_number_109,{\displaystyle \operatorname {Seq} ({\mathcal {Z+Z^{2}}})}
+Fibonacci_number_110,{\displaystyle n}
+Fibonacci_number_111,{\displaystyle n-1}
+Fibonacci_number_112,{\displaystyle \sum _{i=0}^{\infty }F_{i}z^{i}}
+Fibonacci_number_113,{\displaystyle {\frac {z}{1-z-z^{2}}}.}
+Fibonacci_number_114,{\displaystyle \sum _{i=1}^{n}F_{i}=F_{n+2}-1.}
+Fibonacci_number_115,{\displaystyle F_{n+1}}
+Fibonacci_number_116,{\displaystyle \sum _{i=1}^{n}F_{i}+F_{n+1}=F_{n+1}+F_{n+2}-1}
+Fibonacci_number_117,{\displaystyle n+1}
+Fibonacci_number_118,{\displaystyle \sum _{i=1}^{n+1}F_{i}=F_{n+3}-1}
+Fibonacci_number_119,{\displaystyle {F_{n+1}}^{2}}
+Fibonacci_number_120,{\displaystyle \sum _{i=1}^{n}F_{i}^{2}=F_{n}F_{n+1}}
+Fibonacci_number_121,{\displaystyle \sum _{i=1}^{n}F_{i}^{2}+{F_{n+1}}^{2}=F_{n+1}\left(F_{n}+F_{n+1}\right)}
+Fibonacci_number_122,{\displaystyle \sum _{i=1}^{n+1}F_{i}^{2}=F_{n+1}F_{n+2}}
+Fibonacci_number_123,{\displaystyle {\sqrt {5}}F_{n}=\varphi ^{n}-\psi ^{n}.}
+Fibonacci_number_125,{\displaystyle {\sqrt {5}}}
+Fibonacci_number_126,{\displaystyle {\begin{aligned}1+&\varphi +\varphi ^{2}+\dots +\varphi ^{n}-\left(1+\psi +\psi ^{2}+\dots +\psi ^{n}\right)\\&={\frac {\varphi ^{n+1}-1}{\varphi -1}}-{\frac {\psi ^{n+1}-1}{\psi -1}}\\&={\frac {\varphi ^{n+1}-1}{-\psi }}-{\frac {\psi ^{n+1}-1}{-\varphi }}\\&={\frac {-\varphi ^{n+2}+\varphi +\psi ^{n+2}-\psi }{\varphi \psi }}\\&=\varphi ^{n+2}-\psi ^{n+2}-(\varphi -\psi )\\&={\sqrt {5}}(F_{n+2}-1)\\\end{aligned}}}
+Fibonacci_number_129,{\displaystyle {F_{n}}^{2}-F_{n+1}F_{n-1}=(-1)^{n-1}}
+Fibonacci_number_130,{\displaystyle {F_{n}}^{2}-F_{n+r}F_{n-r}=(-1)^{n-r}{F_{r}}^{2}}
+Fibonacci_number_131,{\displaystyle F_{m}F_{n+1}-F_{m+1}F_{n}=(-1)^{n}F_{m-n}}
+Fibonacci_number_132,{\displaystyle F_{2n}={F_{n+1}}^{2}-{F_{n-1}}^{2}=F_{n}\left(F_{n+1}+F_{n-1}\right)=F_{n}L_{n}}
+Fibonacci_number_133,{\displaystyle F_{3n}=2{F_{n}}^{3}+3F_{n}F_{n+1}F_{n-1}=5{F_{n}}^{3}+3(-1)^{n}F_{n}}
+Fibonacci_number_134,{\displaystyle F_{3n+1}={F_{n+1}}^{3}+3F_{n+1}{F_{n}}^{2}-{F_{n}}^{3}}
+Fibonacci_number_135,{\displaystyle F_{3n+2}={F_{n+1}}^{3}+3{F_{n+1}}^{2}F_{n}+{F_{n}}^{3}}
+Fibonacci_number_136,{\displaystyle F_{4n}=4F_{n}F_{n+1}\left({F_{n+1}}^{2}+2{F_{n}}^{2}\right)-3{F_{n}}^{2}\left({F_{n}}^{2}+2{F_{n+1}}^{2}\right)}
+Fibonacci_number_137,{\displaystyle F_{kn+c}=\sum _{i=0}^{k}{k \choose i}F_{c-i}{F_{n}}^{i}{F_{n+1}}^{k-i}.}
+Fibonacci_number_138,{\displaystyle F_{kn+c}=\sum _{i=0}^{k}{k \choose i}F_{c+i}{F_{n}}^{i}{F_{n-1}}^{k-i}.}
+Fibonacci_number_139,{\displaystyle s(z)=\sum _{k=0}^{\infty }F_{k}z^{k}=0+z+z^{2}+2z^{3}+3z^{4}+\dots .}
+Fibonacci_number_140,{\displaystyle z}
+Fibonacci_number_141,"{\displaystyle |z|<1/\varphi ,}"
+Fibonacci_number_142,{\displaystyle s(z)={\frac {z}{1-z-z^{2}}}.}
+Fibonacci_number_144,"{\displaystyle {\begin{aligned}(1-z-z^{2})s(z)&=\sum _{k=0}^{\infty }F_{k}z^{k}-\sum _{k=0}^{\infty }F_{k}z^{k+1}-\sum _{k=0}^{\infty }F_{k}z^{k+2}\\&=\sum _{k=0}^{\infty }F_{k}z^{k}-\sum _{k=1}^{\infty }F_{k-1}z^{k}-\sum _{k=2}^{\infty }F_{k-2}z^{k}\\&=0z^{0}+1z^{1}-0z^{1}+\sum _{k=2}^{\infty }(F_{k}-F_{k-1}-F_{k-2})z^{k}\\&=z,\end{aligned}}}"
+Fibonacci_number_145,{\displaystyle z^{k}}
+Fibonacci_number_146,{\displaystyle k\geq 2}
+Fibonacci_number_147,{\displaystyle s(z)={\frac {1}{\sqrt {5}}}\left({\frac {1}{1-\varphi z}}-{\frac {1}{1-\psi z}}\right)}
+Fibonacci_number_149,{\displaystyle \psi ={\tfrac {1}{2}}\left(1-{\sqrt {5}}\right)}
+Fibonacci_number_151,{\displaystyle s(z)}
+Fibonacci_number_152,{\displaystyle s(z)=s\!\left(-{\frac {1}{z}}\right).}
+Fibonacci_number_153,{\displaystyle z}
+Fibonacci_number_154,{\displaystyle s(z)}
+Fibonacci_number_155,{\displaystyle s(0.001)={\frac {0.001}{0.998999}}={\frac {1000}{998999}}=0.001001002003005008013021\ldots .}
+Fibonacci_number_156,"{\displaystyle \sum _{k=1}^{\infty }{\frac {1}{F_{2k-1}}}={\frac {\sqrt {5}}{4}}\;\vartheta _{2}\!\left(0,{\frac {3-{\sqrt {5}}}{2}}\right)^{2},}"
+Fibonacci_number_157,"{\displaystyle \sum _{k=1}^{\infty }{\frac {1}{{F_{k}}^{2}}}={\frac {5}{24}}\!\left(\vartheta _{2}\!\left(0,{\frac {3-{\sqrt {5}}}{2}}\right)^{4}-\vartheta _{4}\!\left(0,{\frac {3-{\sqrt {5}}}{2}}\right)^{4}+1\right).}"
+Fibonacci_number_158,"{\displaystyle \sum _{k=1}^{\infty }{\frac {1}{1+F_{2k-1}}}={\frac {\sqrt {5}}{2}},}"
+Fibonacci_number_159,{\displaystyle \sum _{k=1}^{\infty }{\frac {(-1)^{k+1}}{\sum _{j=1}^{k}{F_{j}}^{2}}}={\frac {{\sqrt {5}}-1}{2}}.}
+Fibonacci_number_160,{\displaystyle \sum _{k=1}^{\infty }{\frac {1}{F_{2k}}}={\sqrt {5}}\left(L(\psi ^{2})-L(\psi ^{4})\right)}
+Fibonacci_number_161,"{\displaystyle \textstyle L(q):=\sum _{k=1}^{\infty }{\frac {q^{k}}{1-q^{k}}},}"
+Fibonacci_number_162,{\displaystyle \textstyle {\frac {1}{F_{2k}}}={\sqrt {5}}\left({\frac {\psi ^{2k}}{1-\psi ^{2k}}}-{\frac {\psi ^{4k}}{1-\psi ^{4k}}}\right)\!.}
+Fibonacci_number_163,{\displaystyle \sum _{k=1}^{\infty }{\frac {1}{F_{k}}}=\sum _{k=1}^{\infty }{\frac {1}{F_{2k-1}}}+\sum _{k=1}^{\infty }{\frac {1}{F_{2k}}}=3.359885666243\dots }
+Fibonacci_number_164,"{\displaystyle \sum _{k=0}^{\infty }{\frac {1}{F_{2^{k}}}}={\frac {7-{\sqrt {5}}}{2}},}"
+Fibonacci_number_165,{\displaystyle \sum _{k=0}^{N}{\frac {1}{F_{2^{k}}}}=3-{\frac {F_{2^{N}-1}}{F_{2^{N}}}}.}
+Fibonacci_number_166,{\displaystyle F_{3}=2}
+Fibonacci_number_167,"{\displaystyle \gcd(F_{a},F_{b},F_{c},\ldots )=F_{\gcd(a,b,c,\ldots )}\,}"
+Fibonacci_number_168,{\displaystyle F_{1}=1}
+Fibonacci_number_169,{\displaystyle F_{2}=1}
+Fibonacci_number_170,"{\displaystyle \gcd(F_{n},F_{n+1})=\gcd(F_{n},F_{n+2})=\gcd(F_{n+1},F_{n+2})=1}"
+Fibonacci_number_171,"{\displaystyle {\begin{cases}p=5&\Rightarrow p\mid F_{p},\\p\equiv \pm 1{\pmod {5}}&\Rightarrow p\mid F_{p-1},\\p\equiv \pm 2{\pmod {5}}&\Rightarrow p\mid F_{p+1}.\end{cases}}}"
+Fibonacci_number_172,"{\displaystyle p\mid F_{p\;-\,\left({\frac {5}{p}}\right)}.}"
+Fibonacci_number_173,"{\displaystyle n\mid F_{n\;-\,\left({\frac {5}{n}}\right)},}"
+Fibonacci_number_174,{\displaystyle {\begin{pmatrix}F_{m+1}&F_{m}\\F_{m}&F_{m-1}\end{pmatrix}}\equiv {\begin{pmatrix}1&1\\1&0\end{pmatrix}}^{m}{\pmod {n}}.}
+Fibonacci_number_175,{\displaystyle \left({\tfrac {p}{5}}\right)}
+Fibonacci_number_176,{\displaystyle \left({\frac {p}{5}}\right)={\begin{cases}0&{\text{if }}p=5\\1&{\text{if }}p\equiv \pm 1{\pmod {5}}\\-1&{\text{if }}p\equiv \pm 2{\pmod {5}}.\end{cases}}}
+Fibonacci_number_177,{\displaystyle F_{p}\equiv \left({\frac {p}{5}}\right){\pmod {p}}\quad {\text{and}}\quad F_{p-\left({\frac {p}{5}}\right)}\equiv 0{\pmod {p}}.}
+Fibonacci_number_178,"{\displaystyle {\begin{aligned}({\tfrac {2}{5}})&=-1,&F_{3}&=2,&F_{2}&=1,\\({\tfrac {3}{5}})&=-1,&F_{4}&=3,&F_{3}&=2,\\({\tfrac {5}{5}})&=0,&F_{5}&=5,\\({\tfrac {7}{5}})&=-1,&F_{8}&=21,&F_{7}&=13,\\({\tfrac {11}{5}})&=+1,&F_{10}&=55,&F_{11}&=89.\end{aligned}}}"
+Fibonacci_number_179,{\displaystyle F_{p-\left({\frac {p}{5}}\right)}\equiv 0{\pmod {p^{2}}}.}
+Fibonacci_number_180,{\displaystyle 5{F_{\frac {p\pm 1}{2}}}^{2}\equiv {\begin{cases}{\tfrac {1}{2}}\left(5\left({\frac {p}{5}}\right)\pm 5\right){\pmod {p}}&{\text{if }}p\equiv 1{\pmod {4}}\\{\tfrac {1}{2}}\left(5\left({\frac {p}{5}}\right)\mp 3\right){\pmod {p}}&{\text{if }}p\equiv 3{\pmod {4}}.\end{cases}}}
+Fibonacci_number_181,"{\displaystyle ({\tfrac {7}{5}})=-1:\qquad {\tfrac {1}{2}}\left(5({\tfrac {7}{5}})+3\right)=-1,\quad {\tfrac {1}{2}}\left(5({\tfrac {7}{5}})-3\right)=-4.}"
+Fibonacci_number_182,{\displaystyle F_{3}=2{\text{ and }}F_{4}=3.}
+Fibonacci_number_183,{\displaystyle 5{F_{3}}^{2}=20\equiv -1{\pmod {7}}\;\;{\text{ and }}\;\;5{F_{4}}^{2}=45\equiv -4{\pmod {7}}}
+Fibonacci_number_184,"{\displaystyle ({\tfrac {11}{5}})=+1:\qquad {\tfrac {1}{2}}\left(5({\tfrac {11}{5}})+3\right)=4,\quad {\tfrac {1}{2}}\left(5({\tfrac {11}{5}})-3\right)=1.}"
+Fibonacci_number_185,{\displaystyle F_{5}=5{\text{ and }}F_{6}=8.}
+Fibonacci_number_186,{\displaystyle 5{F_{5}}^{2}=125\equiv 4{\pmod {11}}\;\;{\text{ and }}\;\;5{F_{6}}^{2}=320\equiv 1{\pmod {11}}}
+Fibonacci_number_187,"{\displaystyle ({\tfrac {13}{5}})=-1:\qquad {\tfrac {1}{2}}\left(5({\tfrac {13}{5}})-5\right)=-5,\quad {\tfrac {1}{2}}\left(5({\tfrac {13}{5}})+5\right)=0.}"
+Fibonacci_number_188,{\displaystyle F_{6}=8{\text{ and }}F_{7}=13.}
+Fibonacci_number_189,{\displaystyle 5{F_{6}}^{2}=320\equiv -5{\pmod {13}}\;\;{\text{ and }}\;\;5{F_{7}}^{2}=845\equiv 0{\pmod {13}}}
+Fibonacci_number_190,"{\displaystyle ({\tfrac {29}{5}})=+1:\qquad {\tfrac {1}{2}}\left(5({\tfrac {29}{5}})-5\right)=0,\quad {\tfrac {1}{2}}\left(5({\tfrac {29}{5}})+5\right)=5.}"
+Fibonacci_number_191,{\displaystyle F_{14}=377{\text{ and }}F_{15}=610.}
+Fibonacci_number_192,{\displaystyle 5{F_{14}}^{2}=710645\equiv 0{\pmod {29}}\;\;{\text{ and }}\;\;5{F_{15}}^{2}=1860500\equiv 5{\pmod {29}}}
+Fibonacci_number_193,"{\displaystyle F_{1}=1,\ F_{3}=2,\ F_{5}=5,\ F_{7}=13,\ F_{9}=34=2\cdot 17,\ F_{11}=89,\ F_{13}=233,\ F_{15}=610=2\cdot 5\cdot 61.}"
+Fibonacci_number_194,{\displaystyle F_{n}=\sum _{k=0}^{\left\lfloor {\frac {n-1}{2}}\right\rfloor }{\binom {n-k-1}{k}}.}
+Fibonacci_number_195,{\displaystyle {\frac {x}{1-x-x^{2}}}=x+x^{2}(1+x)+x^{3}(1+x)^{2}+\dots +x^{k+1}(1+x)^{k}+\dots =\sum \limits _{n=0}^{\infty }F_{n}x^{n}}
+Fibonacci_number_196,{\displaystyle x^{n}}
+Fibonacci_number_197,{\displaystyle {\binom {5}{0}}+{\binom {4}{1}}+{\binom {3}{2}}}
+Fibonacci_number_198,{\displaystyle 2\times n}
+Fibonacci_number_199,{\displaystyle (F_{n}F_{n+3})^{2}+(2F_{n+1}F_{n+2})^{2}={F_{2n+3}}^{2}.}
+Fibonacci_number_200,"{\displaystyle \theta ={\frac {2\pi }{\varphi ^{2}}}n,\ r=c{\sqrt {n}}}"
+Fibonacci_number_201,{\displaystyle F_{1}=1}
+Fibonacci_number_202,{\displaystyle F_{2}=1}
+Fibonacci_number_203,{\displaystyle F_{3}=2}
+Fibonacci_number_204,{\displaystyle F_{4}=3}
+Fibonacci_number_205,{\displaystyle F_{5}=5}
+Fibonacci_number_206,{\displaystyle F_{p-\varepsilon }/p}

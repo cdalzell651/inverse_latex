@@ -1,0 +1,49 @@
+name,latex
+Cardinal_number_0,{\displaystyle \aleph }
+Cardinal_number_1,"{\displaystyle 0,1,2,3,\ldots ,n,\ldots ;\aleph _{0},\aleph _{1},\aleph _{2},\ldots ,\aleph _{\alpha },\ldots .\ }"
+Cardinal_number_2,{\displaystyle \aleph _{0}}
+Cardinal_number_3,{\displaystyle {\mathfrak {c}}}
+Cardinal_number_4,{\displaystyle \aleph _{0}}
+Cardinal_number_5,"{\displaystyle (\aleph _{1},\aleph _{2},\aleph _{3},\ldots ).}"
+Cardinal_number_6,{\displaystyle {\mathfrak {c}}}
+Cardinal_number_7,{\displaystyle \aleph _{1}}
+Cardinal_number_8,{\displaystyle 2^{\omega }=\omega <\omega ^{2}}
+Cardinal_number_9,{\displaystyle 2^{\aleph _{0}}>\aleph _{0}=\aleph _{0}^{2}}
+Cardinal_number_10,{\displaystyle \aleph _{0}=\omega }
+Cardinal_number_11,{\displaystyle \{\emptyset \}}
+Cardinal_number_12,{\displaystyle \aleph _{0}}
+Cardinal_number_13,{\displaystyle \aleph }
+Cardinal_number_14,{\displaystyle \aleph _{0}}
+Cardinal_number_15,{\displaystyle \aleph _{1}}
+Cardinal_number_16,"{\displaystyle \aleph _{\alpha },}"
+Cardinal_number_18,{\displaystyle |X|+|Y|=|X\cup Y|.}
+Cardinal_number_19,{\displaystyle (\kappa \leq \mu )\rightarrow ((\kappa +\nu \leq \mu +\nu ){\mbox{ and }}(\nu +\kappa \leq \nu +\mu )).}
+Cardinal_number_20,"{\displaystyle \kappa +\mu =\max\{\kappa ,\mu \}\,.}"
+Cardinal_number_21,{\displaystyle |X|\cdot |Y|=|X\times Y|}
+Cardinal_number_22,"{\displaystyle \kappa \cdot \mu =\max\{\kappa ,\mu \}.}"
+Cardinal_number_23,"{\displaystyle |X|^{|Y|}=\left|X^{Y}\right|,}"
+Cardinal_number_24,{\displaystyle \nu ^{\mu }=\kappa }
+Cardinal_number_25,{\displaystyle \kappa }
+Cardinal_number_26,{\displaystyle \mu ^{\lambda }=\kappa }
+Cardinal_number_27,{\displaystyle \nu ^{\lambda }=\kappa }
+Cardinal_number_28,{\displaystyle \aleph _{0}}
+Cardinal_number_29,{\displaystyle 2^{\aleph _{0}}.}
+Cardinal_number_30,{\displaystyle {\mathfrak {c}}}
+Cardinal_number_31,{\displaystyle 2^{\aleph _{0}}=\aleph _{1}.}
+Cardinal_number_32,{\displaystyle \kappa }
+Cardinal_number_33,{\displaystyle \kappa }
+Cardinal_number_34,{\displaystyle 2^{\kappa }}
+Cardinal_number_35,{\displaystyle \kappa }
+Cardinal_number_36,{\displaystyle 2^{\kappa }}
+Cardinal_number_37,{\displaystyle \kappa <\operatorname {cf} (2^{\kappa })}
+Cardinal_number_38,{\displaystyle \mathbb {N} }
+Cardinal_number_39,{\displaystyle \mathbb {Z} }
+Cardinal_number_40,{\displaystyle \mathbb {Q} }
+Cardinal_number_41,{\displaystyle \mathbb {A} }
+Cardinal_number_42,{\displaystyle \mathbb {R} }
+Cardinal_number_43,{\displaystyle \mathbb {C} }
+Cardinal_number_44,{\displaystyle \mathbb {H} }
+Cardinal_number_45,{\displaystyle \mathbb {O} }
+Cardinal_number_46,{\displaystyle \mathbb {R} }
+Cardinal_number_47,{\displaystyle \mathbb {C} }
+Cardinal_number_48,{\displaystyle \mathbb {S} }

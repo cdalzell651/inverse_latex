@@ -1,0 +1,34 @@
+name,latex
+Equation_0,{\displaystyle Ax^{2}+Bx+C-y=0}
+Equation_1,{\displaystyle Ax^{2}+Bx+C-y}
+Equation_2,{\displaystyle 0}
+Equation_3,{\displaystyle x=1}
+Equation_4,{\displaystyle x=1.}
+Equation_5,{\displaystyle f(s)=s^{2}}
+Equation_6,{\displaystyle x^{2}=1}
+Equation_7,{\displaystyle x=-1.}
+Equation_8,{\displaystyle x^{2}+y^{2}=R^{2}.}
+Equation_9,{\displaystyle {\begin{aligned}3x+5y&=2\\5x+8y&=3\end{aligned}}}
+Equation_10,{\displaystyle x^{2}-y^{2}=(x+y)(x-y)}
+Equation_11,{\displaystyle \sin ^{2}(\theta )+\cos ^{2}(\theta )=1}
+Equation_12,{\displaystyle \sin(2\theta )=2\sin(\theta )\cos(\theta )}
+Equation_13,"{\displaystyle 3\sin(\theta )\cos(\theta )=1\,,}"
+Equation_14,"{\displaystyle {\frac {3}{2}}\sin(2\theta )=1\,,}"
+Equation_15,{\displaystyle \theta ={\frac {1}{2}}\arcsin \left({\frac {2}{3}}\right)\approx 20.9^{\circ }.}
+Equation_16,{\displaystyle P=0}
+Equation_17,{\displaystyle P=Q}
+Equation_18,{\displaystyle x^{5}-3x+1=0}
+Equation_19,{\displaystyle y^{4}+{\frac {xy}{2}}={\frac {x^{3}}{3}}-xy^{2}+y^{2}-{\frac {1}{7}}}
+Equation_20,{\displaystyle {\begin{alignedat}{7}3x&&\;+\;&&2y&&\;-\;&&z&&\;=\;&&1&\\2x&&\;-\;&&2y&&\;+\;&&4z&&\;=\;&&-2&\\-x&&\;+\;&&{\tfrac {1}{2}}y&&\;-\;&&z&&\;=\;&&0&\end{alignedat}}}
+Equation_21,"{\displaystyle {\begin{alignedat}{2}x&\,=\,&1\\y&\,=\,&-2\\z&\,=\,&-2\end{alignedat}}}"
+Equation_22,{\displaystyle ax+by+cz+d=0}
+Equation_23,"{\displaystyle a,b,c}"
+Equation_24,{\displaystyle d}
+Equation_25,"{\displaystyle x,y,z}"
+Equation_26,"{\displaystyle a,b,c}"
+Equation_27,{\displaystyle \mathbb {R} ^{2}}
+Equation_28,{\displaystyle \mathbb {R} ^{3}.}
+Equation_29,{\displaystyle x^{2}+y^{2}=z^{2}}
+Equation_30,{\displaystyle {\begin{aligned}x&=\cos t\\y&=\sin t\end{aligned}}}
+Equation_31,{\displaystyle f'(x)=x^{2}}
+Equation_32,{\displaystyle f'(x)=f(x-2)}

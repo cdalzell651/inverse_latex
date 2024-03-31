@@ -1,0 +1,49 @@
+name,latex
+Circle_0,{\displaystyle r}
+Circle_1,{\displaystyle r=0}
+Circle_2,{\displaystyle C=2\pi r=\pi d.}
+Circle_3,{\displaystyle \mathrm {Area} =\pi r^{2}.}
+Circle_4,"{\displaystyle \mathrm {Area} ={\frac {\pi d^{2}}{4}}\approx 0.7854d^{2},}"
+Circle_5,{\displaystyle (x-a)^{2}+(y-b)^{2}=r^{2}.}
+Circle_6,{\displaystyle x^{2}+y^{2}=r^{2}.}
+Circle_7,"{\displaystyle {\begin{aligned}x&=a+r\,\cos t,\\y&=b+r\,\sin t,\end{aligned}}}"
+Circle_8,"{\displaystyle {\begin{aligned}x&=a+r{\frac {1-t^{2}}{1+t^{2}}},\\y&=b+r{\frac {2t}{1+t^{2}}}.\end{aligned}}}"
+Circle_9,"{\displaystyle (x_{1},y_{1}),(x_{2},y_{2}),(x_{3},y_{3})}"
+Circle_11,{\displaystyle x^{2}+y^{2}-2axz-2byz+cz^{2}=0.}
+Circle_12,"{\displaystyle r^{2}-2rr_{0}\cos(\theta -\phi )+r_{0}^{2}=a^{2},}"
+Circle_13,"{\displaystyle (r,\theta )}"
+Circle_14,"{\displaystyle (r_{0},\phi )}"
+Circle_15,{\displaystyle r=2a\cos(\theta -\phi ).}
+Circle_16,{\displaystyle r=r_{0}\cos(\theta -\phi )\pm {\sqrt {a^{2}-r_{0}^{2}\sin ^{2}(\theta -\phi )}}.}
+Circle_17,{\displaystyle |z-c|=r.}
+Circle_18,{\displaystyle z=re^{it}+c.}
+Circle_19,{\displaystyle pz{\overline {z}}+gz+{\overline {gz}}=q}
+Circle_20,"{\displaystyle p=1,\ g=-{\overline {c}},\ q=r^{2}-|c|^{2}}"
+Circle_21,{\displaystyle |z-c|^{2}=z{\overline {z}}-{\overline {c}}z-c{\overline {z}}+c{\overline {c}}}
+Circle_22,"{\displaystyle (x_{1}-a)x+(y_{1}-b)y=(x_{1}-a)x_{1}+(y_{1}-b)y_{1},}"
+Circle_23,{\displaystyle (x_{1}-a)(x-a)+(y_{1}-b)(y-b)=r^{2}.}
+Circle_24,{\displaystyle {\frac {dy}{dx}}=-{\frac {x_{1}-a}{y_{1}-b}}.}
+Circle_25,"{\displaystyle x_{1}x+y_{1}y=r^{2},}"
+Circle_26,{\displaystyle {\frac {dy}{dx}}=-{\frac {x_{1}}{y_{1}}}.}
+Circle_27,{\displaystyle {\overset {\frown }{DE}}}
+Circle_28,{\displaystyle {\overset {\frown }{BC}}}
+Circle_29,{\displaystyle 2\angle {CAB}=\angle {DOE}-\angle {BOC}}
+Circle_30,{\displaystyle r={\frac {y^{2}}{8x}}+{\frac {x}{2}}.}
+Circle_31,{\displaystyle {\frac {AP}{BP}}={\frac {AC}{BC}}.}
+Circle_32,"{\displaystyle {\bigl |}[A,B;C,P]{\bigr |}=1.}"
+Circle_33,{\displaystyle {\frac {|AP|}{|BP|}}={\frac {|AC|}{|BC|}}}
+Circle_34,{\displaystyle \left|{\frac {x}{a}}\right|^{n}\!+\left|{\frac {y}{b}}\right|^{n}\!=1}
+Circle_35,{\displaystyle n}
+Circle_36,{\displaystyle n}
+Circle_37,{\displaystyle P_{n}}
+Circle_38,{\displaystyle 2m}
+Circle_39,{\displaystyle d_{i}}
+Circle_40,{\displaystyle R}
+Circle_41,"{\displaystyle \sum _{i=1}^{n}d_{i}^{2m}>nR^{2m},\quad {\text{  where }}~m=1,2,\dots ,n-1;}"
+Circle_42,{\displaystyle P_{n}}
+Circle_43,{\displaystyle \left\|x\right\|_{p}=\left(\left|x_{1}\right|^{p}+\left|x_{2}\right|^{p}+\dotsb +\left|x_{n}\right|^{p}\right)^{1/p}.}
+Circle_44,{\displaystyle \left\|x\right\|_{2}={\sqrt {\left|x_{1}\right|^{2}+\left|x_{2}\right|^{2}+\dotsb +\left|x_{n}\right|^{2}}}.}
+Circle_45,{\displaystyle {\sqrt {2}}r}
+Circle_46,{\displaystyle \pi }
+Circle_47,{\displaystyle |x|+|y|=1}
+Circle_48,{\displaystyle r={\frac {1}{\left|\sin \theta \right|+\left|\cos \theta \right|}}}

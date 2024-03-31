@@ -1,0 +1,10 @@
+name,latex
+Complete_graph_0,{\displaystyle \textstyle {\frac {n(n-1)}{2}}}
+Complete_graph_1,{\displaystyle \left\{{\begin{array}{ll}0&n\leq 1\\1&{\text{otherwise}}\end{array}}\right.}
+Complete_graph_2,{\displaystyle \left\{{\begin{array}{ll}0&n\leq 1\\1&{\text{otherwise}}\end{array}}\right.}
+Complete_graph_3,{\displaystyle \left\{{\begin{array}{ll}\infty &n\leq 2\\3&{\text{otherwise}}\end{array}}\right.}
+Complete_graph_4,"{\displaystyle \left\{{\begin{array}{lll}\emptyset &n=0\\\left\{0^{1}\right\}&n=1\\\left\{(n-1)^{1},-1^{n-1}\right\}&{\text{otherwise}}\end{array}}\right.}"
+Complete_graph_5,"{\displaystyle w_{n+2}=n!e_{n}=\lfloor en!\rfloor ,}"
+Complete_graph_6,{\displaystyle e_{n}=\sum _{k=0}^{n}{\frac {1}{k!}}.}
+Complete_graph_7,{\displaystyle n}
+Complete_graph_8,{\displaystyle n}

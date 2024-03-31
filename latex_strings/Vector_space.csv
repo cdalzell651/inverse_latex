@@ -1,0 +1,259 @@
+name,latex
+Vector_space_0,{\displaystyle \mathbf {v} -\mathbf {w} =\mathbf {v} +(-\mathbf {w} ).}
+Vector_space_1,{\displaystyle s\in F}
+Vector_space_2,"{\displaystyle \mathbf {v} \in V,}"
+Vector_space_3,"{\displaystyle 0\mathbf {v} =\mathbf {0} ,}"
+Vector_space_4,"{\displaystyle s\mathbf {0} =\mathbf {0} ,}"
+Vector_space_5,"{\displaystyle (-1)\mathbf {v} =-\mathbf {v} ,}"
+Vector_space_6,{\displaystyle s\mathbf {v} =\mathbf {0} }
+Vector_space_7,{\displaystyle s=0}
+Vector_space_8,{\displaystyle \mathbf {v} =\mathbf {0} .}
+Vector_space_9,"{\displaystyle a_{1}\mathbf {g} _{1}+a_{2}\mathbf {g} _{2}+\cdots +a_{k}\mathbf {g} _{k},}"
+Vector_space_10,"{\displaystyle a_{1},\ldots ,a_{k}\in F}"
+Vector_space_11,"{\displaystyle \mathbf {g} _{1},\ldots ,\mathbf {g} _{k}\in G.}"
+Vector_space_12,"{\displaystyle a_{1},\ldots ,a_{k}}"
+Vector_space_13,"{\displaystyle (\mathbf {b} _{1},\mathbf {b} _{2},\ldots ,\mathbf {b} _{n})}"
+Vector_space_14,{\displaystyle \mathbf {v} \in V}
+Vector_space_15,"{\displaystyle \mathbf {v} =a_{1}\mathbf {b} _{1}+\cdots +a_{n}\mathbf {b} _{n},}"
+Vector_space_16,"{\displaystyle a_{1},\dots ,a_{n}}"
+Vector_space_17,"{\displaystyle a_{1},\ldots ,a_{n}}"
+Vector_space_18,{\displaystyle F^{n}}
+Vector_space_19,"{\displaystyle {\begin{aligned}(x_{1},y_{1})+(x_{2},y_{2})&=(x_{1}+x_{2},y_{1}+y_{2}),\\a(x,y)&=(ax,ay).\end{aligned}}}"
+Vector_space_20,"{\displaystyle (a_{1},a_{2},\dots ,a_{n})}"
+Vector_space_21,{\displaystyle \mathbf {Q} (i{\sqrt {5}})}
+Vector_space_22,{\displaystyle \sin +\exp :\mathbb {R} \to \mathbb {R} }
+Vector_space_23,{\displaystyle (\sin +\exp )(x)=\sin(x)+\exp(x)}
+Vector_space_24,{\displaystyle (f+g)}
+Vector_space_25,"{\displaystyle (f+g)(w)=f(w)+g(w),}"
+Vector_space_26,"{\displaystyle {\begin{alignedat}{9}&&a\,&&+\,3b\,&\,+&\,&c&\,=0\\4&&a\,&&+\,2b\,&\,+&\,2&c&\,=0\\\end{alignedat}}}"
+Vector_space_27,"{\displaystyle a,}"
+Vector_space_28,"{\displaystyle b=a/2,}"
+Vector_space_29,{\displaystyle c=-5a/2.}
+Vector_space_30,"{\displaystyle A\mathbf {x} =\mathbf {0} ,}"
+Vector_space_31,{\displaystyle A={\begin{bmatrix}1&3&1\\4&2&2\end{bmatrix}}}
+Vector_space_32,{\displaystyle \mathbf {x} }
+Vector_space_33,"{\displaystyle (a,b,c),}"
+Vector_space_34,{\displaystyle A\mathbf {x} }
+Vector_space_35,"{\displaystyle \mathbf {0} =(0,0)}"
+Vector_space_36,{\displaystyle f^{\prime \prime }(x)+2f^{\prime }(x)+f(x)=0}
+Vector_space_37,"{\displaystyle f(x)=ae^{-x}+bxe^{-x},}"
+Vector_space_38,{\displaystyle a}
+Vector_space_39,{\displaystyle b}
+Vector_space_40,{\displaystyle e^{x}}
+Vector_space_41,"{\displaystyle {\begin{aligned}f(\mathbf {v} +\mathbf {w} )&=f(\mathbf {v} )+f(\mathbf {w} ),\\f(a\cdot \mathbf {v} )&=a\cdot f(\mathbf {v} )\end{aligned}}}"
+Vector_space_42,{\displaystyle \mathbf {v} }
+Vector_space_43,{\displaystyle \mathbf {w} }
+Vector_space_44,"{\displaystyle V,}"
+Vector_space_45,{\displaystyle a}
+Vector_space_46,{\displaystyle F.}
+Vector_space_47,{\displaystyle A}
+Vector_space_48,"{\displaystyle \mathbf {x} =(x_{1},x_{2},\ldots ,x_{n})\mapsto \left(\sum _{j=1}^{n}a_{1j}x_{j},\sum _{j=1}^{n}a_{2j}x_{j},\ldots ,\sum _{j=1}^{n}a_{mj}x_{j}\right),}"
+Vector_space_50,{\displaystyle A}
+Vector_space_51,{\displaystyle \mathbf {x} }
+Vector_space_52,{\displaystyle \mathbf {x} \mapsto A\mathbf {x} .}
+Vector_space_53,{\displaystyle \det(f-\lambda \cdot \operatorname {Id} )=0.}
+Vector_space_54,{\displaystyle W}
+Vector_space_55,{\displaystyle V}
+Vector_space_56,{\displaystyle \mathbf {0} }
+Vector_space_57,{\displaystyle V}
+Vector_space_58,{\displaystyle V}
+Vector_space_59,{\displaystyle V}
+Vector_space_60,{\displaystyle V}
+Vector_space_61,{\displaystyle S}
+Vector_space_62,{\displaystyle V}
+Vector_space_63,{\displaystyle S}
+Vector_space_64,{\displaystyle S}
+Vector_space_65,{\displaystyle n-1}
+Vector_space_66,{\displaystyle W\subseteq V}
+Vector_space_67,{\displaystyle V/W}
+Vector_space_68,{\displaystyle V}
+Vector_space_69,{\displaystyle W}
+Vector_space_70,"{\displaystyle \mathbf {v} +W=\{\mathbf {v} +\mathbf {w} :\mathbf {w} \in W\},}"
+Vector_space_71,{\displaystyle \mathbf {v} }
+Vector_space_72,{\displaystyle V}
+Vector_space_73,{\displaystyle \mathbf {v} _{1}+W}
+Vector_space_74,{\displaystyle \mathbf {v} _{2}+W}
+Vector_space_75,{\displaystyle \left(\mathbf {v} _{1}+\mathbf {v} _{2}\right)+W}
+Vector_space_76,{\displaystyle a\cdot (\mathbf {v} +W)=(a\cdot \mathbf {v} )+W}
+Vector_space_77,{\displaystyle \mathbf {v} _{1}+W=\mathbf {v} _{2}+W}
+Vector_space_78,{\displaystyle \mathbf {v} _{1}}
+Vector_space_79,{\displaystyle \mathbf {v} _{2}}
+Vector_space_80,{\displaystyle W}
+Vector_space_81,{\displaystyle W}
+Vector_space_82,{\displaystyle \ker(f)}
+Vector_space_83,{\displaystyle f:V\to W}
+Vector_space_84,{\displaystyle \mathbf {v} }
+Vector_space_85,{\displaystyle \mathbf {0} }
+Vector_space_86,{\displaystyle W}
+Vector_space_87,{\displaystyle \operatorname {im} (f)=\{f(\mathbf {v} ):\mathbf {v} \in V\}}
+Vector_space_88,{\displaystyle V}
+Vector_space_89,{\displaystyle W}
+Vector_space_90,{\displaystyle \mathbf {x} \mapsto A\mathbf {x} }
+Vector_space_91,{\displaystyle A}
+Vector_space_92,{\displaystyle \mathbf {x} }
+Vector_space_93,{\displaystyle A\mathbf {x} =\mathbf {0} }
+Vector_space_94,{\displaystyle A}
+Vector_space_95,"{\displaystyle a_{0}f+a_{1}{\frac {df}{dx}}+a_{2}{\frac {d^{2}f}{dx^{2}}}+\cdots +a_{n}{\frac {d^{n}f}{dx^{n}}}=0,}"
+Vector_space_96,{\displaystyle a_{i}}
+Vector_space_97,"{\displaystyle x,}"
+Vector_space_98,"{\displaystyle f\mapsto D(f)=\sum _{i=0}^{n}a_{i}{\frac {d^{i}f}{dx^{i}}},}"
+Vector_space_99,{\displaystyle f}
+Vector_space_100,{\displaystyle f^{\prime \prime }(x)^{2}}
+Vector_space_101,{\displaystyle (f+g)^{\prime }=f^{\prime }+g^{\prime }}
+Vector_space_102,{\displaystyle (c\cdot f)^{\prime }=c\cdot f^{\prime }}
+Vector_space_103,{\displaystyle c}
+Vector_space_104,{\displaystyle D(f)=0}
+Vector_space_105,{\displaystyle F}
+Vector_space_106,{\displaystyle V/\ker(f)\;\equiv \;\operatorname {im} (f)}
+Vector_space_107,{\displaystyle \textstyle {\prod _{i\in I}V_{i}}}
+Vector_space_108,{\displaystyle V_{i}}
+Vector_space_109,{\displaystyle \left(\mathbf {v} _{i}\right)_{i\in I}}
+Vector_space_110,{\displaystyle i}
+Vector_space_111,{\displaystyle I}
+Vector_space_112,{\displaystyle \mathbf {v} _{i}}
+Vector_space_113,{\displaystyle V_{i}}
+Vector_space_116,{\displaystyle I}
+Vector_space_117,"{\displaystyle V\otimes _{F}W,}"
+Vector_space_118,"{\displaystyle V\otimes W,}"
+Vector_space_119,{\displaystyle V}
+Vector_space_120,{\displaystyle W}
+Vector_space_121,{\displaystyle g:V\times W\to X}
+Vector_space_122,{\displaystyle V\times W}
+Vector_space_123,{\displaystyle g}
+Vector_space_124,{\displaystyle \mathbf {v} }
+Vector_space_125,{\displaystyle \mathbf {w} .}
+Vector_space_126,{\displaystyle \mathbf {w} }
+Vector_space_127,"{\displaystyle \mathbf {v} \mapsto g(\mathbf {v} ,\mathbf {w} )}"
+Vector_space_128,{\displaystyle \mathbf {v} .}
+Vector_space_129,"{\displaystyle g,}"
+Vector_space_130,"{\displaystyle \mathbf {v} _{1}\otimes \mathbf {w} _{1}+\mathbf {v} _{2}\otimes \mathbf {w} _{2}+\cdots +\mathbf {v} _{n}\otimes \mathbf {w} _{n},}"
+Vector_space_131,"{\displaystyle {\begin{alignedat}{6}a\cdot (\mathbf {v} \otimes \mathbf {w} )~&=~(a\cdot \mathbf {v} )\otimes \mathbf {w} ~=~\mathbf {v} \otimes (a\cdot \mathbf {w} ),&&~~{\text{ where }}a{\text{ is a scalar}}\\(\mathbf {v} _{1}+\mathbf {v} _{2})\otimes \mathbf {w} ~&=~\mathbf {v} _{1}\otimes \mathbf {w} +\mathbf {v} _{2}\otimes \mathbf {w} &&\\\mathbf {v} \otimes (\mathbf {w} _{1}+\mathbf {w} _{2})~&=~\mathbf {v} \otimes \mathbf {w} _{1}+\mathbf {v} \otimes \mathbf {w} _{2}.&&\\\end{alignedat}}}"
+Vector_space_132,{\displaystyle f}
+Vector_space_133,{\displaystyle V\times W}
+Vector_space_134,{\displaystyle V\otimes W}
+Vector_space_135,"{\displaystyle (\mathbf {v} ,\mathbf {w} )}"
+Vector_space_136,{\displaystyle \mathbf {v} \otimes \mathbf {w} }
+Vector_space_137,{\displaystyle X}
+Vector_space_138,"{\displaystyle g:V\times W\to X,}"
+Vector_space_139,"{\displaystyle u,}"
+Vector_space_140,{\displaystyle f}
+Vector_space_141,{\displaystyle g:}
+Vector_space_142,"{\displaystyle u(\mathbf {v} \otimes \mathbf {w} )=g(\mathbf {v} ,\mathbf {w} ).}"
+Vector_space_143,"{\displaystyle \,\leq ,\,}"
+Vector_space_144,{\displaystyle n}
+Vector_space_145,{\displaystyle \mathbf {R} ^{n}}
+Vector_space_146,{\displaystyle f=f^{+}-f^{-}.}
+Vector_space_147,{\displaystyle f^{+}}
+Vector_space_148,{\displaystyle f}
+Vector_space_149,{\displaystyle f^{-}}
+Vector_space_150,{\displaystyle |\mathbf {v} |}
+Vector_space_151,"{\displaystyle \langle \mathbf {v} ,\mathbf {w} \rangle ,}"
+Vector_space_153,{\displaystyle F^{n}}
+Vector_space_154,"{\displaystyle \langle \mathbf {x} ,\mathbf {y} \rangle =\mathbf {x} \cdot \mathbf {y} =x_{1}y_{1}+\cdots +x_{n}y_{n}.}"
+Vector_space_155,"{\displaystyle \mathbf {R} ^{2},}"
+Vector_space_156,{\displaystyle \mathbf {x} }
+Vector_space_157,"{\displaystyle \mathbf {y} ,}"
+Vector_space_158,"{\displaystyle \mathbf {x} \cdot \mathbf {y} =\cos \left(\angle (\mathbf {x} ,\mathbf {y} )\right)\cdot |\mathbf {x} |\cdot |\mathbf {y} |.}"
+Vector_space_159,"{\displaystyle \langle \mathbf {x} ,\mathbf {y} \rangle =0}"
+Vector_space_160,{\displaystyle \mathbf {R} ^{4}}
+Vector_space_161,{\displaystyle \langle \mathbf {x} |\mathbf {y} \rangle =x_{1}y_{1}+x_{2}y_{2}+x_{3}y_{3}-x_{4}y_{4}.}
+Vector_space_162,{\displaystyle \langle \mathbf {x} |\mathbf {x} \rangle }
+Vector_space_163,"{\displaystyle \mathbf {x} =(0,0,0,1).}"
+Vector_space_164,{\displaystyle V}
+Vector_space_165,{\displaystyle \mathbf {x} }
+Vector_space_166,{\displaystyle \mathbf {y} }
+Vector_space_167,{\displaystyle V}
+Vector_space_168,{\displaystyle a}
+Vector_space_169,{\displaystyle F}
+Vector_space_170,{\displaystyle \mathbf {x} +\mathbf {y} }
+Vector_space_171,{\displaystyle a\mathbf {x} .}
+Vector_space_172,{\displaystyle F}
+Vector_space_173,{\displaystyle \sum _{i=1}^{\infty }f_{i}~=~\lim _{n\to \infty }f_{1}+\cdots +f_{n}}
+Vector_space_174,"{\displaystyle f_{1},f_{2},\ldots }"
+Vector_space_175,{\displaystyle V.}
+Vector_space_176,{\displaystyle f_{i}}
+Vector_space_177,"{\displaystyle V,}"
+Vector_space_178,{\displaystyle \mathbf {R} ^{2}}
+Vector_space_179,{\displaystyle p}
+Vector_space_180,"{\displaystyle p=1,2,}"
+Vector_space_181,{\displaystyle \infty .}
+Vector_space_182,"{\displaystyle [0,1],}"
+Vector_space_183,"{\displaystyle [0,1]}"
+Vector_space_184,"{\displaystyle [0,1]}"
+Vector_space_185,{\displaystyle \mathbf {v} _{n}}
+Vector_space_186,{\displaystyle \mathbf {v} }
+Vector_space_187,{\displaystyle \lim _{n\to \infty }|\mathbf {v} _{n}-\mathbf {v} |=0.}
+Vector_space_188,{\displaystyle 1}
+Vector_space_189,{\displaystyle \infty }
+Vector_space_190,{\displaystyle \mathbf {R} ^{2}:}
+Vector_space_191,"{\displaystyle V\to W,}"
+Vector_space_192,{\displaystyle V^{*}}
+Vector_space_193,{\displaystyle V\to \mathbf {R} }
+Vector_space_194,{\displaystyle \mathbf {C} }
+Vector_space_195,{\displaystyle \ell ^{p}}
+Vector_space_196,"{\displaystyle \mathbf {x} =\left(x_{1},x_{2},\ldots ,x_{n},\ldots \right)}"
+Vector_space_197,{\displaystyle p}
+Vector_space_198,{\displaystyle (1\leq p\leq \infty )}
+Vector_space_199,"{\displaystyle \|\mathbf {x} \|_{\infty }:=\sup _{i}|x_{i}|\qquad {\text{ for }}p=\infty ,{\text{ and }}}"
+Vector_space_200,{\displaystyle \|\mathbf {x} \|_{p}:=\left(\sum _{i}|x_{i}|^{p}\right)^{\frac {1}{p}}\qquad {\text{ for }}p<\infty .}
+Vector_space_201,{\displaystyle \ell ^{p}}
+Vector_space_202,{\displaystyle p.}
+Vector_space_203,"{\displaystyle \mathbf {x} _{n}=\left(2^{-n},2^{-n},\ldots ,2^{-n},0,0,\ldots \right),}"
+Vector_space_204,{\displaystyle 2^{n}}
+Vector_space_205,{\displaystyle 2^{-n}}
+Vector_space_206,"{\displaystyle 0,}"
+Vector_space_207,"{\displaystyle p=\infty ,}"
+Vector_space_208,{\displaystyle p=1:}
+Vector_space_209,"{\displaystyle \|\mathbf {x} _{n}\|_{\infty }=\sup(2^{-n},0)=2^{-n}\to 0,}"
+Vector_space_210,{\displaystyle \|\mathbf {x} _{n}\|_{1}=\sum _{i=1}^{2^{n}}2^{-n}=2^{n}\cdot 2^{-n}=1.}
+Vector_space_211,{\displaystyle f:\Omega \to \mathbb {R} }
+Vector_space_212,"{\displaystyle \|f\|_{p}:=\left(\int _{\Omega }|f(x)|^{p}\,{d\mu (x)}\right)^{\frac {1}{p}}.}"
+Vector_space_213,{\displaystyle \Omega }
+Vector_space_214,"{\displaystyle \|f\|_{p}<\infty ,}"
+Vector_space_215,{\displaystyle L^{\;\!p}(\Omega ).}
+Vector_space_216,"{\displaystyle f_{1},f_{2},\ldots ,f_{n},\ldots }"
+Vector_space_217,"{\displaystyle \|f_{n}\|_{p}<\infty ,}"
+Vector_space_218,"{\displaystyle \lim _{k,\ n\to \infty }\int _{\Omega }\left|f_{k}(x)-f_{n}(x)\right|^{p}\,{d\mu (x)}=0}"
+Vector_space_219,{\displaystyle f(x)}
+Vector_space_220,{\displaystyle L^{\;\!p}(\Omega )}
+Vector_space_221,"{\displaystyle \lim _{k\to \infty }\int _{\Omega }\left|f(x)-f_{k}(x)\right|^{p}\,{d\mu (x)}=0.}"
+Vector_space_222,"{\displaystyle L^{2}(\Omega ),}"
+Vector_space_223,"{\displaystyle \langle f\ ,\ g\rangle =\int _{\Omega }f(x){\overline {g(x)}}\,dx,}"
+Vector_space_224,{\displaystyle {\overline {g(x)}}}
+Vector_space_225,"{\displaystyle g(x),}"
+Vector_space_226,{\displaystyle f_{n}}
+Vector_space_227,{\displaystyle f}
+Vector_space_228,"{\displaystyle [a,b]}"
+Vector_space_229,"{\displaystyle H,}"
+Vector_space_230,"{\displaystyle H,}"
+Vector_space_231,{\displaystyle x\cdot y=1.}
+Vector_space_232,"{\displaystyle \mathbf {R} [x,y]/(x\cdot y-1),}"
+Vector_space_233,{\displaystyle \mathbf {R} .}
+Vector_space_234,{\displaystyle p(t)}
+Vector_space_235,"{\displaystyle [x,y]}"
+Vector_space_236,{\displaystyle x}
+Vector_space_237,{\displaystyle y}
+Vector_space_238,"{\displaystyle [x,y]=-[y,x]}"
+Vector_space_239,"{\displaystyle [x,[y,z]]+[y,[z,x]]+[z,[x,y]]=0}"
+Vector_space_240,{\displaystyle n}
+Vector_space_241,{\displaystyle n}
+Vector_space_242,"{\displaystyle [x,y]=xy-yx,}"
+Vector_space_243,"{\displaystyle \mathbf {R} ^{3},}"
+Vector_space_244,{\displaystyle \operatorname {T} (V)}
+Vector_space_245,{\displaystyle V}
+Vector_space_246,"{\displaystyle \mathbf {v} _{1}\otimes \mathbf {v} _{2}\otimes \cdots \otimes \mathbf {v} _{n},}"
+Vector_space_247,{\displaystyle n}
+Vector_space_248,{\displaystyle \mathbf {v} _{1}\otimes \mathbf {v} _{2}}
+Vector_space_249,{\displaystyle \mathbf {v} _{2}\otimes \mathbf {v} _{1}.}
+Vector_space_250,{\displaystyle \mathbf {v} _{1}\otimes \mathbf {v} _{2}=-\mathbf {v} _{2}\otimes \mathbf {v} _{1}}
+Vector_space_251,{\displaystyle \pi :E\to X}
+Vector_space_252,"{\displaystyle V\times V\to W,\;(\mathbf {v} ,\mathbf {a} )\mapsto \mathbf {a} +\mathbf {v} .}"
+Vector_space_253,{\displaystyle A\mathbf {v} =\mathbf {b} }
+Vector_space_254,{\displaystyle \mathbf {b} =\mathbf {0} }
+Vector_space_255,{\displaystyle {\vec {v}}.}
+Vector_space_256,{\displaystyle V/W}
+Vector_space_257,{\displaystyle \|f+g\|_{p}\leq \|f\|_{p}+\|g\|_{p}}
+Vector_space_258,{\displaystyle L^{2}}
+Vector_space_259,{\displaystyle L^{2}}
+Vector_space_260,"{\displaystyle p\neq 2,}"
+Vector_space_261,{\displaystyle L^{p}(\Omega )}

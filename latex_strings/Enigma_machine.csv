@@ -1,0 +1,5 @@
+name,latex
+Enigma_machine_0,{\displaystyle U=U^{-1}}
+Enigma_machine_1,{\displaystyle E=PRMLUL^{-1}M^{-1}R^{-1}P^{-1}.}
+Enigma_machine_2,"{\displaystyle \rho ^{n}R\rho ^{-n},}"
+Enigma_machine_3,{\displaystyle E=P\left(\rho ^{n}R\rho ^{-n}\right)\left(\rho ^{j}M\rho ^{-j}\right)\left(\rho ^{k}L\rho ^{-k}\right)U\left(\rho ^{k}L^{-1}\rho ^{-k}\right)\left(\rho ^{j}M^{-1}\rho ^{-j}\right)\left(\rho ^{n}R^{-1}\rho ^{-n}\right)P^{-1}.}

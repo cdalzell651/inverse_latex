@@ -1,0 +1,23 @@
+name,latex
+Centrifugal_force_0,{\displaystyle {\textbf {F}}={\frac {d}{dt}}(m{\textbf {v}})}
+Centrifugal_force_1,{\displaystyle F=m\omega ^{2}r}
+Centrifugal_force_2,"{\displaystyle {\frac {\mathrm {d} {\boldsymbol {P}}}{\mathrm {d} t}}=\left[{\frac {\mathrm {d} {\boldsymbol {P}}}{\mathrm {d} t}}\right]+{\boldsymbol {\omega }}\times {\boldsymbol {P}}\ ,}"
+Centrifugal_force_3,{\displaystyle \times }
+Centrifugal_force_4,{\displaystyle {\boldsymbol {\omega }}\times {\boldsymbol {P}}}
+Centrifugal_force_5,"{\displaystyle {\boldsymbol {F}}=m{\boldsymbol {a}}\ ,}"
+Centrifugal_force_6,"{\displaystyle {\boldsymbol {a}}={\frac {\mathrm {d} ^{2}{\boldsymbol {r}}}{\mathrm {d} t^{2}}}\ ,}"
+Centrifugal_force_9,{\displaystyle {\begin{aligned}{\boldsymbol {a}}&={\frac {\mathrm {d} ^{2}{\boldsymbol {r}}}{\mathrm {d} t^{2}}}={\frac {\mathrm {d} }{\mathrm {d} t}}{\frac {\mathrm {d} {\boldsymbol {r}}}{\mathrm {d} t}}={\frac {\mathrm {d} }{\mathrm {d} t}}\left(\left[{\frac {\mathrm {d} {\boldsymbol {r}}}{\mathrm {d} t}}\right]+{\boldsymbol {\omega }}\times {\boldsymbol {r}}\ \right)\\&=\left[{\frac {\mathrm {d} ^{2}{\boldsymbol {r}}}{\mathrm {d} t^{2}}}\right]+{\boldsymbol {\omega }}\times \left[{\frac {\mathrm {d} {\boldsymbol {r}}}{\mathrm {d} t}}\right]+{\frac {\mathrm {d} {\boldsymbol {\omega }}}{\mathrm {d} t}}\times {\boldsymbol {r}}+{\boldsymbol {\omega }}\times {\frac {\mathrm {d} {\boldsymbol {r}}}{\mathrm {d} t}}\\&=\left[{\frac {\mathrm {d} ^{2}{\boldsymbol {r}}}{\mathrm {d} t^{2}}}\right]+{\boldsymbol {\omega }}\times \left[{\frac {\mathrm {d} {\boldsymbol {r}}}{\mathrm {d} t}}\right]+{\frac {\mathrm {d} {\boldsymbol {\omega }}}{\mathrm {d} t}}\times {\boldsymbol {r}}+{\boldsymbol {\omega }}\times \left(\left[{\frac {\mathrm {d} {\boldsymbol {r}}}{\mathrm {d} t}}\right]+{\boldsymbol {\omega }}\times {\boldsymbol {r}}\ \right)\\&=\left[{\frac {\mathrm {d} ^{2}{\boldsymbol {r}}}{\mathrm {d} t^{2}}}\right]+{\frac {\mathrm {d} {\boldsymbol {\omega }}}{\mathrm {d} t}}\times {\boldsymbol {r}}+2{\boldsymbol {\omega }}\times \left[{\frac {\mathrm {d} {\boldsymbol {r}}}{\mathrm {d} t}}\right]+{\boldsymbol {\omega }}\times ({\boldsymbol {\omega }}\times {\boldsymbol {r}})\ .\end{aligned}}}
+Centrifugal_force_10,{\displaystyle \left[{\frac {\mathrm {d} ^{2}{\boldsymbol {r}}}{\mathrm {d} t^{2}}}\right]}
+Centrifugal_force_11,{\displaystyle {\frac {\mathrm {d} ^{2}{\boldsymbol {r}}}{\mathrm {d} t^{2}}}}
+Centrifugal_force_12,{\displaystyle {\boldsymbol {F}}-m{\frac {\mathrm {d} {\boldsymbol {\omega }}}{\mathrm {d} t}}\times {\boldsymbol {r}}-2m{\boldsymbol {\omega }}\times \left[{\frac {\mathrm {d} {\boldsymbol {r}}}{\mathrm {d} t}}\right]-m{\boldsymbol {\omega }}\times ({\boldsymbol {\omega }}\times {\boldsymbol {r}})=m\left[{\frac {\mathrm {d} ^{2}{\boldsymbol {r}}}{\mathrm {d} t^{2}}}\right]\ .}
+Centrifugal_force_13,{\displaystyle -m\mathrm {d} {\boldsymbol {\omega }}/\mathrm {d} t\times {\boldsymbol {r}}}
+Centrifugal_force_14,{\displaystyle -2m{\boldsymbol {\omega }}\times \left[\mathrm {d} {\boldsymbol {r}}/\mathrm {d} t\right]}
+Centrifugal_force_15,{\displaystyle -m{\boldsymbol {\omega }}\times ({\boldsymbol {\omega }}\times {\boldsymbol {r}})}
+Centrifugal_force_16,{\displaystyle ({\boldsymbol {\omega }}=0)}
+Centrifugal_force_17,"{\displaystyle (r,\ \theta )}"
+Centrifugal_force_18,{\displaystyle {\boldsymbol {\dot {q}}}}
+Centrifugal_force_19,{\displaystyle {\boldsymbol {q}}}
+Centrifugal_force_20,{\displaystyle {{\dot {q}}_{i}}^{2}}
+Centrifugal_force_21,{\displaystyle {\dot {q}}_{i}{\dot {q}}_{j}}
+Centrifugal_force_22,{\displaystyle {\boldsymbol {q}}}
+Centrifugal_force_23,{\displaystyle {\dot {\phi }}}

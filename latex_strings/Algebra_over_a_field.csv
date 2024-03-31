@@ -1,0 +1,35 @@
+name,latex
+Algebra_over_a_field_0,{\displaystyle \mathbb {R} ^{2}}
+Algebra_over_a_field_1,{\displaystyle \left(a+ib\right)\cdot \left(c+id\right)}
+Algebra_over_a_field_2,{\displaystyle \mathbb {R} ^{3}}
+Algebra_over_a_field_3,{\displaystyle {\vec {a}}\times {\vec {b}}}
+Algebra_over_a_field_4,{\displaystyle \mathbb {R} ^{4}}
+Algebra_over_a_field_5,{\displaystyle (a+{\vec {v}})(b+{\vec {w}})}
+Algebra_over_a_field_6,{\displaystyle \mathbb {R} [X]}
+Algebra_over_a_field_7,{\displaystyle \mathbb {R} ^{n\times n}}
+Algebra_over_a_field_8,"{\displaystyle \mathbf {Hom} _{K{\text{-alg}}}(A,B).}"
+Algebra_over_a_field_9,{\displaystyle V_{F}:=V\otimes _{K}F}
+Algebra_over_a_field_10,{\displaystyle A_{F}}
+Algebra_over_a_field_11,{\displaystyle A\times A\rightarrow A}
+Algebra_over_a_field_12,"{\displaystyle \eta \colon K\to Z(A),}"
+Algebra_over_a_field_13,{\displaystyle K\times A\to A}
+Algebra_over_a_field_14,"{\displaystyle (k,a)\mapsto \eta (k)a.}"
+Algebra_over_a_field_15,{\displaystyle f(ka)=kf(a)}
+Algebra_over_a_field_16,{\displaystyle k\in K}
+Algebra_over_a_field_17,{\displaystyle a\in A}
+Algebra_over_a_field_18,"{\displaystyle {\begin{matrix}&&K&&\\&\eta _{A}\swarrow &\,&\eta _{B}\searrow &\\A&&{\begin{matrix}f\\\longrightarrow \end{matrix}}&&B\end{matrix}}}"
+Algebra_over_a_field_19,"{\displaystyle \mathbf {e} _{i}\mathbf {e} _{j}=\sum _{k=1}^{n}c_{i,j,k}\mathbf {e} _{k}}"
+Algebra_over_a_field_20,"{\displaystyle \textstyle 1\cdot 1=1\,,\quad 1\cdot a=a\,,\quad a\cdot 1=a\,.}"
+Algebra_over_a_field_21,{\displaystyle \textstyle aa=1}
+Algebra_over_a_field_22,{\displaystyle \textstyle aa=0}
+Algebra_over_a_field_23,"{\displaystyle \textstyle aa=a\,,\quad bb=b\,,\quad ab=ba=0}"
+Algebra_over_a_field_24,"{\displaystyle \textstyle aa=a\,,\quad bb=0\,,\quad ab=ba=0}"
+Algebra_over_a_field_25,"{\displaystyle \textstyle aa=b\,,\quad bb=0\,,\quad ab=ba=0}"
+Algebra_over_a_field_26,"{\displaystyle \textstyle aa=1\,,\quad bb=0\,,\quad ab=-ba=b}"
+Algebra_over_a_field_27,"{\displaystyle \textstyle aa=0\,,\quad bb=0\,,\quad ab=ba=0}"
+Algebra_over_a_field_28,{\displaystyle \mathbb {H} \times \mathbb {H} }
+Algebra_over_a_field_29,{\displaystyle \mathbb {R} \times \mathbb {R} }
+Algebra_over_a_field_30,{\displaystyle \mathbb {R} }
+Algebra_over_a_field_31,{\displaystyle R\to A}
+Algebra_over_a_field_32,{\displaystyle \mathbb {Z} }
+Algebra_over_a_field_33,{\displaystyle \mathbb {Z} \to A}

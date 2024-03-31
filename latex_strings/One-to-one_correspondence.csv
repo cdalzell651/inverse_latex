@@ -1,0 +1,37 @@
+name,latex
+One-to-one_correspondence_0,{\displaystyle X}
+One-to-one_correspondence_1,{\displaystyle \mathbb {B} }
+One-to-one_correspondence_2,{\displaystyle \mathbb {B} }
+One-to-one_correspondence_3,{\displaystyle X}
+One-to-one_correspondence_4,{\displaystyle \mathbb {B} ^{n}}
+One-to-one_correspondence_5,{\displaystyle X}
+One-to-one_correspondence_6,{\displaystyle X}
+One-to-one_correspondence_7,{\displaystyle \mathbb {Z} }
+One-to-one_correspondence_8,{\displaystyle \mathbb {Z} }
+One-to-one_correspondence_9,{\displaystyle X}
+One-to-one_correspondence_10,{\displaystyle X}
+One-to-one_correspondence_11,{\displaystyle \mathbb {R} }
+One-to-one_correspondence_12,{\displaystyle \mathbb {R} }
+One-to-one_correspondence_13,{\displaystyle X}
+One-to-one_correspondence_14,{\displaystyle \mathbb {R} ^{n}}
+One-to-one_correspondence_15,{\displaystyle X}
+One-to-one_correspondence_16,{\displaystyle X}
+One-to-one_correspondence_17,{\displaystyle \mathbb {C} }
+One-to-one_correspondence_18,{\displaystyle \mathbb {C} }
+One-to-one_correspondence_19,{\displaystyle X}
+One-to-one_correspondence_20,{\displaystyle \mathbb {C} ^{n}}
+One-to-one_correspondence_21,{\displaystyle X}
+One-to-one_correspondence_22,{\displaystyle f:X\to Y}
+One-to-one_correspondence_23,"{\displaystyle g:Y\to X,}"
+One-to-one_correspondence_24,{\displaystyle g(f(x))=x}
+One-to-one_correspondence_25,{\displaystyle x}
+One-to-one_correspondence_26,{\displaystyle X}
+One-to-one_correspondence_27,{\displaystyle f(g(y))=y}
+One-to-one_correspondence_28,{\displaystyle y}
+One-to-one_correspondence_29,{\displaystyle Y.}
+One-to-one_correspondence_30,"{\displaystyle \mathbb {R} ^{+}\equiv \left(0,\infty \right)}"
+One-to-one_correspondence_31,"{\displaystyle \mathbb {R} _{0}^{+}\equiv \left[0,\infty \right)}"
+One-to-one_correspondence_32,"{\displaystyle g\,\circ \,f}"
+One-to-one_correspondence_33,"{\displaystyle g\,\circ \,f}"
+One-to-one_correspondence_34,"{\displaystyle (g\,\circ \,f)^{-1}\;=\;(f^{-1})\,\circ \,(g^{-1})}"
+One-to-one_correspondence_35,"{\displaystyle g\,\circ \,f}"

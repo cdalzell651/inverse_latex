@@ -1,0 +1,25 @@
+name,latex
+Pointwise_0,{\displaystyle f(x)}
+Pointwise_1,{\displaystyle f.}
+Pointwise_2,{\displaystyle {\begin{aligned}(f+g)(x)&=f(x)+g(x)&{\text{(pointwise addition)}}\\(f\cdot g)(x)&=f(x)\cdot g(x)&{\text{(pointwise multiplication)}}\\(\lambda \cdot f)(x)&=\lambda \cdot f(x)&{\text{(pointwise multiplication by a scalar)}}\end{aligned}}}
+Pointwise_3,"{\displaystyle f,g:X\to R}"
+Pointwise_4,{\displaystyle A}
+Pointwise_5,{\displaystyle X}
+Pointwise_6,{\displaystyle A}
+Pointwise_7,{\displaystyle K^{n}}
+Pointwise_8,{\displaystyle n}
+Pointwise_9,{\displaystyle K}
+Pointwise_10,{\displaystyle i}
+Pointwise_11,{\displaystyle v}
+Pointwise_12,{\displaystyle v_{i}}
+Pointwise_13,{\displaystyle (u+v)_{i}=u_{i}+v_{i}}
+Pointwise_14,{\displaystyle (A+B)_{ij}=A_{ij}+B_{ij}}
+Pointwise_15,{\displaystyle v}
+Pointwise_16,{\displaystyle f:n\to K}
+Pointwise_17,{\displaystyle f(i)=v_{i}}
+Pointwise_18,{\displaystyle (f_{n})_{n=1}^{\infty }}
+Pointwise_19,{\displaystyle f_{n}:X\longrightarrow Y}
+Pointwise_20,{\displaystyle f}
+Pointwise_21,{\displaystyle x}
+Pointwise_22,{\displaystyle X}
+Pointwise_23,{\displaystyle \lim _{n\to \infty }f_{n}(x)=f(x).}

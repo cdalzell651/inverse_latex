@@ -1,0 +1,65 @@
+name,latex
+Subset_0,{\displaystyle A\subseteq B}
+Subset_1,{\displaystyle B\supseteq A}
+Subset_2,{\displaystyle A\subseteq B}
+Subset_3,{\displaystyle B\supseteq A.}
+Subset_6,{\displaystyle \{\}}
+Subset_8,{\displaystyle \subseteq }
+Subset_9,{\displaystyle {\mathcal {P}}(S)}
+Subset_10,{\displaystyle A\leq B\iff A\subseteq B}
+Subset_11,{\displaystyle {\mathcal {P}}(S)}
+Subset_12,{\displaystyle A\leq B{\text{ if and only if }}B\subseteq A.}
+Subset_13,{\displaystyle A\subseteq B}
+Subset_14,{\displaystyle \forall x\left(x\in A\implies x\in B\right).}
+Subset_15,{\displaystyle A\subseteq B}
+Subset_16,"{\displaystyle A\subseteq B,}"
+Subset_17,{\displaystyle c\in A\implies c\in B}
+Subset_18,"{\displaystyle \forall x\left(x\in A\implies x\in B\right),}"
+Subset_19,"{\displaystyle A\subseteq B,}"
+Subset_20,{\displaystyle A}
+Subset_21,{\displaystyle {\mathcal {P}}(A)}
+Subset_22,{\displaystyle k}
+Subset_23,{\displaystyle A}
+Subset_24,{\displaystyle {\tbinom {A}{k}}}
+Subset_25,{\displaystyle k}
+Subset_26,{\displaystyle n}
+Subset_27,{\displaystyle [A]^{k}}
+Subset_28,{\displaystyle k}
+Subset_29,{\displaystyle A\subseteq B{\text{ if and only if }}A\cap B=A.}
+Subset_30,{\displaystyle A\subseteq B{\text{ if and only if }}A\cup B=B.}
+Subset_31,{\displaystyle A\subseteq B{\text{ if and only if }}|A\cap B|=|A|.}
+Subset_32,{\displaystyle \subset }
+Subset_33,{\displaystyle \supset }
+Subset_34,{\displaystyle \subseteq }
+Subset_35,{\displaystyle \supseteq .}
+Subset_36,{\displaystyle A\subset A.}
+Subset_37,{\displaystyle \subset }
+Subset_38,{\displaystyle \supset }
+Subset_41,{\displaystyle \subseteq }
+Subset_42,{\displaystyle \subset }
+Subset_43,{\displaystyle \leq }
+Subset_44,{\displaystyle <.}
+Subset_45,"{\displaystyle x\leq y,}"
+Subset_46,"{\displaystyle x<y,}"
+Subset_47,{\displaystyle \subset }
+Subset_48,"{\displaystyle A\subseteq B,}"
+Subset_49,"{\displaystyle A\subset B,}"
+Subset_50,{\displaystyle A\subseteq B}
+Subset_52,{\displaystyle D\subseteq E}
+Subset_54,{\displaystyle X\subseteq X}
+Subset_56,{\displaystyle A\subseteq B}
+Subset_57,{\displaystyle B\subseteq C}
+Subset_58,{\displaystyle A\subseteq C.}
+Subset_59,"{\displaystyle (X,\preceq )}"
+Subset_60,{\displaystyle [n]}
+Subset_61,{\displaystyle a\leq b}
+Subset_62,{\displaystyle [a]\subseteq [b].}
+Subset_63,{\displaystyle \operatorname {\mathcal {P}} (S)}
+Subset_64,{\displaystyle k=|S|}
+Subset_65,"{\displaystyle \{0,1\}}"
+Subset_66,{\displaystyle 0<1.}
+Subset_67,"{\displaystyle S=\left\{s_{1},s_{2},\ldots ,s_{k}\right\},}"
+Subset_68,{\displaystyle T\subseteq S}
+Subset_69,{\displaystyle 2^{S}}
+Subset_70,"{\displaystyle \{0,1\}^{k},}"
+Subset_71,{\displaystyle s_{i}}

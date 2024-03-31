@@ -1,0 +1,13 @@
+name,latex
+Integer_lattice_0,{\displaystyle \mathbb {Z} ^{n}}
+Integer_lattice_1,{\displaystyle \mathbb {R} ^{n}}
+Integer_lattice_2,{\displaystyle \mathbb {Z} ^{n}}
+Integer_lattice_4,{\displaystyle \scriptstyle \mathbb {Z} \times \mathbb {Z} }
+Integer_lattice_5,{\displaystyle \scriptstyle \mathbb {Z} }
+Integer_lattice_6,{\displaystyle i}
+Integer_lattice_7,{\displaystyle b}
+Integer_lattice_8,{\displaystyle A}
+Integer_lattice_9,{\displaystyle A=i+{\frac {b}{2}}-1.}
+Integer_lattice_10,{\displaystyle i=7}
+Integer_lattice_11,{\displaystyle b=8}
+Integer_lattice_12,{\displaystyle A=7+{\tfrac {8}{2}}-1=10}

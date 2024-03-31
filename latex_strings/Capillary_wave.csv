@@ -1,0 +1,78 @@
+name,latex
+Capillary_wave_0,"{\displaystyle \omega ^{2}={\frac {\sigma }{\rho +\rho '}}\,|k|^{3},}"
+Capillary_wave_1,{\displaystyle \omega }
+Capillary_wave_2,{\displaystyle \sigma }
+Capillary_wave_3,{\displaystyle \rho }
+Capillary_wave_4,{\displaystyle \rho '}
+Capillary_wave_5,{\displaystyle k}
+Capillary_wave_6,{\displaystyle \lambda ={\frac {2\pi }{k}}.}
+Capillary_wave_7,"{\displaystyle \omega ^{2}={\frac {\sigma }{\rho }}\,|k|^{3}.}"
+Capillary_wave_8,{\displaystyle \rho '=0}
+Capillary_wave_9,{\displaystyle \scriptstyle {\sqrt[{4}]{g\sigma /\rho }}}
+Capillary_wave_10,{\displaystyle \scriptstyle {\frac {1}{\lambda }}{\sqrt {\sigma /(\rho g)}}}
+Capillary_wave_11,"{\displaystyle \omega ^{2}=|k|\left({\frac {\rho -\rho '}{\rho +\rho '}}g+{\frac {\sigma }{\rho +\rho '}}k^{2}\right),}"
+Capillary_wave_12,{\displaystyle g}
+Capillary_wave_13,{\displaystyle \rho }
+Capillary_wave_14,{\displaystyle \rho '}
+Capillary_wave_15,{\displaystyle (\rho >\rho ')}
+Capillary_wave_16,{\displaystyle (\rho -\rho ')/(\rho +\rho ')}
+Capillary_wave_17,{\displaystyle k=2\pi /\lambda }
+Capillary_wave_18,{\displaystyle k}
+Capillary_wave_19,{\displaystyle \lambda _{m}}
+Capillary_wave_20,{\displaystyle c_{m}}
+Capillary_wave_21,{\displaystyle \lambda _{m}=2\pi {\sqrt {\frac {\sigma }{(\rho -\rho ')g}}}\quad {\text{and}}\quad c_{m}={\sqrt {\frac {2{\sqrt {(\rho -\rho ')g\sigma }}}{\rho +\rho '}}}.}
+Capillary_wave_22,{\displaystyle \lambda _{m}}
+Capillary_wave_23,{\displaystyle c_{m}}
+Capillary_wave_24,{\displaystyle g}
+Capillary_wave_25,{\displaystyle \sigma }
+Capillary_wave_26,{\displaystyle g}
+Capillary_wave_27,{\displaystyle k}
+Capillary_wave_28,{\displaystyle k}
+Capillary_wave_29,{\displaystyle \rho }
+Capillary_wave_30,{\displaystyle \rho '}
+Capillary_wave_31,{\displaystyle \nabla \phi }
+Capillary_wave_32,{\displaystyle \nabla \phi '}
+Capillary_wave_33,"{\displaystyle \phi (x,y,z,t)}"
+Capillary_wave_34,"{\displaystyle \phi '(x,y,z,t)}"
+Capillary_wave_35,{\displaystyle V_{g}}
+Capillary_wave_36,{\displaystyle V_{st}}
+Capillary_wave_37,{\displaystyle T}
+Capillary_wave_38,{\displaystyle V_{g}}
+Capillary_wave_39,{\displaystyle \rho gz}
+Capillary_wave_40,{\displaystyle \rho 'gz}
+Capillary_wave_41,"{\displaystyle z=\eta (x,y,t)}"
+Capillary_wave_42,"{\displaystyle V_{\mathrm {g} }=\iint dx\,dy\;\int _{0}^{\eta }dz\;(\rho -\rho ')gz={\frac {1}{2}}(\rho -\rho ')g\iint dx\,dy\;\eta ^{2},}"
+Capillary_wave_43,{\displaystyle z=0}
+Capillary_wave_44,"{\displaystyle V_{\mathrm {st} }=\sigma \iint dx\,dy\;\left[{\sqrt {1+\left({\frac {\partial \eta }{\partial x}}\right)^{2}+\left({\frac {\partial \eta }{\partial y}}\right)^{2}}}-1\right]\approx {\frac {1}{2}}\sigma \iint dx\,dy\;\left[\left({\frac {\partial \eta }{\partial x}}\right)^{2}+\left({\frac {\partial \eta }{\partial y}}\right)^{2}\right],}"
+Capillary_wave_45,"{\displaystyle T={\frac {1}{2}}\iint dx\,dy\;\left[\int _{-\infty }^{\eta }dz\;\rho \,\left|\mathbf {\nabla } \Phi \right|^{2}+\int _{\eta }^{+\infty }dz\;\rho '\,\left|\mathbf {\nabla } \Phi '\right|^{2}\right].}"
+Capillary_wave_46,"{\displaystyle \phi (x,y,z,t)}"
+Capillary_wave_47,"{\displaystyle \phi '(x,y,z,t)}"
+Capillary_wave_48,{\displaystyle \nabla ^{2}\Phi =0}
+Capillary_wave_49,{\displaystyle \nabla ^{2}\Phi '=0.}
+Capillary_wave_50,{\displaystyle \phi }
+Capillary_wave_51,{\displaystyle \phi '}
+Capillary_wave_52,{\displaystyle z=0}
+Capillary_wave_53,{\displaystyle z=\eta }
+Capillary_wave_54,"{\displaystyle T\approx {\frac {1}{2}}\iint dx\,dy\;\left[\rho \,\Phi \,{\frac {\partial \Phi }{\partial z}}\;-\;\rho '\,\Phi '\,{\frac {\partial \Phi '}{\partial z}}\right]_{{\text{at }}z=0}.}"
+Capillary_wave_55,"{\displaystyle \eta =a\,\cos \,(kx-\omega t)=a\,\cos \,\theta ,}"
+Capillary_wave_56,{\displaystyle a}
+Capillary_wave_57,{\displaystyle \theta =kx-\omega t}
+Capillary_wave_58,{\displaystyle {\frac {\partial \Phi }{\partial z}}={\frac {\partial \eta }{\partial t}}}
+Capillary_wave_59,{\displaystyle {\frac {\partial \Phi '}{\partial z}}={\frac {\partial \eta }{\partial t}}}
+Capillary_wave_60,{\displaystyle z=0}
+Capillary_wave_61,"{\displaystyle {\begin{aligned}\Phi (x,y,z,t)&=+{\frac {1}{|k|}}{\text{e}}^{+|k|z}\,\omega a\,\sin \,\theta ,\\\Phi '(x,y,z,t)&=-{\frac {1}{|k|}}{\text{e}}^{-|k|z}\,\omega a\,\sin \,\theta .\end{aligned}}}"
+Capillary_wave_62,{\displaystyle \lambda =2\pi /k}
+Capillary_wave_63,"{\displaystyle {\begin{aligned}V_{\text{g}}&={\frac {1}{4}}(\rho -\rho ')ga^{2}\lambda ,\\V_{\text{st}}&={\frac {1}{4}}\sigma k^{2}a^{2}\lambda ,\\T&={\frac {1}{4}}(\rho +\rho '){\frac {\omega ^{2}}{|k|}}a^{2}\lambda .\end{aligned}}}"
+Capillary_wave_64,{\displaystyle L=T-V}
+Capillary_wave_65,{\displaystyle V}
+Capillary_wave_66,{\displaystyle V_{g}}
+Capillary_wave_67,{\displaystyle V_{st}}
+Capillary_wave_68,{\displaystyle L={\frac {1}{4}}\left[(\rho +\rho '){\frac {\omega ^{2}}{|k|}}-(\rho -\rho ')g-\sigma k^{2}\right]a^{2}\lambda .}
+Capillary_wave_69,"{\displaystyle L=D(\omega ,k)a^{2}}"
+Capillary_wave_70,{\displaystyle a}
+Capillary_wave_71,"{\displaystyle D(\omega ,k)=0}"
+Capillary_wave_72,"{\displaystyle D(\omega ,k)}"
+Capillary_wave_73,"{\displaystyle \omega ^{2}=|k|\left({\frac {\rho -\rho '}{\rho +\rho '}}\,g+{\frac {\sigma }{\rho +\rho '}}\,k^{2}\right),}"
+Capillary_wave_74,{\displaystyle (T+V)/\lambda }
+Capillary_wave_75,"{\displaystyle {\bar {E}}={\frac {1}{2}}\,\left[(\rho -\rho ')\,g+\sigma k^{2}\right]\,a^{2}.}"
+Capillary_wave_76,{\displaystyle T=V}

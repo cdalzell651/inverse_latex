@@ -1,0 +1,127 @@
+name,latex
+Summation_0,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{term}}\,+\,{\text{term}}\\\scriptstyle {\text{summand}}\,+\,{\text{summand}}\\\scriptstyle {\text{addend}}\,+\,{\text{addend}}\\\scriptstyle {\text{augend}}\,+\,{\text{addend}}\end{matrix}}\right\}\,=\,}"
+Summation_1,{\displaystyle \scriptstyle {\text{sum}}}
+Summation_2,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{term}}\,-\,{\text{term}}\\\scriptstyle {\text{minuend}}\,-\,{\text{subtrahend}}\end{matrix}}\right\}\,=\,}"
+Summation_3,{\displaystyle \scriptstyle {\text{difference}}}
+Summation_4,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{factor}}\,\times \,{\text{factor}}\\\scriptstyle {\text{multiplier}}\,\times \,{\text{multiplicand}}\end{matrix}}\right\}\,=\,}"
+Summation_5,{\displaystyle \scriptstyle {\text{product}}}
+Summation_6,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\frac {\scriptstyle {\text{dividend}}}{\scriptstyle {\text{divisor}}}}\\[1ex]\scriptstyle {\frac {\scriptstyle {\text{numerator}}}{\scriptstyle {\text{denominator}}}}\end{matrix}}\right\}\,=\,}"
+Summation_7,{\displaystyle \scriptstyle \left\{{\begin{matrix}\scriptstyle {\text{fraction}}\\\scriptstyle {\text{quotient}}\\\scriptstyle {\text{ratio}}\end{matrix}}\right.}
+Summation_8,"{\displaystyle \scriptstyle {\text{base}}^{\text{exponent}}\,=\,}"
+Summation_9,{\displaystyle \scriptstyle {\text{power}}}
+Summation_10,"{\displaystyle \scriptstyle {\sqrt[{\text{degree}}]{\scriptstyle {\text{radicand}}}}\,=\,}"
+Summation_11,{\displaystyle \scriptstyle {\text{root}}}
+Summation_12,"{\displaystyle \scriptstyle \log _{\text{base}}({\text{anti-logarithm}})\,=\,}"
+Summation_13,{\displaystyle \scriptstyle {\text{logarithm}}}
+Summation_16,{\displaystyle \sum _{i=1}^{n}i={\frac {n(n+1)}{2}}.}
+Summation_18,{\displaystyle \sum _{i\mathop {=} m}^{n}a_{i}=a_{m}+a_{m+1}+a_{m+2}+\cdots +a_{n-1}+a_{n}}
+Summation_19,{\displaystyle \sum _{i=3}^{6}i^{2}=3^{2}+4^{2}+5^{2}+6^{2}=86.}
+Summation_20,{\displaystyle i}
+Summation_21,{\displaystyle j}
+Summation_22,{\displaystyle k}
+Summation_23,{\displaystyle n}
+Summation_24,{\displaystyle \sum a_{i}^{2}=\sum _{i=1}^{n}a_{i}^{2}.}
+Summation_25,{\displaystyle \sum _{0\leq k<100}f(k)}
+Summation_27,{\displaystyle f(k)}
+Summation_28,{\displaystyle k}
+Summation_29,{\displaystyle \sum _{x\mathop {\in } S}f(x)}
+Summation_30,{\displaystyle f(x)}
+Summation_31,{\displaystyle x}
+Summation_32,{\displaystyle S}
+Summation_33,"{\displaystyle \sum _{d\,|\,n}\;\mu (d)}"
+Summation_34,{\displaystyle \mu (d)}
+Summation_35,{\displaystyle d}
+Summation_36,{\displaystyle n}
+Summation_37,"{\displaystyle \sum _{i,j}}"
+Summation_38,{\displaystyle \sum _{i}\sum _{j}.}
+Summation_41,{\displaystyle x}
+Summation_42,{\displaystyle x}
+Summation_43,{\displaystyle n=m}
+Summation_44,{\displaystyle n=m-1}
+Summation_45,{\displaystyle \sum _{i=a}^{b}g(i)=0}
+Summation_46,{\displaystyle b<a}
+Summation_47,{\displaystyle \sum _{i=a}^{b}g(i)=g(b)+\sum _{i=a}^{b-1}g(i)}
+Summation_49,"{\displaystyle \sum _{k\mathop {=} a}^{b}f(k)=\int _{[a,b]}f\,d\mu }"
+Summation_50,"{\displaystyle [a,b]}"
+Summation_51,{\displaystyle a}
+Summation_52,{\displaystyle b}
+Summation_53,{\displaystyle \mu }
+Summation_54,{\displaystyle f(n)-f(m)=\sum _{i=m}^{n-1}(f(i+1)-f(i)).}
+Summation_55,"{\displaystyle f(n)-f(m)=\int _{m}^{n}f'(x)\,dx,}"
+Summation_56,{\displaystyle f'(x)=\lim _{h\to 0}{\frac {f(x+h)-f(x)}{h}}}
+Summation_57,{\displaystyle n^{k}=\sum _{i=0}^{n-1}\left((i+1)^{k}-i^{k}\right).}
+Summation_58,{\displaystyle n^{k}=\sum _{i=0}^{n-1}{\biggl (}\sum _{j=0}^{k-1}{\binom {k}{j}}i^{j}{\biggr )}.}
+Summation_59,{\displaystyle \Delta }
+Summation_60,"{\displaystyle \Delta (f)(n)=f(n+1)-f(n),}"
+Summation_61,{\displaystyle F=\Delta ^{-1}f}
+Summation_62,{\displaystyle \Delta F=f}
+Summation_63,{\displaystyle F(n+1)-F(n)=f(n).}
+Summation_64,{\displaystyle F(n)=\sum _{i=0}^{n-1}f(i).}
+Summation_65,{\displaystyle f(n)=n^{k}}
+Summation_66,{\displaystyle \int _{s=a-1}^{b}f(s)\ ds\leq \sum _{i=a}^{b}f(i)\leq \int _{s=a}^{b+1}f(s)\ ds.}
+Summation_67,{\displaystyle \int _{s=a}^{b+1}f(s)\ ds\leq \sum _{i=a}^{b}f(i)\leq \int _{s=a-1}^{b}f(s)\ ds.}
+Summation_68,"{\displaystyle {\frac {b-a}{n}}\sum _{i=0}^{n-1}f\left(a+i{\frac {b-a}{n}}\right)\approx \int _{a}^{b}f(x)\ dx,}"
+Summation_69,{\displaystyle n\to \infty }
+Summation_70,{\displaystyle \sum _{n=s}^{t}C\cdot f(n)=C\cdot \sum _{n=s}^{t}f(n)\quad }
+Summation_71,{\displaystyle \sum _{n=s}^{t}f(n)\pm \sum _{n=s}^{t}g(n)=\sum _{n=s}^{t}\left(f(n)\pm g(n)\right)\quad }
+Summation_72,{\displaystyle \sum _{n=s}^{t}f(n)=\sum _{n=s+p}^{t+p}f(n-p)\quad }
+Summation_73,"{\displaystyle \sum _{n\in B}f(n)=\sum _{m\in A}f(\sigma (m)),\quad }"
+Summation_74,{\displaystyle \sum _{n=s}^{t}f(n)=\sum _{n=s}^{j}f(n)+\sum _{n=j+1}^{t}f(n)\quad }
+Summation_75,{\displaystyle \sum _{n=a}^{b}f(n)=\sum _{n=0}^{b}f(n)-\sum _{n=0}^{a-1}f(n)\quad }
+Summation_76,{\displaystyle \sum _{n=s}^{t}f(n)=\sum _{n=0}^{t-s}f(t-n)\quad }
+Summation_77,{\displaystyle \sum _{n=0}^{t}f(n)=\sum _{n=0}^{t}f(t-n)\quad }
+Summation_78,"{\displaystyle \sum _{i=k_{0}}^{k_{1}}\sum _{j=l_{0}}^{l_{1}}a_{i,j}=\sum _{j=l_{0}}^{l_{1}}\sum _{i=k_{0}}^{k_{1}}a_{i,j}\quad }"
+Summation_79,"{\displaystyle \sum _{k\leq j\leq i\leq n}a_{i,j}=\sum _{i=k}^{n}\sum _{j=k}^{i}a_{i,j}=\sum _{j=k}^{n}\sum _{i=j}^{n}a_{i,j}=\sum _{j=0}^{n-k}\sum _{i=k}^{n-j}a_{i+j,i}\quad }"
+Summation_80,{\displaystyle \sum _{n=2s}^{2t+1}f(n)=\sum _{n=s}^{t}f(2n)+\sum _{n=s}^{t}f(2n+1)\quad }
+Summation_81,{\displaystyle \sum _{n=2s+1}^{2t}f(n)=\sum _{n=s+1}^{t}f(2n)+\sum _{n=s+1}^{t}f(2n-1)\quad }
+Summation_82,{\displaystyle {\biggl (}\sum _{i=0}^{n}a_{i}{\biggr )}{\biggl (}\sum _{j=0}^{n}b_{j}{\biggr )}=\sum _{i=0}^{n}\sum _{j=0}^{n}a_{i}b_{j}\quad }
+Summation_83,{\displaystyle \sum _{i=s}^{m}\sum _{j=t}^{n}{a_{i}}{c_{j}}={\biggl (}\sum _{i=s}^{m}a_{i}{\biggr )}{\biggl (}\sum _{j=t}^{n}c_{j}{\biggr )}\quad }
+Summation_84,{\displaystyle \sum _{n=s}^{t}\log _{b}f(n)=\log _{b}\prod _{n=s}^{t}f(n)\quad }
+Summation_85,{\displaystyle C^{\sum \limits _{n=s}^{t}f(n)}=\prod _{n=s}^{t}C^{f(n)}\quad }
+Summation_86,{\displaystyle \sum _{i=1}^{n}c=nc\quad }
+Summation_87,{\displaystyle \sum _{i=0}^{n}i=\sum _{i=1}^{n}i={\frac {n(n+1)}{2}}\qquad }
+Summation_88,{\displaystyle \sum _{i=1}^{n}(2i-1)=n^{2}\qquad }
+Summation_89,{\displaystyle \sum _{i=0}^{n}2i=n(n+1)\qquad }
+Summation_90,{\displaystyle \sum _{i=1}^{n}\log i=\log n!\qquad }
+Summation_91,{\displaystyle \sum _{i=0}^{n}i^{2}=\sum _{i=1}^{n}i^{2}={\frac {n(n+1)(2n+1)}{6}}={\frac {n^{3}}{3}}+{\frac {n^{2}}{2}}+{\frac {n}{6}}\qquad }
+Summation_92,{\displaystyle \sum _{i=0}^{n}i^{3}={\biggl (}\sum _{i=0}^{n}i{\biggr )}^{2}=\left({\frac {n(n+1)}{2}}\right)^{2}={\frac {n^{4}}{4}}+{\frac {n^{3}}{2}}+{\frac {n^{2}}{4}}\qquad }
+Summation_93,{\displaystyle p>1}
+Summation_94,"{\displaystyle \sum _{k=1}^{n}k^{p}={\frac {n^{p+1}}{p+1}}+{\frac {1}{2}}n^{p}+\sum _{k=2}^{p}{\binom {p}{k}}{\frac {B_{k}}{p-k+1}}\,n^{p-k+1},}"
+Summation_95,{\displaystyle B_{k}}
+Summation_96,{\displaystyle {\binom {p}{k}}}
+Summation_97,{\displaystyle \sum _{i=0}^{n-1}a^{i}={\frac {1-a^{n}}{1-a}}}
+Summation_98,{\displaystyle \sum _{i=0}^{n-1}{\frac {1}{2^{i}}}=2-{\frac {1}{2^{n-1}}}}
+Summation_99,{\displaystyle \sum _{i=0}^{n-1}ia^{i}={\frac {a-na^{n}+(n-1)a^{n+1}}{(1-a)^{2}}}}
+Summation_100,{\displaystyle {\begin{aligned}\sum _{i=0}^{n-1}\left(b+id\right)a^{i}&=b\sum _{i=0}^{n-1}a^{i}+d\sum _{i=0}^{n-1}ia^{i}\\&=b\left({\frac {1-a^{n}}{1-a}}\right)+d\left({\frac {a-na^{n}+(n-1)a^{n+1}}{(1-a)^{2}}}\right)\\&={\frac {b(1-a^{n})-(n-1)da^{n}}{1-a}}+{\frac {da(1-a^{n-1})}{(1-a)^{2}}}\end{aligned}}}
+Summation_101,"{\displaystyle \sum _{i=0}^{n}{n \choose i}a^{n-i}b^{i}=(a+b)^{n},}"
+Summation_102,"{\displaystyle \sum _{i=0}^{n}{n \choose i}=2^{n},}"
+Summation_103,{\displaystyle \sum _{i=0}^{n}{n \choose i}p^{i}(1-p)^{n-i}=1}
+Summation_104,"{\displaystyle 0\leq p\leq 1,}"
+Summation_105,"{\displaystyle \sum _{i=0}^{n}i{n \choose i}=n(2^{n-1}),}"
+Summation_107,{\displaystyle {}_{n}P_{k}}
+Summation_108,{\displaystyle \sum _{i=0}^{n}{}_{i}P_{k}{n \choose i}={}_{n}P_{k}(2^{n-k})}
+Summation_109,{\displaystyle \sum _{i=1}^{n}{}_{i+k}P_{k+1}=\sum _{i=1}^{n}\prod _{j=0}^{k}(i+j)={\frac {(n+k+1)!}{(n-1)!(k+2)}}}
+Summation_110,"{\displaystyle \sum _{i=0}^{n}i!\cdot {n \choose i}=\sum _{i=0}^{n}{}_{n}P_{i}=\lfloor n!\cdot e\rfloor ,\quad n\in \mathbb {Z} ^{+}}"
+Summation_111,{\displaystyle \lfloor x\rfloor }
+Summation_112,{\displaystyle \sum _{k=0}^{m}{\binom {n+k}{n}}={\binom {n+m+1}{n+1}}}
+Summation_113,{\displaystyle \sum _{i=k}^{n}{i \choose k}={n+1 \choose k+1}}
+Summation_114,{\displaystyle \sum _{i=0}^{n}i\cdot i!=(n+1)!-1}
+Summation_115,{\displaystyle \sum _{i=0}^{n}{m+i-1 \choose i}={m+n \choose n}}
+Summation_116,{\displaystyle \sum _{i=0}^{n}{n \choose i}^{2}={2n \choose n}}
+Summation_117,{\displaystyle \sum _{i=0}^{n}{\frac {1}{i!}}={\frac {\lfloor n!\;e\rfloor }{n!}}}
+Summation_118,{\displaystyle \sum _{i=1}^{n}{\frac {1}{i}}=H_{n}\quad }
+Summation_119,{\displaystyle \sum _{i=1}^{n}{\frac {1}{i^{k}}}=H_{n}^{k}\quad }
+Summation_120,{\displaystyle \sum _{i=1}^{n}i^{c}\in \Theta (n^{c+1})}
+Summation_121,{\displaystyle \sum _{i=1}^{n}{\frac {1}{i}}\in \Theta (\log _{e}n)}
+Summation_122,{\displaystyle \sum _{i=1}^{n}c^{i}\in \Theta (c^{n})}
+Summation_123,{\displaystyle \sum _{i=1}^{n}\log(i)^{c}\in \Theta (n\cdot \log(n)^{c})}
+Summation_124,{\displaystyle \sum _{i=1}^{n}\log(i)^{c}\cdot i^{d}\in \Theta (n^{d+1}\cdot \log(n)^{c})}
+Summation_125,{\displaystyle \sum _{i=1}^{n}\log(i)^{c}\cdot i^{d}\cdot b^{i}\in \Theta (n^{d}\cdot \log(n)^{c}\cdot b^{n})}
+Summation_126,{\displaystyle \Sigma \ (2wx+w^{2})=x^{2}}
+Summation_127,{\displaystyle \sum _{i=1}^{\infty }e^{-i^{2}t}\ldots }
+Summation_128,{\displaystyle i}
+Summation_129,{\displaystyle i}
+Summation_130,{\displaystyle q}
+Summation_131,{\displaystyle x}
+Summation_132,{\displaystyle k}
+Summation_133,{\displaystyle k}

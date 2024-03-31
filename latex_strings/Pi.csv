@@ -1,0 +1,115 @@
+name,latex
+Pi_0,{\displaystyle {\tfrac {22}{7}}}
+Pi_1,{\displaystyle \pi ={\frac {C}{d}}}
+Pi_6,{\displaystyle \pi =\int _{-1}^{1}{\frac {dx}{\sqrt {1-x^{2}}}}.}
+Pi_7,"{\displaystyle \{\dots ,-2\pi i,0,2\pi i,4\pi i,\dots \}=\{2\pi ki\mid k\in \mathbb {Z} \}}"
+Pi_9,{\displaystyle {\sqrt[{3}]{31}}}
+Pi_10,{\displaystyle {\sqrt {10}}}
+Pi_11,{\displaystyle \pi =3+\textstyle {\cfrac {1}{7+\textstyle {\cfrac {1}{15+\textstyle {\cfrac {1}{1+\textstyle {\cfrac {1}{292+\textstyle {\cfrac {1}{1+\textstyle {\cfrac {1}{1+\textstyle {\cfrac {1}{1+\ddots }}}}}}}}}}}}}}}
+Pi_12,{\displaystyle {\begin{aligned}\pi &=3+{\cfrac {1^{2}}{6+{\cfrac {3^{2}}{6+{\cfrac {5^{2}}{6+{\cfrac {7^{2}}{6+\ddots }}}}}}}}={\cfrac {4}{1+{\cfrac {1^{2}}{2+{\cfrac {3^{2}}{2+{\cfrac {5^{2}}{2+\ddots }}}}}}}}={\cfrac {4}{1+{\cfrac {1^{2}}{3+{\cfrac {2^{2}}{5+{\cfrac {3^{2}}{7+\ddots }}}}}}}}\end{aligned}}}
+Pi_13,"{\displaystyle z=r\cdot (\cos \varphi +i\sin \varphi ),}"
+Pi_14,{\displaystyle i^{2}=-1}
+Pi_15,"{\displaystyle e^{i\varphi }=\cos \varphi +i\sin \varphi ,}"
+Pi_16,{\displaystyle \phi =\pi }
+Pi_17,{\displaystyle e^{i\pi }+1=0.}
+Pi_18,{\displaystyle z^{n}=1}
+Pi_19,"{\displaystyle e^{2\pi ik/n}\qquad (k=0,1,2,\dots ,n-1).}"
+Pi_21,{\displaystyle {\sqrt {10}}}
+Pi_22,{\displaystyle 3.1415926<\pi <3.1415927}
+Pi_28,{\displaystyle {\frac {2}{\pi }}={\frac {\sqrt {2}}{2}}\cdot {\frac {\sqrt {2+{\sqrt {2}}}}{2}}\cdot {\frac {\sqrt {2+{\sqrt {2+{\sqrt {2}}}}}}{2}}\cdots }
+Pi_29,{\displaystyle {\frac {\pi }{2}}={\Big (}{\frac {2}{1}}\cdot {\frac {2}{3}}{\Big )}\cdot {\Big (}{\frac {4}{3}}\cdot {\frac {4}{5}}{\Big )}\cdot {\Big (}{\frac {6}{5}}\cdot {\frac {6}{7}}{\Big )}\cdot {\Big (}{\frac {8}{7}}\cdot {\frac {8}{9}}{\Big )}\cdots }
+Pi_30,{\displaystyle \arctan z=z-{\frac {z^{3}}{3}}+{\frac {z^{5}}{5}}-{\frac {z^{7}}{7}}+\cdots }
+Pi_32,{\displaystyle z=1}
+Pi_33,{\displaystyle z=1}
+Pi_35,{\displaystyle {\frac {\pi }{4}}=4\arctan {\frac {1}{5}}-\arctan {\frac {1}{239}}.}
+Pi_36,{\displaystyle \arctan x={\frac {x}{1+x^{2}}}+{\frac {2}{3}}{\frac {x^{3}}{(1+x^{2})^{2}}}+{\frac {2\cdot 4}{3\cdot 5}}{\frac {x^{5}}{(1+x^{2})^{3}}}+\cdots }
+Pi_38,{\displaystyle \pi ={\frac {4}{1}}-{\frac {4}{3}}+{\frac {4}{5}}-{\frac {4}{7}}+{\frac {4}{9}}-{\frac {4}{11}}+{\frac {4}{13}}-\cdots }
+Pi_39,{\displaystyle \pi =3+{\frac {4}{2\times 3\times 4}}-{\frac {4}{4\times 5\times 6}}+{\frac {4}{6\times 7\times 8}}-{\frac {4}{8\times 9\times 10}}+\cdots }
+Pi_40,{\displaystyle \pi ={\frac {4}{1}}-{\frac {4}{3}}+{\frac {4}{5}}-{\frac {4}{7}}+{\frac {4}{9}}-{\frac {4}{11}}+{\frac {4}{13}}+\cdots }
+Pi_41,{\displaystyle \pi ={3}+{\frac {4}{2\times 3\times 4}}-{\frac {4}{4\times 5\times 6}}+{\frac {4}{6\times 7\times 8}}-\cdots }
+Pi_42,{\displaystyle {\frac {\pi ^{2}}{6}}={\frac {1}{1^{2}}}+{\frac {1}{2^{2}}}+{\frac {1}{3^{2}}}+{\frac {1}{4^{2}}}+\cdots }
+Pi_43,{\displaystyle \delta .\pi }
+Pi_47,"{\displaystyle \textstyle a_{0}=1,\quad b_{0}={\frac {1}{\sqrt {2}}},\quad t_{0}={\frac {1}{4}},\quad p_{0}=1.}"
+Pi_48,"{\displaystyle \textstyle a_{n+1}={\frac {a_{n}+b_{n}}{2}},\quad \quad b_{n+1}={\sqrt {a_{n}b_{n}}},}"
+Pi_49,"{\displaystyle \textstyle t_{n+1}=t_{n}-p_{n}(a_{n}-a_{n+1})^{2},\quad \quad p_{n+1}=2p_{n}.}"
+Pi_50,{\displaystyle \textstyle \pi \approx {\frac {(a_{n}+b_{n})^{2}}{4t_{n}}}.}
+Pi_51,{\displaystyle {\frac {1}{\pi }}={\frac {2{\sqrt {2}}}{9801}}\sum _{k=0}^{\infty }{\frac {(4k)!(1103+26390k)}{k!^{4}\left(396^{4k}\right)}}.}
+Pi_52,"{\displaystyle {\frac {1}{\pi }}={\frac {\sqrt {10005}}{4270934400}}\sum _{k=0}^{\infty }{\frac {(6k)!(13591409+545140134k)}{(3k)!\,k!^{3}(-640320)^{3k}}}.}"
+Pi_53,"{\displaystyle \pi ^{k}=\sum _{n=1}^{\infty }{\frac {1}{n^{k}}}\left({\frac {a}{q^{n}-1}}+{\frac {b}{q^{2n}-1}}+{\frac {c}{q^{4n}-1}}\right),}"
+Pi_54,{\displaystyle \pi \approx {\frac {2n\ell }{xt}}.}
+Pi_55,{\displaystyle W_{n}=\sum _{k=1}^{n}X_{k}}
+Pi_56,{\displaystyle \pi =\lim _{n\to \infty }{\frac {2n}{E[|W_{n}|]^{2}}}.}
+Pi_57,{\displaystyle \pi =\sum _{k=0}^{\infty }{\frac {1}{16^{k}}}\left({\frac {4}{8k+1}}-{\frac {2}{8k+4}}-{\frac {1}{8k+5}}-{\frac {1}{8k+6}}\right).}
+Pi_58,"{\displaystyle \int _{-1}^{1}{\sqrt {1-x^{2}}}\,dx={\frac {\pi }{2}}.}"
+Pi_59,{\displaystyle {\sqrt {1-x^{2}}}}
+Pi_60,{\displaystyle x}
+Pi_61,{\displaystyle \sin \theta =\sin \left(\theta +2\pi k\right){\text{ and }}\cos \theta =\cos \left(\theta +2\pi k\right).}
+Pi_62,{\displaystyle f''(x)+\lambda f(x)=0}
+Pi_63,{\displaystyle f''(t)=-\lambda f(x)}
+Pi_64,{\displaystyle f\mapsto f''}
+Pi_65,"{\displaystyle f:[0,1]\to \mathbb {C} }"
+Pi_66,"{\displaystyle \pi ^{2}\int _{0}^{1}|f(x)|^{2}\,dx\leq \int _{0}^{1}|f'(x)|^{2}\,dx,}"
+Pi_67,"{\displaystyle H_{0}^{1}[0,1]}"
+Pi_68,"{\displaystyle 4\pi A\leq P^{2},}"
+Pi_69,{\displaystyle 2\pi \|f\|_{2}\leq \|\nabla f\|_{1}}
+Pi_70,{\displaystyle \nabla f}
+Pi_71,{\displaystyle \|f\|_{2}}
+Pi_72,{\displaystyle \|\nabla f\|_{1}}
+Pi_73,{\displaystyle \pi \leq {\frac {\left(\int _{G}|\nabla u|^{2}\right)^{1/2}}{\left(\int _{G}|u|^{2}\right)^{1/2}}}}
+Pi_74,"{\displaystyle {\hat {f}}(\xi )=\int _{-\infty }^{\infty }f(x)e^{-2\pi ix\xi }\,dx.}"
+Pi_75,"{\displaystyle \left(\int _{-\infty }^{\infty }x^{2}|f(x)|^{2}\,dx\right)\left(\int _{-\infty }^{\infty }\xi ^{2}|{\hat {f}}(\xi )|^{2}\,d\xi \right)\geq \left({\frac {1}{4\pi }}\int _{-\infty }^{\infty }|f(x)|^{2}\,dx\right)^{2}.}"
+Pi_76,"{\displaystyle f(x)={1 \over \sigma {\sqrt {2\pi }}}\,e^{-(x-\mu )^{2}/(2\sigma ^{2})}.}"
+Pi_77,{\displaystyle {\tfrac {1}{\sqrt {2\pi }}}}
+Pi_78,"{\displaystyle \int _{-\infty }^{\infty }e^{-u^{2}}\,du={\sqrt {\pi }}}"
+Pi_79,"{\displaystyle \int _{\Sigma }K\,dA=2\pi \chi (\Sigma )}"
+Pi_80,"{\displaystyle A(S)=\int _{S}1\,dA=2\pi \cdot 2=4\pi }"
+Pi_81,{\displaystyle \oint _{\gamma }{\frac {dz}{z-z_{0}}}=2\pi i.}
+Pi_82,"{\displaystyle \oint _{\gamma }{f(z) \over z-z_{0}}\,dz=2\pi if(z_{0})}"
+Pi_83,"{\displaystyle \oint _{\gamma }g(z)\,dz=2\pi i\sum \operatorname {Res} (g,a_{k})}"
+Pi_84,{\displaystyle \Phi (\mathbf {x} )={\frac {1}{2\pi }}\log |\mathbf {x} |.}
+Pi_85,{\displaystyle 1/2\pi }
+Pi_86,{\displaystyle \Phi }
+Pi_87,{\displaystyle \mathbb {R} ^{2}}
+Pi_88,{\displaystyle \Delta \Phi =\delta }
+Pi_89,{\displaystyle \delta }
+Pi_90,"{\displaystyle \Phi (\mathbf {x} )=-{\frac {1}{4\pi |\mathbf {x} |}},}"
+Pi_91,"{\displaystyle \int _{a}^{b}k(s)\,ds=2\pi N.}"
+Pi_92,{\displaystyle n!}
+Pi_93,{\displaystyle \Gamma (n)=(n-1)!}
+Pi_94,{\displaystyle \Gamma (1/2)={\sqrt {\pi }}}
+Pi_96,{\displaystyle \Gamma (z)={\frac {e^{-\gamma z}}{z}}\prod _{n=1}^{\infty }{\frac {e^{z/n}}{1+z/n}}}
+Pi_97,"{\displaystyle V_{n}(r)={\frac {\pi ^{n/2}}{\Gamma \left({\frac {n}{2}}+1\right)}}r^{n},}"
+Pi_98,{\displaystyle S_{n-1}(r)={\frac {n\pi ^{n/2}}{\Gamma \left({\frac {n}{2}}+1\right)}}r^{n-1}.}
+Pi_99,{\displaystyle 2\pi r={\frac {S_{n+1}(r)}{V_{n}(r)}}.}
+Pi_101,{\displaystyle \pi =\lim _{n\to \infty }{\frac {e^{2n}n!^{2}}{2n^{2n+1}}}.}
+Pi_102,{\displaystyle \operatorname {Vol} ((n+1)\Delta _{n})={\frac {(n+1)^{n}}{n!}}\sim {\frac {e^{n+1}}{\sqrt {2\pi n}}}.}
+Pi_103,{\displaystyle \zeta (2)={\frac {1}{1^{2}}}+{\frac {1}{2^{2}}}+{\frac {1}{3^{2}}}+\cdots }
+Pi_104,{\displaystyle {\begin{aligned}\prod _{p}^{\infty }\left(1-{\frac {1}{p^{2}}}\right)&=\left(\prod _{p}^{\infty }{\frac {1}{1-p^{-2}}}\right)^{-1}\\[4pt]&={\frac {1}{1+{\frac {1}{2^{2}}}+{\frac {1}{3^{2}}}+\cdots }}\\[4pt]&={\frac {1}{\zeta (2)}}={\frac {6}{\pi ^{2}}}\approx 61\%.\end{aligned}}}
+Pi_105,{\displaystyle \zeta (s)=2^{s}\pi ^{s-1}\ \sin \left({\frac {\pi s}{2}}\right)\ \Gamma (1-s)\ \zeta (1-s).}
+Pi_106,{\displaystyle \exp(-\zeta '(0))={\sqrt {2\pi }}.}
+Pi_107,{\displaystyle e_{n}(x)=e^{2\pi inx}}
+Pi_108,{\displaystyle \mathrm {SL} _{2}(\mathbb {Z} )}
+Pi_109,{\displaystyle \mathrm {SL} _{2}(\mathbb {R} )}
+Pi_110,"{\displaystyle \theta (z,\tau )=\sum _{n=-\infty }^{\infty }e^{2\pi inz+i\pi n^{2}\tau }}"
+Pi_111,{\displaystyle q=e^{\pi i\tau }}
+Pi_112,"{\displaystyle \theta (z+\tau ,\tau )=e^{-\pi i\tau -2\pi iz}\theta (z,\tau ),}"
+Pi_113,{\displaystyle g(x)={\frac {1}{\pi }}\cdot {\frac {1}{x^{2}+1}}}
+Pi_114,"{\displaystyle \int _{-\infty }^{\infty }{\frac {1}{x^{2}+1}}\,dx=\pi .}"
+Pi_115,"{\displaystyle Hf(t)={\frac {1}{\pi }}\int _{-\infty }^{\infty }{\frac {f(x)\,dx}{x-t}}.}"
+Pi_116,{\displaystyle f:\mathbb {R} \to \mathbb {R} }
+Pi_117,{\displaystyle f''(x)+f(x)=0}
+Pi_118,{\displaystyle t\in \mathbb {R} }
+Pi_119,{\displaystyle e_{t}:V\to \mathbb {R} }
+Pi_120,{\displaystyle f\in V}
+Pi_121,{\displaystyle e_{t}(f)=f(t)}
+Pi_122,{\displaystyle e_{t}}
+Pi_123,{\displaystyle t\mapsto \ker e_{t}}
+Pi_124,{\displaystyle \mathbb {R} \to \mathbb {P} (V)}
+Pi_125,{\displaystyle T\approx 2\pi {\sqrt {\frac {L}{g}}}.}
+Pi_126,"{\displaystyle \Delta x\,\Delta p\geq {\frac {h}{4\pi }}.}"
+Pi_127,"{\displaystyle {\frac {1}{\tau }}=2{\frac {\pi ^{2}-9}{9\pi }}m_{\text{e}}\alpha ^{6},}"
+Pi_128,{\displaystyle F={\frac {\pi ^{2}EI}{L^{2}}}.}
+Pi_129,{\displaystyle F=6\pi \eta Rv.}
+Pi_130,{\displaystyle \mu _{0}=4\pi \times 10^{-7}{\text{ H/m}}\approx 1.2566370614\ldots \times 10^{-6}{\text{ N/A}}^{2}.}
+Pi_131,{\displaystyle \pi =\int _{-\infty }^{\infty }{\frac {dx}{1+x^{2}}}.}
+Pi_132,"{\displaystyle {\overline {{\tfrac {16}{5}}-{\tfrac {4}{239}}}}-{\tfrac {1}{3}}{\overline {{\tfrac {16}{5^{3}}}-{\tfrac {4}{239^{3}}}}}+{\tfrac {1}{5}}{\overline {{\tfrac {16}{5^{5}}}-{\tfrac {4}{239^{5}}}}}-,\,\&c.=}"

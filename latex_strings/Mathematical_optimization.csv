@@ -1,0 +1,13 @@
+name,latex
+Mathematical_optimization_0,{\displaystyle f(x)}
+Mathematical_optimization_1,{\displaystyle \mathbb {R} }
+Mathematical_optimization_2,"{\displaystyle f(\mathbf {x} _{0})\geq f(\mathbf {x} )\Leftrightarrow -f(\mathbf {x} _{0})\leq -f(\mathbf {x} ),}"
+Mathematical_optimization_3,{\displaystyle \mathbb {R} ^{n}}
+Mathematical_optimization_4,"{\displaystyle \forall \mathbf {x} \in A\;{\text{where}}\;\left\Vert \mathbf {x} -\mathbf {x} ^{\ast }\right\Vert \leq \delta ,\,}"
+Mathematical_optimization_5,{\displaystyle \min _{x\in \mathbb {R} }\;\left(x^{2}+1\right)}
+Mathematical_optimization_6,{\displaystyle \mathbb {R} }
+Mathematical_optimization_7,{\displaystyle \max _{x\in \mathbb {R} }\;2x}
+Mathematical_optimization_8,"{\displaystyle {\underset {x\in (-\infty ,-1]}{\operatorname {arg\,min} }}\;x^{2}+1,}"
+Mathematical_optimization_9,"{\displaystyle {\underset {x}{\operatorname {arg\,min} }}\;x^{2}+1,\;{\text{subject to:}}\;x\in (-\infty ,-1].}"
+Mathematical_optimization_10,"{\displaystyle {\underset {x\in [-5,5],\;y\in \mathbb {R} }{\operatorname {arg\,max} }}\;x\cos y,}"
+Mathematical_optimization_11,"{\displaystyle {\underset {x,\;y}{\operatorname {arg\,max} }}\;x\cos y,\;{\text{subject to:}}\;x\in [-5,5],\;y\in \mathbb {R} ,}"

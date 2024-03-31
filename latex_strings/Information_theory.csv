@@ -1,0 +1,41 @@
+name,latex
+Information_theory_0,{\displaystyle \lim _{p\rightarrow 0+}p\log p=0}
+Information_theory_1,{\displaystyle H=-\sum _{i}p_{i}\log _{2}(p_{i})}
+Information_theory_2,{\displaystyle \mathbb {X} }
+Information_theory_3,{\displaystyle x\in \mathbb {X} }
+Information_theory_4,{\displaystyle H(X)=\mathbb {E} _{X}[I(x)]=-\sum _{x\in \mathbb {X} }p(x)\log p(x).}
+Information_theory_5,{\displaystyle \mathbb {E} _{X}}
+Information_theory_6,{\displaystyle H_{\mathrm {b} }(p)=-p\log _{2}p-(1-p)\log _{2}(1-p).}
+Information_theory_7,"{\displaystyle H(X,Y)=\mathbb {E} _{X,Y}[-\log p(x,y)]=-\sum _{x,y}p(x,y)\log p(x,y)\,}"
+Information_theory_8,"{\displaystyle H(X|Y)=\mathbb {E} _{Y}[H(X|y)]=-\sum _{y\in Y}p(y)\sum _{x\in X}p(x|y)\log p(x|y)=-\sum _{x,y}p(x,y)\log p(x|y).}"
+Information_theory_9,"{\displaystyle H(X|Y)=H(X,Y)-H(Y).\,}"
+Information_theory_10,"{\displaystyle I(X;Y)=\mathbb {E} _{X,Y}[SI(x,y)]=\sum _{x,y}p(x,y)\log {\frac {p(x,y)}{p(x)\,p(y)}}}"
+Information_theory_11,"{\displaystyle I(X;Y)=H(X)-H(X|Y).\,}"
+Information_theory_12,"{\displaystyle I(X;Y)=I(Y;X)=H(X)+H(Y)-H(X,Y).\,}"
+Information_theory_13,{\displaystyle I(X;Y)=\mathbb {E} _{p(y)}[D_{\mathrm {KL} }(p(X|Y=y)\|p(X))].}
+Information_theory_14,"{\displaystyle I(X;Y)=D_{\mathrm {KL} }(p(X,Y)\|p(X)p(Y)).}"
+Information_theory_15,{\displaystyle p(X)}
+Information_theory_16,{\displaystyle q(X)}
+Information_theory_17,{\displaystyle q(X)}
+Information_theory_18,{\displaystyle p(X)}
+Information_theory_19,"{\displaystyle D_{\mathrm {KL} }(p(X)\|q(X))=\sum _{x\in X}-p(x)\log {q(x)}\,-\,\sum _{x\in X}-p(x)\log {p(x)}=\sum _{x\in X}p(x)\log {\frac {p(x)}{q(x)}}.}"
+Information_theory_20,{\displaystyle p(x)}
+Information_theory_21,{\displaystyle p(x)}
+Information_theory_22,{\displaystyle q(x)}
+Information_theory_23,{\displaystyle I(X^{n}\to Y^{n})}
+Information_theory_24,"{\displaystyle X^{n}=\{X_{1},X_{2},\dots ,X_{n}\}}"
+Information_theory_25,"{\displaystyle Y^{n}=\{Y_{1},Y_{2},\dots ,Y_{n}\}}"
+Information_theory_27,{\displaystyle I(X^{i};Y_{i}|Y^{i-1})}
+Information_theory_28,"{\displaystyle I(X_{1},X_{2},...,X_{i};Y_{i}|Y_{1},Y_{2},...,Y_{i-1})}"
+Information_theory_29,{\displaystyle I(X^{n}\to Y^{n})}
+Information_theory_30,{\displaystyle X^{n}}
+Information_theory_31,{\displaystyle Y^{n}}
+Information_theory_32,"{\displaystyle r=\lim _{n\to \infty }H(X_{n}|X_{n-1},X_{n-2},X_{n-3},\ldots );}"
+Information_theory_33,"{\displaystyle r=\lim _{n\to \infty }{\frac {1}{n}}H(X_{1},X_{2},\dots X_{n});}"
+Information_theory_34,"{\displaystyle r=\lim _{n\to \infty }{\frac {1}{n}}I(X_{1},X_{2},\dots X_{n};Y_{1},Y_{2},\dots Y_{n});}"
+Information_theory_35,{\displaystyle {\xrightarrow[{\text{Message}}]{W}}{\begin{array}{|c| }\hline {\text{Encoder}}\\f_{n}\\\hline \end{array}}{\xrightarrow[{\mathrm {Encoded \atop sequence} }]{X^{n}}}{\begin{array}{|c| }\hline {\text{Channel}}\\p(y|x)\\\hline \end{array}}{\xrightarrow[{\mathrm {Received \atop sequence} }]{Y^{n}}}{\begin{array}{|c| }\hline {\text{Decoder}}\\g_{n}\\\hline \end{array}}{\xrightarrow[{\mathrm {Estimated \atop message} }]{\hat {W}}}}
+Information_theory_36,{\displaystyle C=\max _{f}I(X;Y).\!}
+Information_theory_37,{\displaystyle i}
+Information_theory_38,"{\displaystyle P(y_{i}|x_{i},x_{i-1},x_{i-2},...,x_{1},y_{i-1},y_{i-2},...,y_{1}).}"
+Information_theory_39,"{\displaystyle x^{i}=(x_{i},x_{i-1},x_{i-2},...,x_{1})}"
+Information_theory_40,"{\displaystyle P(y_{i}|x^{i},y^{i-1}).}"

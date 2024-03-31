@@ -1,0 +1,265 @@
+name,latex
+0.999..._0,"{\displaystyle (0.9,0.99,0.999,\ldots )}"
+0.999..._1,{\displaystyle 0.999\ldots =1}
+0.999..._2,{\displaystyle 0.9}
+0.999..._3,{\displaystyle 0.99}
+0.999..._4,{\displaystyle 0.999}
+0.999..._5,{\displaystyle 0.9}
+0.999..._6,{\displaystyle 0.99}
+0.999..._7,{\displaystyle 0.999}
+0.999..._8,{\displaystyle 0.999\ldots =1}
+0.999..._9,{\displaystyle 0.9}
+0.999..._10,{\displaystyle 0.99}
+0.999..._11,{\displaystyle 0.999}
+0.999..._14,{\displaystyle n}
+0.999..._15,{\displaystyle n}
+0.999..._17,{\displaystyle 0.9}
+0.999..._18,{\displaystyle 0.99}
+0.999..._19,{\displaystyle 0.999}
+0.999..._21,{\displaystyle n}
+0.999..._23,{\displaystyle n}
+0.999..._24,{\displaystyle 0.9}
+0.999..._25,{\displaystyle 0.99}
+0.999..._26,{\displaystyle 0.999}
+0.999..._27,{\displaystyle 1=0.999\ldots }
+0.999..._28,{\displaystyle 0.9}
+0.999..._29,{\displaystyle 0.99}
+0.999..._30,{\displaystyle 0.999}
+0.999..._31,{\displaystyle 0.999\ldots 9}
+0.999..._32,{\displaystyle n}
+0.999..._33,{\displaystyle 0.(9)_{n}}
+0.999..._34,{\displaystyle 0.(9)_{1}=0.9}
+0.999..._35,{\displaystyle 0.(9)_{2}=0.99}
+0.999..._36,{\displaystyle 0.(9)_{3}=0.999}
+0.999..._38,{\displaystyle n}
+0.999..._39,"{\displaystyle {\begin{aligned}0.(9)_{n}+1/10^{n}&=1,\\0.(9)_{n}&<1,\end{aligned}}}"
+0.999..._40,{\displaystyle n}
+0.999..._41,{\displaystyle 0.(9)_{n}}
+0.999..._42,{\displaystyle x}
+0.999..._43,{\displaystyle 0.(9)_{n}}
+0.999..._44,{\displaystyle x=1}
+0.999..._45,{\displaystyle x}
+0.999..._46,"{\displaystyle 0.(9)_{n}\leq x\leq 1,}"
+0.999..._47,{\displaystyle n}
+0.999..._48,{\displaystyle 1-1\leq 1-x\leq 1-0.(9)_{n}.}
+0.999..._49,{\displaystyle 0\leq 1-x\leq 1/10^{n}.}
+0.999..._50,{\displaystyle 1}
+0.999..._51,{\displaystyle x}
+0.999..._52,{\displaystyle x=1}
+0.999..._53,{\displaystyle 0.999\ldots =1}
+0.999..._54,{\displaystyle 0.(9)_{n}}
+0.999..._55,{\displaystyle 0.(9)_{n}\leq x<1}
+0.999..._56,{\displaystyle 0.(9)_{n-1}\leq 2x-1<x<1}
+0.999..._57,{\displaystyle 1=0.999\ldots }
+0.999..._59,{\displaystyle 3}
+0.999..._60,{\displaystyle 1=0.999\ldots }
+0.999..._61,{\displaystyle 0.999\ldots }
+0.999..._62,{\displaystyle 0.999\ldots }
+0.999..._63,{\displaystyle {\begin{aligned}x&=0.999\ldots \\10x&=9.999\ldots &&{\text{by multiplying by }}10\\10x&=9+0.999\ldots &&{\text{by splitting off integer part}}\\10x&=9+x&&{\text{by definition of }}x\\9x&=9&&{\text{by subtracting }}x\\x&=1&&{\text{by dividing by }}9\end{aligned}}}
+0.999..._64,{\displaystyle x}
+0.999..._65,{\displaystyle x}
+0.999..._66,{\displaystyle b_{0}}
+0.999..._67,{\displaystyle b_{0}.b_{1}b_{2}b_{3}b_{4}b_{5}\dots .}
+0.999..._68,{\displaystyle b_{0}.b_{1}b_{2}b_{3}b_{4}\ldots =b_{0}+b_{1}\left({\tfrac {1}{10}}\right)+b_{2}\left({\tfrac {1}{10}}\right)^{2}+b_{3}\left({\tfrac {1}{10}}\right)^{3}+b_{4}\left({\tfrac {1}{10}}\right)^{4}+\cdots .}
+0.999..._69,{\displaystyle |r|<1}
+0.999..._70,{\displaystyle ar+ar^{2}+ar^{3}+\cdots ={\frac {ar}{1-r}}.}
+0.999..._71,{\displaystyle a=9}
+0.999..._73,{\displaystyle 0.999\ldots =9\left({\tfrac {1}{10}}\right)+9\left({\tfrac {1}{10}}\right)^{2}+9\left({\tfrac {1}{10}}\right)^{3}+\cdots ={\frac {9\left({\tfrac {1}{10}}\right)}{1-{\tfrac {1}{10}}}}=1.}
+0.999..._74,"{\displaystyle (x_{0},x_{1},x_{2},\ldots )}"
+0.999..._75,{\displaystyle x}
+0.999..._76,{\displaystyle \left|x-x_{n}\right|}
+0.999..._77,{\displaystyle n}
+0.999..._78,{\displaystyle 0.999\ldots =1}
+0.999..._79,{\displaystyle 0.999\ldots \ {\overset {\underset {\mathrm {def} }{}}{=}}\ \lim _{n\to \infty }0.\underbrace {99\ldots 9} _{n}\ {\overset {\underset {\mathrm {def} }{}}{=}}\ \lim _{n\to \infty }\sum _{k=1}^{n}{\frac {9}{10^{k}}}=\lim _{n\to \infty }\left(1-{\frac {1}{10^{n}}}\right)=1-\lim _{n\to \infty }{\frac {1}{10^{n}}}=1-0=1.}
+0.999..._80,{\displaystyle 10^{n}}
+0.999..._81,{\displaystyle n}
+0.999..._82,{\displaystyle \infty }
+0.999..._83,{\displaystyle 0.999\ldots }
+0.999..._84,"{\displaystyle [0,10]}"
+0.999..._85,"{\displaystyle [0,1]}"
+0.999..._86,"{\displaystyle [1,2]}"
+0.999..._87,"{\displaystyle [2,3]}"
+0.999..._88,"{\displaystyle [9,10]}"
+0.999..._89,{\displaystyle x}
+0.999..._90,"{\displaystyle [2,2.1]}"
+0.999..._91,"{\displaystyle [2.1,2.2]}"
+0.999..._92,"{\displaystyle [2.8,2.9]}"
+0.999..._93,"{\displaystyle [2.9,3]}"
+0.999..._94,"{\displaystyle b_{1},b_{2},b_{3},\ldots }"
+0.999..._95,{\displaystyle x=b_{0}.b_{1}b_{2}b_{3}\ldots .}
+0.999..._96,"{\displaystyle [0,1]}"
+0.999..._97,"{\displaystyle [1,2]}"
+0.999..._98,"{\displaystyle b_{1},b_{2},b_{3},\ldots }"
+0.999..._99,"{\displaystyle [b_{0},b_{0}+1]}"
+0.999..._100,"{\displaystyle b_{0}.b_{1},b_{0}.b_{1}+0.1]}"
+0.999..._101,"{\displaystyle [0,1]}"
+0.999..._102,"{\displaystyle [0.9,1]}"
+0.999..._103,"{\displaystyle [0.99,1]}"
+0.999..._104,"{\displaystyle [0.99...9,1]}"
+0.999..._105,{\displaystyle 0.999...=1}
+0.999..._106,{\displaystyle b_{0}.b_{1}b_{2}b_{3}\ldots }
+0.999..._107,"{\displaystyle b_{0},b_{0}.b_{1},b_{0}.b_{1}b_{2},\ldots }"
+0.999..._108,{\displaystyle 0.999...=1}
+0.999..._109,"{\displaystyle \{0,1,2,3,\ldots \}}"
+0.999..._110,{\displaystyle 0.999\ldots =1}
+0.999..._111,{\displaystyle x}
+0.999..._112,{\displaystyle x}
+0.999..._113,{\displaystyle r}
+0.999..._114,{\displaystyle r<0}
+0.999..._115,{\displaystyle r<0.9}
+0.999..._116,{\displaystyle r<0.99}
+0.999..._117,{\displaystyle r}
+0.999..._118,{\displaystyle 1-{\frac {1}{10^{n}}}=0.(9)_{n}=0.\underbrace {99\ldots 9} _{n{\text{ nines}}}.}
+0.999..._119,"{\displaystyle {\frac {a}{b}}<1,}"
+0.999..._120,{\displaystyle b>0}
+0.999..._121,{\displaystyle b>a}
+0.999..._122,"{\displaystyle 1-{\frac {a}{b}}={\frac {b-a}{b}}\geq {\frac {1}{b}}>{\frac {1}{10^{b}}},}"
+0.999..._123,{\displaystyle {\frac {a}{b}}<1-{\frac {1}{10^{b}}}.}
+0.999..._124,"{\displaystyle 1-{\frac {1}{10^{b}}}=0.(9)_{b}<0.999\ldots ,}"
+0.999..._125,{\displaystyle 0.999...=1}
+0.999..._126,{\displaystyle \{x\colon x<1\}}
+0.999..._127,{\displaystyle \{x\colon x\leq 1\}}
+0.999..._129,{\displaystyle x}
+0.999..._130,{\displaystyle y}
+0.999..._131,{\displaystyle \left|x-y\right|}
+0.999..._132,{\displaystyle \left|z\right|}
+0.999..._133,{\displaystyle z}
+0.999..._134,{\displaystyle -z}
+0.999..._135,"{\displaystyle x_{0},x_{1},x_{2},\ldots }"
+0.999..._136,{\displaystyle \delta }
+0.999..._137,{\displaystyle N}
+0.999..._138,{\displaystyle \left|x_{m}-x_{n}\right|\leq \delta }
+0.999..._139,"{\displaystyle m,n>N}"
+0.999..._140,{\displaystyle (x_{n})}
+0.999..._141,{\displaystyle (y_{n})}
+0.999..._142,{\displaystyle (x_{n}-y_{n})}
+0.999..._143,{\displaystyle b_{0}.b_{1}b_{2}b_{3}\ldots }
+0.999..._144,"{\displaystyle \left(1-0,1-{9 \over 10},1-{99 \over 100},\dots \right)=\left(1,{1 \over 10},{1 \over 100},\dots \right)}"
+0.999..._145,{\displaystyle n}
+0.999..._146,{\displaystyle n\in \mathbb {N} }
+0.999..._147,{\displaystyle \lim _{n\rightarrow \infty }{\frac {1}{10^{n}}}=0.}
+0.999..._148,{\displaystyle 0.999\ldots =1}
+0.999..._149,{\displaystyle 0.999\ldots =1}
+0.999..._150,{\displaystyle 0.99999...}
+0.999..._151,{\displaystyle 1}
+0.999..._152,{\displaystyle 0.999\ldots =1}
+0.999..._153,{\displaystyle b}
+0.999..._154,{\displaystyle b-1}
+0.999..._155,{\displaystyle 1.000\ldots }
+0.999..._156,{\displaystyle 0.101010\ldots }
+0.999..._157,{\displaystyle q}
+0.999..._158,{\displaystyle q}
+0.999..._159,{\displaystyle q}
+0.999..._160,{\displaystyle q}
+0.999..._161,{\displaystyle 1.000\ldots }
+0.999..._162,{\displaystyle q=1.787231650\ldots }
+0.999..._163,{\displaystyle 1=0.11010011001011010010110011010011\ldots }
+0.999..._165,"{\displaystyle 2!,3!,4!,\ldots }"
+0.999..._166,{\displaystyle 1=1.000\ldots =0.1234\ldots }
+0.999..._167,{\displaystyle L}
+0.999..._168,{\displaystyle R}
+0.999..._169,{\displaystyle L}
+0.999..._170,{\displaystyle R}
+0.999..._171,{\displaystyle L}
+0.999..._172,{\displaystyle R}
+0.999..._173,{\displaystyle L}
+0.999..._174,{\displaystyle R}
+0.999..._175,{\displaystyle L}
+0.999..._176,{\displaystyle R}
+0.999..._177,{\displaystyle L}
+0.999..._178,{\displaystyle R}
+0.999..._179,"{\displaystyle p_{1},p_{2}}"
+0.999..._180,{\displaystyle L}
+0.999..._181,{\displaystyle p_{1}}
+0.999..._182,{\displaystyle R}
+0.999..._183,{\displaystyle p_{2}}
+0.999..._184,{\displaystyle L}
+0.999..._185,{\displaystyle p_{1}}
+0.999..._186,{\displaystyle R}
+0.999..._187,{\displaystyle p_{2}}
+0.999..._188,{\displaystyle L}
+0.999..._189,{\displaystyle R}
+0.999..._190,{\displaystyle R}
+0.999..._191,{\displaystyle L}
+0.999..._192,{\displaystyle L}
+0.999..._193,{\displaystyle R}
+0.999..._194,{\displaystyle p_{1}=0}
+0.999..._195,{\displaystyle p_{2}=1}
+0.999..._197,{\displaystyle 142+857=999}
+0.999..._199,{\displaystyle 0136+9863=9999}
+0.999..._200,{\displaystyle 0.b_{1}b_{2}b_{3}\ldots }
+0.999..._201,{\displaystyle 0.222\ldots =1}
+0.999..._202,{\displaystyle n}
+0.999..._203,{\displaystyle n}
+0.999..._207,{\displaystyle 0.999\ldots =1}
+0.999..._208,{\displaystyle 0.999\ldots }
+0.999..._210,{\displaystyle 0.999\ldots <1}
+0.999..._212,{\displaystyle 9.99\ldots =10}
+0.999..._216,{\displaystyle 0.999\ldots =1}
+0.999..._217,{\displaystyle 0.999\ldots =1}
+0.999..._218,{\displaystyle 1-0.999\ldots }
+0.999..._219,"{\displaystyle 0.d_{1}d_{2}d_{3}\dots ;\dots d_{\infty -1}d_{\infty }d_{\infty +1}\dots ,}"
+0.999..._221,{\displaystyle 0.333\ldots ;\ldots 333\ldots }
+0.999..._222,{\displaystyle 0.999\ldots ;\ldots 999\ldots =1}
+0.999..._223,{\displaystyle 0.333\ldots ;\ldots 000\ldots }
+0.999..._224,{\displaystyle 0.999\ldots ;\ldots 000\ldots }
+0.999..._225,"{\displaystyle 0.9,0.99,0.999,\ldots }"
+0.999..._226,"{\displaystyle [(0.9,0.99,0.999,\ldots )]}"
+0.999..._227,{\displaystyle u_{H}=0.999\ldots ;\ldots 999000\ldots }
+0.999..._228,{\displaystyle H}
+0.999..._229,{\displaystyle u_{H}<1}
+0.999..._230,{\displaystyle {\underset {H}{0.\underbrace {999\ldots } }}\;=1\;-\;{\frac {1}{10^{H}}}.}
+0.999..._231,{\displaystyle 0.999\ldots <1}
+0.999..._232,{\displaystyle LRRLRLRL\ldots }
+0.999..._234,{\displaystyle LRLLL\ldots }
+0.999..._235,{\displaystyle 0.111\ldots _{2}}
+0.999..._237,{\displaystyle \omega }
+0.999..._238,{\displaystyle LRRRR\ldots }
+0.999..._239,{\displaystyle 0.000\ldots _{2}}
+0.999..._240,{\displaystyle 0.10111\ldots _{2}=0.11000\ldots _{2}}
+0.999..._242,{\displaystyle LRLRLLL\ldots }
+0.999..._243,{\displaystyle LRLLRRR\ldots }
+0.999..._244,{\displaystyle 1-0.999\ldots }
+0.999..._245,{\displaystyle 0.999\ldots <1}
+0.999..._246,{\displaystyle 0.999\ldots <1}
+0.999..._247,{\displaystyle 0<1}
+0.999..._248,{\displaystyle x}
+0.999..._249,{\displaystyle 0.999\ldots +x=1+x}
+0.999..._251,{\displaystyle D}
+0.999..._252,{\displaystyle d}
+0.999..._253,"{\displaystyle (-\infty ,d)}"
+0.999..._254,"{\displaystyle (-\infty ,d]}"
+0.999..._255,{\displaystyle 0.999\ldots <1}
+0.999..._256,{\displaystyle D}
+0.999..._257,{\displaystyle 0^{-}}
+0.999..._258,{\displaystyle 0.999\ldots =1+0^{-}}
+0.999..._259,{\displaystyle 0.999\ldots +x=1}
+0.999..._260,{\displaystyle 1-0.999\ldots }
+0.999..._261,{\displaystyle p}
+0.999..._262,{\displaystyle p}
+0.999..._263,{\displaystyle p}
+0.999..._264,{\displaystyle p^{n}}
+0.999..._265,{\displaystyle p}
+0.999..._266,{\displaystyle p}
+0.999..._267,{\displaystyle p}
+0.999..._268,{\displaystyle p}
+0.999..._269,{\displaystyle 1+\ldots 999=\ldots 000=0}
+0.999..._270,{\displaystyle \ldots 999=-1}
+0.999..._271,{\displaystyle \ldots 999=9+9(10)+9(10)^{2}+9(10)^{3}+\cdots ={\frac {9}{1-10}}=-1.}
+0.999..._272,{\displaystyle x=\ldots 999}
+0.999..._273,{\displaystyle 10x=\ldots 990}
+0.999..._274,{\displaystyle 10x=x-9}
+0.999..._275,{\displaystyle x=-1}
+0.999..._276,{\displaystyle 0.999\ldots =1}
+0.999..._277,{\displaystyle \ldots 999=-1}
+0.999..._278,{\displaystyle \ldots 999.999\ldots =0}
+0.999..._279,{\displaystyle -0=0}
+0.999..._280,{\displaystyle x}
+0.999..._281,{\displaystyle x}
+0.999..._282,{\displaystyle x}
+0.999..._283,{\displaystyle x}
+0.999..._284,{\displaystyle 1*}
+0.999..._285,{\displaystyle 1_{-}}
+0.999..._286,{\displaystyle 1_{R}}
+0.999..._288,{\displaystyle 1}
+0.999..._292,{\displaystyle 0.111\dots _{2}}

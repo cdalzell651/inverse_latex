@@ -1,0 +1,210 @@
+name,latex
+Ring_(mathematics)_0,{\displaystyle \mathbb {Z} }
+Ring_(mathematics)_1,{\displaystyle 0=\mathbb {Z} /1\mathbb {Z} }
+Ring_(mathematics)_2,{\displaystyle \mathbb {Z} /1\mathbb {Z} }
+Ring_(mathematics)_3,{\displaystyle \mathbb {Z} /p^{n}\mathbb {Z} }
+Ring_(mathematics)_4,{\displaystyle \mathbb {Z} (p^{\infty })}
+Ring_(mathematics)_5,{\displaystyle \mathbb {T} }
+Ring_(mathematics)_6,{\displaystyle \mathbb {Z} }
+Ring_(mathematics)_7,{\displaystyle \mathbb {Z} [1/p]}
+Ring_(mathematics)_8,{\displaystyle \mathbb {R} }
+Ring_(mathematics)_9,{\displaystyle \mathbb {Z} _{p}}
+Ring_(mathematics)_10,{\displaystyle \mathbb {Q} _{p}}
+Ring_(mathematics)_11,{\displaystyle \mathbb {T} _{p}}
+Ring_(mathematics)_12,"{\displaystyle \mathbb {Z} ,}"
+Ring_(mathematics)_13,"{\displaystyle \dots ,-5,-4,-3,-2,-1,0,1,2,3,4,5,\dots }"
+Ring_(mathematics)_14,"{\displaystyle \mathbb {Z} /4\mathbb {Z} =\left\{{\overline {0}},{\overline {1}},{\overline {2}},{\overline {3}}\right\}}"
+Ring_(mathematics)_15,{\displaystyle {\overline {x}}+{\overline {y}}}
+Ring_(mathematics)_16,{\displaystyle \mathbb {Z} /4\mathbb {Z} }
+Ring_(mathematics)_17,{\displaystyle {\overline {2}}+{\overline {3}}={\overline {1}}}
+Ring_(mathematics)_18,{\displaystyle {\overline {3}}+{\overline {3}}={\overline {2}}.}
+Ring_(mathematics)_19,{\displaystyle {\overline {x}}\cdot {\overline {y}}}
+Ring_(mathematics)_20,{\displaystyle \mathbb {Z} /4\mathbb {Z} }
+Ring_(mathematics)_21,{\displaystyle {\overline {2}}\cdot {\overline {3}}={\overline {2}}}
+Ring_(mathematics)_22,{\displaystyle {\overline {3}}\cdot {\overline {3}}={\overline {1}}.}
+Ring_(mathematics)_23,{\displaystyle \mathbb {Z} /4\mathbb {Z} }
+Ring_(mathematics)_24,{\displaystyle \mathbb {Z} .}
+Ring_(mathematics)_25,"{\displaystyle \mathbb {Z} /4\mathbb {Z} ,}"
+Ring_(mathematics)_26,"{\displaystyle {\overline {x}},}"
+Ring_(mathematics)_27,{\displaystyle {\overline {x}}}
+Ring_(mathematics)_28,{\displaystyle \mathbb {Z} /4\mathbb {Z} }
+Ring_(mathematics)_29,{\displaystyle -{\overline {x}}={\overline {-x}}.}
+Ring_(mathematics)_30,{\displaystyle -{\overline {3}}={\overline {-3}}={\overline {1}}.}
+Ring_(mathematics)_31,"{\displaystyle \operatorname {M} _{2}(F)=\left\{\left.{\begin{pmatrix}a&b\\c&d\end{pmatrix}}\right|\ a,b,c,d\in F\right\}.}"
+Ring_(mathematics)_32,{\displaystyle \operatorname {M} _{2}(F)}
+Ring_(mathematics)_33,{\displaystyle \left({\begin{smallmatrix}1&0\\0&1\end{smallmatrix}}\right)}
+Ring_(mathematics)_34,{\displaystyle A=\left({\begin{smallmatrix}0&1\\1&0\end{smallmatrix}}\right)}
+Ring_(mathematics)_35,"{\displaystyle B=\left({\begin{smallmatrix}0&1\\0&0\end{smallmatrix}}\right),}"
+Ring_(mathematics)_36,{\displaystyle AB=\left({\begin{smallmatrix}0&0\\0&1\end{smallmatrix}}\right)}
+Ring_(mathematics)_37,{\displaystyle BA=\left({\begin{smallmatrix}1&0\\0&0\end{smallmatrix}}\right);}
+Ring_(mathematics)_38,"{\displaystyle {\begin{aligned}a^{3}&=4a-1,\\a^{4}&=4a^{2}-a,\\a^{5}&=-a^{2}+16a-4,\\a^{6}&=16a^{2}-8a+1,\\a^{7}&=-8a^{2}+65a-16,\\\vdots \ &\qquad \vdots \end{aligned}}}"
+Ring_(mathematics)_39,"{\displaystyle R[[X_{1},\dots ,X_{n}]]}"
+Ring_(mathematics)_40,{\displaystyle \mathbb {R} }
+Ring_(mathematics)_41,{\displaystyle \mathbb {Z} }
+Ring_(mathematics)_42,{\displaystyle \mathbb {Q} .}
+Ring_(mathematics)_43,"{\displaystyle {\widehat {\mathbb {Z} }},}"
+Ring_(mathematics)_44,{\displaystyle \mathbb {Z} _{p}}
+Ring_(mathematics)_45,{\displaystyle \mathbb {N} }
+Ring_(mathematics)_46,"{\displaystyle (\mathbb {N} ,+)}"
+Ring_(mathematics)_47,{\displaystyle \mathbb {Z} .}
+Ring_(mathematics)_48,"{\displaystyle (f*g)(x)=\int _{-\infty }^{\infty }f(y)g(x-y)\,dy.}"
+Ring_(mathematics)_49,"{\displaystyle (a_{1},\dots ,a_{n})}"
+Ring_(mathematics)_50,{\displaystyle P_{n}=\prod _{i=1}^{n}a_{i}}
+Ring_(mathematics)_51,{\displaystyle e}
+Ring_(mathematics)_52,{\displaystyle \mathbb {Z} }
+Ring_(mathematics)_53,{\displaystyle \mathbb {Z} [X]}
+Ring_(mathematics)_54,{\displaystyle \mathbb {Z} }
+Ring_(mathematics)_55,{\displaystyle 2\mathbb {Z} }
+Ring_(mathematics)_56,{\displaystyle \mathbb {Z} ;}
+Ring_(mathematics)_57,{\displaystyle 2\mathbb {Z} }
+Ring_(mathematics)_58,"{\displaystyle r_{1}x_{1}+\cdots +r_{n}x_{n}\quad {\textrm {such}}\;{\textrm {that}}\;r_{i}\in R\;{\textrm {and}}\;x_{i}\in I,}"
+Ring_(mathematics)_59,"{\displaystyle x,y\in R}"
+Ring_(mathematics)_60,{\displaystyle xy\in P}
+Ring_(mathematics)_61,{\displaystyle x\in P}
+Ring_(mathematics)_62,{\displaystyle y\in P.}
+Ring_(mathematics)_63,{\displaystyle {\begin{aligned}&f(a+b)=f(a)\ddagger f(b)\\&f(a\cdot b)=f(a)*f(b)\\&f(1_{R})=1_{S}\end{aligned}}}
+Ring_(mathematics)_64,{\displaystyle R\simeq S.}
+Ring_(mathematics)_65,{\displaystyle \mathbb {Z} }
+Ring_(mathematics)_66,{\displaystyle \mathbb {Z} /4\mathbb {Z} }
+Ring_(mathematics)_67,"{\displaystyle R\to R,x\mapsto uxu^{-1}}"
+Ring_(mathematics)_68,{\displaystyle \mathbb {Z} \mapsto R}
+Ring_(mathematics)_69,{\displaystyle \mathbb {Z} \to \mathbb {Q} }
+Ring_(mathematics)_70,"{\displaystyle {\begin{aligned}&(a+I)+(b+I)=(a+b)+I,\\&(a+I)(b+I)=(ab)+I.\end{aligned}}}"
+Ring_(mathematics)_71,{\displaystyle {\overline {f}}:R/I\to S}
+Ring_(mathematics)_72,{\displaystyle f={\overline {f}}\circ p.}
+Ring_(mathematics)_73,{\displaystyle {\overline {f}}:R/\ker f\to S}
+Ring_(mathematics)_74,{\displaystyle {\begin{aligned}&a(x+y)=ax+ay\\&(a+b)x=ax+bx\\&1x=x\\&(ab)x=a(bx)\end{aligned}}}
+Ring_(mathematics)_75,"{\displaystyle {\begin{aligned}&(r_{1},s_{1})+(r_{2},s_{2})=(r_{1}+r_{2},s_{1}+s_{2})\\&(r_{1},s_{1})\cdot (r_{2},s_{2})=(r_{1}\cdot r_{2},s_{1}\cdot s_{2})\end{aligned}}}"
+Ring_(mathematics)_77,"{\displaystyle {\mathfrak {a}}_{1},\cdots ,{\mathfrak {a}}_{n}}"
+Ring_(mathematics)_78,{\displaystyle {\mathfrak {a}}_{i}+{\mathfrak {a}}_{j}=(1)}
+Ring_(mathematics)_79,"{\displaystyle R/{\textstyle \bigcap _{i=1}^{n}{{\mathfrak {a}}_{i}}}\simeq \prod _{i=1}^{n}{R/{\mathfrak {a}}_{i}},\qquad x{\bmod {\textstyle \bigcap _{i=1}^{n}{\mathfrak {a}}_{i}}}\mapsto (x{\bmod {\mathfrak {a}}}_{1},\ldots ,x{\bmod {\mathfrak {a}}}_{n}).}"
+Ring_(mathematics)_80,"{\displaystyle R_{i},1\leq i\leq n}"
+Ring_(mathematics)_82,{\displaystyle {\mathfrak {a}}_{i}}
+Ring_(mathematics)_83,{\displaystyle {\mathfrak {a}}_{i}}
+Ring_(mathematics)_84,{\displaystyle {\mathfrak {a}}_{i}}
+Ring_(mathematics)_85,"{\displaystyle R={\mathfrak {a}}_{1}\oplus \cdots \oplus {\mathfrak {a}}_{n},\quad {\mathfrak {a}}_{i}{\mathfrak {a}}_{j}=0,i\neq j,\quad {\mathfrak {a}}_{i}^{2}\subseteq {\mathfrak {a}}_{i}}"
+Ring_(mathematics)_86,"{\displaystyle 1=e_{1}+\cdots +e_{n},\quad e_{i}\in {\mathfrak {a}}_{i}.}"
+Ring_(mathematics)_87,"{\displaystyle {\mathfrak {a}}_{i},}"
+Ring_(mathematics)_88,"{\displaystyle {\mathfrak {a}}_{i}=Re_{i},}"
+Ring_(mathematics)_89,"{\displaystyle R[t]=\left\{a_{n}t^{n}+a_{n-1}t^{n-1}+\dots +a_{1}t+a_{0}\mid n\geq 0,a_{j}\in R\right\}}"
+Ring_(mathematics)_90,"{\displaystyle R\left[t_{1},\ldots ,t_{n}\right]}"
+Ring_(mathematics)_91,"{\displaystyle t_{1},\ldots ,t_{n}}"
+Ring_(mathematics)_92,{\displaystyle R\left[t_{i}\right]}
+Ring_(mathematics)_93,{\displaystyle R\subseteq S}
+Ring_(mathematics)_94,"{\displaystyle R[t]\to S,\quad f\mapsto f(x)}"
+Ring_(mathematics)_95,{\displaystyle f\mapsto f(x)}
+Ring_(mathematics)_96,"{\displaystyle k\left[t^{2},t^{3}\right]}"
+Ring_(mathematics)_97,"{\displaystyle k[x,y]\to k[t],\,f\mapsto f\left(t^{2},t^{3}\right).}"
+Ring_(mathematics)_98,{\displaystyle \phi :R\to S}
+Ring_(mathematics)_99,{\displaystyle {\overline {\phi }}:R[t]\to S}
+Ring_(mathematics)_100,{\displaystyle {\overline {\phi }}(t)=x}
+Ring_(mathematics)_101,{\displaystyle {\overline {\phi }}}
+Ring_(mathematics)_102,"{\displaystyle R[t]\to S,\quad f\mapsto {\overline {f}}}"
+Ring_(mathematics)_103,{\displaystyle {\overline {f}}}
+Ring_(mathematics)_104,"{\displaystyle k\left[t_{1},\ldots ,t_{n}\right]}"
+Ring_(mathematics)_105,{\displaystyle R[\![t]\!]}
+Ring_(mathematics)_106,"{\displaystyle \sum _{0}^{\infty }a_{i}t^{i},\quad a_{i}\in R}"
+Ring_(mathematics)_107,{\displaystyle \operatorname {End} _{R}(R^{n})\simeq \operatorname {M} _{n}(R).}
+Ring_(mathematics)_108,{\displaystyle f:\oplus _{1}^{n}U\to \oplus _{1}^{n}U}
+Ring_(mathematics)_109,"{\displaystyle \operatorname {End} _{R}(\oplus _{1}^{n}U)\to \operatorname {M} _{n}(S),\quad f\mapsto (f_{ij}).}"
+Ring_(mathematics)_110,{\displaystyle U=\bigoplus _{i=1}^{r}U_{i}^{\oplus m_{i}}}
+Ring_(mathematics)_111,"{\displaystyle U_{i},}"
+Ring_(mathematics)_112,{\displaystyle \operatorname {End} _{R}(U)\simeq \prod _{i=1}^{r}\operatorname {M} _{m_{i}}(\operatorname {End} _{R}(U_{i})).}
+Ring_(mathematics)_113,{\displaystyle \varinjlim R_{i}}
+Ring_(mathematics)_114,"{\displaystyle R[t_{1},t_{2},\cdots ]=\varinjlim R[t_{1},t_{2},\cdots ,t_{m}].}"
+Ring_(mathematics)_115,{\displaystyle {\overline {\mathbf {F} }}_{p}=\varinjlim \mathbf {F} _{p^{m}}.}
+Ring_(mathematics)_116,{\displaystyle k(\!(t)\!)=\varinjlim t^{-m}k[\![t]\!]}
+Ring_(mathematics)_117,{\displaystyle k[\![t]\!].}
+Ring_(mathematics)_118,{\displaystyle \varinjlim k[U]}
+Ring_(mathematics)_119,{\displaystyle \varprojlim R_{i}}
+Ring_(mathematics)_120,{\displaystyle \textstyle \prod R_{i}}
+Ring_(mathematics)_121,{\displaystyle R[S^{-1}]}
+Ring_(mathematics)_122,{\displaystyle R\to R\left[S^{-1}\right]}
+Ring_(mathematics)_123,"{\displaystyle R\left[S^{-1}\right],}"
+Ring_(mathematics)_124,{\displaystyle R\left[S^{-1}\right].}
+Ring_(mathematics)_125,{\displaystyle R\left[S^{-1}\right]}
+Ring_(mathematics)_126,{\displaystyle R\left[f^{-1}\right]}
+Ring_(mathematics)_127,"{\displaystyle r/f^{n},\,r\in R,\,n\geq 0}"
+Ring_(mathematics)_128,{\displaystyle R\left[f^{-1}\right]=R[t]/(tf-1).}
+Ring_(mathematics)_129,"{\displaystyle S=R-{\mathfrak {p}},}"
+Ring_(mathematics)_130,{\displaystyle R_{\mathfrak {p}}}
+Ring_(mathematics)_131,{\displaystyle R\left[S^{-1}\right].}
+Ring_(mathematics)_132,{\displaystyle R_{\mathfrak {p}}}
+Ring_(mathematics)_133,{\displaystyle {\mathfrak {p}}R_{\mathfrak {p}}.}
+Ring_(mathematics)_134,{\displaystyle {\mathfrak {p}}}
+Ring_(mathematics)_135,{\displaystyle R/{\mathfrak {p}}}
+Ring_(mathematics)_136,{\displaystyle R_{\mathfrak {p}}}
+Ring_(mathematics)_137,{\displaystyle k({\mathfrak {p}}).}
+Ring_(mathematics)_138,{\displaystyle M\left[S^{-1}\right]=R\left[S^{-1}\right]\otimes _{R}M.}
+Ring_(mathematics)_139,{\displaystyle {\mathfrak {p}}\mapsto {\mathfrak {p}}\left[S^{-1}\right]}
+Ring_(mathematics)_140,{\displaystyle R\left[S^{-1}\right].}
+Ring_(mathematics)_141,"{\displaystyle R\left[S^{-1}\right]=\varinjlim R\left[f^{-1}\right],}"
+Ring_(mathematics)_142,{\displaystyle 0\to M'\left[S^{-1}\right]\to M\left[S^{-1}\right]\to M''\left[S^{-1}\right]\to 0}
+Ring_(mathematics)_143,{\displaystyle R\left[S^{-1}\right]}
+Ring_(mathematics)_144,{\displaystyle 0\to M'\to M\to M''\to 0}
+Ring_(mathematics)_145,{\displaystyle 0\to M'_{\mathfrak {m}}\to M_{\mathfrak {m}}\to M''_{\mathfrak {m}}\to 0}
+Ring_(mathematics)_146,"{\displaystyle {\mathfrak {m}},}"
+Ring_(mathematics)_147,{\displaystyle 0\to M'\to M\to M''\to 0}
+Ring_(mathematics)_148,{\displaystyle R\left[S^{-1}\right]}
+Ring_(mathematics)_149,{\displaystyle R\left[S^{-1}\right]}
+Ring_(mathematics)_150,{\displaystyle {\hat {R}}=\varprojlim R/I^{n};}
+Ring_(mathematics)_151,{\displaystyle R/I^{n}}
+Ring_(mathematics)_152,{\displaystyle R\to {\hat {R}}.}
+Ring_(mathematics)_153,{\displaystyle \mathbb {Z} }
+Ring_(mathematics)_154,{\displaystyle \mathbb {Z} _{p}.}
+Ring_(mathematics)_155,{\displaystyle \mathbb {Q} .}
+Ring_(mathematics)_156,{\displaystyle \mathbb {Q} }
+Ring_(mathematics)_157,{\displaystyle x\mapsto |x|}
+Ring_(mathematics)_158,{\displaystyle \mathbb {Q} }
+Ring_(mathematics)_159,{\displaystyle \mathbb {R} }
+Ring_(mathematics)_160,{\displaystyle |n|_{p}=p^{-v_{p}(n)}}
+Ring_(mathematics)_161,{\displaystyle v_{p}(n)}
+Ring_(mathematics)_162,{\displaystyle |0|_{p}=0}
+Ring_(mathematics)_163,{\displaystyle |m/n|_{p}=|m|_{p}/|n|_{p}}
+Ring_(mathematics)_164,{\displaystyle \mathbb {Q} }
+Ring_(mathematics)_165,{\displaystyle \mathbb {Q} }
+Ring_(mathematics)_166,{\displaystyle \mathbb {Q} _{p}.}
+Ring_(mathematics)_167,{\displaystyle \mathbb {Q} _{p}}
+Ring_(mathematics)_168,{\displaystyle \mathbb {Z} _{p}.}
+Ring_(mathematics)_169,"{\displaystyle \mathbb {Z} ,}"
+Ring_(mathematics)_170,"{\displaystyle E=\{xy-yx\mid x,y\in X\},}"
+Ring_(mathematics)_171,{\displaystyle S\mapsto {\text{the free ring generated by the set }}S}
+Ring_(mathematics)_172,{\displaystyle A\otimes _{R}B}
+Ring_(mathematics)_173,{\displaystyle (x\otimes u)(y\otimes v)=xy\otimes uv.}
+Ring_(mathematics)_174,{\displaystyle q=p_{1}^{e_{1}}\ldots p_{s}^{e_{s}}.}
+Ring_(mathematics)_175,"{\displaystyle t\cdot v=f(v),}"
+Ring_(mathematics)_176,{\displaystyle k[t]/\left(p_{i}^{k_{j}}\right).}
+Ring_(mathematics)_177,"{\displaystyle p_{i}(t)=t-\lambda _{i},}"
+Ring_(mathematics)_179,{\displaystyle A\otimes _{k}F}
+Ring_(mathematics)_180,{\displaystyle A\otimes _{k}k_{n}\approx B\otimes _{k}k_{m}.}
+Ring_(mathematics)_181,"{\displaystyle k_{n}\otimes _{k}k_{m}\simeq k_{nm},}"
+Ring_(mathematics)_182,{\displaystyle [A][B]=\left[A\otimes _{k}B\right]}
+Ring_(mathematics)_183,{\displaystyle \operatorname {Br} (\mathbb {R} )}
+Ring_(mathematics)_184,{\displaystyle \mathbb {Q} _{p}}
+Ring_(mathematics)_185,{\displaystyle \operatorname {Br} (k)=\mathbb {Q} /\mathbb {Z} }
+Ring_(mathematics)_186,{\displaystyle -\otimes _{k}F}
+Ring_(mathematics)_187,{\displaystyle A\otimes _{k}F}
+Ring_(mathematics)_188,"{\displaystyle H^{2}\left(\operatorname {Gal} (F/k),k^{*}\right).}"
+Ring_(mathematics)_189,{\displaystyle k(\!(t)\!)}
+Ring_(mathematics)_190,{\displaystyle k[\![t]\!].}
+Ring_(mathematics)_191,{\displaystyle k(\!(G)\!)}
+Ring_(mathematics)_192,{\displaystyle (f*g)(t)=\sum _{s\in G}f(s)g(t-s).}
+Ring_(mathematics)_193,{\displaystyle \mathbb {R} }
+Ring_(mathematics)_194,{\displaystyle +:R\times R\to R}
+Ring_(mathematics)_195,{\displaystyle \lambda ^{n}(x+y)=\sum _{0}^{n}\lambda ^{i}(x)\lambda ^{n-i}(y).}
+Ring_(mathematics)_196,{\displaystyle \mathbb {Z} }
+Ring_(mathematics)_197,"{\displaystyle \lambda ^{n}(x)={\binom {x}{n}},}"
+Ring_(mathematics)_198,"{\displaystyle H^{*}(X,\mathbb {Z} )=\bigoplus _{i=0}^{\infty }H^{i}(X,\mathbb {Z} ),}"
+Ring_(mathematics)_199,"{\displaystyle H_{i}(X,\mathbb {Z} )}"
+Ring_(mathematics)_200,{\displaystyle \mathbb {Z} }
+Ring_(mathematics)_201,"{\displaystyle {\begin{aligned}&(f+g)(x)=f(x)+g(x)\\&(f\cdot g)(x)=f(g(x)),\end{aligned}}}"
+Ring_(mathematics)_202,"{\displaystyle \{0,1,2,\ldots \}}"
+Ring_(mathematics)_203,"{\displaystyle R\times R\;{\stackrel {a}{\to }}\,R}"
+Ring_(mathematics)_204,"{\displaystyle R\times R\;{\stackrel {m}{\to }}\,R}"
+Ring_(mathematics)_205,"{\displaystyle \operatorname {pt} {\stackrel {0}{\to }}\,R}"
+Ring_(mathematics)_206,"{\displaystyle R\;{\stackrel {i}{\to }}\,R}"
+Ring_(mathematics)_207,"{\displaystyle \operatorname {pt} {\stackrel {1}{\to }}\,R}"
+Ring_(mathematics)_208,"{\displaystyle h_{R}=\operatorname {Hom} (-,R):C^{\operatorname {op} }\to \mathbf {Sets} }"
+Ring_(mathematics)_209,{\displaystyle C^{\operatorname {op} }\to \mathbf {Rings} {\stackrel {\textrm {forgetful}}{\longrightarrow }}\mathbf {Sets} .}
+Ring_(mathematics)_210,{\displaystyle \operatorname {Spec} \mathbb {Z} }
+Ring_(mathematics)_211,{\displaystyle \mu :X\wedge X\to X}

@@ -1,0 +1,45 @@
+name,latex
+Multiset_0,{\displaystyle 120=2^{3}3^{1}5^{1}}
+Multiset_1,{\displaystyle m\colon A\to \mathbb {Z} ^{+}}
+Multiset_2,{\displaystyle \infty }
+Multiset_3,"{\displaystyle \{(a,m(a)):a\in A\}}"
+Multiset_4,"{\displaystyle A=\{a_{1},\ldots ,a_{n}\}}"
+Multiset_5,"{\displaystyle \left\{a_{1}^{m(a_{1})},\ldots ,a_{n}^{m(a_{n})}\right\},\quad }"
+Multiset_6,"{\displaystyle \quad a_{1}^{m(a_{1})}\cdots a_{n}^{m(a_{n})},}"
+Multiset_7,"{\displaystyle \{a^{2},b\}}"
+Multiset_8,{\displaystyle a^{2}b.}
+Multiset_9,{\displaystyle a_{i}=x}
+Multiset_10,{\displaystyle \mathbb {N} }
+Multiset_11,{\displaystyle A}
+Multiset_12,{\displaystyle m}
+Multiset_13,{\displaystyle \operatorname {Supp} (A):=\{x\in U\mid m_{A}(x)>0\}.}
+Multiset_14,{\displaystyle |A|=\sum _{x\in \operatorname {Supp} (A)}m_{A}(x)=\sum _{x\in U}m_{A}(x)}
+Multiset_15,{\displaystyle m_{A}}
+Multiset_16,{\displaystyle m_{B}.}
+Multiset_17,{\displaystyle m_{A}(x)\leq m_{B}(x)\quad \forall x\in U.}
+Multiset_18,"{\displaystyle m_{C}(x)=\max(m_{A}(x),m_{B}(x))\quad \forall x\in U.}"
+Multiset_19,"{\displaystyle m_{C}(x)=\min(m_{A}(x),m_{B}(x))\quad \forall x\in U.}"
+Multiset_20,{\displaystyle m_{C}(x)=m_{A}(x)+m_{B}(x)\quad \forall x\in U.}
+Multiset_21,"{\displaystyle m_{C}(x)=\max(m_{A}(x)-m_{B}(x),0)\quad \forall x\in U.}"
+Multiset_23,{\displaystyle \textstyle \left(\!\!{n \choose k}\!\!\right)}
+Multiset_24,{\displaystyle {\tbinom {n}{k}}.}
+Multiset_25,"{\displaystyle \left(\!\!{n \choose k}\!\!\right)={n+k-1 \choose k}={\frac {(n+k-1)!}{k!\,(n-1)!}}={n(n+1)(n+2)\cdots (n+k-1) \over k!},}"
+Multiset_26,"{\displaystyle \left(\!\!{n \choose k}\!\!\right)={n^{\overline {k}} \over k!},}"
+Multiset_27,{\displaystyle {n \choose k}={n^{\underline {k}} \over k!}.}
+Multiset_28,"{\displaystyle {4+18-1 \choose 4-1}={4+18-1 \choose 18}=1330,}"
+Multiset_30,{\displaystyle \left(\!\!{n \choose k}\!\!\right)=(-1)^{k}{-n \choose k}.}
+Multiset_31,{\displaystyle \left(\!\!{n \choose k}\!\!\right)=\left(\!\!{k+1 \choose n-1}\!\!\right).}
+Multiset_32,"{\displaystyle \left(\!\!{n \choose k}\!\!\right)=\left(\!\!{n \choose k-1}\!\!\right)+\left(\!\!{n-1 \choose k}\!\!\right)\quad {\mbox{for }}n,k>0}"
+Multiset_33,"{\displaystyle \left(\!\!{n \choose 0}\!\!\right)=1,\quad n\in \mathbb {N} ,\quad {\mbox{and}}\quad \left(\!\!{0 \choose k}\!\!\right)=0,\quad k>0.}"
+Multiset_34,"{\displaystyle [n]:=\{1,\dots ,n\}}"
+Multiset_35,{\displaystyle \left(\!\!{n \choose k-1}\!\!\right)}
+Multiset_36,{\displaystyle \left(\!\!{n-1 \choose k}\!\!\right).}
+Multiset_37,{\displaystyle \left(\!\!{n \choose k}\!\!\right)=\left(\!\!{n \choose k-1}\!\!\right)+\left(\!\!{n-1 \choose k}\!\!\right).}
+Multiset_38,{\displaystyle \sum _{d=0}^{\infty }\left(\!\!{n \choose d}\!\!\right)t^{d}={\frac {1}{(1-t)^{n}}}.}
+Multiset_39,{\displaystyle \left(\!\!{n \choose d}\!\!\right)}
+Multiset_40,"{\displaystyle k[x_{1},\ldots ,x_{n}].}"
+Multiset_41,{\displaystyle \left(\!\!{n \choose d}\!\!\right)}
+Multiset_42,{\displaystyle \left(\!\!{\alpha  \choose k}\!\!\right)={\frac {\alpha ^{\overline {k}}}{k!}}={\frac {\alpha (\alpha +1)(\alpha +2)\cdots (\alpha +k-1)}{k(k-1)(k-2)\cdots 1}}\quad {\text{for }}k\in \mathbb {N} {\text{ and arbitrary }}\alpha .}
+Multiset_43,{\displaystyle \left(\!\!{\alpha  \choose k}\!\!\right)}
+Multiset_44,{\displaystyle (1-X)^{-\alpha }=\sum _{k=0}^{\infty }\left(\!\!{\alpha  \choose k}\!\!\right)X^{k}.}
+Multiset_45,"{\displaystyle (1-X)^{-\alpha }(1-X)^{-\beta }=(1-X)^{-(\alpha +\beta )}\quad {\text{and}}\quad ((1-X)^{-\alpha })^{-\beta }=(1-X)^{-(-\alpha \beta )},}"

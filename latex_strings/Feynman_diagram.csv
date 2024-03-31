@@ -1,0 +1,138 @@
+name,latex
+Feynman_diagram_0,"{\displaystyle S_{\rm {fi}}=\langle \mathrm {f} |S|\mathrm {i} \rangle \;,}"
+Feynman_diagram_1,"{\displaystyle S=\lim _{t_{2}\rightarrow +\infty }\lim _{t_{1}\rightarrow -\infty }U(t_{2},t_{1})\;.}"
+Feynman_diagram_2,{\displaystyle S={\mathcal {T}}e^{-i\int _{-\infty }^{+\infty }d\tau H_{V}(\tau )}.}
+Feynman_diagram_3,{\displaystyle S=\sum _{n=0}^{\infty }{\frac {(-i)^{n}}{n!}}\left(\prod _{j=1}^{n}\int d^{4}x_{j}\right){\mathcal {T}}\left\{\prod _{j=1}^{n}{\mathcal {H}}_{V}\left(x_{j}\right)\right\}\equiv \sum _{n=0}^{\infty }S^{(n)}\;.}
+Feynman_diagram_4,{\displaystyle S=\sum _{n=0}^{\infty }{\frac {i^{n}}{n!}}\left(\prod _{j=1}^{n}\int d^{4}x_{j}\right){\mathcal {T}}\left\{\prod _{j=1}^{n}{\mathcal {L}}_{V}\left(x_{j}\right)\right\}\equiv \sum _{n=0}^{\infty }S^{(n)}\;.}
+Feynman_diagram_5,"{\displaystyle {\mathcal {T}}\prod _{j=1}^{n}{\mathcal {L}}_{V}\left(x_{j}\right)=\sum _{\text{A}}(\pm ){\mathcal {N}}\prod _{j=1}^{n}{\mathcal {L}}_{V}\left(x_{j}\right)\;,}"
+Feynman_diagram_6,{\displaystyle L_{v}=-g{\bar {\psi }}\gamma ^{\mu }\psi A_{\mu }}
+Feynman_diagram_7,{\displaystyle A_{\mu }(x_{i})}
+Feynman_diagram_8,"{\displaystyle S^{(2)}={\frac {(ie)^{2}}{2!}}\int d^{4}x\,d^{4}x'\,T{\bar {\psi }}(x)\,\gamma ^{\mu }\,\psi (x)\,A_{\mu }(x)\,{\bar {\psi }}(x')\,\gamma ^{\nu }\,\psi (x')\,A_{\nu }(x').\;}"
+Feynman_diagram_9,{\displaystyle N{\bar {\psi }}(x)ie\gamma ^{\mu }\psi (x){\bar {\psi }}(x')ie\gamma ^{\nu }\psi (x')A_{\mu }(x)A_{\nu }(x')}
+Feynman_diagram_10,"{\displaystyle N{\bar {\psi }}(x)\gamma ^{\mu }\psi (x){\bar {\psi }}(x')\gamma ^{\nu }\psi (x'){\underline {A_{\mu }(x)A_{\nu }(x')}}\;,}"
+Feynman_diagram_11,{\displaystyle {\underline {A_{\mu }(x)A_{\nu }(x')}}=\int {\frac {d^{4}k}{(2\pi )^{4}}}{\frac {-ig_{\mu \nu }}{k^{2}+i0}}e^{-ik(x-x')}}
+Feynman_diagram_12,"{\displaystyle N{\bar {\psi }}(x)\,\gamma ^{\mu }\,{\underline {\psi (x)\,{\bar {\psi }}(x')}}\,\gamma ^{\nu }\,\psi (x')\,A_{\mu }(x)\,A_{\nu }(x')\;,}"
+Feynman_diagram_13,{\displaystyle {\underline {\psi (x){\bar {\psi }}(x')}}=\int {\frac {d^{4}p}{(2\pi )^{4}}}{\frac {i}{\gamma p-m+i0}}e^{-ip(x-x')}}
+Feynman_diagram_14,"{\displaystyle S=\int {\tfrac {1}{2}}\partial _{\mu }\phi \partial ^{\mu }\phi \,d^{d}x\,.}"
+Feynman_diagram_15,"{\displaystyle \int _{A}^{B}e^{iS}\,D\phi \,,}"
+Feynman_diagram_16,"{\displaystyle \int _{A}^{B}e^{iS}\phi (x_{1})\cdots \phi (x_{n})\,D\phi =\left\langle A\left|\phi (x_{1})\cdots \phi (x_{n})\right|B\right\rangle \,,}"
+Feynman_diagram_17,"{\displaystyle {\frac {\displaystyle \int e^{iS}\phi (x_{1})\cdots \phi (x_{n})\,D\phi }{\displaystyle \int e^{iS}\,D\phi }}=\left\langle 0\left|\phi (x_{1})\cdots \phi (x_{n})\right|0\right\rangle \,.}"
+Feynman_diagram_18,"{\displaystyle \phi (x)=\int {\frac {dk}{(2\pi )^{d}}}\phi (k)e^{ik\cdot x}=\int _{k}\phi (k)e^{ikx}\,.}"
+Feynman_diagram_19,"{\displaystyle S=\sum _{\langle x,y\rangle }{\tfrac {1}{2}}{\big (}\phi (x)-\phi (y){\big )}^{2}\,,}"
+Feynman_diagram_20,"{\displaystyle S=\int _{k}{\Big (}{\big (}1-\cos(k_{1}){\big )}+{\big (}1-\cos(k_{2}){\big )}+\cdots +{\big (}1-\cos(k_{d}){\big )}{\Big )}\phi _{k}^{*}\phi ^{k}\,.}"
+Feynman_diagram_21,"{\displaystyle S=\int _{k}{\tfrac {1}{2}}k^{2}\left|\phi (k)\right|^{2}\,.}"
+Feynman_diagram_22,"{\displaystyle \phi (k)^{*}=\phi (-k)\,.}"
+Feynman_diagram_23,{\displaystyle S=\int _{k}{\tfrac {1}{2}}k^{2}\phi (k)\phi (-k)}
+Feynman_diagram_24,"{\displaystyle S=\int {\tfrac {1}{2}}\partial _{\mu }\phi ^{*}\partial ^{\mu }\phi \,d^{d}x}"
+Feynman_diagram_25,{\displaystyle S=\int _{k}{\tfrac {1}{2}}k^{2}\left|\phi (k)\right|^{2}}
+Feynman_diagram_26,"{\displaystyle y_{i}=A_{ij}x_{j}\,,}"
+Feynman_diagram_27,"{\displaystyle \det(A)\int dx_{1}\,dx_{2}\cdots \,dx_{n}=\int dy_{1}\,dy_{2}\cdots \,dy_{n}\,.}"
+Feynman_diagram_28,{\displaystyle A^{\mathrm {T} }A=I}
+Feynman_diagram_29,"{\displaystyle A_{kx}=e^{ikx}\,}"
+Feynman_diagram_30,"{\displaystyle A_{kx}^{-1}=e^{-ikx}\,}"
+Feynman_diagram_31,"{\displaystyle \det A=1\,}"
+Feynman_diagram_32,"{\displaystyle \int \exp \left({\frac {i}{2}}\sum _{k}k^{2}\phi ^{*}(k)\phi (k)\right)\,D\phi =\prod _{k}\int _{\phi _{k}}e^{{\frac {i}{2}}k^{2}\left|\phi _{k}\right|^{2}\,d^{d}k}\,}"
+Feynman_diagram_33,"{\displaystyle d^{d}k=\left({\frac {1}{L}}\right)^{d}\,,}"
+Feynman_diagram_34,"{\displaystyle e^{\int _{k}-{\tfrac {1}{2}}k^{2}\phi _{k}^{*}\phi _{k}}=\prod _{k}e^{-k^{2}\left|\phi _{k}\right|^{2}\,d^{d}k}\,.}"
+Feynman_diagram_35,"{\displaystyle \left\langle \phi (x_{1})\cdots \phi (x_{n})\right\rangle ={\frac {\displaystyle \int e^{-S}\phi (x_{1})\cdots \phi (x_{n})\,D\phi }{\displaystyle \int e^{-S}\,D\phi }}}"
+Feynman_diagram_36,{\displaystyle \left\langle \phi (x_{1})\cdots \phi (x_{n})\right\rangle =\lim _{|C|\rightarrow \infty }{\frac {\displaystyle \sum _{C}\phi _{C}(x_{1})\cdots \phi _{C}(x_{n})}{|C|}}}
+Feynman_diagram_37,"{\displaystyle \left\langle \phi _{k}\phi _{k'}\right\rangle =0\,}"
+Feynman_diagram_38,{\displaystyle \left\langle \phi _{k}\phi _{k}\right\rangle ={\frac {V}{k^{2}}}}
+Feynman_diagram_39,{\displaystyle \left\langle \phi (k)\phi (k')\right\rangle =\delta (k-k'){\frac {1}{k^{2}}}}
+Feynman_diagram_40,{\displaystyle \left\langle \phi (k)\phi (k')\right\rangle =\delta (k-k'){\frac {1}{2{\big (}d-\cos(k_{1})+\cos(k_{2})\cdots +\cos(k_{d}){\big )}}}}
+Feynman_diagram_41,"{\displaystyle \delta (k)=(2\pi )^{d}\delta _{D}(k_{1})\delta _{D}(k_{2})\cdots \delta _{D}(k_{d})\,}"
+Feynman_diagram_42,"{\displaystyle \partial _{\mu }\partial ^{\mu }\phi =0\,}"
+Feynman_diagram_43,{\displaystyle \partial _{\mu }\partial ^{\mu }\left\langle \phi (x)\phi (y)\right\rangle =0}
+Feynman_diagram_44,"{\displaystyle \partial ^{2}\Delta (x)=i\delta (x)\,}"
+Feynman_diagram_45,{\displaystyle \Delta (k)={\frac {i}{k^{2}}}}
+Feynman_diagram_46,{\displaystyle \left\langle \phi (k_{1})\phi (k_{2})\cdots \phi (k_{n})\right\rangle }
+Feynman_diagram_47,"{\displaystyle \left\langle \phi (k_{1})\cdots \phi (k_{2n})\right\rangle =\sum \prod _{i,j}{\frac {\delta \left(k_{i}-k_{j}\right)}{k_{i}^{2}}}}"
+Feynman_diagram_48,{\displaystyle \left\langle \phi (k_{1})\phi (k_{2})\phi (k_{3})\phi (k_{4})\right\rangle ={\frac {\delta (k_{1}-k_{2})}{k_{1}^{2}}}{\frac {\delta (k_{3}-k_{4})}{k_{3}^{2}}}+{\frac {\delta (k_{1}-k_{3})}{k_{3}^{2}}}{\frac {\delta (k_{2}-k_{4})}{k_{2}^{2}}}+{\frac {\delta (k_{1}-k_{4})}{k_{1}^{2}}}{\frac {\delta (k_{2}-k_{3})}{k_{2}^{2}}}}
+Feynman_diagram_49,{\displaystyle \phi }
+Feynman_diagram_50,{\displaystyle \phi }
+Feynman_diagram_51,{\displaystyle \phi }
+Feynman_diagram_52,{\displaystyle I=\int e^{-ax^{2}/2}dx={\sqrt {\frac {2\pi }{a}}}}
+Feynman_diagram_53,"{\displaystyle {\frac {\partial ^{n}}{\partial a^{n}}}I=\int {\frac {x^{2n}}{2^{n}}}e^{-ax^{2}/2}dx={\frac {1\cdot 3\cdot 5\ldots \cdot (2n-1)}{2\cdot 2\cdot 2\ldots \;\;\;\;\;\cdot 2\;\;\;\;\;\;}}{\sqrt {2\pi }}\,a^{-{\frac {2n+1}{2}}}}"
+Feynman_diagram_54,{\displaystyle \left\langle x^{2n}\right\rangle ={\frac {\displaystyle \int x^{2n}e^{-ax^{2}/2}}{\displaystyle \int e^{-ax^{2}/2}}}=1\cdot 3\cdot 5\ldots \cdot (2n-1){\frac {1}{a^{n}}}}
+Feynman_diagram_55,{\displaystyle \left\langle x^{2}\right\rangle ={\frac {1}{a}}}
+Feynman_diagram_56,{\displaystyle \left\langle x_{1}x_{2}x_{3}\cdots x_{2n}\right\rangle }
+Feynman_diagram_57,{\displaystyle \left\langle x^{2n}\right\rangle =(2n-1)\cdot (2n-3)\ldots \cdot 5\cdot 3\cdot 1\left\langle x^{2}\right\rangle ^{n}}
+Feynman_diagram_58,{\displaystyle S=\int \partial ^{\mu }\phi \partial _{\mu }\phi +{\frac {\lambda }{4!}}\phi ^{4}.}
+Feynman_diagram_59,{\displaystyle S=\int _{k}k^{2}\left|\phi (k)\right|^{2}+{\frac {\lambda }{4!}}\int _{k_{1}k_{2}k_{3}k_{4}}\phi (k_{1})\phi (k_{2})\phi (k_{3})\phi (k_{4})\delta (k_{1}+k_{2}+k_{3}+k_{4})=S_{F}+X.}
+Feynman_diagram_60,{\displaystyle e^{-S}=e^{-S_{F}}\left(1+X+{\frac {1}{2!}}XX+{\frac {1}{3!}}XXX+\cdots \right)}
+Feynman_diagram_61,{\displaystyle \left\langle \phi (k_{1})\phi (k_{2})\phi (k_{3})\phi (k_{4})\right\rangle ={\frac {\displaystyle \int e^{-S}\phi (k_{1})\phi (k_{2})\phi (k_{3})\phi (k_{4})D\phi }{Z}}}
+Feynman_diagram_62,"{\displaystyle \lambda {\frac {1}{k_{1}^{2}}}{\frac {1}{k_{2}^{2}}}{\frac {1}{k_{3}^{2}}}{\frac {1}{k_{4}^{2}}}\,.}"
+Feynman_diagram_63,{\displaystyle {\frac {\delta (k_{1}+k_{2})}{k_{1}^{2}}}}
+Feynman_diagram_64,{\displaystyle iW[J]\equiv \ln Z[J].}
+Feynman_diagram_65,{\displaystyle Z[J]\propto \sum _{k}{D_{k}}}
+Feynman_diagram_66,{\displaystyle \prod _{i}{\frac {C_{i}^{n_{i}}}{n_{i}!}}}
+Feynman_diagram_67,{\displaystyle \left({\frac {1}{0!}}+{\frac {C_{1}}{1!}}+{\frac {C_{1}^{2}}{2!}}+\cdots \right)\left(1+C_{2}+{\frac {1}{2}}C_{2}^{2}+\cdots \right)\cdots }
+Feynman_diagram_68,"{\displaystyle Z[J]\propto \prod _{i}{\sum _{n_{i}=0}^{\infty }{\frac {C_{i}^{n_{i}}}{n_{i}!}}}=\exp {\sum _{i}{C_{i}}}\propto \exp {W[J]}\,.}"
+Feynman_diagram_69,"{\displaystyle \left\langle \phi _{1}(x_{1})\cdots \phi _{n}(x_{n})\right\rangle ={\frac {\displaystyle \int e^{-S}\phi _{1}(x_{1})\cdots \phi _{n}(x_{n})\,D\phi }{\displaystyle \int e^{-S}\,D\phi }}\,.}"
+Feynman_diagram_70,"{\displaystyle \int e^{-S}\phi _{1}(x_{1})\cdots \phi _{n}(x_{n})\,D\phi =\left(\sum E_{i}\right)\left(\exp \left(\sum _{i}C_{i}\right)\right)\,.}"
+Feynman_diagram_71,{\displaystyle Z=\int e^{-S}D\phi =e^{-HT}=e^{-\rho V}}
+Feynman_diagram_72,"{\displaystyle \int h(x)\phi (x)\,d^{d}x=\int h(k)\phi (k)\,d^{d}k\,}"
+Feynman_diagram_73,"{\displaystyle \log {\big (}Z[h]{\big )}=\sum _{n,C}h(k_{1})h(k_{2})\cdots h(k_{n})C(k_{1},\cdots ,k_{n})\,}"
+Feynman_diagram_74,"{\displaystyle Z[h]=\int e^{iS+i\int h\phi }\,D\phi \,}"
+Feynman_diagram_75,"{\displaystyle \int \rho (y)e^{iky}\,d^{n}y=\left\langle e^{iky}\right\rangle =\left\langle \prod _{i=1}^{n}e^{ih_{i}y_{i}}\right\rangle \,}"
+Feynman_diagram_76,"{\displaystyle Z[h]=\int e^{iS}e^{i\int _{x}h(x)\phi (x)}\,D\phi =\left\langle e^{ih\phi }\right\rangle }"
+Feynman_diagram_77,{\displaystyle \left\langle \prod _{x}e^{ih_{x}\phi _{x}}\right\rangle }
+Feynman_diagram_78,"{\displaystyle \delta (x-y)=\int e^{ik(x-y)}\,dk}"
+Feynman_diagram_79,"{\displaystyle \delta (\phi -\eta )=\int e^{ih(x){\big (}\phi (x)-\eta (x){\big )}\,d^{d}x}\,Dh\,,}"
+Feynman_diagram_80,"{\displaystyle \left\langle \phi (x)\right\rangle ={\frac {1}{Z}}{\frac {\partial }{\partial h(x)}}Z[h]={\frac {\partial }{\partial h(x)}}\log {\big (}Z[h]{\big )}\,.}"
+Feynman_diagram_81,"{\displaystyle \int e^{M_{ij}{\bar {\psi }}^{i}\psi ^{j}}\,D{\bar {\psi }}\,D\psi =\mathrm {Det} (M)\,,}"
+Feynman_diagram_82,"{\displaystyle \int e^{{\frac {1}{2}}A_{ij}\psi ^{i}\psi ^{j}}\,D\psi =\mathrm {Pfaff} (A)\,,}"
+Feynman_diagram_83,"{\displaystyle Z=\int e^{{\bar {\psi }}M\psi +{\bar {\eta }}\psi +{\bar {\psi }}\eta }\,D{\bar {\psi }}\,D\psi =\int e^{\left({\bar {\psi }}+{\bar {\eta }}M^{-1}\right)M\left(\psi +M^{-1}\eta \right)-{\bar {\eta }}M^{-1}\eta }\,D{\bar {\psi }}\,D\psi =\mathrm {Det} (M)e^{-{\bar {\eta }}M^{-1}\eta }\,,}"
+Feynman_diagram_84,{\displaystyle \left\langle {\bar {\psi }}\psi \right\rangle ={\frac {1}{Z}}{\frac {\partial }{\partial \eta }}{\frac {\partial }{\partial {\bar {\eta }}}}Z|_{\eta ={\bar {\eta }}=0}=M^{-1}}
+Feynman_diagram_85,"{\displaystyle \int e^{\phi ^{*}M\phi +h^{*}\phi +\phi ^{*}h}\,D\phi ^{*}\,D\phi ={\frac {e^{h^{*}M^{-1}h}}{\mathrm {Det} (M)}}}"
+Feynman_diagram_86,"{\displaystyle \left\langle \phi ^{*}\phi \right\rangle ={\frac {1}{Z}}{\frac {\partial }{\partial h}}{\frac {\partial }{\partial h^{*}}}Z|_{h=h^{*}=0}=M^{-1}\,.}"
+Feynman_diagram_87,{\displaystyle \int {\bar {\psi }}\left(\gamma ^{\mu }\partial _{\mu }-m\right)\psi }
+Feynman_diagram_88,"{\displaystyle S=\int _{k}{\bar {\psi }}\left(i\gamma ^{\mu }k_{\mu }-m\right)\psi \,.}"
+Feynman_diagram_89,{\displaystyle \left\langle {\bar {\psi }}(k')\psi (k)\right\rangle =\delta (k+k'){\frac {1}{\gamma \cdot k-m}}=\delta (k+k'){\frac {\gamma \cdot k+m}{k^{2}-m^{2}}}}
+Feynman_diagram_90,"{\displaystyle \left\langle {\bar {\psi }}(k_{1}){\bar {\psi }}(k_{2})\cdots {\bar {\psi }}(k_{n})\psi (k'_{1})\cdots \psi (k_{n})\right\rangle =\sum _{\mathrm {pairings} }(-1)^{S}\prod _{\mathrm {pairs} \;i,j}\delta \left(k_{i}-k_{j}\right){\frac {1}{\gamma \cdot k_{i}-m}}}"
+Feynman_diagram_91,"{\displaystyle S=\int {\tfrac {1}{4}}F^{\mu \nu }F_{\mu \nu }=\int -{\tfrac {1}{2}}\left(\partial ^{\mu }A_{\nu }\partial _{\mu }A^{\nu }-\partial ^{\mu }A_{\mu }\partial _{\nu }A^{\nu }\right)\,.}"
+Feynman_diagram_92,"{\displaystyle \int \delta \left(\partial _{\mu }A^{\mu }-f\right)e^{-{\frac {f^{2}}{2}}}\,Df\,.}"
+Feynman_diagram_93,"{\displaystyle e^{-{\frac {\left(\partial _{\mu }A_{\mu }\right)^{2}}{2}}}\,.}"
+Feynman_diagram_94,{\displaystyle S=\int \partial ^{\mu }A^{\nu }\partial _{\mu }A_{\nu }}
+Feynman_diagram_95,{\displaystyle \left\langle A_{\mu }(k)A_{\nu }(k')\right\rangle =\delta \left(k+k'\right){\frac {g_{\mu \nu }}{k^{2}}}.}
+Feynman_diagram_96,{\displaystyle \lambda }
+Feynman_diagram_97,{\displaystyle S=\int {\tfrac {1}{2}}\left(\partial ^{\mu }A^{\nu }\partial _{\mu }A_{\nu }-\lambda \left(\partial _{\mu }A^{\mu }\right)^{2}\right)}
+Feynman_diagram_98,{\displaystyle \left\langle A_{\mu }(k)A_{\nu }(k')\right\rangle =\delta \left(k+k'\right){\frac {g_{\mu \nu }-\lambda {\frac {k_{\mu }k_{\nu }}{k^{2}}}}{k^{2}}}.}
+Feynman_diagram_99,{\displaystyle \delta \left(\partial _{\mu }A_{\mu }-f\right)e^{-{\frac {f^{2}}{2}}}\det M}
+Feynman_diagram_100,"{\displaystyle \int f(r)\,dx\,dy=\int f(r)\int d\theta \,\delta (y)\left|{\frac {dy}{d\theta }}\right|\,dx\,dy}"
+Feynman_diagram_101,"{\displaystyle \int f(r)\,dx\,dy=\int d\theta \,\int f(r)\delta (y)\left|{\frac {dy}{d\theta }}\right|\,dx\,dy}"
+Feynman_diagram_102,"{\displaystyle \int f(r)\,dx\,dy=\int d\theta _{0}\,\int f(x)\left|{\frac {dy}{d\theta }}\right|\,dx\,.}"
+Feynman_diagram_103,"{\displaystyle \int f(r)\,dx\,dy=2\pi \int f(x)x\,dx}"
+Feynman_diagram_104,"{\displaystyle \int DA\int \delta {\big (}F(A){\big )}\det \left({\frac {\partial F}{\partial G}}\right)\,DGe^{iS}=\int DG\int \delta {\big (}F(A){\big )}\det \left({\frac {\partial F}{\partial G}}\right)e^{iS}\,}"
+Feynman_diagram_105,"{\displaystyle \int \det \left({\frac {\partial F}{\partial G}}\right)e^{iS_{GF}}\,DA\,}"
+Feynman_diagram_106,"{\displaystyle \partial _{\mu }A^{\mu }=f\,,}"
+Feynman_diagram_107,"{\displaystyle \partial _{\mu }\,D_{\mu }\alpha \,,}"
+Feynman_diagram_108,"{\displaystyle \det \left(\partial _{\mu }\,D_{\mu }\right)\,}"
+Feynman_diagram_109,"{\displaystyle \int e^{{\bar {\eta }}\partial _{\mu }\,D^{\mu }\eta }\,D{\bar {\eta }}\,D\eta \,}"
+Feynman_diagram_110,"{\displaystyle S=\int \operatorname {Tr} \partial _{\mu }A_{\nu }\partial ^{\mu }A^{\nu }+f_{jk}^{i}\partial ^{\nu }A_{i}^{\mu }A_{\mu }^{j}A_{\nu }^{k}+f_{jr}^{i}f_{kl}^{r}A_{i}A_{j}A^{k}A^{l}+\operatorname {Tr} \partial _{\mu }{\bar {\eta }}\partial ^{\mu }\eta +{\bar {\eta }}A_{j}\eta \,}"
+Feynman_diagram_111,"{\displaystyle {\frac {1}{p^{2}+m^{2}}}=\int _{0}^{\infty }e^{-\tau \left(p^{2}+m^{2}\right)}\,d\tau }"
+Feynman_diagram_112,{\displaystyle \Delta (x)=\int _{0}^{\infty }d\tau e^{-m^{2}\tau }{\frac {1}{({4\pi \tau })^{d/2}}}e^{\frac {-x^{2}}{4\tau }}}
+Feynman_diagram_113,"{\displaystyle \Delta (x)=\int _{0}^{\infty }d\tau \int DX\,e^{-\int \limits _{0}^{\tau }\left({\frac {{\dot {x}}^{2}}{2}}+m^{2}\right)d\tau '}}"
+Feynman_diagram_114,"{\displaystyle \int _{k}{\frac {1}{k^{2}+m^{2}}}{\frac {1}{(k+p)^{2}+m^{2}}}\,.}"
+Feynman_diagram_115,"{\displaystyle \int _{t,t'}e^{-t(k^{2}+m^{2})-t'\left((k+p)^{2}+m^{2}\right)}\,dt\,dt'\,.}"
+Feynman_diagram_116,"{\displaystyle \int _{t,t'}e^{-(t+t')(k^{2}+m^{2})-t'2p\cdot k-t'p^{2}}\,,}"
+Feynman_diagram_117,"{\displaystyle d(uv)=dt'\quad du=dt+dt'\,,}"
+Feynman_diagram_118,"{\displaystyle u\,du\wedge dv=dt\wedge dt'\,}"
+Feynman_diagram_119,"{\displaystyle \int _{u,v}ue^{-u\left(k^{2}+m^{2}+v2p\cdot k+vp^{2}\right)}=\int {\frac {1}{\left(k^{2}+m^{2}+v2p\cdot k-vp^{2}\right)^{2}}}\,dv}"
+Feynman_diagram_120,"{\displaystyle {\frac {1}{AB}}=\int _{0}^{1}{\frac {1}{{\big (}vA+(1-v)B{\big )}^{2}}}\,dv}"
+Feynman_diagram_121,"{\displaystyle \int _{0}^{1}\int {\frac {1}{\left(k^{2}+m^{2}+2vp\cdot k+vp^{2}\right)^{2}}}\,dk\,dv=\int _{0}^{1}\int {\frac {1}{\left(k'^{2}+m^{2}+v(1-v)p^{2}\right)^{2}}}\,dk'\,dv}"
+Feynman_diagram_122,"{\displaystyle \int dk\,{\frac {1}{k^{2}+m^{2}}}{\frac {1}{(k+p_{1})^{2}+m^{2}}}\cdots {\frac {1}{(k+p_{n})^{2}+m^{2}}}}"
+Feynman_diagram_123,"{\displaystyle {\frac {1}{D_{0}D_{1}\cdots D_{n}}}=\int _{0}^{\infty }\cdots \int _{0}^{\infty }e^{-u_{0}D_{0}\cdots -u_{n}D_{n}}\,du_{0}\cdots du_{n}\,.}"
+Feynman_diagram_124,"{\displaystyle du=du_{0}+du_{1}\cdots +du_{n}\,}"
+Feynman_diagram_125,"{\displaystyle d(uv_{i})=du_{i}\,.}"
+Feynman_diagram_126,"{\displaystyle u^{n}\,du\wedge dv_{1}\wedge dv_{2}\cdots \wedge dv_{n}=du_{0}\wedge du_{1}\cdots \wedge du_{n}\,.}"
+Feynman_diagram_127,"{\displaystyle \int _{0}^{\infty }\int _{\mathrm {simplex} }u^{n}e^{-u\left(v_{0}D_{0}+v_{1}D_{1}+v_{2}D_{2}\cdots +v_{n}D_{n}\right)}\,dv_{1}\cdots dv_{n}\,du\,,}"
+Feynman_diagram_128,{\displaystyle v_{i}>0\quad {\mbox{and}}\quad \sum _{i=1}^{n}v_{i}<1}
+Feynman_diagram_129,"{\displaystyle v_{0}=1-\sum _{i=1}^{n}v_{i}\,.}"
+Feynman_diagram_130,"{\displaystyle {\frac {1}{D_{0}\cdots D_{n}}}=n!\int _{\mathrm {simplex} }{\frac {1}{\left(v_{0}D_{0}+v_{1}D_{1}\cdots +v_{n}D_{n}\right)^{n+1}}}\,dv_{1}\,dv_{2}\cdots dv_{n}}"
+Feynman_diagram_131,"{\displaystyle \left\langle \phi (k_{1})\phi (k_{2})\phi (k_{3})\phi (k_{4})\right\rangle ={\frac {i}{k_{1}^{2}}}{\frac {i}{k_{2}^{2}}}{\frac {i}{k_{3}^{2}}}{\frac {i}{k_{4}^{2}}}i\lambda \,}"
+Feynman_diagram_132,"{\displaystyle M=i\lambda \,}"
+Feynman_diagram_133,"{\displaystyle \int dk\,|k\rangle \langle k|\,.}"
+Feynman_diagram_134,"{\displaystyle E^{2}-k^{2}=m^{2}\,.}"
+Feynman_diagram_135,"{\displaystyle \int \delta (E^{2}-k^{2}-m^{2})|E,k\rangle \langle E,k|\,dE\,dk=\int {dk \over 2E}|k\rangle \langle k|\,.}"
+Feynman_diagram_136,"{\displaystyle {\sqrt {E}}=\left(k^{2}-m^{2}\right)^{\frac {1}{4}}\,.}"

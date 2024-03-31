@@ -1,0 +1,275 @@
+name,latex
+Function_(mathematics)_0,{\displaystyle X}
+Function_(mathematics)_1,{\displaystyle \mathbb {B} }
+Function_(mathematics)_2,{\displaystyle \mathbb {B} }
+Function_(mathematics)_3,{\displaystyle X}
+Function_(mathematics)_4,{\displaystyle \mathbb {B} ^{n}}
+Function_(mathematics)_5,{\displaystyle X}
+Function_(mathematics)_6,{\displaystyle X}
+Function_(mathematics)_7,{\displaystyle \mathbb {Z} }
+Function_(mathematics)_8,{\displaystyle \mathbb {Z} }
+Function_(mathematics)_9,{\displaystyle X}
+Function_(mathematics)_10,{\displaystyle X}
+Function_(mathematics)_11,{\displaystyle \mathbb {R} }
+Function_(mathematics)_12,{\displaystyle \mathbb {R} }
+Function_(mathematics)_13,{\displaystyle X}
+Function_(mathematics)_14,{\displaystyle \mathbb {R} ^{n}}
+Function_(mathematics)_15,{\displaystyle X}
+Function_(mathematics)_16,{\displaystyle X}
+Function_(mathematics)_17,{\displaystyle \mathbb {C} }
+Function_(mathematics)_18,{\displaystyle \mathbb {C} }
+Function_(mathematics)_19,{\displaystyle X}
+Function_(mathematics)_20,{\displaystyle \mathbb {C} ^{n}}
+Function_(mathematics)_21,{\displaystyle X}
+Function_(mathematics)_22,{\displaystyle f(x)=x^{2}+1;}
+Function_(mathematics)_23,"{\displaystyle f(x)=x^{2}+1,}"
+Function_(mathematics)_24,{\displaystyle f(4)=4^{2}+1=17.}
+Function_(mathematics)_25,{\displaystyle y=f(x).}
+Function_(mathematics)_26,{\displaystyle f:X\to Y.}
+Function_(mathematics)_27,{\displaystyle x\mapsto y}
+Function_(mathematics)_28,{\displaystyle y=f(x).}
+Function_(mathematics)_29,{\displaystyle x\mapsto x^{2}.}
+Function_(mathematics)_30,{\displaystyle f:\mathbb {R} \to \mathbb {R} }
+Function_(mathematics)_31,{\displaystyle x\mapsto 1/f(x)}
+Function_(mathematics)_32,"{\displaystyle (x,y)}"
+Function_(mathematics)_33,{\displaystyle x\in X}
+Function_(mathematics)_34,{\displaystyle y\in Y.}
+Function_(mathematics)_35,{\displaystyle X\times Y.}
+Function_(mathematics)_36,{\displaystyle x}
+Function_(mathematics)_37,{\displaystyle X}
+Function_(mathematics)_38,{\displaystyle y}
+Function_(mathematics)_39,{\displaystyle Y}
+Function_(mathematics)_40,"{\displaystyle (x,y)\in R.}"
+Function_(mathematics)_41,"{\displaystyle (x,y)\in R}"
+Function_(mathematics)_42,"{\displaystyle (x,z)\in R}"
+Function_(mathematics)_43,{\displaystyle y=z.}
+Function_(mathematics)_44,"{\displaystyle X,}"
+Function_(mathematics)_45,"{\displaystyle Y,}"
+Function_(mathematics)_46,{\displaystyle R}
+Function_(mathematics)_47,"{\displaystyle R\subset \{(x,y)\mid x\in X,y\in Y\}}"
+Function_(mathematics)_48,"{\displaystyle \forall x\in X,\exists y\in Y,\left(x,y\right)\in R\qquad }"
+Function_(mathematics)_49,"{\displaystyle (x,y)\in R\land (x,z)\in R\implies y=z\qquad }"
+Function_(mathematics)_50,"{\displaystyle x\in X,}"
+Function_(mathematics)_51,"{\displaystyle (x,y)\in R.}"
+Function_(mathematics)_52,"{\displaystyle x\in X,}"
+Function_(mathematics)_53,{\displaystyle f(x)}
+Function_(mathematics)_54,{\displaystyle f(x)}
+Function_(mathematics)_55,{\displaystyle \mathbb {R} }
+Function_(mathematics)_56,{\displaystyle f:x\mapsto f(x)}
+Function_(mathematics)_57,{\displaystyle x\mapsto 1/f(x)}
+Function_(mathematics)_58,{\displaystyle \mathbb {C} }
+Function_(mathematics)_59,{\displaystyle z\mapsto 1/\zeta (z)}
+Function_(mathematics)_60,"{\displaystyle (x,y)}"
+Function_(mathematics)_61,{\displaystyle x\circ y}
+Function_(mathematics)_62,"{\displaystyle (1,2,\ldots ,n).}"
+Function_(mathematics)_63,"{\displaystyle f(x_{1},\ldots ,x_{n})}"
+Function_(mathematics)_64,"{\displaystyle f((x_{1},\ldots ,x_{n})).}"
+Function_(mathematics)_65,"{\displaystyle X_{1},\ldots ,X_{n},}"
+Function_(mathematics)_66,"{\displaystyle (x_{1},\ldots ,x_{n})}"
+Function_(mathematics)_67,"{\displaystyle x_{1}\in X_{1},\ldots ,x_{n}\in X_{n}}"
+Function_(mathematics)_68,"{\displaystyle X_{1},\ldots ,X_{n},}"
+Function_(mathematics)_69,{\displaystyle X_{1}\times \cdots \times X_{n}.}
+Function_(mathematics)_70,"{\displaystyle f:U\to Y,}"
+Function_(mathematics)_71,{\displaystyle U\subseteq X_{1}\times \cdots \times X_{n}.}
+Function_(mathematics)_72,{\displaystyle X_{i}}
+Function_(mathematics)_73,{\displaystyle \mathbb {R} }
+Function_(mathematics)_74,{\displaystyle \mathbb {C} }
+Function_(mathematics)_75,"{\displaystyle f(x),\quad \sin(3),\quad {\text{or}}\quad f(x^{2}+1).}"
+Function_(mathematics)_76,{\displaystyle x^{2}+1}
+Function_(mathematics)_77,{\displaystyle f(x)=\sin(x^{2}+1)}
+Function_(mathematics)_78,{\displaystyle f(x)}
+Function_(mathematics)_79,{\displaystyle x\mapsto x+1}
+Function_(mathematics)_80,{\displaystyle \mathbb {R} }
+Function_(mathematics)_81,{\displaystyle {\begin{aligned}\operatorname {sqr} \colon \mathbb {Z} &\to \mathbb {Z} \\x&\mapsto x^{2}.\end{aligned}}}
+Function_(mathematics)_82,"{\displaystyle f:X\times X\to Y;\;(x,t)\mapsto f(x,t)}"
+Function_(mathematics)_83,{\displaystyle X\to Y}
+Function_(mathematics)_84,"{\displaystyle x\mapsto f(x,t_{0})}"
+Function_(mathematics)_85,"{\displaystyle x\mapsto f(x,t_{0})}"
+Function_(mathematics)_86,{\displaystyle f_{x}.}
+Function_(mathematics)_87,{\displaystyle f_{n}}
+Function_(mathematics)_88,"{\displaystyle x\mapsto f(x,t)}"
+Function_(mathematics)_89,{\displaystyle f_{t}}
+Function_(mathematics)_90,{\displaystyle f_{t}}
+Function_(mathematics)_91,"{\displaystyle f_{t}(x)=f(x,t)}"
+Function_(mathematics)_92,"{\displaystyle x,t\in X}"
+Function_(mathematics)_93,"{\displaystyle x\mapsto f(x),}"
+Function_(mathematics)_94,{\displaystyle a(\cdot )^{2}}
+Function_(mathematics)_95,{\displaystyle x\mapsto ax^{2}}
+Function_(mathematics)_98,"{\displaystyle (x,y)}"
+Function_(mathematics)_99,{\displaystyle x^{2}+y^{2}}
+Function_(mathematics)_100,"{\displaystyle f(x,y)=x^{2}+y^{2}}"
+Function_(mathematics)_101,"{\displaystyle f(w,x,y)}"
+Function_(mathematics)_102,"{\displaystyle f(w,x,y,z)}"
+Function_(mathematics)_103,{\displaystyle f}
+Function_(mathematics)_104,{\displaystyle x}
+Function_(mathematics)_105,{\displaystyle f}
+Function_(mathematics)_106,{\displaystyle f(x)}
+Function_(mathematics)_107,{\displaystyle f}
+Function_(mathematics)_108,{\displaystyle x}
+Function_(mathematics)_109,{\displaystyle x}
+Function_(mathematics)_110,{\displaystyle f(x)}
+Function_(mathematics)_111,{\displaystyle f}
+Function_(mathematics)_112,"{\displaystyle A=\{1,2,3\}}"
+Function_(mathematics)_113,{\displaystyle f:A\to \mathbb {R} }
+Function_(mathematics)_114,"{\displaystyle f(1)=2,f(2)=3,f(3)=4.}"
+Function_(mathematics)_115,{\displaystyle f}
+Function_(mathematics)_116,{\displaystyle f(n)=n+1}
+Function_(mathematics)_117,"{\displaystyle n\in \{1,2,3\}}"
+Function_(mathematics)_118,{\displaystyle \mathbb {R} }
+Function_(mathematics)_119,"{\displaystyle \mathbb {R} ,}"
+Function_(mathematics)_120,{\displaystyle f(x)={\sqrt {1+x^{2}}}}
+Function_(mathematics)_121,{\displaystyle f:\mathbb {R} \to \mathbb {R} }
+Function_(mathematics)_122,"{\displaystyle \mathbb {R} ,}"
+Function_(mathematics)_123,{\displaystyle 1+x^{2}}
+Function_(mathematics)_124,{\displaystyle f(x)={\sqrt {1-x^{2}}}}
+Function_(mathematics)_125,"{\displaystyle f(x)=ax^{2}+bx+c,}"
+Function_(mathematics)_126,{\displaystyle f(x)=x^{3}-3x-1}
+Function_(mathematics)_127,{\displaystyle f(x)=(x-1)(x^{3}+1)+2x^{2}-1}
+Function_(mathematics)_128,{\displaystyle x}
+Function_(mathematics)_129,"{\displaystyle f(x)={\frac {x-1}{x+1}},}"
+Function_(mathematics)_130,{\displaystyle f(x)={\frac {1}{x+1}}+{\frac {3}{x}}-{\frac {2}{x-1}}.}
+Function_(mathematics)_131,"{\displaystyle f:X\to Y,}"
+Function_(mathematics)_132,{\displaystyle f^{-1}:Y\to X}
+Function_(mathematics)_133,{\displaystyle y\in Y}
+Function_(mathematics)_134,{\displaystyle x\in X}
+Function_(mathematics)_135,{\displaystyle f:X\to Y}
+Function_(mathematics)_136,{\displaystyle E\subseteq X}
+Function_(mathematics)_137,{\displaystyle F\subseteq Y}
+Function_(mathematics)_138,"{\displaystyle x\in E,}"
+Function_(mathematics)_139,{\displaystyle y\in Y}
+Function_(mathematics)_140,"{\displaystyle x\in E,}"
+Function_(mathematics)_141,"{\displaystyle f:E\to Y,}"
+Function_(mathematics)_142,{\displaystyle x^{2}+y^{2}=1}
+Function_(mathematics)_143,"{\displaystyle y=\pm {\sqrt {1-x^{2}}},}"
+Function_(mathematics)_144,{\displaystyle y^{5}+y+x=0}
+Function_(mathematics)_145,{\displaystyle \mathbb {R} }
+Function_(mathematics)_147,{\displaystyle n\mapsto n!}
+Function_(mathematics)_148,"{\displaystyle n!=n(n-1)!\quad {\text{for}}\quad n>0,}"
+Function_(mathematics)_149,{\displaystyle 0!=1.}
+Function_(mathematics)_150,"{\displaystyle f:X\to Y,}"
+Function_(mathematics)_151,"{\displaystyle G=\{(x,f(x))\mid x\in X\}.}"
+Function_(mathematics)_152,"{\displaystyle (x,y)\in G}"
+Function_(mathematics)_153,"{\displaystyle x\mapsto x^{2},}"
+Function_(mathematics)_154,"{\displaystyle (x,x^{2})}"
+Function_(mathematics)_155,"{\displaystyle x\in \mathbb {R} ,}"
+Function_(mathematics)_156,"{\displaystyle x\mapsto x^{2},}"
+Function_(mathematics)_157,"{\displaystyle (r,\theta )=(x,x^{2}),}"
+Function_(mathematics)_158,"{\displaystyle f:\{1,\ldots ,5\}^{2}\to \mathbb {R} }"
+Function_(mathematics)_159,"{\displaystyle f(x,y)=xy}"
+Function_(mathematics)_162,{\displaystyle X\neq Y}
+Function_(mathematics)_163,"{\displaystyle f:X\to Y,}"
+Function_(mathematics)_164,{\displaystyle f(X)=\{f(x)\mid x\in X\}}
+Function_(mathematics)_165,{\displaystyle f:X\to Y}
+Function_(mathematics)_166,{\displaystyle g:Y\to Z}
+Function_(mathematics)_167,{\displaystyle g\circ f:X\rightarrow Z}
+Function_(mathematics)_168,{\displaystyle (g\circ f)(x)=g(f(x)).}
+Function_(mathematics)_169,{\displaystyle g\circ f}
+Function_(mathematics)_170,{\displaystyle g\circ f}
+Function_(mathematics)_171,{\displaystyle g\circ f}
+Function_(mathematics)_172,{\displaystyle f\circ g}
+Function_(mathematics)_173,{\displaystyle g\circ f}
+Function_(mathematics)_174,{\displaystyle f\circ g}
+Function_(mathematics)_175,{\displaystyle g(f(x))=x^{2}+1}
+Function_(mathematics)_176,{\displaystyle f(g(x))=(x+1)^{2}}
+Function_(mathematics)_177,{\displaystyle x=0.}
+Function_(mathematics)_178,{\displaystyle (h\circ g)\circ f}
+Function_(mathematics)_179,{\displaystyle h\circ (g\circ f)}
+Function_(mathematics)_180,{\displaystyle (h\circ g)\circ f=h\circ (g\circ f).}
+Function_(mathematics)_181,{\displaystyle h\circ g\circ f.}
+Function_(mathematics)_182,{\displaystyle \operatorname {id} _{X}}
+Function_(mathematics)_183,{\displaystyle \operatorname {id} _{Y}}
+Function_(mathematics)_184,{\displaystyle f\circ \operatorname {id} _{X}=\operatorname {id} _{Y}\circ f=f.}
+Function_(mathematics)_185,{\displaystyle f:X\to Y.}
+Function_(mathematics)_186,{\displaystyle f(A)=\{f(x)\mid x\in A\}.}
+Function_(mathematics)_187,{\displaystyle f^{-1}(y)}
+Function_(mathematics)_188,{\displaystyle f^{-1}(y)=\{x\in X\mid f(x)=y\}.}
+Function_(mathematics)_189,{\displaystyle f^{-1}(B)}
+Function_(mathematics)_190,{\displaystyle f^{-1}(B)=\{x\in X\mid f(x)\in B\}.}
+Function_(mathematics)_191,"{\displaystyle \{4,9\}}"
+Function_(mathematics)_192,"{\displaystyle \{-3,-2,2,3\}}"
+Function_(mathematics)_193,{\displaystyle f^{-1}(y)}
+Function_(mathematics)_194,{\displaystyle f^{-1}(0)=\mathbb {Z} }
+Function_(mathematics)_195,{\displaystyle f:X\to Y}
+Function_(mathematics)_196,{\displaystyle A\subseteq B\Longrightarrow f(A)\subseteq f(B)}
+Function_(mathematics)_197,{\displaystyle C\subseteq D\Longrightarrow f^{-1}(C)\subseteq f^{-1}(D)}
+Function_(mathematics)_198,{\displaystyle A\subseteq f^{-1}(f(A))}
+Function_(mathematics)_199,{\displaystyle C\supseteq f(f^{-1}(C))}
+Function_(mathematics)_200,{\displaystyle f(f^{-1}(f(A)))=f(A)}
+Function_(mathematics)_201,{\displaystyle f^{-1}(f(f^{-1}(C)))=f^{-1}(C)}
+Function_(mathematics)_202,{\displaystyle f^{-1}.}
+Function_(mathematics)_203,{\displaystyle f^{-1}(C)}
+Function_(mathematics)_204,{\displaystyle f^{-1}}
+Function_(mathematics)_205,{\displaystyle f(A)}
+Function_(mathematics)_206,{\displaystyle f^{-1}(C)}
+Function_(mathematics)_207,"{\displaystyle \{x,\{x\}\}.}"
+Function_(mathematics)_208,"{\displaystyle f[A],f^{-1}[C]}"
+Function_(mathematics)_209,{\displaystyle f:X\to Y}
+Function_(mathematics)_210,"{\displaystyle y\in Y,}"
+Function_(mathematics)_211,{\displaystyle f^{-1}(y)}
+Function_(mathematics)_212,{\displaystyle g:Y\to X}
+Function_(mathematics)_213,"{\displaystyle g\circ f=\operatorname {id} _{X},}"
+Function_(mathematics)_214,{\displaystyle x_{0}}
+Function_(mathematics)_215,{\displaystyle g(y)=x}
+Function_(mathematics)_216,{\displaystyle y=f(x)}
+Function_(mathematics)_217,{\displaystyle g(y)=x_{0}}
+Function_(mathematics)_218,{\displaystyle y\not \in f(X).}
+Function_(mathematics)_219,"{\displaystyle g\circ f=\operatorname {id} _{X},}"
+Function_(mathematics)_220,"{\displaystyle y=f(x),}"
+Function_(mathematics)_221,"{\displaystyle x=g(y),}"
+Function_(mathematics)_222,{\displaystyle f^{-1}(y)=\{x\}.}
+Function_(mathematics)_223,{\displaystyle f(X)}
+Function_(mathematics)_224,{\displaystyle Y}
+Function_(mathematics)_225,{\displaystyle y}
+Function_(mathematics)_226,{\displaystyle x}
+Function_(mathematics)_227,{\displaystyle f(x)=y}
+Function_(mathematics)_228,{\displaystyle f^{-1}(y)}
+Function_(mathematics)_229,{\displaystyle y\in Y}
+Function_(mathematics)_230,{\displaystyle g:Y\to X}
+Function_(mathematics)_231,"{\displaystyle f\circ g=\operatorname {id} _{Y},}"
+Function_(mathematics)_232,"{\displaystyle g(y)=x,}"
+Function_(mathematics)_233,{\displaystyle x}
+Function_(mathematics)_234,{\displaystyle f^{-1}(y).}
+Function_(mathematics)_235,"{\displaystyle y\in Y,}"
+Function_(mathematics)_236,{\displaystyle f^{-1}(y)}
+Function_(mathematics)_237,{\displaystyle g:Y\to X}
+Function_(mathematics)_238,{\displaystyle g\circ f=\operatorname {id} _{X}}
+Function_(mathematics)_239,{\displaystyle f\circ g=\operatorname {id} _{Y}.}
+Function_(mathematics)_240,{\displaystyle f:X\to Y}
+Function_(mathematics)_241,{\displaystyle i\circ s}
+Function_(mathematics)_242,{\displaystyle f:X\to Y}
+Function_(mathematics)_243,{\displaystyle f}
+Function_(mathematics)_244,{\displaystyle f|_{S}}
+Function_(mathematics)_245,{\displaystyle f|_{S}(x)=f(x)}
+Function_(mathematics)_246,{\displaystyle f}
+Function_(mathematics)_247,{\displaystyle f|_{S}}
+Function_(mathematics)_248,{\displaystyle f|_{S}}
+Function_(mathematics)_249,{\displaystyle f|_{S}(S)=f(S)}
+Function_(mathematics)_250,{\displaystyle f(S)}
+Function_(mathematics)_252,{\displaystyle f_{i}:U_{i}\to Y}
+Function_(mathematics)_253,{\displaystyle U_{i}}
+Function_(mathematics)_254,"{\displaystyle i,j}"
+Function_(mathematics)_255,{\displaystyle f_{i}}
+Function_(mathematics)_256,{\displaystyle f_{j}}
+Function_(mathematics)_257,{\displaystyle U_{i}\cap U_{j}}
+Function_(mathematics)_258,{\displaystyle f:X\to Y}
+Function_(mathematics)_259,{\displaystyle f|_{U_{i}}=f_{i}}
+Function_(mathematics)_260,{\displaystyle h(x)={\frac {ax+b}{cx+d}}}
+Function_(mathematics)_261,"{\displaystyle -d/c,}"
+Function_(mathematics)_262,{\displaystyle a/c.}
+Function_(mathematics)_263,{\displaystyle h(\infty )=a/c}
+Function_(mathematics)_264,{\displaystyle h(-d/c)=\infty }
+Function_(mathematics)_265,{\displaystyle {\begin{aligned}(f+g)(x)&=f(x)+g(x)\\(f-g)(x)&=f(x)-g(x)\\(f\cdot g)(x)&=f(x)\cdot g(x)\\\end{aligned}}.}
+Function_(mathematics)_266,"{\displaystyle {\frac {f}{g}}(x)={\frac {f(x)}{g(x)}},}"
+Function_(mathematics)_267,"{\displaystyle x\mapsto {\frac {1}{x}},}"
+Function_(mathematics)_269,{\displaystyle {\frac {f(x)-f(y)}{x-y}}}
+Function_(mathematics)_270,{\displaystyle y''+y=0}
+Function_(mathematics)_271,"{\displaystyle \sin 0=0,\quad \cos 0=1,\quad {\frac {\partial \sin x}{\partial x}}(0)=1,\quad {\frac {\partial \cos x}{\partial x}}(0)=0.}"
+Function_(mathematics)_272,{\displaystyle \mathbb {R} ^{n}}
+Function_(mathematics)_273,{\displaystyle \mathbb {R} ^{n}}
+Function_(mathematics)_274,"{\displaystyle x_{0},}"
+Function_(mathematics)_275,"{\displaystyle x_{0},}"
+Function_(mathematics)_276,"{\displaystyle {\sqrt {x_{0}}},}"
+Function_(mathematics)_277,{\displaystyle -{\sqrt {x_{0}}}.}
+Function_(mathematics)_278,{\displaystyle x^{3}-3x-y=0}
+Function_(mathematics)_279,"{\displaystyle 0,{\sqrt {3}},{\text{ or }}-{\sqrt {3}}}"
+Function_(mathematics)_280,{\displaystyle x\mapsto \{x\}.}

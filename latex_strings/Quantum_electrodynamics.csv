@@ -1,0 +1,60 @@
+name,latex
+Quantum_electrodynamics_0,{\displaystyle {\text{probability}}=|f({\text{amplitude}})|^{2}}
+Quantum_electrodynamics_1,{\displaystyle A}
+Quantum_electrodynamics_2,{\displaystyle B}
+Quantum_electrodynamics_3,{\displaystyle P(A{\text{ to }}B)}
+Quantum_electrodynamics_4,{\displaystyle C}
+Quantum_electrodynamics_5,{\displaystyle D}
+Quantum_electrodynamics_6,{\displaystyle E(C{\text{ to }}D)}
+Quantum_electrodynamics_7,{\displaystyle P=|\mathbf {v} +\mathbf {w} |^{2}}
+Quantum_electrodynamics_8,"{\displaystyle P=|\mathbf {v} \,\mathbf {w} |^{2}.}"
+Quantum_electrodynamics_9,"{\displaystyle P(A{\text{ to }}B)\to D_{F}(x_{B}-x_{A}),\quad E(C{\text{ to }}D)\to S_{F}(x_{D}-x_{C}),}"
+Quantum_electrodynamics_10,{\displaystyle x_{A}}
+Quantum_electrodynamics_11,"{\displaystyle S_{\text{QED}}=\int d^{4}x\,\left[-{\frac {1}{4}}F^{\mu \nu }F_{\mu \nu }+{\bar {\psi }}\,(i\gamma ^{\mu }D_{\mu }-m)\,\psi \right]}"
+Quantum_electrodynamics_12,{\displaystyle \gamma ^{\mu }}
+Quantum_electrodynamics_13,{\displaystyle \psi }
+Quantum_electrodynamics_14,{\displaystyle {\bar {\psi }}\equiv \psi ^{\dagger }\gamma ^{0}}
+Quantum_electrodynamics_15,{\displaystyle D_{\mu }\equiv \partial _{\mu }+ieA_{\mu }+ieB_{\mu }}
+Quantum_electrodynamics_16,{\displaystyle A_{\mu }}
+Quantum_electrodynamics_17,{\displaystyle {\text{U}}(1)}
+Quantum_electrodynamics_18,{\displaystyle B_{\mu }}
+Quantum_electrodynamics_19,{\displaystyle F_{\mu \nu }=\partial _{\mu }A_{\nu }-\partial _{\nu }A_{\mu }}
+Quantum_electrodynamics_20,{\displaystyle B_{\mu }}
+Quantum_electrodynamics_21,{\displaystyle {\mathcal {L}}=-{\frac {1}{4}}F_{\mu \nu }F^{\mu \nu }+{\bar {\psi }}(i\gamma ^{\mu }\partial _{\mu }-m)\psi -ej^{\mu }A_{\mu }}
+Quantum_electrodynamics_22,{\displaystyle j^{\mu }}
+Quantum_electrodynamics_23,{\displaystyle {\text{U}}(1)}
+Quantum_electrodynamics_24,{\displaystyle j^{\mu }={\bar {\psi }}\gamma ^{\mu }\psi .}
+Quantum_electrodynamics_25,{\displaystyle {\mathcal {L}}=-{\frac {1}{4}}F_{\mu \nu }F^{\mu \nu }+i{\bar {\psi }}\gamma ^{\mu }\partial _{\mu }\psi -e{\bar {\psi }}\gamma ^{\mu }A_{\mu }\psi -m{\bar {\psi }}\psi }
+Quantum_electrodynamics_26,{\displaystyle =-{\frac {1}{4}}F_{\mu \nu }F^{\mu \nu }+i{\bar {\psi }}\gamma ^{\mu }\partial _{\mu }\psi -m{\bar {\psi }}\psi -ej^{\mu }A_{\mu }.}
+Quantum_electrodynamics_27,{\displaystyle B_{\mu }}
+Quantum_electrodynamics_28,{\displaystyle B_{\mu }}
+Quantum_electrodynamics_29,{\displaystyle A'_{\mu }=A_{\mu }+B_{\mu }}
+Quantum_electrodynamics_30,{\displaystyle A_{\mu }.}
+Quantum_electrodynamics_31,{\displaystyle \psi }
+Quantum_electrodynamics_32,{\displaystyle A_{\mu }}
+Quantum_electrodynamics_33,{\displaystyle {\bar {\psi }}}
+Quantum_electrodynamics_34,{\displaystyle \partial _{\mu }{\bar {\psi }}}
+Quantum_electrodynamics_35,{\displaystyle {\frac {\partial {\mathcal {L}}}{\partial {\bar {\psi }}}}=0}
+Quantum_electrodynamics_36,{\displaystyle (i\gamma ^{\mu }\partial _{\mu }-m)\psi =e\gamma ^{\mu }A_{\mu }\psi .}
+Quantum_electrodynamics_37,{\displaystyle A_{\mu }}
+Quantum_electrodynamics_38,"{\displaystyle \partial _{\nu }\left({\frac {\partial {\mathcal {L}}}{\partial (\partial _{\nu }A_{\mu })}}\right)-{\frac {\partial {\mathcal {L}}}{\partial A_{\mu }}}=0,}"
+Quantum_electrodynamics_39,"{\displaystyle \partial _{\nu }\left({\frac {\partial {\mathcal {L}}}{\partial (\partial _{\nu }A_{\mu })}}\right)=\partial _{\nu }\left(\partial ^{\mu }A^{\nu }-\partial ^{\nu }A^{\mu }\right),}"
+Quantum_electrodynamics_40,{\displaystyle {\frac {\partial {\mathcal {L}}}{\partial A_{\mu }}}=-e{\bar {\psi }}\gamma ^{\mu }\psi .}
+Quantum_electrodynamics_41,{\displaystyle \partial _{\mu }F^{\mu \nu }=e{\bar {\psi }}\gamma ^{\nu }\psi }
+Quantum_electrodynamics_42,{\displaystyle {\text{U}}(1)}
+Quantum_electrodynamics_43,{\displaystyle j^{\mu }}
+Quantum_electrodynamics_44,{\displaystyle \partial _{\mu }F^{\mu \nu }=ej^{\nu }.}
+Quantum_electrodynamics_45,"{\displaystyle \partial _{\mu }A^{\mu }=0,}"
+Quantum_electrodynamics_46,"{\displaystyle \Box A^{\mu }=ej^{\mu },}"
+Quantum_electrodynamics_47,{\displaystyle \Box =\partial _{\mu }\partial ^{\mu }}
+Quantum_electrodynamics_48,{\displaystyle |i\rangle }
+Quantum_electrodynamics_49,{\displaystyle \langle f|}
+Quantum_electrodynamics_50,{\displaystyle M_{fi}=\langle f|U|i\rangle .}
+Quantum_electrodynamics_51,"{\displaystyle V=e\int d^{3}x\,{\bar {\psi }}\gamma ^{\mu }\psi A_{\mu },}"
+Quantum_electrodynamics_52,"{\displaystyle U=T\exp \left[-{\frac {i}{\hbar }}\int _{t_{0}}^{t}dt'\,V(t')\right],}"
+Quantum_electrodynamics_54,{\displaystyle \eta _{\mu \nu }}
+Quantum_electrodynamics_55,{\displaystyle {\rm {diag}}(+---)}
+Quantum_electrodynamics_56,"{\displaystyle M_{fi}=(ie)^{2}{\overline {u}}({\vec {p}}',s')\epsilon \!\!\!/\,'({\vec {k}}',\lambda ')^{*}{\frac {p\!\!\!/+k\!\!\!/+m_{e}}{(p+k)^{2}-m_{e}^{2}}}\epsilon \!\!\!/({\vec {k}},\lambda )u({\vec {p}},s)+(ie)^{2}{\overline {u}}({\vec {p}}',s')\epsilon \!\!\!/({\vec {k}},\lambda ){\frac {p\!\!\!/-k\!\!\!/'+m_{e}}{(p-k')^{2}-m_{e}^{2}}}\epsilon \!\!\!/\,'({\vec {k}}',\lambda ')^{*}u({\vec {p}},s),}"
+Quantum_electrodynamics_57,{\displaystyle \Pi }
+Quantum_electrodynamics_58,{\displaystyle \Sigma }
+Quantum_electrodynamics_59,{\displaystyle \Gamma }

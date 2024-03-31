@@ -1,0 +1,104 @@
+name,latex
+Trigonometry_0,{\displaystyle \sin A={\frac {\textrm {opposite}}{\textrm {hypotenuse}}}={\frac {a}{h}}.}
+Trigonometry_1,{\displaystyle \cos A={\frac {\textrm {adjacent}}{\textrm {hypotenuse}}}={\frac {b}{h}}.}
+Trigonometry_2,{\displaystyle \tan A={\frac {\textrm {opposite}}{\textrm {adjacent}}}={\frac {a}{b}}={\frac {a/h}{b/h}}={\frac {\sin A}{\cos A}}.}
+Trigonometry_3,"{\displaystyle \csc A={\frac {1}{\sin A}}={\frac {\textrm {hypotenuse}}{\textrm {opposite}}}={\frac {h}{a}},}"
+Trigonometry_4,"{\displaystyle \sec A={\frac {1}{\cos A}}={\frac {\textrm {hypotenuse}}{\textrm {adjacent}}}={\frac {h}{b}},}"
+Trigonometry_5,{\displaystyle \cot A={\frac {1}{\tan A}}={\frac {\textrm {adjacent}}{\textrm {opposite}}}={\frac {\cos A}{\sin A}}={\frac {b}{a}}.}
+Trigonometry_6,{\displaystyle x=\cos A}
+Trigonometry_7,{\displaystyle y=\sin A}
+Trigonometry_8,{\displaystyle \pi /6}
+Trigonometry_9,{\displaystyle \pi /4}
+Trigonometry_10,{\displaystyle \pi /3}
+Trigonometry_11,{\displaystyle \pi /2}
+Trigonometry_12,{\displaystyle 2\pi /3}
+Trigonometry_13,{\displaystyle 3\pi /4}
+Trigonometry_14,{\displaystyle 5\pi /6}
+Trigonometry_15,{\displaystyle \pi }
+Trigonometry_16,{\displaystyle 0}
+Trigonometry_17,{\displaystyle 1/2}
+Trigonometry_18,{\displaystyle {\sqrt {2}}/2}
+Trigonometry_19,{\displaystyle {\sqrt {3}}/2}
+Trigonometry_20,{\displaystyle 1}
+Trigonometry_21,{\displaystyle {\sqrt {3}}/2}
+Trigonometry_22,{\displaystyle {\sqrt {2}}/2}
+Trigonometry_23,{\displaystyle 1/2}
+Trigonometry_24,{\displaystyle 0}
+Trigonometry_25,{\displaystyle 1}
+Trigonometry_26,{\displaystyle {\sqrt {3}}/2}
+Trigonometry_27,{\displaystyle {\sqrt {2}}/2}
+Trigonometry_28,{\displaystyle 1/2}
+Trigonometry_29,{\displaystyle 0}
+Trigonometry_30,{\displaystyle -1/2}
+Trigonometry_31,{\displaystyle -{\sqrt {2}}/2}
+Trigonometry_32,{\displaystyle -{\sqrt {3}}/2}
+Trigonometry_33,{\displaystyle -1}
+Trigonometry_34,{\displaystyle 0}
+Trigonometry_35,{\displaystyle {\sqrt {3}}/3}
+Trigonometry_36,{\displaystyle 1}
+Trigonometry_37,{\displaystyle {\sqrt {3}}}
+Trigonometry_38,{\displaystyle -{\sqrt {3}}}
+Trigonometry_39,{\displaystyle -1}
+Trigonometry_40,{\displaystyle -{\sqrt {3}}/3}
+Trigonometry_41,{\displaystyle 0}
+Trigonometry_42,{\displaystyle 1}
+Trigonometry_43,{\displaystyle 2{\sqrt {3}}/3}
+Trigonometry_44,{\displaystyle {\sqrt {2}}}
+Trigonometry_45,{\displaystyle 2}
+Trigonometry_46,{\displaystyle -2}
+Trigonometry_47,{\displaystyle -{\sqrt {2}}}
+Trigonometry_48,{\displaystyle -2{\sqrt {3}}/3}
+Trigonometry_49,{\displaystyle -1}
+Trigonometry_50,{\displaystyle 2}
+Trigonometry_51,{\displaystyle {\sqrt {2}}}
+Trigonometry_52,{\displaystyle 2{\sqrt {3}}/3}
+Trigonometry_53,{\displaystyle 1}
+Trigonometry_54,{\displaystyle 2{\sqrt {3}}/3}
+Trigonometry_55,{\displaystyle {\sqrt {2}}}
+Trigonometry_56,{\displaystyle 2}
+Trigonometry_57,{\displaystyle {\sqrt {3}}}
+Trigonometry_58,{\displaystyle 1}
+Trigonometry_59,{\displaystyle {\sqrt {3}}/3}
+Trigonometry_60,{\displaystyle 0}
+Trigonometry_61,{\displaystyle -{\sqrt {3}}/3}
+Trigonometry_62,{\displaystyle -1}
+Trigonometry_63,{\displaystyle -{\sqrt {3}}}
+Trigonometry_64,{\displaystyle 2\pi }
+Trigonometry_65,"{\displaystyle (-\infty ,\infty )}"
+Trigonometry_66,"{\displaystyle [-1,1]}"
+Trigonometry_67,{\displaystyle 2\pi }
+Trigonometry_68,"{\displaystyle (-\infty ,\infty )}"
+Trigonometry_69,"{\displaystyle [-1,1]}"
+Trigonometry_70,{\displaystyle \pi }
+Trigonometry_71,{\displaystyle x\neq \pi /2+n\pi }
+Trigonometry_72,"{\displaystyle (-\infty ,\infty )}"
+Trigonometry_73,{\displaystyle 2\pi }
+Trigonometry_74,{\displaystyle x\neq \pi /2+n\pi }
+Trigonometry_75,"{\displaystyle (-\infty ,-1]\cup [1,\infty )}"
+Trigonometry_76,{\displaystyle 2\pi }
+Trigonometry_77,{\displaystyle x\neq n\pi }
+Trigonometry_78,"{\displaystyle (-\infty ,-1]\cup [1,\infty )}"
+Trigonometry_79,{\displaystyle \pi }
+Trigonometry_80,{\displaystyle x\neq n\pi }
+Trigonometry_81,"{\displaystyle (-\infty ,\infty )}"
+Trigonometry_82,{\displaystyle {\begin{aligned}\sin x&=x-{\frac {x^{3}}{3!}}+{\frac {x^{5}}{5!}}-{\frac {x^{7}}{7!}}+\cdots \\&=\sum _{n=0}^{\infty }{\frac {(-1)^{n}x^{2n+1}}{(2n+1)!}}\\\end{aligned}}}
+Trigonometry_83,{\displaystyle {\begin{aligned}\cos x&=1-{\frac {x^{2}}{2!}}+{\frac {x^{4}}{4!}}-{\frac {x^{6}}{6!}}+\cdots \\&=\sum _{n=0}^{\infty }{\frac {(-1)^{n}x^{2n}}{(2n)!}}.\end{aligned}}}
+Trigonometry_84,{\displaystyle e^{x+iy}=e^{x}(\cos y+i\sin y).}
+Trigonometry_85,{\displaystyle s(x)}
+Trigonometry_86,{\displaystyle S(f)}
+Trigonometry_87,"{\displaystyle {\frac {a}{\sin A}}={\frac {b}{\sin B}}={\frac {c}{\sin C}}=2R={\frac {abc}{2\Delta }},}"
+Trigonometry_88,{\displaystyle \Delta }
+Trigonometry_89,{\displaystyle R={\frac {abc}{\sqrt {(a+b+c)(a-b+c)(a+b-c)(b+c-a)}}}.}
+Trigonometry_90,"{\displaystyle c^{2}=a^{2}+b^{2}-2ab\cos C,}"
+Trigonometry_91,{\displaystyle \cos C={\frac {a^{2}+b^{2}-c^{2}}{2ab}}.}
+Trigonometry_92,{\displaystyle {\frac {a-b}{a+b}}={\frac {\tan \left[{\tfrac {1}{2}}(A-B)\right]}{\tan \left[{\tfrac {1}{2}}(A+B)\right]}}}
+Trigonometry_93,{\displaystyle {\mbox{Area}}=\Delta ={\frac {1}{2}}ab\sin C}
+Trigonometry_94,"{\displaystyle s={\frac {1}{2}}(a+b+c),}"
+Trigonometry_95,{\displaystyle {\mbox{Area}}=\Delta ={\sqrt {s(s-a)(s-b)(s-c)}}={\frac {abc}{4R}}}
+Trigonometry_96,{\displaystyle \sin ^{2}A+\cos ^{2}A=1\ }
+Trigonometry_97,{\displaystyle \tan ^{2}A+1=\sec ^{2}A\ }
+Trigonometry_98,{\displaystyle \cot ^{2}A+1=\csc ^{2}A\ }
+Trigonometry_99,{\displaystyle \cos ^{2}{A}}
+Trigonometry_100,{\displaystyle \sin ^{2}{A}}
+Trigonometry_101,{\displaystyle e^{ix}=\cos x+i\sin x}
+Trigonometry_102,"{\displaystyle \sin x={\frac {e^{ix}-e^{-ix}}{2i}},\qquad \cos x={\frac {e^{ix}+e^{-ix}}{2}},\qquad \tan x={\frac {i(e^{-ix}-e^{ix})}{e^{ix}+e^{-ix}}}.}"

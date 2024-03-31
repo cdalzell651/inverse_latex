@@ -1,0 +1,84 @@
+name,latex
+Number_theory_0,"{\displaystyle (a,b,c)}"
+Number_theory_1,{\displaystyle a^{2}+b^{2}=c^{2}}
+Number_theory_2,"{\displaystyle \left({\frac {1}{2}}\left(x-{\frac {1}{x}}\right)\right)^{2}+1=\left({\frac {1}{2}}\left(x+{\frac {1}{x}}\right)\right)^{2},}"
+Number_theory_3,{\displaystyle c/a}
+Number_theory_4,{\displaystyle {\sqrt {2}}}
+Number_theory_5,{\displaystyle {\sqrt {2}}}
+Number_theory_6,"{\displaystyle {\sqrt {3}},{\sqrt {5}},\dots ,{\sqrt {17}}}"
+Number_theory_7,"{\displaystyle f(x,y)=z^{2}}"
+Number_theory_8,"{\displaystyle f(x,y,z)=w^{2}}"
+Number_theory_9,"{\displaystyle f(x_{1},x_{2},x_{3})=0}"
+Number_theory_10,"{\displaystyle g_{1},g_{2},g_{3}}"
+Number_theory_11,{\displaystyle r}
+Number_theory_12,{\displaystyle s}
+Number_theory_13,"{\displaystyle x_{i}=g_{i}(r,s)}"
+Number_theory_14,"{\displaystyle i=1,2,3}"
+Number_theory_15,"{\displaystyle f(x_{1},x_{2},x_{3})=0.}"
+Number_theory_16,{\displaystyle n\equiv a_{1}{\bmod {m}}_{1}}
+Number_theory_17,{\displaystyle n\equiv a_{2}{\bmod {m}}_{2}}
+Number_theory_18,{\displaystyle a^{p-1}\equiv 1{\bmod {p}}.}
+Number_theory_19,{\displaystyle a^{2}+b^{2}}
+Number_theory_20,{\displaystyle a^{2}+b^{2}}
+Number_theory_21,{\displaystyle x^{2}-Ny^{2}=1}
+Number_theory_22,{\displaystyle x^{4}+y^{4}=z^{4}}
+Number_theory_23,{\displaystyle x^{3}+y^{3}=z^{3}}
+Number_theory_24,{\displaystyle x^{n}+y^{n}=z^{n}}
+Number_theory_25,{\displaystyle n\geq 3}
+Number_theory_26,{\displaystyle p=x^{2}+y^{2}}
+Number_theory_27,{\displaystyle p\equiv 1{\bmod {4}}}
+Number_theory_28,{\displaystyle x^{4}+y^{4}=z^{2}}
+Number_theory_29,{\displaystyle x^{2}+Ny^{2}}
+Number_theory_30,{\displaystyle mX^{2}+nY^{2}}
+Number_theory_31,{\displaystyle ax^{2}+by^{2}+cz^{2}=0}
+Number_theory_32,{\displaystyle n=5}
+Number_theory_33,{\displaystyle f(x)=0}
+Number_theory_34,{\displaystyle x}
+Number_theory_35,{\displaystyle x^{5}+(11/2)x^{3}-7x^{2}+9=0}
+Number_theory_36,{\displaystyle a+b{\sqrt {d}}}
+Number_theory_37,{\displaystyle a}
+Number_theory_38,{\displaystyle b}
+Number_theory_39,{\displaystyle d}
+Number_theory_40,{\displaystyle {\sqrt {-5}}}
+Number_theory_41,{\displaystyle 6}
+Number_theory_42,{\displaystyle 6=2\cdot 3}
+Number_theory_43,{\displaystyle 6=(1+{\sqrt {-5}})(1-{\sqrt {-5}})}
+Number_theory_44,{\displaystyle 2}
+Number_theory_45,{\displaystyle 3}
+Number_theory_46,{\displaystyle 1+{\sqrt {-5}}}
+Number_theory_47,{\displaystyle 1-{\sqrt {-5}}}
+Number_theory_48,"{\displaystyle x^{2}+y^{2}=1,}"
+Number_theory_49,"{\displaystyle (x,y)}"
+Number_theory_50,{\displaystyle a^{2}+b^{2}=c^{2}}
+Number_theory_51,{\displaystyle x=a/c}
+Number_theory_52,{\displaystyle y=b/c}
+Number_theory_53,{\displaystyle x^{2}+y^{2}=1}
+Number_theory_54,"{\displaystyle f(x,y)=0}"
+Number_theory_55,{\displaystyle f}
+Number_theory_56,"{\displaystyle f(x,y)=0}"
+Number_theory_57,"{\displaystyle f(x,y)=0}"
+Number_theory_58,"{\displaystyle f(x,y)=0}"
+Number_theory_59,{\displaystyle x}
+Number_theory_60,{\displaystyle a/q}
+Number_theory_61,"{\displaystyle \gcd(a,q)=1}"
+Number_theory_62,{\displaystyle x}
+Number_theory_63,{\displaystyle |x-a/q|<{\frac {1}{q^{c}}}}
+Number_theory_64,{\displaystyle c}
+Number_theory_65,{\displaystyle x}
+Number_theory_66,{\displaystyle x}
+Number_theory_67,{\displaystyle 0}
+Number_theory_68,{\displaystyle A}
+Number_theory_69,{\displaystyle a}
+Number_theory_70,"{\displaystyle a+b,a+2b,a+3b,\ldots ,a+10b}"
+Number_theory_71,{\displaystyle A}
+Number_theory_72,{\displaystyle A}
+Number_theory_73,{\displaystyle A}
+Number_theory_74,{\displaystyle A+A}
+Number_theory_75,{\displaystyle A}
+Number_theory_76,{\displaystyle A}
+Number_theory_77,{\displaystyle ax+by=c}
+Number_theory_78,{\displaystyle a\equiv b{\bmod {m}}}
+Number_theory_79,{\displaystyle xa\equiv 1{\bmod {p}}}
+Number_theory_80,{\displaystyle y^{2}=x^{3}+7}
+Number_theory_81,{\displaystyle (a+bi)^{2}=(c+di)^{3}+7}
+Number_theory_82,"{\displaystyle (p^{2}-q^{2},2pq,p^{2}+q^{2})}"

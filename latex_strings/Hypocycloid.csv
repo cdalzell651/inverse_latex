@@ -1,0 +1,5 @@
+name,latex
+Hypocycloid_0,{\displaystyle {\begin{aligned}&x(\theta )=(R-r)\cos \theta +r\cos \left({\frac {R-r}{r}}\theta \right)\\&y(\theta )=(R-r)\sin \theta -r\sin \left({\frac {R-r}{r}}\theta \right)\end{aligned}}}
+Hypocycloid_1,{\displaystyle {\begin{aligned}&x(\theta )=r(k-1)\cos \theta +r\cos \left((k-1)\theta \right)\\&y(\theta )=r(k-1)\sin \theta -r\sin \left((k-1)\theta \right)\end{aligned}}}
+Hypocycloid_2,{\displaystyle A={\frac {(k-1)(k-2)}{k^{2}}}\pi R^{2}=(k-1)(k-2)\pi r^{2}}
+Hypocycloid_3,{\displaystyle s={\frac {8(k-1)}{k}}R=8(k-1)r}

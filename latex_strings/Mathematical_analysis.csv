@@ -1,0 +1,19 @@
+name,latex
+Mathematical_analysis_0,"{\displaystyle (M,d)}"
+Mathematical_analysis_1,{\displaystyle M}
+Mathematical_analysis_2,{\displaystyle d}
+Mathematical_analysis_3,{\displaystyle M}
+Mathematical_analysis_4,{\displaystyle d\colon M\times M\rightarrow \mathbb {R} }
+Mathematical_analysis_5,"{\displaystyle x,y,z\in M}"
+Mathematical_analysis_6,"{\displaystyle d(x,y)\geq 0}"
+Mathematical_analysis_7,{\displaystyle x=y}
+Mathematical_analysis_8,"{\displaystyle d(x,y)=d(y,x)}"
+Mathematical_analysis_9,"{\displaystyle d(x,z)\leq d(x,y)+d(y,z)}"
+Mathematical_analysis_10,{\displaystyle z=x}
+Mathematical_analysis_11,"{\displaystyle d(x,y)\geq 0}"
+Mathematical_analysis_12,{\displaystyle \lim _{n\to \infty }a_{n}=x.}
+Mathematical_analysis_13,{\displaystyle n}
+Mathematical_analysis_14,{\displaystyle \mathbb {R} ^{n}}
+Mathematical_analysis_15,"{\displaystyle \left[0,1\right]}"
+Mathematical_analysis_16,{\displaystyle X}
+Mathematical_analysis_17,{\displaystyle \sigma }

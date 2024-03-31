@@ -1,0 +1,10 @@
+name,latex
+Statistical_mechanics_0,"{\displaystyle E,N,V}"
+Statistical_mechanics_1,"{\displaystyle T,N,V}"
+Statistical_mechanics_2,"{\displaystyle T,\mu ,V}"
+Statistical_mechanics_3,{\displaystyle W}
+Statistical_mechanics_4,{\displaystyle Z=\sum _{k}e^{-E_{k}/k_{B}T}}
+Statistical_mechanics_5,{\displaystyle {\mathcal {Z}}=\sum _{k}e^{-(E_{k}-\mu N_{k})/k_{B}T}}
+Statistical_mechanics_6,{\displaystyle S=k_{B}\log W}
+Statistical_mechanics_7,{\displaystyle F=-k_{B}T\log Z}
+Statistical_mechanics_8,{\displaystyle \Omega =-k_{B}T\log {\mathcal {Z}}}

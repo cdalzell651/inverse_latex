@@ -1,0 +1,72 @@
+name,latex
+Quasi-randomness_0,"{\displaystyle \int _{0}^{1}f(u)\,du\approx {\frac {1}{N}}\,\sum _{i=1}^{N}f(x_{i}).}"
+Quasi-randomness_1,{\displaystyle D_{N}(P)=\sup _{B\in J}\left|{\frac {A(B;P)}{N}}-\lambda _{s}(B)\right|}
+Quasi-randomness_2,"{\displaystyle \prod _{i=1}^{s}[a_{i},b_{i})=\{\mathbf {x} \in \mathbf {R} ^{s}:a_{i}\leq x_{i}<b_{i}\}\,}"
+Quasi-randomness_3,{\displaystyle 0\leq a_{i}<b_{i}\leq 1}
+Quasi-randomness_4,"{\displaystyle \prod _{i=1}^{s}[0,u_{i})}"
+Quasi-randomness_5,"{\displaystyle D_{N}^{*}\leq D_{N}\leq 2^{s}D_{N}^{*}.\,}"
+Quasi-randomness_6,"{\displaystyle \left|{\frac {1}{N}}\sum _{i=1}^{N}f(x_{i})-\int _{{\bar {I}}^{s}}f(u)\,du\right|\leq V(f)\,D_{N}^{*}(x_{1},\ldots ,x_{N}).}"
+Quasi-randomness_7,{\displaystyle \varepsilon >0}
+Quasi-randomness_8,"{\displaystyle \left|{\frac {1}{N}}\sum _{i=1}^{N}f(x_{i})-\int _{{\bar {I}}^{s}}f(u)\,du\right|>D_{N}^{*}(x_{1},\ldots ,x_{N})-\varepsilon .}"
+Quasi-randomness_9,"{\displaystyle D=\{1,2,\ldots ,d\}}"
+Quasi-randomness_10,{\displaystyle \emptyset \neq u\subseteq D}
+Quasi-randomness_11,{\displaystyle dx_{u}:=\prod _{j\in u}dx_{j}}
+Quasi-randomness_12,"{\displaystyle (x_{u},1)}"
+Quasi-randomness_13,{\displaystyle 1}
+Quasi-randomness_14,"{\displaystyle {\frac {1}{N}}\sum _{i=1}^{N}f(x_{i})-\int _{{\bar {I}}^{s}}f(u)\,du=\sum _{\emptyset \neq u\subseteq D}(-1)^{|u|}\int _{[0,1]^{|u|}}\operatorname {disc} (x_{u},1){\frac {\partial ^{|u|}}{\partial x_{u}}}f(x_{u},1)\,dx_{u},}"
+Quasi-randomness_15,"{\displaystyle \operatorname {disc} (z)={\frac {1}{N}}\sum _{i=1}^{N}\prod _{j=1}^{d}1_{[0,z_{j})}(x_{i,j})-\prod _{j=1}^{d}z_{i}}"
+Quasi-randomness_16,{\displaystyle L^{2}}
+Quasi-randomness_17,"{\displaystyle \left|{\frac {1}{N}}\sum _{i=1}^{N}f(x_{i})-\int _{{\bar {I}}^{s}}f(u)\,du\right|\leq \|f\|_{d}\operatorname {disc} _{d}(\{t_{i}\}),}"
+Quasi-randomness_18,"{\displaystyle \operatorname {disc} _{d}(\{t_{i}\})=\left(\sum _{\emptyset \neq u\subseteq D}\int _{[0,1]^{|u|}}\operatorname {disc} (x_{u},1)^{2}\,dx_{u}\right)^{1/2}}"
+Quasi-randomness_19,"{\displaystyle \|f\|_{d}=\left(\sum _{u\subseteq D}\int _{[0,1]^{|u|}}\left|{\frac {\partial ^{|u|}}{\partial x_{u}}}f(x_{u},1)\right|^{2}dx_{u}\right)^{1/2}.}"
+Quasi-randomness_20,{\displaystyle L^{2}}
+Quasi-randomness_21,{\displaystyle L^{2}}
+Quasi-randomness_22,"{\displaystyle D_{N}^{*}(x_{1},\ldots ,x_{N})\leq \left({\frac {3}{2}}\right)^{s}\left({\frac {2}{H+1}}+\sum _{0<\|h\|_{\infty }\leq H}{\frac {1}{r(h)}}\left|{\frac {1}{N}}\sum _{n=1}^{N}e^{2\pi i\langle h,x_{n}\rangle }\right|\right)}"
+Quasi-randomness_23,"{\displaystyle r(h)=\prod _{i=1}^{s}\max\{1,|h_{i}|\}\quad {\mbox{for}}\quad h=(h_{1},\ldots ,h_{s})\in \mathbb {Z} ^{s}.}"
+Quasi-randomness_24,"{\displaystyle D_{N}^{*}(x_{1},\ldots ,x_{N})\geq c_{s}{\frac {(\ln N)^{s-1}}{N}}}"
+Quasi-randomness_25,"{\displaystyle D_{N}^{*}(x_{1},\ldots ,x_{N})\geq c'_{s}{\frac {(\ln N)^{s}}{N}}}"
+Quasi-randomness_26,"{\displaystyle D_{N}^{*}(x_{1},\ldots ,x_{N})\geq {\frac {1}{2N}}}"
+Quasi-randomness_27,"{\displaystyle D_{N}^{*}(x_{1},\ldots ,x_{N})\geq C{\frac {\log N}{N}}}"
+Quasi-randomness_28,{\displaystyle C=\max _{a\geq 3}{\frac {1}{16}}{\frac {a-2}{a\log a}}=0.023335\dots .}
+Quasi-randomness_29,"{\displaystyle D_{N}^{*}(x_{1},\ldots ,x_{N})\geq {\frac {1}{2^{4s}}}{\frac {1}{((s-1)\log 2)^{\frac {s-1}{2}}}}{\frac {\log ^{\frac {s-1}{2}}N}{N}}}"
+Quasi-randomness_30,"{\displaystyle D_{N}^{*}(x_{1},\ldots ,x_{N})\geq t{\frac {\log ^{{\frac {s-1}{2}}+t}N}{N}}}"
+Quasi-randomness_31,"{\displaystyle D_{N}^{*}(x_{1},\ldots ,x_{N})\leq C{\frac {(\ln N)^{s}}{N}}.}"
+Quasi-randomness_32,{\displaystyle r_{i}}
+Quasi-randomness_33,"{\displaystyle [0,0.5)}"
+Quasi-randomness_34,{\displaystyle s_{i}}
+Quasi-randomness_35,"{\displaystyle [0,1)}"
+Quasi-randomness_36,{\displaystyle s_{i}=r_{i}}
+Quasi-randomness_37,{\displaystyle i}
+Quasi-randomness_38,{\displaystyle s_{i}=0.5+r_{i}}
+Quasi-randomness_39,{\displaystyle i}
+Quasi-randomness_40,"{\displaystyle s_{i}=s_{i-1}+0.5+r_{i}{\pmod {1}}.\,}"
+Quasi-randomness_41,{\displaystyle \alpha }
+Quasi-randomness_42,{\displaystyle s_{n}=\{s_{0}+n\alpha \}}
+Quasi-randomness_43,{\displaystyle 1/N}
+Quasi-randomness_44,{\displaystyle s_{n+1}=(s_{n}+\alpha ){\bmod {1}}\;.}
+Quasi-randomness_45,{\displaystyle \alpha }
+Quasi-randomness_46,{\displaystyle \alpha }
+Quasi-randomness_47,{\displaystyle \mu }
+Quasi-randomness_48,{\displaystyle \varepsilon >0}
+Quasi-randomness_49,{\displaystyle D_{N}((s_{n}))=O_{\varepsilon }(N^{-1/(\mu -1)+\varepsilon }).}
+Quasi-randomness_50,{\displaystyle N^{-1+\varepsilon }}
+Quasi-randomness_51,{\displaystyle r_{i}=(ar_{i-1}+c){\bmod {m}}}
+Quasi-randomness_52,{\displaystyle c}
+Quasi-randomness_53,{\displaystyle c={\frac {{\sqrt {5}}-1}{2}}=\varphi -1\approx 0.618034.}
+Quasi-randomness_54,"{\displaystyle c={\sqrt {2}}-1\approx 0.414214.\,}"
+Quasi-randomness_55,"{\displaystyle c={\sqrt {2}},{\sqrt {3}},{\sqrt {5}},{\sqrt {7}},{\sqrt {11}},\ldots \,}"
+Quasi-randomness_56,{\displaystyle n=\sum _{k=0}^{L-1}d_{k}(n)b^{k}}
+Quasi-randomness_57,{\displaystyle g_{b}(n)=\sum _{k=0}^{L-1}d_{k}(n)b^{-k-1}.}
+Quasi-randomness_58,"{\displaystyle D_{N}^{*}(g_{b}(1),\dots ,g_{b}(N))\leq C{\frac {\log N}{N}},}"
+Quasi-randomness_59,"{\displaystyle x(n)=(g_{b_{1}}(n),\dots ,g_{b_{s}}(n)).}"
+Quasi-randomness_60,"{\displaystyle D_{N}^{*}(x(1),\dots ,x(N))\leq C'{\frac {(\log N)^{s}}{N}}.}"
+Quasi-randomness_61,"{\displaystyle x(n)=\left(g_{b_{1}}(n),\dots ,g_{b_{s-1}}(n),{\frac {n}{N}}\right)}"
+Quasi-randomness_62,"{\displaystyle D_{N}^{*}(x(1),\dots ,x(N))\leq C{\frac {(\log N)^{s-1}}{N}}}"
+Quasi-randomness_63,{\displaystyle w}
+Quasi-randomness_64,{\displaystyle w}
+Quasi-randomness_65,"{\displaystyle V_{i},i=1,2,\dots ,w}"
+Quasi-randomness_66,{\displaystyle i}
+Quasi-randomness_67,{\displaystyle G(i)}
+Quasi-randomness_68,{\displaystyle s_{i}}
+Quasi-randomness_69,{\displaystyle i}
+Quasi-randomness_70,{\displaystyle V_{i}}

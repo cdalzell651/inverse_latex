@@ -1,0 +1,76 @@
+name,latex
+Inverse_element_0,{\displaystyle {\tfrac {x}{y}}}
+Inverse_element_1,{\displaystyle {\tfrac {y}{x}}}
+Inverse_element_2,{\displaystyle *.}
+Inverse_element_3,{\displaystyle x*(y*z)=(x*y)*z}
+Inverse_element_4,{\displaystyle *}
+Inverse_element_5,{\displaystyle x*e=x\quad {\text{and}}\quad e*y=y}
+Inverse_element_6,{\displaystyle e*f}
+Inverse_element_7,{\displaystyle e=f.}
+Inverse_element_8,{\displaystyle e=e*f=f.}
+Inverse_element_9,{\displaystyle e*f}
+Inverse_element_10,"{\displaystyle x*y=e,}"
+Inverse_element_11,{\displaystyle x\mapsto 2x}
+Inverse_element_12,{\displaystyle 2n}
+Inverse_element_13,{\displaystyle 2n+1}
+Inverse_element_17,{\displaystyle l=l*(x*r)=(l*x)*r=r.}
+Inverse_element_18,{\displaystyle -x.}
+Inverse_element_19,"{\displaystyle x^{-1},}"
+Inverse_element_21,{\displaystyle x^{*-1}.}
+Inverse_element_22,{\displaystyle f^{\circ -1}}
+Inverse_element_24,{\displaystyle x*y}
+Inverse_element_25,{\displaystyle x*y}
+Inverse_element_26,{\displaystyle y^{-1}x^{-1}.}
+Inverse_element_27,{\displaystyle g^{-1}}
+Inverse_element_28,{\displaystyle g}
+Inverse_element_29,"{\displaystyle g,}"
+Inverse_element_30,{\displaystyle g.}
+Inverse_element_31,{\displaystyle xy=xz}
+Inverse_element_32,"{\displaystyle y=z,}"
+Inverse_element_33,{\displaystyle yx=zx}
+Inverse_element_34,{\displaystyle y=z}
+Inverse_element_35,"{\displaystyle x^{-1},}"
+Inverse_element_37,{\displaystyle f\colon X\to Y}
+Inverse_element_38,"{\displaystyle g\colon Y'\to Z,}"
+Inverse_element_39,{\displaystyle g\circ f}
+Inverse_element_40,{\displaystyle Y'=Y}
+Inverse_element_41,{\displaystyle Y\subset Y'.}
+Inverse_element_42,{\displaystyle f}
+Inverse_element_43,{\displaystyle f}
+Inverse_element_44,{\displaystyle \operatorname {id} _{X}\colon X\to X}
+Inverse_element_45,{\displaystyle S}
+Inverse_element_46,{\displaystyle *}
+Inverse_element_47,{\displaystyle e\in S}
+Inverse_element_48,"{\displaystyle a,b\in S}"
+Inverse_element_49,{\displaystyle a*b=e}
+Inverse_element_50,{\displaystyle a}
+Inverse_element_51,{\displaystyle b}
+Inverse_element_52,{\displaystyle b}
+Inverse_element_53,{\displaystyle a}
+Inverse_element_54,{\displaystyle x}
+Inverse_element_55,{\displaystyle y}
+Inverse_element_56,{\displaystyle x}
+Inverse_element_57,{\displaystyle y}
+Inverse_element_58,{\displaystyle S}
+Inverse_element_59,{\displaystyle S}
+Inverse_element_60,"{\displaystyle (S,*)}"
+Inverse_element_61,"{\displaystyle (S,*)}"
+Inverse_element_62,"{\displaystyle (S,*)}"
+Inverse_element_63,{\displaystyle *}
+Inverse_element_64,{\displaystyle S}
+Inverse_element_65,{\displaystyle U(S)}
+Inverse_element_66,{\displaystyle M}
+Inverse_element_67,{\displaystyle K}
+Inverse_element_68,{\displaystyle M}
+Inverse_element_69,{\displaystyle R}
+Inverse_element_70,{\displaystyle R}
+Inverse_element_71,{\displaystyle A:m\times n\mid m>n}
+Inverse_element_72,{\displaystyle \underbrace {\left(A^{\text{T}}A\right)^{-1}A^{\text{T}}} _{A_{\text{left}}^{-1}}A=I_{n}}
+Inverse_element_73,{\displaystyle A:m\times n\mid m<n}
+Inverse_element_74,{\displaystyle A\underbrace {A^{\text{T}}\left(AA^{\text{T}}\right)^{-1}} _{A_{\text{right}}^{-1}}=I_{m}}
+Inverse_element_75,{\displaystyle Ax=b}
+Inverse_element_76,{\displaystyle x=\left(A^{\text{T}}A\right)^{-1}A^{\text{T}}b.}
+Inverse_element_77,{\displaystyle A:2\times 3={\begin{bmatrix}1&2&3\\4&5&6\end{bmatrix}}}
+Inverse_element_78,{\displaystyle A_{\text{right}}^{-1}=A^{\text{T}}\left(AA^{\text{T}}\right)^{-1}.}
+Inverse_element_79,{\displaystyle {\begin{aligned}AA^{\text{T}}&={\begin{bmatrix}1&2&3\\4&5&6\end{bmatrix}}{\begin{bmatrix}1&4\\2&5\\3&6\end{bmatrix}}={\begin{bmatrix}14&32\\32&77\end{bmatrix}}\\[3pt]\left(AA^{\text{T}}\right)^{-1}&={\begin{bmatrix}14&32\\32&77\end{bmatrix}}^{-1}={\frac {1}{54}}{\begin{bmatrix}77&-32\\-32&14\end{bmatrix}}\\[3pt]A^{\text{T}}\left(AA^{\text{T}}\right)^{-1}&={\frac {1}{54}}{\begin{bmatrix}1&4\\2&5\\3&6\end{bmatrix}}{\begin{bmatrix}77&-32\\-32&14\end{bmatrix}}={\frac {1}{18}}{\begin{bmatrix}-17&8\\-2&2\\13&-4\end{bmatrix}}=A_{\text{right}}^{-1}\end{aligned}}}
+Inverse_element_80,{\displaystyle A^{\text{T}}A={\begin{bmatrix}1&4\\2&5\\3&6\end{bmatrix}}{\begin{bmatrix}1&2&3\\4&5&6\end{bmatrix}}={\begin{bmatrix}17&22&27\\22&29&36\\27&36&45\end{bmatrix}}}

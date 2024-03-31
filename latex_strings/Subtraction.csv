@@ -1,0 +1,20 @@
+name,latex
+Subtraction_0,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{term}}\,+\,{\text{term}}\\\scriptstyle {\text{summand}}\,+\,{\text{summand}}\\\scriptstyle {\text{addend}}\,+\,{\text{addend}}\\\scriptstyle {\text{augend}}\,+\,{\text{addend}}\end{matrix}}\right\}\,=\,}"
+Subtraction_1,{\displaystyle \scriptstyle {\text{sum}}}
+Subtraction_2,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{term}}\,-\,{\text{term}}\\\scriptstyle {\text{minuend}}\,-\,{\text{subtrahend}}\end{matrix}}\right\}\,=\,}"
+Subtraction_3,{\displaystyle \scriptstyle {\text{difference}}}
+Subtraction_4,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{factor}}\,\times \,{\text{factor}}\\\scriptstyle {\text{multiplier}}\,\times \,{\text{multiplicand}}\end{matrix}}\right\}\,=\,}"
+Subtraction_5,{\displaystyle \scriptstyle {\text{product}}}
+Subtraction_6,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\frac {\scriptstyle {\text{dividend}}}{\scriptstyle {\text{divisor}}}}\\[1ex]\scriptstyle {\frac {\scriptstyle {\text{numerator}}}{\scriptstyle {\text{denominator}}}}\end{matrix}}\right\}\,=\,}"
+Subtraction_7,{\displaystyle \scriptstyle \left\{{\begin{matrix}\scriptstyle {\text{fraction}}\\\scriptstyle {\text{quotient}}\\\scriptstyle {\text{ratio}}\end{matrix}}\right.}
+Subtraction_8,"{\displaystyle \scriptstyle {\text{base}}^{\text{exponent}}\,=\,}"
+Subtraction_9,{\displaystyle \scriptstyle {\text{power}}}
+Subtraction_10,"{\displaystyle \scriptstyle {\sqrt[{\text{degree}}]{\scriptstyle {\text{radicand}}}}\,=\,}"
+Subtraction_11,{\displaystyle \scriptstyle {\text{root}}}
+Subtraction_12,"{\displaystyle \scriptstyle \log _{\text{base}}({\text{anti-logarithm}})\,=\,}"
+Subtraction_13,{\displaystyle \scriptstyle {\text{logarithm}}}
+Subtraction_14,{\displaystyle 2-1=1}
+Subtraction_15,{\displaystyle 4-2=2}
+Subtraction_16,{\displaystyle 6-3=3}
+Subtraction_17,{\displaystyle 4-6=-2}
+Subtraction_18,{\displaystyle {\rm {minuend}}-{\rm {subtrahend}}={\rm {difference}}}

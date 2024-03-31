@@ -1,0 +1,32 @@
+name,latex
+Mathematical_model_0,{\displaystyle M}
+Mathematical_model_1,"{\displaystyle M=(Q,\Sigma ,\delta ,q_{0},F)}"
+Mathematical_model_2,"{\displaystyle Q=\{S_{1},S_{2}\},}"
+Mathematical_model_3,"{\displaystyle \Sigma =\{0,1\},}"
+Mathematical_model_4,"{\displaystyle q_{0}=S_{1},}"
+Mathematical_model_5,"{\displaystyle F=\{S_{1}\},}"
+Mathematical_model_6,{\displaystyle \delta }
+Mathematical_model_7,{\displaystyle S_{2}}
+Mathematical_model_8,{\displaystyle S_{1}}
+Mathematical_model_9,{\displaystyle S_{1}}
+Mathematical_model_10,{\displaystyle S_{2}}
+Mathematical_model_11,{\displaystyle S_{1}}
+Mathematical_model_12,{\displaystyle S_{2}}
+Mathematical_model_13,{\displaystyle M}
+Mathematical_model_14,"{\displaystyle S_{1},}"
+Mathematical_model_15,{\displaystyle M}
+Mathematical_model_16,{\displaystyle V\!:\mathbb {R} ^{3}\!\to \mathbb {R} }
+Mathematical_model_17,"{\displaystyle \mathbf {r} \!:\mathbb {R} \to \mathbb {R} ^{3},}"
+Mathematical_model_18,"{\displaystyle -{\frac {\mathrm {d} ^{2}\mathbf {r} (t)}{\mathrm {d} t^{2}}}m={\frac {\partial V[\mathbf {r} (t)]}{\partial x}}\mathbf {\hat {x}} +{\frac {\partial V[\mathbf {r} (t)]}{\partial y}}\mathbf {\hat {y}} +{\frac {\partial V[\mathbf {r} (t)]}{\partial z}}\mathbf {\hat {z}} ,}"
+Mathematical_model_19,{\displaystyle m{\frac {\mathrm {d} ^{2}\mathbf {r} (t)}{\mathrm {d} t^{2}}}=-\nabla V[\mathbf {r} (t)].}
+Mathematical_model_20,{\displaystyle n}
+Mathematical_model_21,"{\displaystyle 1,2,\dots ,n}"
+Mathematical_model_22,"{\displaystyle p_{1},p_{2},\dots ,p_{n}.}"
+Mathematical_model_23,{\displaystyle U}
+Mathematical_model_24,"{\displaystyle x_{1},x_{2},\dots ,x_{n}}"
+Mathematical_model_25,{\displaystyle M}
+Mathematical_model_26,"{\displaystyle x_{1},x_{2},\dots ,x_{n}}"
+Mathematical_model_27,"{\displaystyle U(x_{1},x_{2},\dots ,x_{n}).}"
+Mathematical_model_28,"{\displaystyle \max \,U(x_{1},x_{2},\ldots ,x_{n})}"
+Mathematical_model_29,"{\displaystyle \sum _{i=1}^{n}p_{i}x_{i}\leq M,}"
+Mathematical_model_30,"{\displaystyle x_{i}\geq 0\;\;\;{\text{ for all }}i=1,2,\dots ,n.}"

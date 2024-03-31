@@ -1,0 +1,118 @@
+name,latex
+Rational_number_0,{\displaystyle \mathbb {Q} }
+Rational_number_1,{\displaystyle \mathbb {R} }
+Rational_number_2,{\displaystyle \mathbb {C} }
+Rational_number_3,{\displaystyle \mathbb {Z} }
+Rational_number_4,{\displaystyle \mathbb {N} }
+Rational_number_5,{\displaystyle {\tfrac {p}{q}}}
+Rational_number_6,{\displaystyle {\tfrac {3}{7}}}
+Rational_number_7,{\displaystyle -5={\tfrac {-5}{1}}}
+Rational_number_8,{\displaystyle \mathbb {Q} .}
+Rational_number_9,{\displaystyle {\sqrt {2}}}
+Rational_number_10,"{\displaystyle (p_{1},q_{1})\sim (p_{2},q_{2})\iff p_{1}q_{2}=p_{2}q_{1}.}"
+Rational_number_11,{\displaystyle {\tfrac {p}{q}}}
+Rational_number_12,{\displaystyle \mathbb {Q} }
+Rational_number_13,{\displaystyle \mathbb {Q} }
+Rational_number_14,{\displaystyle \mathbb {Q} }
+Rational_number_15,"{\displaystyle {\tfrac {a}{b}},}"
+Rational_number_16,"{\displaystyle {\tfrac {a}{b}},}"
+Rational_number_17,"{\displaystyle {\tfrac {n}{1}},}"
+Rational_number_18,{\displaystyle {\frac {a}{b}}={\frac {c}{d}}}
+Rational_number_19,{\displaystyle ad=bc}
+Rational_number_20,{\displaystyle {\frac {a}{b}}={\frac {c}{d}}}
+Rational_number_21,{\displaystyle a=c}
+Rational_number_22,{\displaystyle b=d}
+Rational_number_23,{\displaystyle {\frac {a}{b}}<{\frac {c}{d}}}
+Rational_number_24,{\displaystyle ad<bc.}
+Rational_number_25,{\displaystyle {\frac {a}{b}}+{\frac {c}{d}}={\frac {ad+bc}{bd}}.}
+Rational_number_26,{\displaystyle {\frac {a}{b}}-{\frac {c}{d}}={\frac {ad-bc}{bd}}.}
+Rational_number_27,{\displaystyle {\frac {a}{b}}\cdot {\frac {c}{d}}={\frac {ac}{bd}}.}
+Rational_number_28,{\displaystyle {\tfrac {a}{b}}}
+Rational_number_29,{\displaystyle -\left({\frac {a}{b}}\right)={\frac {-a}{b}}.}
+Rational_number_30,{\displaystyle {\tfrac {a}{b}}}
+Rational_number_31,{\displaystyle {\tfrac {a}{b}}}
+Rational_number_32,{\displaystyle \left({\frac {a}{b}}\right)^{-1}={\frac {b}{a}}.}
+Rational_number_33,{\displaystyle {\tfrac {a}{b}}}
+Rational_number_34,{\displaystyle {\tfrac {b}{a}}}
+Rational_number_35,"{\displaystyle {\tfrac {-b}{-a}},}"
+Rational_number_36,"{\displaystyle {\frac {\,{\dfrac {a}{b}}\,}{\dfrac {c}{d}}}={\frac {ad}{bc}}.}"
+Rational_number_37,{\displaystyle {\tfrac {a}{b}}}
+Rational_number_38,{\displaystyle {\tfrac {c}{d}}}
+Rational_number_39,{\displaystyle {\tfrac {a}{b}}}
+Rational_number_40,{\displaystyle {\tfrac {c}{d}}:}
+Rational_number_41,{\displaystyle {\frac {ad}{bc}}={\frac {a}{b}}\cdot {\frac {d}{c}}.}
+Rational_number_42,{\displaystyle \left({\frac {a}{b}}\right)^{n}={\frac {a^{n}}{b^{n}}}.}
+Rational_number_43,{\displaystyle {\tfrac {a}{b}}.}
+Rational_number_44,{\displaystyle \left({\frac {a}{b}}\right)^{0}=1.}
+Rational_number_45,{\displaystyle \left({\frac {a}{b}}\right)^{-n}={\frac {b^{n}}{a^{n}}}.}
+Rational_number_46,{\displaystyle {\tfrac {a}{b}}}
+Rational_number_47,{\displaystyle {\tfrac {b^{n}}{a^{n}}}}
+Rational_number_48,{\displaystyle {\tfrac {-b^{n}}{-a^{n}}}.}
+Rational_number_49,"{\displaystyle a_{0}+{\cfrac {1}{a_{1}+{\cfrac {1}{a_{2}+{\cfrac {1}{\ddots +{\cfrac {1}{a_{n}}}}}}}}},}"
+Rational_number_50,{\displaystyle {\tfrac {a}{b}}}
+Rational_number_51,{\displaystyle {\tfrac {8}{3}}}
+Rational_number_52,{\displaystyle 2{\tfrac {2}{3}}}
+Rational_number_53,{\displaystyle 2.{\overline {6}}}
+Rational_number_54,{\displaystyle 2.(6)}
+Rational_number_55,{\displaystyle 2+{\tfrac {1}{1+{\tfrac {1}{2}}}}}
+Rational_number_56,"{\displaystyle [2;1,2]}"
+Rational_number_57,{\displaystyle 2+{\tfrac {1}{2}}+{\tfrac {1}{6}}}
+Rational_number_58,{\displaystyle 2^{3}\times 3^{-1}}
+Rational_number_59,{\displaystyle 3'6}
+Rational_number_60,{\displaystyle (\mathbb {Z} \times (\mathbb {Z} \setminus \{0\}))}
+Rational_number_61,"{\displaystyle (m_{1},n_{1})\sim (m_{2},n_{2})\iff m_{1}n_{2}=m_{2}n_{1}.}"
+Rational_number_62,"{\displaystyle (m_{1},n_{1})+(m_{2},n_{2})\equiv (m_{1}n_{2}+n_{1}m_{2},n_{1}n_{2}),}"
+Rational_number_63,"{\displaystyle (m_{1},n_{1})\times (m_{2},n_{2})\equiv (m_{1}m_{2},n_{1}n_{2}).}"
+Rational_number_64,{\displaystyle \mathbb {Q} }
+Rational_number_65,"{\displaystyle (\mathbb {Z} \times (\mathbb {Z} \backslash \{0\}))/\sim ,}"
+Rational_number_66,{\displaystyle {\tfrac {m}{n}}.}
+Rational_number_67,{\displaystyle m_{1}n_{2}=m_{2}n_{1}.}
+Rational_number_68,{\displaystyle {\frac {m_{1}}{n_{1}}}={\frac {m_{2}}{n_{2}}}}
+Rational_number_69,{\displaystyle m_{1}n_{2}=m_{2}n_{1}.}
+Rational_number_70,{\displaystyle {\tfrac {m}{n}}}
+Rational_number_71,{\displaystyle \cdots ={\frac {-2m}{-2n}}={\frac {-m}{-n}}={\frac {m}{n}}={\frac {2m}{2n}}=\cdots .}
+Rational_number_72,{\displaystyle {\tfrac {n}{1}}.}
+Rational_number_73,{\displaystyle {\frac {m_{1}}{n_{1}}}\leq {\frac {m_{2}}{n_{2}}}}
+Rational_number_74,{\displaystyle {\begin{aligned}&(n_{1}n_{2}>0\quad {\text{and}}\quad m_{1}n_{2}\leq n_{1}m_{2})\\&\qquad {\text{or}}\\&(n_{1}n_{2}<0\quad {\text{and}}\quad m_{1}n_{2}\geq n_{1}m_{2}).\end{aligned}}}
+Rational_number_75,{\displaystyle \mathbb {Q} }
+Rational_number_76,{\displaystyle \mathbb {Q} }
+Rational_number_77,{\displaystyle \mathbb {Q} }
+Rational_number_78,{\displaystyle \mathbb {Q} .}
+Rational_number_79,{\displaystyle \mathbb {Q} }
+Rational_number_80,{\displaystyle \mathbb {Q} .}
+Rational_number_81,{\displaystyle \mathbb {Q} }
+Rational_number_82,{\displaystyle \mathbb {Z} .}
+Rational_number_83,"{\displaystyle \mathbb {Q} ,}"
+Rational_number_84,{\displaystyle {\frac {a}{b}}<{\frac {c}{d}}}
+Rational_number_85,"{\displaystyle b,d}"
+Rational_number_86,{\displaystyle {\frac {a}{b}}<{\frac {a+c}{b+d}}<{\frac {c}{d}}.}
+Rational_number_87,"{\displaystyle d(x,y)=|x-y|,}"
+Rational_number_88,{\displaystyle \mathbb {Q} .}
+Rational_number_89,{\displaystyle \mathbb {Q} }
+Rational_number_90,"{\displaystyle d(x,y)=|x-y|}"
+Rational_number_91,{\displaystyle \mathbb {Q} }
+Rational_number_92,"{\displaystyle |a|_{p}=p_{-n},}"
+Rational_number_93,{\displaystyle |0|_{p}=0.}
+Rational_number_94,"{\displaystyle {\frac {a}{b}},}"
+Rational_number_95,{\displaystyle \left|{\frac {a}{b}}\right|_{p}={\frac {|a|_{p}}{|b|_{p}}}.}
+Rational_number_96,"{\displaystyle d_{p}(x,y)=|x-y|_{p}}"
+Rational_number_97,{\displaystyle \mathbb {Q} .}
+Rational_number_98,"{\displaystyle (\mathbb {Q} ,d_{p})}"
+Rational_number_99,{\displaystyle \mathbb {Q} _{p}.}
+Rational_number_100,{\displaystyle \mathbb {Q} }
+Rational_number_101,{\displaystyle :\;\mathbb {C} }
+Rational_number_102,{\displaystyle :\;\mathbb {R} }
+Rational_number_103,{\displaystyle :\;\mathbb {Q} }
+Rational_number_104,{\displaystyle :\;\mathbb {Z} }
+Rational_number_105,{\displaystyle :\;\mathbb {N} }
+Rational_number_106,{\displaystyle \mathbb {N} }
+Rational_number_107,{\displaystyle \mathbb {Z} }
+Rational_number_108,{\displaystyle \mathbb {Q} }
+Rational_number_109,{\displaystyle \mathbb {A} }
+Rational_number_110,{\displaystyle \mathbb {R} }
+Rational_number_111,{\displaystyle \mathbb {C} }
+Rational_number_112,{\displaystyle \mathbb {H} }
+Rational_number_113,{\displaystyle \mathbb {O} }
+Rational_number_114,{\displaystyle \mathbb {R} }
+Rational_number_115,{\displaystyle \mathbb {C} }
+Rational_number_116,{\displaystyle \mathbb {S} }

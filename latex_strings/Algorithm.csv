@@ -1,0 +1,6 @@
+name,latex
+Algorithm_0,{\displaystyle O(n)}
+Algorithm_1,{\displaystyle O(1)}
+Algorithm_2,{\displaystyle O(n)}
+Algorithm_3,{\displaystyle O(\log n)}
+Algorithm_4,{\displaystyle O(n)}

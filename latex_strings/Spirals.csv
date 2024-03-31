@@ -1,0 +1,77 @@
+name,latex
+Spirals_0,{\displaystyle r}
+Spirals_1,{\displaystyle \varphi }
+Spirals_2,{\displaystyle r=r(\varphi )\;.}
+Spirals_3,{\displaystyle x}
+Spirals_4,{\displaystyle y}
+Spirals_5,"{\displaystyle x=r(\varphi )\cos \varphi \ ,\qquad y=r(\varphi )\sin \varphi \;.}"
+Spirals_6,{\displaystyle r=a\varphi }
+Spirals_7,{\displaystyle r=a/\varphi }
+Spirals_8,{\displaystyle r=a\varphi ^{1/2}}
+Spirals_9,{\displaystyle r=a\varphi ^{-1/2}}
+Spirals_10,{\displaystyle r=ae^{k\varphi }}
+Spirals_11,{\displaystyle \varphi ={\tfrac {1}{k}}\cdot \ln {\tfrac {r}{a}}}
+Spirals_12,{\displaystyle r=r(\varphi )}
+Spirals_13,{\displaystyle r(\varphi )=a\varphi ^{n}}
+Spirals_14,{\displaystyle r=ae^{k\varphi }}
+Spirals_15,{\displaystyle \alpha }
+Spirals_16,{\displaystyle \alpha }
+Spirals_17,{\displaystyle \tan \alpha }
+Spirals_18,{\displaystyle \tan \alpha ={\frac {r'}{r}}\ .}
+Spirals_19,{\displaystyle \;r=a\varphi ^{n}\;}
+Spirals_20,{\displaystyle \tan \alpha ={\frac {n}{\varphi }}\ .}
+Spirals_21,{\displaystyle n=1}
+Spirals_22,{\displaystyle \;\tan \alpha ={\tfrac {1}{\varphi }}\ .}
+Spirals_23,{\displaystyle \ \tan \alpha =k\ }
+Spirals_24,{\displaystyle \kappa }
+Spirals_25,{\displaystyle r=r(\varphi )}
+Spirals_26,{\displaystyle \kappa ={\frac {r^{2}+2(r')^{2}-r\;r''}{(r^{2}+(r')^{2})^{3/2}}}\ .}
+Spirals_27,{\displaystyle r=a\varphi ^{n}}
+Spirals_28,{\displaystyle \kappa =\dotsb ={\frac {1}{a\varphi ^{n-1}}}{\frac {\varphi ^{2}+n^{2}+n}{(\varphi ^{2}+n^{2})^{3/2}}}\ .}
+Spirals_29,{\displaystyle n=1}
+Spirals_30,{\displaystyle \kappa ={\tfrac {\varphi ^{2}+2}{a(\varphi ^{2}+1)^{3/2}}}}
+Spirals_31,{\displaystyle -1<n<0}
+Spirals_32,{\displaystyle \;r=ae^{k\varphi }\;}
+Spirals_33,{\displaystyle \;\kappa ={\tfrac {1}{r{\sqrt {1+k^{2}}}}}\;.}
+Spirals_34,{\displaystyle r=r(\varphi )}
+Spirals_35,{\displaystyle A={\frac {1}{2}}\int _{\varphi _{1}}^{\varphi _{2}}r(\varphi )^{2}\;d\varphi \ .}
+Spirals_36,{\displaystyle r=a\varphi ^{n}\;}
+Spirals_37,"{\displaystyle A={\frac {1}{2}}\int _{\varphi _{1}}^{\varphi _{2}}a^{2}\varphi ^{2n}\;d\varphi ={\frac {a^{2}}{2(2n+1)}}{\big (}\varphi _{2}^{2n+1}-\varphi _{1}^{2n+1}{\big )}\ ,\quad {\text{if}}\quad n\neq -{\frac {1}{2}},}"
+Spirals_38,"{\displaystyle A={\frac {1}{2}}\int _{\varphi _{1}}^{\varphi _{2}}{\frac {a^{2}}{\varphi }}\;d\varphi ={\frac {a^{2}}{2}}(\ln \varphi _{2}-\ln \varphi _{1})\ ,\quad {\text{if}}\quad n=-{\frac {1}{2}}\ .}"
+Spirals_39,{\displaystyle \;r=ae^{k\varphi }\;}
+Spirals_40,{\displaystyle \ A={\tfrac {r(\varphi _{2})^{2}-r(\varphi _{1})^{2})}{4k}}\ .}
+Spirals_41,{\displaystyle r=r(\varphi )}
+Spirals_42,"{\displaystyle L=\int \limits _{\varphi _{1}}^{\varphi _{2}}{\sqrt {\left(r^{\prime }(\varphi )\right)^{2}+r^{2}(\varphi )}}\,\mathrm {d} \varphi \ .}"
+Spirals_43,{\displaystyle r=a\varphi ^{n}\;}
+Spirals_44,{\displaystyle L=\int _{\varphi _{1}}^{\varphi _{2}}{\sqrt {{\frac {n^{2}r^{2}}{\varphi ^{2}}}+r^{2}}}\;d\varphi =a\int \limits _{\varphi _{1}}^{\varphi _{2}}\varphi ^{n-1}{\sqrt {n^{2}+\varphi ^{2}}}d\varphi \ .}
+Spirals_45,{\displaystyle \;r=ae^{k\varphi }\;}
+Spirals_46,{\displaystyle \ L={\tfrac {\sqrt {k^{2}+1}}{k}}{\big (}r(\varphi _{2})-r(\varphi _{1}){\big )}\ .}
+Spirals_47,"{\displaystyle \ (r,\varphi )\mapsto ({\tfrac {1}{r}},\varphi )\ }"
+Spirals_48,{\displaystyle \ r=a\varphi ^{n}\ }
+Spirals_49,{\displaystyle \ r={\tfrac {1}{a}}\varphi ^{-n}\ }
+Spirals_50,{\displaystyle \;r=ae^{k\varphi }\;}
+Spirals_51,{\displaystyle \;r={\tfrac {1}{a}}e^{-k\varphi }\;.}
+Spirals_52,{\displaystyle r=a\arctan(k\varphi )}
+Spirals_53,{\displaystyle r=a(\arctan(k\varphi )+\pi /2)}
+Spirals_54,{\displaystyle r(\varphi )}
+Spirals_55,{\displaystyle r(\varphi )}
+Spirals_56,{\displaystyle r(\varphi )}
+Spirals_57,{\displaystyle \;r=a\arctan(k\varphi )\;}
+Spirals_58,"{\displaystyle \;k=0.1,a=4,\;\varphi \geq 0\;}"
+Spirals_59,{\displaystyle \;r=a\pi /2\;}
+Spirals_60,{\displaystyle \;r=a(\arctan(k\varphi )+\pi /2)\;}
+Spirals_61,"{\displaystyle \;k=0.2,a=2,\;-\infty <\varphi <\infty \;}"
+Spirals_62,{\displaystyle \;r=a\pi \;}
+Spirals_63,{\displaystyle x}
+Spirals_64,{\displaystyle y}
+Spirals_65,"{\displaystyle x=r(\varphi )\cos \varphi \ ,\qquad y=r(\varphi )\sin \varphi }"
+Spirals_66,{\displaystyle z(\varphi )}
+Spirals_67,"{\displaystyle \;m(x^{2}+y^{2})=(z-z_{0})^{2}\ ,\ m>0\;}"
+Spirals_69,{\displaystyle \;r(\varphi )=a\varphi \;}
+Spirals_70,"{\displaystyle x=a\varphi \cos \varphi \ ,\qquad y=a\varphi \sin \varphi \ ,\qquad z=z_{0}+ma\varphi \ ,\quad \varphi \geq 0\ .}"
+Spirals_71,{\displaystyle c=8}
+Spirals_72,{\displaystyle r}
+Spirals_73,{\displaystyle {\begin{array}{cll}x&=&r\cdot \sin \theta \cdot \cos \varphi \\y&=&r\cdot \sin \theta \cdot \sin \varphi \\z&=&r\cdot \cos \theta \end{array}}}
+Spirals_74,"{\displaystyle \;\varphi =c\theta ,\;c>2\;,}"
+Spirals_75,{\displaystyle c}
+Spirals_77,"{\displaystyle \theta =n\times 137.5^{\circ },\ r=c{\sqrt {n}}}"

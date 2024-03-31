@@ -1,0 +1,141 @@
+name,latex
+Maxwell%27s_equations_0,"{\displaystyle {\begin{aligned}\nabla \cdot \mathbf {E} \,\,\,&={\frac {\rho }{\varepsilon _{0}}}\\\nabla \cdot \mathbf {B} \,\,\,&=0\\\nabla \times \mathbf {E} &=-{\frac {\partial \mathbf {B} }{\partial t}}\\\nabla \times \mathbf {B} &=\mu _{0}\left(\mathbf {J} +\varepsilon _{0}{\frac {\partial \mathbf {E} }{\partial t}}\right)\end{aligned}}}"
+Maxwell%27s_equations_1,{\displaystyle \mathbf {E} }
+Maxwell%27s_equations_2,{\displaystyle \mathbf {B} }
+Maxwell%27s_equations_3,{\displaystyle \rho }
+Maxwell%27s_equations_4,{\displaystyle \mathbf {J} }
+Maxwell%27s_equations_5,{\displaystyle \varepsilon _{0}}
+Maxwell%27s_equations_6,{\displaystyle \mu _{0}}
+Maxwell%27s_equations_7,{\displaystyle c={\frac {1}{\sqrt {\varepsilon _{0}\mu _{0}}}}}
+Maxwell%27s_equations_8,"{\displaystyle {\frac {\mathrm {d} }{\mathrm {d} t}}\iint _{\Sigma }\mathbf {B} \cdot \mathrm {d} \mathbf {S} =\iint _{\Sigma }{\frac {\partial \mathbf {B} }{\partial t}}\cdot \mathrm {d} \mathbf {S} \,,}"
+Maxwell%27s_equations_9,{\displaystyle {\vphantom {\int }}_{\scriptstyle \partial \Omega }}
+Maxwell%27s_equations_10,{\displaystyle \iiint _{\Omega }}
+Maxwell%27s_equations_11,{\displaystyle \oint _{\partial \Sigma }}
+Maxwell%27s_equations_12,{\displaystyle \iint _{\Sigma }}
+Maxwell%27s_equations_13,"{\displaystyle Q=\iiint _{\Omega }\rho \ \mathrm {d} V,}"
+Maxwell%27s_equations_14,"{\displaystyle \Phi _{B}=\iint _{\Sigma }\mathbf {B} \cdot \mathrm {d} \mathbf {S} ,}"
+Maxwell%27s_equations_15,"{\displaystyle \Phi _{E}=\iint _{\Sigma }\mathbf {E} \cdot \mathrm {d} \mathbf {S} ,}"
+Maxwell%27s_equations_16,"{\displaystyle I=\iint _{\Sigma }\mathbf {J} \cdot \mathrm {d} \mathbf {S} ,}"
+Maxwell%27s_equations_17,"{\displaystyle {\vphantom {\oint }}_{\scriptstyle \partial \Omega }\mathbf {E} \cdot \mathrm {d} \mathbf {S} ={\frac {1}{\varepsilon _{0}}}\iiint _{\Omega }\rho \,\mathrm {d} V}"
+Maxwell%27s_equations_18,{\displaystyle \nabla \cdot \mathbf {E} ={\frac {\rho }{\varepsilon _{0}}}}
+Maxwell%27s_equations_19,{\displaystyle {\vphantom {\oint }}_{\scriptstyle \partial \Omega }\mathbf {B} \cdot \mathrm {d} \mathbf {S} =0}
+Maxwell%27s_equations_20,{\displaystyle \nabla \cdot \mathbf {B} =0}
+Maxwell%27s_equations_21,{\displaystyle \oint _{\partial \Sigma }\mathbf {E} \cdot \mathrm {d} {\boldsymbol {\ell }}=-{\frac {\mathrm {d} }{\mathrm {d} t}}\iint _{\Sigma }\mathbf {B} \cdot \mathrm {d} \mathbf {S} }
+Maxwell%27s_equations_22,{\displaystyle \nabla \times \mathbf {E} =-{\frac {\partial \mathbf {B} }{\partial t}}}
+Maxwell%27s_equations_23,{\displaystyle {\begin{aligned}\oint _{\partial \Sigma }&\mathbf {B} \cdot \mathrm {d} {\boldsymbol {\ell }}=\mu _{0}\left(\iint _{\Sigma }\mathbf {J} \cdot \mathrm {d} \mathbf {S} +\varepsilon _{0}{\frac {\mathrm {d} }{\mathrm {d} t}}\iint _{\Sigma }\mathbf {E} \cdot \mathrm {d} \mathbf {S} \right)\\\end{aligned}}}
+Maxwell%27s_equations_24,{\displaystyle \nabla \times \mathbf {B} =\mu _{0}\left(\mathbf {J} +\varepsilon _{0}{\frac {\partial \mathbf {E} }{\partial t}}\right)}
+Maxwell%27s_equations_25,"{\displaystyle {\vphantom {\oint }}_{\scriptstyle \partial \Omega }\mathbf {E} \cdot \mathrm {d} \mathbf {S} =4\pi \iiint _{\Omega }\rho \,\mathrm {d} V}"
+Maxwell%27s_equations_26,{\displaystyle \nabla \cdot \mathbf {E} =4\pi \rho }
+Maxwell%27s_equations_27,{\displaystyle {\vphantom {\oint }}_{\scriptstyle \partial \Omega }\mathbf {B} \cdot \mathrm {d} \mathbf {S} =0}
+Maxwell%27s_equations_28,{\displaystyle \nabla \cdot \mathbf {B} =0}
+Maxwell%27s_equations_29,{\displaystyle \oint _{\partial \Sigma }\mathbf {E} \cdot \mathrm {d} {\boldsymbol {\ell }}=-{\frac {1}{c}}{\frac {\mathrm {d} }{\mathrm {d} t}}\iint _{\Sigma }\mathbf {B} \cdot \mathrm {d} \mathbf {S} }
+Maxwell%27s_equations_30,{\displaystyle \nabla \times \mathbf {E} =-{\frac {1}{c}}{\frac {\partial \mathbf {B} }{\partial t}}}
+Maxwell%27s_equations_31,{\displaystyle {\begin{aligned}\oint _{\partial \Sigma }&\mathbf {B} \cdot \mathrm {d} {\boldsymbol {\ell }}={\frac {1}{c}}\left(4\pi \iint _{\Sigma }\mathbf {J} \cdot \mathrm {d} \mathbf {S} +{\frac {\mathrel {\mathrm {d} }}{\mathrm {d} t}}\iint _{\Sigma }\mathbf {E} \cdot \mathrm {d} \mathbf {S} \right)\end{aligned}}}
+Maxwell%27s_equations_32,{\displaystyle \nabla \times \mathbf {B} ={\frac {1}{c}}\left(4\pi \mathbf {J} +{\frac {\partial \mathbf {E} }{\partial t}}\right)}
+Maxwell%27s_equations_33,"{\displaystyle {\vphantom {\oint }}_{\scriptstyle \partial \Omega }\mathbf {E} \cdot \mathrm {d} \mathbf {S} =\iiint _{\Omega }\nabla \cdot \mathbf {E} \,\mathrm {d} V}"
+Maxwell%27s_equations_34,"{\displaystyle \iiint _{\Omega }\left(\nabla \cdot \mathbf {E} -{\frac {\rho }{\varepsilon _{0}}}\right)\,\mathrm {d} V=0}"
+Maxwell%27s_equations_35,"{\displaystyle {\vphantom {\oint }}_{\scriptstyle \partial \Omega }\mathbf {B} \cdot \mathrm {d} \mathbf {S} =\iiint _{\Omega }\nabla \cdot \mathbf {B} \,\mathrm {d} V=0.}"
+Maxwell%27s_equations_36,{\displaystyle \nabla \cdot \mathbf {B} =0}
+Maxwell%27s_equations_37,"{\displaystyle \oint _{\partial \Sigma }\mathbf {B} \cdot \mathrm {d} {\boldsymbol {\ell }}=\iint _{\Sigma }(\nabla \times \mathbf {B} )\cdot \mathrm {d} \mathbf {S} ,}"
+Maxwell%27s_equations_38,{\displaystyle \iint _{\Sigma }\left(\nabla \times \mathbf {B} -\mu _{0}\left(\mathbf {J} +\varepsilon _{0}{\frac {\partial \mathbf {E} }{\partial t}}\right)\right)\cdot \mathrm {d} \mathbf {S} =0.}
+Maxwell%27s_equations_39,{\displaystyle 0=\nabla \cdot (\nabla \times \mathbf {B} )=\nabla \cdot \left(\mu _{0}\left(\mathbf {J} +\varepsilon _{0}{\frac {\partial \mathbf {E} }{\partial t}}\right)\right)=\mu _{0}\left(\nabla \cdot \mathbf {J} +\varepsilon _{0}{\frac {\partial }{\partial t}}\nabla \cdot \mathbf {E} \right)=\mu _{0}\left(\nabla \cdot \mathbf {J} +{\frac {\partial \rho }{\partial t}}\right)}
+Maxwell%27s_equations_40,{\displaystyle {\frac {\partial \rho }{\partial t}}+\nabla \cdot \mathbf {J} =0.}
+Maxwell%27s_equations_41,{\displaystyle {\frac {d}{dt}}Q_{\Omega }={\frac {d}{dt}}\iiint _{\Omega }\rho \mathrm {d} V=-}
+Maxwell%27s_equations_42,{\displaystyle {\scriptstyle \partial \Omega }}
+Maxwell%27s_equations_43,{\displaystyle \mathbf {J} \cdot {\rm {d}}\mathbf {S} =-I_{\partial \Omega }.}
+Maxwell%27s_equations_44,"{\displaystyle {\begin{aligned}\nabla \cdot \mathbf {E} &=0,&\nabla \times \mathbf {E} &=-{\frac {\partial \mathbf {B} }{\partial t}},\\\nabla \cdot \mathbf {B} &=0,&\nabla \times \mathbf {B} &=\mu _{0}\varepsilon _{0}{\frac {\partial \mathbf {E} }{\partial t}}.\end{aligned}}}"
+Maxwell%27s_equations_45,"{\displaystyle {\begin{aligned}\mu _{0}\varepsilon _{0}{\frac {\partial ^{2}\mathbf {E} }{\partial t^{2}}}-\nabla ^{2}\mathbf {E} =0,\\\mu _{0}\varepsilon _{0}{\frac {\partial ^{2}\mathbf {B} }{\partial t^{2}}}-\nabla ^{2}\mathbf {B} =0.\end{aligned}}}"
+Maxwell%27s_equations_46,{\displaystyle \mu _{0}\varepsilon _{0}}
+Maxwell%27s_equations_47,{\displaystyle c=(\mu _{0}\varepsilon _{0})^{-1/2}}
+Maxwell%27s_equations_48,"{\displaystyle {\begin{aligned}{\frac {1}{c^{2}}}{\frac {\partial ^{2}\mathbf {E} }{\partial t^{2}}}-\nabla ^{2}\mathbf {E} =0,\\{\frac {1}{c^{2}}}{\frac {\partial ^{2}\mathbf {B} }{\partial t^{2}}}-\nabla ^{2}\mathbf {B} =0.\end{aligned}}}"
+Maxwell%27s_equations_49,{\displaystyle \varepsilon _{0}}
+Maxwell%27s_equations_50,{\displaystyle \mu _{0}}
+Maxwell%27s_equations_51,{\displaystyle c\approx 2.998\times 10^{8}~{\text{m/s}}}
+Maxwell%27s_equations_52,{\displaystyle \mu _{0}=4\pi \times 10^{-7}}
+Maxwell%27s_equations_53,"{\displaystyle c=299\,792\,458~{\text{m/s}}}"
+Maxwell%27s_equations_54,{\displaystyle \varepsilon _{0}=8.8541878...\times 10^{-12}~{\text{F/m}}}
+Maxwell%27s_equations_55,"{\displaystyle v_{\text{p}}={\frac {1}{\sqrt {\mu _{0}\mu _{\text{r}}\varepsilon _{0}\varepsilon _{\text{r}}}}},}"
+Maxwell%27s_equations_56,{\displaystyle {\scriptstyle \partial \Omega }}
+Maxwell%27s_equations_57,"{\displaystyle \mathbf {D} \cdot \mathrm {d} \mathbf {S} =\iiint _{\Omega }\rho _{\text{f}}\,\mathrm {d} V}"
+Maxwell%27s_equations_58,{\displaystyle \nabla \cdot \mathbf {D} =\rho _{\text{f}}}
+Maxwell%27s_equations_59,{\displaystyle \nabla \cdot \mathbf {D} =4\pi \rho _{\text{f}}}
+Maxwell%27s_equations_60,{\displaystyle {\begin{aligned}\oint _{\partial \Sigma }&\mathbf {H} \cdot \mathrm {d} {\boldsymbol {\ell }}=\\&\iint _{\Sigma }\mathbf {J} _{\text{f}}\cdot \mathrm {d} \mathbf {S} +{\frac {d}{dt}}\iint _{\Sigma }\mathbf {D} \cdot \mathrm {d} \mathbf {S} \\\end{aligned}}}
+Maxwell%27s_equations_61,{\displaystyle \nabla \times \mathbf {H} =\mathbf {J} _{\text{f}}+{\frac {\partial \mathbf {D} }{\partial t}}}
+Maxwell%27s_equations_62,{\displaystyle \nabla \times \mathbf {H} ={\frac {1}{c}}\left(4\pi \mathbf {J} _{\text{f}}+{\frac {\partial \mathbf {D} }{\partial t}}\right)}
+Maxwell%27s_equations_63,{\displaystyle {\scriptstyle \partial \Omega }}
+Maxwell%27s_equations_64,{\displaystyle \mathbf {B} \cdot \mathrm {d} \mathbf {S} =0}
+Maxwell%27s_equations_65,{\displaystyle \nabla \cdot \mathbf {B} =0}
+Maxwell%27s_equations_66,{\displaystyle \nabla \cdot \mathbf {B} =0}
+Maxwell%27s_equations_67,{\displaystyle \oint _{\partial \Sigma }\mathbf {E} \cdot \mathrm {d} {\boldsymbol {\ell }}=-{\frac {d}{dt}}\iint _{\Sigma }\mathbf {B} \cdot \mathrm {d} \mathbf {S} }
+Maxwell%27s_equations_68,{\displaystyle \nabla \times \mathbf {E} =-{\frac {\partial \mathbf {B} }{\partial t}}}
+Maxwell%27s_equations_69,{\displaystyle \nabla \times \mathbf {E} =-{\frac {1}{c}}{\frac {\partial \mathbf {B} }{\partial t}}}
+Maxwell%27s_equations_70,"{\displaystyle {\begin{aligned}Q&=Q_{\text{f}}+Q_{\text{b}}=\iiint _{\Omega }\left(\rho _{\text{f}}+\rho _{\text{b}}\right)\,\mathrm {d} V=\iiint _{\Omega }\rho \,\mathrm {d} V,\\I&=I_{\text{f}}+I_{\text{b}}=\iint _{\Sigma }\left(\mathbf {J} _{\text{f}}+\mathbf {J} _{\text{b}}\right)\cdot \mathrm {d} \mathbf {S} =\iint _{\Sigma }\mathbf {J} \cdot \mathrm {d} \mathbf {S} .\end{aligned}}}"
+Maxwell%27s_equations_71,"{\displaystyle {\begin{aligned}\mathbf {D} (\mathbf {r} ,t)&=\varepsilon _{0}\mathbf {E} (\mathbf {r} ,t)+\mathbf {P} (\mathbf {r} ,t),\\\mathbf {H} (\mathbf {r} ,t)&={\frac {1}{\mu _{0}}}\mathbf {B} (\mathbf {r} ,t)-\mathbf {M} (\mathbf {r} ,t),\end{aligned}}}"
+Maxwell%27s_equations_72,"{\displaystyle {\begin{aligned}\rho _{\text{b}}&=-\nabla \cdot \mathbf {P} ,\\\mathbf {J} _{\text{b}}&=\nabla \times \mathbf {M} +{\frac {\partial \mathbf {P} }{\partial t}}.\end{aligned}}}"
+Maxwell%27s_equations_73,"{\displaystyle {\begin{aligned}\rho &=\rho _{\text{b}}+\rho _{\text{f}},\\\mathbf {J} &=\mathbf {J} _{\text{b}}+\mathbf {J} _{\text{f}},\end{aligned}}}"
+Maxwell%27s_equations_74,"{\displaystyle \mathbf {D} =\varepsilon _{0}\mathbf {E} ,\quad \mathbf {H} ={\frac {1}{\mu _{0}}}\mathbf {B} ,}"
+Maxwell%27s_equations_75,"{\displaystyle \mathbf {D} =\varepsilon \mathbf {E} ,\quad \mathbf {H} ={\frac {1}{\mu }}\mathbf {B} ,}"
+Maxwell%27s_equations_76,{\displaystyle \mathbf {H} }
+Maxwell%27s_equations_77,{\displaystyle \mathbf {J} _{\text{f}}=\sigma \mathbf {E} .}
+Maxwell%27s_equations_78,{\displaystyle \nabla \cdot \mathbf {B} =0}
+Maxwell%27s_equations_79,{\displaystyle \nabla \times \mathbf {E} +{\frac {\partial \mathbf {B} }{\partial t}}=\mathbf {0} }
+Maxwell%27s_equations_80,{\displaystyle \nabla \cdot \mathbf {E} ={\frac {\rho }{\varepsilon _{0}}}}
+Maxwell%27s_equations_81,{\displaystyle \nabla \times \mathbf {B} -{\frac {1}{c^{2}}}{\frac {\partial \mathbf {E} }{\partial t}}=\mu _{0}\mathbf {J} }
+Maxwell%27s_equations_82,{\displaystyle \mathbf {B} =\mathbf {\nabla } \times \mathbf {A} }
+Maxwell%27s_equations_83,{\displaystyle \mathbf {E} =-\mathbf {\nabla } \varphi -{\frac {\partial \mathbf {A} }{\partial t}}}
+Maxwell%27s_equations_84,{\displaystyle -\nabla ^{2}\varphi -{\frac {\partial }{\partial t}}\left(\mathbf {\nabla } \cdot \mathbf {A} \right)={\frac {\rho }{\varepsilon _{0}}}}
+Maxwell%27s_equations_85,{\displaystyle \left(-\nabla ^{2}+{\frac {1}{c^{2}}}{\frac {\partial ^{2}}{\partial t^{2}}}\right)\mathbf {A} +\mathbf {\nabla } \left(\mathbf {\nabla } \cdot \mathbf {A} +{\frac {1}{c^{2}}}{\frac {\partial \varphi }{\partial t}}\right)=\mu _{0}\mathbf {J} }
+Maxwell%27s_equations_86,{\displaystyle \mathbf {B} =\mathbf {\nabla } \times \mathbf {A} }
+Maxwell%27s_equations_87,{\displaystyle \mathbf {E} =-\mathbf {\nabla } \varphi -{\frac {\partial \mathbf {A} }{\partial t}}}
+Maxwell%27s_equations_88,{\displaystyle \mathbf {\nabla } \cdot \mathbf {A} =-{\frac {1}{c^{2}}}{\frac {\partial \varphi }{\partial t}}}
+Maxwell%27s_equations_89,{\displaystyle \left(-\nabla ^{2}+{\frac {1}{c^{2}}}{\frac {\partial ^{2}}{\partial t^{2}}}\right)\varphi ={\frac {\rho }{\varepsilon _{0}}}}
+Maxwell%27s_equations_90,{\displaystyle \left(-\nabla ^{2}+{\frac {1}{c^{2}}}{\frac {\partial ^{2}}{\partial t^{2}}}\right)\mathbf {A} =\mu _{0}\mathbf {J} }
+Maxwell%27s_equations_91,{\displaystyle {\begin{aligned}&\partial _{[i}B_{jk]}=\\&\qquad \nabla _{[i}B_{jk]}=0\\&\partial _{[i}E_{j]}+{\frac {\partial B_{ij}}{\partial t}}=\\&\qquad \nabla _{[i}E_{j]}+{\frac {\partial B_{ij}}{\partial t}}=0\end{aligned}}}
+Maxwell%27s_equations_92,{\displaystyle {\begin{aligned}&{\frac {1}{\sqrt {h}}}\partial _{i}{\sqrt {h}}E^{i}=\\&\qquad \nabla _{i}E^{i}={\frac {\rho }{\varepsilon _{0}}}\\&{-}{\frac {1}{\sqrt {h}}}\partial _{i}{\sqrt {h}}B^{ij}-{\frac {1}{c^{2}}}{\frac {\partial }{\partial t}}E^{j}=\\&\qquad {-}\nabla _{i}B^{ij}-{\frac {1}{c^{2}}}{\frac {\partial E^{j}}{\partial t}}=\mu _{0}J^{j}\end{aligned}}}
+Maxwell%27s_equations_93,{\displaystyle {\begin{aligned}B_{ij}&=\partial _{[i}A_{j]}\\&=\nabla _{[i}A_{j]}\end{aligned}}}
+Maxwell%27s_equations_94,{\displaystyle {\begin{aligned}E_{i}&=-{\frac {\partial A_{i}}{\partial t}}-\partial _{i}\varphi \\&=-{\frac {\partial A_{i}}{\partial t}}-\nabla _{i}\varphi \\\end{aligned}}}
+Maxwell%27s_equations_95,{\displaystyle {\begin{aligned}&{-}{\frac {1}{\sqrt {h}}}\partial _{i}{\sqrt {h}}\left(\partial ^{i}\varphi +{\frac {\partial A^{i}}{\partial t}}\right)=\\&\qquad -\nabla _{i}\nabla ^{i}\varphi -{\frac {\partial }{\partial t}}\nabla _{i}A^{i}={\frac {\rho }{\varepsilon _{0}}}\\&{-}{\frac {1}{\sqrt {h}}}\partial _{i}\left({\sqrt {h}}h^{im}h^{jn}\partial _{[m}A_{n]}\right)+{\frac {1}{c^{2}}}{\frac {\partial }{\partial t}}\left({\frac {\partial A^{j}}{\partial t}}+\partial ^{j}\varphi \right)=\\&\qquad {-}\nabla _{i}\nabla ^{i}A^{j}+{\frac {1}{c^{2}}}{\frac {\partial ^{2}A^{j}}{\partial t^{2}}}+R_{i}^{j}A^{i}+\nabla ^{j}\left(\nabla _{i}A^{i}+{\frac {1}{c^{2}}}{\frac {\partial \varphi }{\partial t}}\right)=\mu _{0}J^{j}\end{aligned}}}
+Maxwell%27s_equations_96,{\displaystyle {\begin{aligned}B_{ij}&=\partial _{[i}A_{j]}\\&=\nabla _{[i}A_{j]}\end{aligned}}}
+Maxwell%27s_equations_97,{\displaystyle {\begin{aligned}E_{i}&=-{\frac {\partial A_{i}}{\partial t}}-\partial _{i}\varphi \\&=-{\frac {\partial A_{i}}{\partial t}}-\nabla _{i}\varphi \end{aligned}}}
+Maxwell%27s_equations_98,{\displaystyle \nabla _{i}A^{i}=-{\frac {1}{c^{2}}}{\frac {\partial \varphi }{\partial t}}}
+Maxwell%27s_equations_99,{\displaystyle -\nabla _{i}\nabla ^{i}\varphi +{\frac {1}{c^{2}}}{\frac {\partial ^{2}\varphi }{\partial t^{2}}}={\frac {\rho }{\varepsilon _{0}}}}
+Maxwell%27s_equations_100,{\displaystyle -\nabla _{i}\nabla ^{i}A^{j}+{\frac {1}{c^{2}}}{\frac {\partial ^{2}A^{j}}{\partial t^{2}}}+R_{i}^{j}A^{i}=\mu _{0}J^{j}}
+Maxwell%27s_equations_101,{\displaystyle dB=0}
+Maxwell%27s_equations_102,{\displaystyle dE+{\frac {\partial B}{\partial t}}=0}
+Maxwell%27s_equations_103,{\displaystyle d{\star }E={\frac {\rho }{\varepsilon _{0}}}}
+Maxwell%27s_equations_104,{\displaystyle d{\star }B-{\frac {1}{c^{2}}}{\frac {\partial {\star }E}{\partial t}}=\mu _{0}J}
+Maxwell%27s_equations_105,{\displaystyle B=dA}
+Maxwell%27s_equations_106,{\displaystyle E=-d\varphi -{\frac {\partial A}{\partial t}}}
+Maxwell%27s_equations_107,{\displaystyle -d{\star }\!\left(d\varphi +{\frac {\partial A}{\partial t}}\right)={\frac {\rho }{\varepsilon _{0}}}}
+Maxwell%27s_equations_108,{\displaystyle d{\star }dA+{\frac {1}{c^{2}}}{\frac {\partial }{\partial t}}{\star }\!\left(d\varphi +{\frac {\partial A}{\partial t}}\right)=\mu _{0}J}
+Maxwell%27s_equations_109,{\displaystyle B=dA}
+Maxwell%27s_equations_110,{\displaystyle E=-d\varphi -{\frac {\partial A}{\partial t}}}
+Maxwell%27s_equations_111,{\displaystyle d{\star }A=-{\star }{\frac {1}{c^{2}}}{\frac {\partial \varphi }{\partial t}}}
+Maxwell%27s_equations_112,{\displaystyle {\star }\!\left(-\Delta \varphi +{\frac {1}{c^{2}}}{\frac {\partial ^{2}}{\partial t^{2}}}\varphi \right)={\frac {\rho }{\varepsilon _{0}}}}
+Maxwell%27s_equations_113,{\displaystyle {\star }\!\left(-\Delta A+{\frac {1}{c^{2}}}{\frac {\partial ^{2}A}{\partial ^{2}t}}\right)=\mu _{0}J}
+Maxwell%27s_equations_114,{\displaystyle \partial _{[\alpha }F_{\beta \gamma ]}=0}
+Maxwell%27s_equations_115,{\displaystyle \partial _{\alpha }F^{\alpha \beta }=\mu _{0}J^{\beta }}
+Maxwell%27s_equations_116,{\displaystyle F_{\alpha \beta }=2\partial _{[\alpha }A_{\beta ]}}
+Maxwell%27s_equations_117,{\displaystyle 2\partial _{\alpha }\partial ^{[\alpha }A^{\beta ]}=\mu _{0}J^{\beta }}
+Maxwell%27s_equations_118,{\displaystyle F_{\alpha \beta }=2\partial _{[\alpha }A_{\beta ]}}
+Maxwell%27s_equations_119,{\displaystyle \partial _{\alpha }A^{\alpha }=0}
+Maxwell%27s_equations_120,{\displaystyle \partial _{\alpha }\partial ^{\alpha }A^{\beta }=\mu _{0}J^{\beta }}
+Maxwell%27s_equations_121,{\displaystyle {\begin{aligned}&\partial _{[\alpha }F_{\beta \gamma ]}=\\&\qquad \nabla _{[\alpha }F_{\beta \gamma ]}=0\end{aligned}}}
+Maxwell%27s_equations_122,{\displaystyle {\begin{aligned}&{\frac {1}{\sqrt {-g}}}\partial _{\alpha }({\sqrt {-g}}F^{\alpha \beta })=\\&\qquad \nabla _{\alpha }F^{\alpha \beta }=\mu _{0}J^{\beta }\end{aligned}}}
+Maxwell%27s_equations_123,{\displaystyle F_{\alpha \beta }=2\partial _{[\alpha }A_{\beta ]}}
+Maxwell%27s_equations_124,{\displaystyle {\begin{aligned}&{\frac {2}{\sqrt {-g}}}\partial _{\alpha }({\sqrt {-g}}g^{\alpha \mu }g^{\beta \nu }\partial _{[\mu }A_{\nu ]})=\\&\qquad 2\nabla _{\alpha }(\nabla ^{[\alpha }A^{\beta ]})=\mu _{0}J^{\beta }\end{aligned}}}
+Maxwell%27s_equations_125,{\displaystyle F_{\alpha \beta }=2\partial _{[\alpha }A_{\beta ]}}
+Maxwell%27s_equations_126,{\displaystyle \nabla _{\alpha }A^{\alpha }=0}
+Maxwell%27s_equations_127,{\displaystyle \nabla _{\alpha }\nabla ^{\alpha }A^{\beta }-R^{\beta }{}_{\alpha }A^{\alpha }=\mu _{0}J^{\beta }}
+Maxwell%27s_equations_128,{\displaystyle \mathrm {d} F=0}
+Maxwell%27s_equations_129,{\displaystyle \mathrm {d} {\star }F=\mu _{0}J}
+Maxwell%27s_equations_130,{\displaystyle F=\mathrm {d} A}
+Maxwell%27s_equations_131,{\displaystyle \mathrm {d} {\star }\mathrm {d} A=\mu _{0}J}
+Maxwell%27s_equations_132,{\displaystyle F=\mathrm {d} A}
+Maxwell%27s_equations_133,{\displaystyle \mathrm {d} {\star }A=0}
+Maxwell%27s_equations_134,{\displaystyle {\star }\Box A=\mu _{0}J}
+Maxwell%27s_equations_135,{\displaystyle J=-J_{\alpha }{\star }\mathrm {d} x^{\alpha }}
+Maxwell%27s_equations_136,{\displaystyle {\star }}
+Maxwell%27s_equations_137,{\displaystyle {\star }}
+Maxwell%27s_equations_138,{\displaystyle \Box =(-{\star }\mathrm {d} {\star }\mathrm {d} -\mathrm {d} {\star }\mathrm {d} {\star })}
+Maxwell%27s_equations_139,"{\displaystyle \nabla \cdot \nabla \times \mathbf {B} \equiv 0,\nabla \cdot \nabla \times \mathbf {E} \equiv 0}"

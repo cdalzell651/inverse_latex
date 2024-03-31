@@ -1,0 +1,83 @@
+name,latex
+Elastic_collision_0,{\displaystyle m_{1}u_{1}+m_{2}u_{2}\ =\ m_{1}v_{1}+m_{2}v_{2}.}
+Elastic_collision_1,{\displaystyle {\tfrac {1}{2}}m_{1}u_{1}^{2}+{\tfrac {1}{2}}m_{2}u_{2}^{2}\ =\ {\tfrac {1}{2}}m_{1}v_{1}^{2}+{\tfrac {1}{2}}m_{2}v_{2}^{2}.}
+Elastic_collision_2,"{\displaystyle v_{1},v_{2}}"
+Elastic_collision_3,"{\displaystyle u_{1},u_{2}}"
+Elastic_collision_4,{\displaystyle {\begin{array}{ccc}v_{1}&=&{\dfrac {m_{1}-m_{2}}{m_{1}+m_{2}}}u_{1}+{\dfrac {2m_{2}}{m_{1}+m_{2}}}u_{2}\\[.5em]v_{2}&=&{\dfrac {2m_{1}}{m_{1}+m_{2}}}u_{1}+{\dfrac {m_{2}-m_{1}}{m_{1}+m_{2}}}u_{2}.\end{array}}}
+Elastic_collision_5,"{\displaystyle v=(1+e)v_{CoM}-eu,v_{CoM}={\dfrac {m_{1}u_{1}+m_{2}u_{2}}{m_{1}+m_{2}}}}"
+Elastic_collision_6,{\displaystyle {\begin{aligned}v_{1}&=u_{2}\\v_{2}&=u_{1}.\end{aligned}}}
+Elastic_collision_7,{\displaystyle m_{1}=m_{2}}
+Elastic_collision_8,{\displaystyle m_{1}}
+Elastic_collision_9,{\displaystyle m_{2}}
+Elastic_collision_10,{\displaystyle u_{1}}
+Elastic_collision_11,{\displaystyle v_{1}}
+Elastic_collision_12,"{\displaystyle v_{1},v_{2},}"
+Elastic_collision_13,{\displaystyle {\begin{aligned}m_{1}(v_{1}^{2}-u_{1}^{2})&=m_{2}(u_{2}^{2}-v_{2}^{2})\\m_{1}(v_{1}-u_{1})&=m_{2}(u_{2}-v_{2})\end{aligned}}}
+Elastic_collision_14,"{\displaystyle {\tfrac {a^{2}-b^{2}}{(a-b)}}=a+b,}"
+Elastic_collision_15,{\displaystyle v_{1}+u_{1}=u_{2}+v_{2}\quad \Rightarrow \quad v_{1}-v_{2}=u_{2}-u_{1}.}
+Elastic_collision_16,"{\displaystyle v_{1},v_{2},}"
+Elastic_collision_17,"{\displaystyle m_{1},m_{2},u_{1},u_{2}}"
+Elastic_collision_18,{\displaystyle \left\{{\begin{array}{rcrcc}v_{1}&-&v_{2}&=&u_{2}-u_{1}\\m_{1}v_{1}&+&m_{2}v_{2}&=&m_{1}u_{1}+m_{2}u_{2}.\end{array}}\right.}
+Elastic_collision_19,{\displaystyle v_{1}}
+Elastic_collision_20,{\displaystyle v_{2}}
+Elastic_collision_21,{\displaystyle t}
+Elastic_collision_22,{\displaystyle t'}
+Elastic_collision_23,{\displaystyle {\begin{aligned}{\bar {x}}(t)&={\frac {m_{1}x_{1}(t)+m_{2}x_{2}(t)}{m_{1}+m_{2}}}\\{\bar {x}}(t')&={\frac {m_{1}x_{1}(t')+m_{2}x_{2}(t')}{m_{1}+m_{2}}}.\end{aligned}}}
+Elastic_collision_24,{\displaystyle {\begin{aligned}v_{\bar {x}}&={\frac {m_{1}u_{1}+m_{2}u_{2}}{m_{1}+m_{2}}}\\v_{\bar {x}}'&={\frac {m_{1}v_{1}+m_{2}v_{2}}{m_{1}+m_{2}}}.\end{aligned}}}
+Elastic_collision_25,{\displaystyle v_{\bar {x}}}
+Elastic_collision_26,{\displaystyle v_{\bar {x}}'}
+Elastic_collision_27,"{\displaystyle v_{\bar {x}}=v_{\bar {x}}'\,.}"
+Elastic_collision_28,{\displaystyle p={\frac {mv}{\sqrt {1-{\frac {v^{2}}{c^{2}}}}}}}
+Elastic_collision_29,{\displaystyle {\begin{aligned}p_{1}&=-p_{2}\\p_{1}^{2}&=p_{2}^{2}\\E&={\sqrt {m_{1}^{2}c^{4}+p_{1}^{2}c^{2}}}+{\sqrt {m_{2}^{2}c^{4}+p_{2}^{2}c^{2}}}=E\\p_{1}&=\pm {\frac {\sqrt {E^{4}-2E^{2}m_{1}^{2}c^{4}-2E^{2}m_{2}^{2}c^{4}+m_{1}^{4}c^{8}-2m_{1}^{2}m_{2}^{2}c^{8}+m_{2}^{4}c^{8}}}{2cE}}\\u_{1}&=-v_{1}.\end{aligned}}}
+Elastic_collision_30,"{\displaystyle m_{1},m_{2}}"
+Elastic_collision_31,"{\displaystyle u_{1},u_{2}}"
+Elastic_collision_32,"{\displaystyle v_{1},v_{2}}"
+Elastic_collision_33,"{\displaystyle p_{1},p_{2}}"
+Elastic_collision_34,{\displaystyle c}
+Elastic_collision_35,{\displaystyle E}
+Elastic_collision_36,"{\displaystyle {\begin{aligned}m_{1}u_{1}+m_{2}u_{2}&=m_{1}v_{1}+m_{2}v_{2}=0\\m_{1}u_{1}^{2}+m_{2}u_{2}^{2}&=m_{1}v_{1}^{2}+m_{2}v_{2}^{2}\\{\frac {(m_{2}u_{2})^{2}}{2m_{1}}}+{\frac {(m_{2}u_{2})^{2}}{2m_{2}}}&={\frac {(m_{2}v_{2})^{2}}{2m_{1}}}+{\frac {(m_{2}v_{2})^{2}}{2m_{2}}}\\(m_{1}+m_{2})(m_{2}u_{2})^{2}&=(m_{1}+m_{2})(m_{2}v_{2})^{2}\\u_{2}&=-v_{2}\\{\frac {(m_{1}u_{1})^{2}}{2m_{1}}}+{\frac {(m_{1}u_{1})^{2}}{2m_{2}}}&={\frac {(m_{1}v_{1})^{2}}{2m_{1}}}+{\frac {(m_{1}v_{1})^{2}}{2m_{2}}}\\(m_{1}+m_{2})(m_{1}u_{1})^{2}&=(m_{1}+m_{2})(m_{1}v_{1})^{2}\\u_{1}&=-v_{1}\,.\end{aligned}}}"
+Elastic_collision_37,"{\displaystyle u_{1}=-v_{1},}"
+Elastic_collision_38,{\displaystyle {\begin{aligned}{\frac {m_{1}\;u_{1}}{\sqrt {1-u_{1}^{2}/c^{2}}}}+{\frac {m_{2}\;u_{2}}{\sqrt {1-u_{2}^{2}/c^{2}}}}&={\frac {m_{1}\;v_{1}}{\sqrt {1-v_{1}^{2}/c^{2}}}}+{\frac {m_{2}\;v_{2}}{\sqrt {1-v_{2}^{2}/c^{2}}}}=p_{T}\\{\frac {m_{1}c^{2}}{\sqrt {1-u_{1}^{2}/c^{2}}}}+{\frac {m_{2}c^{2}}{\sqrt {1-u_{2}^{2}/c^{2}}}}&={\frac {m_{1}c^{2}}{\sqrt {1-v_{1}^{2}/c^{2}}}}+{\frac {m_{2}c^{2}}{\sqrt {1-v_{2}^{2}/c^{2}}}}=E\end{aligned}}}
+Elastic_collision_39,"{\displaystyle p_{T},}"
+Elastic_collision_40,{\displaystyle E}
+Elastic_collision_41,{\displaystyle v_{c}}
+Elastic_collision_42,{\displaystyle v_{c}}
+Elastic_collision_43,{\displaystyle v_{c}={\frac {p_{T}c^{2}}{E}}}
+Elastic_collision_44,{\displaystyle u_{1}'}
+Elastic_collision_45,{\displaystyle u_{2}'}
+Elastic_collision_46,{\displaystyle {\begin{aligned}u_{1}'&={\frac {u_{1}-v_{c}}{1-{\frac {u_{1}v_{c}}{c^{2}}}}}\\u_{2}'&={\frac {u_{2}-v_{c}}{1-{\frac {u_{2}v_{c}}{c^{2}}}}}\\v_{1}'&=-u_{1}'\\v_{2}'&=-u_{2}'\\v_{1}&={\frac {v_{1}'+v_{c}}{1+{\frac {v_{1}'v_{c}}{c^{2}}}}}\\v_{2}&={\frac {v_{2}'+v_{c}}{1+{\frac {v_{2}'v_{c}}{c^{2}}}}}\end{aligned}}}
+Elastic_collision_47,{\displaystyle u_{1}\ll c}
+Elastic_collision_48,"{\displaystyle u_{2}\ll c\,,}"
+Elastic_collision_49,{\displaystyle {\begin{aligned}p_{T}&\approx m_{1}u_{1}+m_{2}u_{2}\\v_{c}&\approx {\frac {m_{1}u_{1}+m_{2}u_{2}}{m_{1}+m_{2}}}\\u_{1}'&\approx u_{1}-v_{c}\approx {\frac {m_{1}u_{1}+m_{2}u_{1}-m_{1}u_{1}-m_{2}u_{2}}{m_{1}+m_{2}}}={\frac {m_{2}(u_{1}-u_{2})}{m_{1}+m_{2}}}\\u_{2}'&\approx {\frac {m_{1}(u_{2}-u_{1})}{m_{1}+m_{2}}}\\v_{1}'&\approx {\frac {m_{2}(u_{2}-u_{1})}{m_{1}+m_{2}}}\\v_{2}'&\approx {\frac {m_{1}(u_{1}-u_{2})}{m_{1}+m_{2}}}\\v_{1}&\approx v_{1}'+v_{c}\approx {\frac {m_{2}u_{2}-m_{2}u_{1}+m_{1}u_{1}+m_{2}u_{2}}{m_{1}+m_{2}}}={\frac {u_{1}(m_{1}-m_{2})+2m_{2}u_{2}}{m_{1}+m_{2}}}\\v_{2}&\approx {\frac {u_{2}(m_{2}-m_{1})+2m_{1}u_{1}}{m_{1}+m_{2}}}\end{aligned}}}
+Elastic_collision_50,{\displaystyle s}
+Elastic_collision_51,"{\displaystyle {\frac {v}{c}}=\tanh(s),}"
+Elastic_collision_52,{\displaystyle {\sqrt {1-{\frac {v^{2}}{c^{2}}}}}=\operatorname {sech} (s).}
+Elastic_collision_53,{\displaystyle {\begin{aligned}E&={\frac {mc^{2}}{\sqrt {1-{\frac {v^{2}}{c^{2}}}}}}=mc^{2}\cosh(s)\\p&={\frac {mv}{\sqrt {1-{\frac {v^{2}}{c^{2}}}}}}=mc\sinh(s)\end{aligned}}}
+Elastic_collision_54,{\displaystyle m_{1}}
+Elastic_collision_55,"{\displaystyle m_{2},}"
+Elastic_collision_56,"{\displaystyle v_{1},v_{2},u_{1},u_{2}}"
+Elastic_collision_57,"{\displaystyle s_{1},s_{2},s_{3},s_{4}}"
+Elastic_collision_58,{\displaystyle c}
+Elastic_collision_59,{\displaystyle {\begin{aligned}m_{1}\cosh(s_{1})+m_{2}\cosh(s_{2})&=m_{1}\cosh(s_{3})+m_{2}\cosh(s_{4})\\m_{1}\sinh(s_{1})+m_{2}\sinh(s_{2})&=m_{1}\sinh(s_{3})+m_{2}\sinh(s_{4})\end{aligned}}}
+Elastic_collision_60,{\displaystyle m_{1}e^{s_{1}}+m_{2}e^{s_{2}}=m_{1}e^{s_{3}}+m_{2}e^{s_{4}}}
+Elastic_collision_62,{\displaystyle 2m_{1}m_{2}(\cosh(s_{1})\cosh(s_{2})-\sinh(s_{2})\sinh(s_{1}))=2m_{1}m_{2}(\cosh(s_{3})\cosh(s_{4})-\sinh(s_{4})\sinh(s_{3}))}
+Elastic_collision_64,{\displaystyle \cosh(s_{1}-s_{2})=\cosh(s_{3}-s_{4})}
+Elastic_collision_65,{\displaystyle \cosh(s)}
+Elastic_collision_66,{\displaystyle {\begin{aligned}s_{1}-s_{2}&=s_{3}-s_{4}\\s_{1}-s_{2}&=-s_{3}+s_{4}\end{aligned}}}
+Elastic_collision_67,{\displaystyle s_{2}}
+Elastic_collision_68,{\displaystyle e^{s_{1}}}
+Elastic_collision_69,"{\displaystyle e^{s_{2}},}"
+Elastic_collision_70,{\displaystyle {\begin{aligned}e^{s_{1}}&=e^{s_{4}}{\frac {m_{1}e^{s_{3}}+m_{2}e^{s_{4}}}{m_{1}e^{s_{4}}+m_{2}e^{s_{3}}}}\\e^{s_{2}}&=e^{s_{3}}{\frac {m_{1}e^{s_{3}}+m_{2}e^{s_{4}}}{m_{1}e^{s_{4}}+m_{2}e^{s_{3}}}}\end{aligned}}}
+Elastic_collision_71,{\displaystyle {\begin{aligned}v_{1}/c&=\tanh(s_{1})={\frac {e^{s_{1}}-e^{-s_{1}}}{e^{s_{1}}+e^{-s_{1}}}}\\v_{2}/c&=\tanh(s_{2})={\frac {e^{s_{2}}-e^{-s_{2}}}{e^{s_{2}}+e^{-s_{2}}}}\end{aligned}}}
+Elastic_collision_72,{\displaystyle e^{s_{3}}={\sqrt {\frac {c+u_{1}}{c-u_{1}}}}}
+Elastic_collision_73,"{\displaystyle e^{s_{4}}={\sqrt {\frac {c+u_{2}}{c-u_{2}}}},}"
+Elastic_collision_75,"{\displaystyle {\begin{aligned}v_{1}&={\frac {2m_{1}m_{2}c^{2}u_{2}Z+2m_{2}^{2}c^{2}u_{2}-(m_{1}^{2}+m_{2}^{2})u_{1}u_{2}^{2}+(m_{1}^{2}-m_{2}^{2})c^{2}u_{1}}{2m_{1}m_{2}c^{2}Z-2m_{2}^{2}u_{1}u_{2}-(m_{1}^{2}-m_{2}^{2})u_{2}^{2}+(m_{1}^{2}+m_{2}^{2})c^{2}}}\\v_{2}&={\frac {2m_{1}m_{2}c^{2}u_{1}Z+2m_{1}^{2}c^{2}u_{1}-(m_{1}^{2}+m_{2}^{2})u_{1}^{2}u_{2}+(m_{2}^{2}-m_{1}^{2})c^{2}u_{2}}{2m_{1}m_{2}c^{2}Z-2m_{1}^{2}u_{1}u_{2}-(m_{2}^{2}-m_{1}^{2})u_{1}^{2}+(m_{1}^{2}+m_{2}^{2})c^{2}}}\,.\end{aligned}}}"
+Elastic_collision_76,{\displaystyle \theta _{1}}
+Elastic_collision_77,{\displaystyle \theta _{2}}
+Elastic_collision_78,{\displaystyle \theta }
+Elastic_collision_79,"{\displaystyle \tan \theta _{1}={\frac {m_{2}\sin \theta }{m_{1}+m_{2}\cos \theta }},\qquad \theta _{2}={\frac {{\pi }-{\theta }}{2}}.}"
+Elastic_collision_80,{\displaystyle {\begin{aligned}v'_{1}&=v_{1}{\frac {\sqrt {m_{1}^{2}+m_{2}^{2}+2m_{1}m_{2}\cos \theta }}{m_{1}+m_{2}}}\\v'_{2}&=v_{1}{\frac {2m_{1}}{m_{1}+m_{2}}}\sin {\frac {\theta }{2}}.\end{aligned}}}
+Elastic_collision_81,"{\displaystyle {\begin{aligned}v'_{1x}&={\frac {v_{1}\cos(\theta _{1}-\varphi )(m_{1}-m_{2})+2m_{2}v_{2}\cos(\theta _{2}-\varphi )}{m_{1}+m_{2}}}\cos(\varphi )+v_{1}\sin(\theta _{1}-\varphi )\cos(\varphi +{\tfrac {\pi }{2}})\\[0.8em]v'_{1y}&={\frac {v_{1}\cos(\theta _{1}-\varphi )(m_{1}-m_{2})+2m_{2}v_{2}\cos(\theta _{2}-\varphi )}{m_{1}+m_{2}}}\sin(\varphi )+v_{1}\sin(\theta _{1}-\varphi )\sin(\varphi +{\tfrac {\pi }{2}}),\end{aligned}}}"
+Elastic_collision_82,"{\displaystyle v_{1x}=v_{1}\cos \theta _{1},\;v_{1y}=v_{1}\sin \theta _{1}}"
+Elastic_collision_83,"{\displaystyle {\begin{aligned}\mathbf {v} '_{1}&=\mathbf {v} _{1}-{\frac {2m_{2}}{m_{1}+m_{2}}}\ {\frac {\langle \mathbf {v} _{1}-\mathbf {v} _{2},\,\mathbf {x} _{1}-\mathbf {x} _{2}\rangle }{\|\mathbf {x} _{1}-\mathbf {x} _{2}\|^{2}}}\ (\mathbf {x} _{1}-\mathbf {x} _{2}),\\\mathbf {v} '_{2}&=\mathbf {v} _{2}-{\frac {2m_{1}}{m_{1}+m_{2}}}\ {\frac {\langle \mathbf {v} _{2}-\mathbf {v} _{1},\,\mathbf {x} _{2}-\mathbf {x} _{1}\rangle }{\|\mathbf {x} _{2}-\mathbf {x} _{1}\|^{2}}}\ (\mathbf {x} _{2}-\mathbf {x} _{1})\end{aligned}}}"
+Elastic_collision_84,"{\displaystyle \langle \mathbf {v} '_{1},\mathbf {v} '_{2}\rangle =\langle \mathbf {v} _{1},\mathbf {v} _{2}\rangle .}"

@@ -1,0 +1,66 @@
+name,latex
+Orbit_(celestial_mechanics)_0,{\displaystyle F_{2}=-{\frac {Gm_{1}m_{2}}{r^{2}}}}
+Orbit_(celestial_mechanics)_1,{\displaystyle F_{2}=m_{2}A_{2}}
+Orbit_(celestial_mechanics)_2,{\displaystyle -{\frac {Gm_{1}m_{2}}{r^{2}}}=m_{2}A_{2}}
+Orbit_(celestial_mechanics)_3,{\displaystyle A_{2}={\frac {F_{2}}{m_{2}}}=-{\frac {1}{m_{2}}}{\frac {Gm_{1}m_{2}}{r^{2}}}=-{\frac {\mu }{r^{2}}}}
+Orbit_(celestial_mechanics)_4,"{\displaystyle \mu \,}"
+Orbit_(celestial_mechanics)_5,{\displaystyle Gm_{1}}
+Orbit_(celestial_mechanics)_6,{\displaystyle A=F/m=-kr.}
+Orbit_(celestial_mechanics)_7,{\displaystyle {\hat {\mathbf {x} }}}
+Orbit_(celestial_mechanics)_8,{\displaystyle {\hat {\mathbf {y} }}}
+Orbit_(celestial_mechanics)_9,{\displaystyle r''_{x}=A_{x}=-kr_{x}}
+Orbit_(celestial_mechanics)_10,{\displaystyle x=A\cos(t)}
+Orbit_(celestial_mechanics)_11,{\displaystyle y=B\sin(t)}
+Orbit_(celestial_mechanics)_12,{\displaystyle t}
+Orbit_(celestial_mechanics)_13,{\displaystyle r}
+Orbit_(celestial_mechanics)_14,{\displaystyle \theta }
+Orbit_(celestial_mechanics)_15,{\displaystyle {\hat {\mathbf {x} }}}
+Orbit_(celestial_mechanics)_16,{\displaystyle {\hat {\mathbf {y} }}}
+Orbit_(celestial_mechanics)_17,{\displaystyle {\hat {\mathbf {r} }}=\cos(\theta ){\hat {\mathbf {x} }}+\sin(\theta ){\hat {\mathbf {y} }}}
+Orbit_(celestial_mechanics)_18,{\displaystyle {\hat {\boldsymbol {\theta }}}=-\sin(\theta ){\hat {\mathbf {x} }}+\cos(\theta ){\hat {\mathbf {y} }}}
+Orbit_(celestial_mechanics)_19,{\displaystyle {\hat {\mathbf {O} }}=r\cos(\theta ){\hat {\mathbf {x} }}+r\sin(\theta ){\hat {\mathbf {y} }}=r{\hat {\mathbf {r} }}}
+Orbit_(celestial_mechanics)_20,{\displaystyle {\dot {r}}}
+Orbit_(celestial_mechanics)_21,{\displaystyle {\dot {\theta }}}
+Orbit_(celestial_mechanics)_22,{\displaystyle t}
+Orbit_(celestial_mechanics)_23,{\displaystyle t+\delta t}
+Orbit_(celestial_mechanics)_24,{\displaystyle \delta t}
+Orbit_(celestial_mechanics)_25,{\displaystyle {\hat {\mathbf {r} }}}
+Orbit_(celestial_mechanics)_26,{\displaystyle t}
+Orbit_(celestial_mechanics)_27,{\displaystyle t+\delta t}
+Orbit_(celestial_mechanics)_28,{\displaystyle {\hat {\mathbf {r} }}}
+Orbit_(celestial_mechanics)_29,{\displaystyle \theta }
+Orbit_(celestial_mechanics)_30,{\displaystyle \theta +{\dot {\theta }}\ \delta t}
+Orbit_(celestial_mechanics)_31,{\displaystyle {\dot {\theta }}\ \delta t}
+Orbit_(celestial_mechanics)_32,{\displaystyle {\hat {\boldsymbol {\theta }}}}
+Orbit_(celestial_mechanics)_33,{\displaystyle {\dot {\theta }}{\hat {\boldsymbol {\theta }}}}
+Orbit_(celestial_mechanics)_34,{\displaystyle {\begin{aligned}{\hat {\mathbf {r} }}&=\cos(\theta ){\hat {\mathbf {x} }}+\sin(\theta ){\hat {\mathbf {y} }}\\{\frac {\delta {\hat {\mathbf {r} }}}{\delta t}}={\dot {\mathbf {r} }}&=-\sin(\theta ){\dot {\theta }}{\hat {\mathbf {x} }}+\cos(\theta ){\dot {\theta }}{\hat {\mathbf {y} }}={\dot {\theta }}{\hat {\boldsymbol {\theta }}}\\{\hat {\boldsymbol {\theta }}}&=-\sin(\theta ){\hat {\mathbf {x} }}+\cos(\theta ){\hat {\mathbf {y} }}\\{\frac {\delta {\hat {\boldsymbol {\theta }}}}{\delta t}}={\dot {\boldsymbol {\theta }}}&=-\cos(\theta ){\dot {\theta }}{\hat {\mathbf {x} }}-\sin(\theta ){\dot {\theta }}{\hat {\mathbf {y} }}=-{\dot {\theta }}{\hat {\mathbf {r} }}\end{aligned}}}
+Orbit_(celestial_mechanics)_35,{\displaystyle {\begin{aligned}{\hat {\mathbf {O} }}&=r{\hat {\mathbf {r} }}\\{\dot {\mathbf {O} }}&={\frac {\delta r}{\delta t}}{\hat {\mathbf {r} }}+r{\frac {\delta {\hat {\mathbf {r} }}}{\delta t}}={\dot {r}}{\hat {\mathbf {r} }}+r\left[{\dot {\theta }}{\hat {\boldsymbol {\theta }}}\right]\\{\ddot {\mathbf {O} }}&=\left[{\ddot {r}}{\hat {\mathbf {r} }}+{\dot {r}}{\dot {\theta }}{\hat {\boldsymbol {\theta }}}\right]+\left[{\dot {r}}{\dot {\theta }}{\hat {\boldsymbol {\theta }}}+r{\ddot {\theta }}{\hat {\boldsymbol {\theta }}}-r{\dot {\theta }}^{2}{\hat {\mathbf {r} }}\right]\\&=\left[{\ddot {r}}-r{\dot {\theta }}^{2}\right]{\hat {\mathbf {r} }}+\left[r{\ddot {\theta }}+2{\dot {r}}{\dot {\theta }}\right]{\hat {\boldsymbol {\theta }}}\end{aligned}}}
+Orbit_(celestial_mechanics)_36,{\displaystyle {\hat {\mathbf {r} }}}
+Orbit_(celestial_mechanics)_37,{\displaystyle {\hat {\boldsymbol {\theta }}}}
+Orbit_(celestial_mechanics)_38,{\displaystyle -\mu /r^{2}}
+Orbit_(celestial_mechanics)_39,{\displaystyle {\ddot {r}}-r{\dot {\theta }}^{2}=-{\frac {\mu }{r^{2}}}}
+Orbit_(celestial_mechanics)_40,{\displaystyle r{\ddot {\theta }}+2{\dot {r}}{\dot {\theta }}=0}
+Orbit_(celestial_mechanics)_41,{\displaystyle r{\ddot {\theta }}+2{\dot {r}}{\dot {\theta }}={\frac {1}{r}}{\frac {d}{dt}}\left(r^{2}{\dot {\theta }}\right)=0}
+Orbit_(celestial_mechanics)_42,{\displaystyle r}
+Orbit_(celestial_mechanics)_43,{\displaystyle r^{2}{\dot {\theta }}=h}
+Orbit_(celestial_mechanics)_44,{\displaystyle r}
+Orbit_(celestial_mechanics)_45,{\displaystyle \theta }
+Orbit_(celestial_mechanics)_46,{\displaystyle u=1/r}
+Orbit_(celestial_mechanics)_47,{\displaystyle u}
+Orbit_(celestial_mechanics)_48,{\displaystyle \theta }
+Orbit_(celestial_mechanics)_49,{\displaystyle r}
+Orbit_(celestial_mechanics)_50,{\displaystyle u}
+Orbit_(celestial_mechanics)_51,{\displaystyle u={1 \over r}}
+Orbit_(celestial_mechanics)_52,{\displaystyle {\dot {\theta }}={\frac {h}{r^{2}}}=hu^{2}}
+Orbit_(celestial_mechanics)_53,{\displaystyle {\begin{aligned}{\frac {\delta u}{\delta \theta }}&={\frac {\delta }{\delta t}}\left({\frac {1}{r}}\right){\frac {\delta t}{\delta \theta }}=-{\frac {\dot {r}}{r^{2}{\dot {\theta }}}}=-{\frac {\dot {r}}{h}}\\{\frac {\delta ^{2}u}{\delta \theta ^{2}}}&=-{\frac {1}{h}}{\frac {\delta {\dot {r}}}{\delta t}}{\frac {\delta t}{\delta \theta }}=-{\frac {\ddot {r}}{h{\dot {\theta }}}}=-{\frac {\ddot {r}}{h^{2}u^{2}}}\ \ \ {\text{ or }}\ \ \ {\ddot {r}}=-h^{2}u^{2}{\frac {\delta ^{2}u}{\delta \theta ^{2}}}\end{aligned}}}
+Orbit_(celestial_mechanics)_54,{\displaystyle {\begin{aligned}{\ddot {r}}-r{\dot {\theta }}^{2}&=-{\frac {\mu }{r^{2}}}\\-h^{2}u^{2}{\frac {\delta ^{2}u}{\delta \theta ^{2}}}-{\frac {1}{u}}\left(hu^{2}\right)^{2}&=-\mu u^{2}\end{aligned}}}
+Orbit_(celestial_mechanics)_55,{\displaystyle {\frac {\delta ^{2}u}{\delta \theta ^{2}}}+u={\frac {\mu }{h^{2}}}}
+Orbit_(celestial_mechanics)_56,{\displaystyle u(\theta )={\frac {\mu }{h^{2}}}+A\cos(\theta -\theta _{0})}
+Orbit_(celestial_mechanics)_57,{\displaystyle e\equiv h^{2}A/\mu }
+Orbit_(celestial_mechanics)_58,{\displaystyle u(\theta )={\frac {\mu }{h^{2}}}(1+e\cos(\theta -\theta _{0}))}
+Orbit_(celestial_mechanics)_59,{\displaystyle a\equiv h^{2}/\mu \left(1-e^{2}\right)}
+Orbit_(celestial_mechanics)_60,{\displaystyle \theta _{0}\equiv 0}
+Orbit_(celestial_mechanics)_61,{\displaystyle r(\theta )={\frac {a\left(1-e^{2}\right)}{1+e\cos \theta }}}
+Orbit_(celestial_mechanics)_62,{\displaystyle {\begin{aligned}{\frac {\delta r}{\delta \theta }}&=-{\frac {1}{u^{2}}}{\frac {\delta u}{\delta \theta }}=-{\frac {h}{m}}{\frac {\delta u}{\delta \theta }}\\{\frac {\delta ^{2}r}{\delta \theta ^{2}}}&=-{\frac {h^{2}u^{2}}{m^{2}}}{\frac {\delta ^{2}u}{\delta \theta ^{2}}}-{\frac {hu^{2}}{m^{2}}}{\frac {\delta h}{\delta \theta }}{\frac {\delta u}{\delta \theta }}\\\left({\frac {\delta \theta }{\delta t}}\right)^{2}r&={\frac {h^{2}u^{3}}{m^{2}}}\end{aligned}}}
+Orbit_(celestial_mechanics)_63,{\displaystyle {\frac {\delta }{\delta \theta }}\left(h{\frac {\delta u}{\delta \theta }}\right)+hu={\frac {\mu }{h}}}
+Orbit_(celestial_mechanics)_64,"{\displaystyle GT^{2}\rho =3\pi \left({\frac {a}{r}}\right)^{3},}"

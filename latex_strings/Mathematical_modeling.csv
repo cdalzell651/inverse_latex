@@ -1,0 +1,32 @@
+name,latex
+Mathematical_modeling_0,{\displaystyle M}
+Mathematical_modeling_1,"{\displaystyle M=(Q,\Sigma ,\delta ,q_{0},F)}"
+Mathematical_modeling_2,"{\displaystyle Q=\{S_{1},S_{2}\},}"
+Mathematical_modeling_3,"{\displaystyle \Sigma =\{0,1\},}"
+Mathematical_modeling_4,"{\displaystyle q_{0}=S_{1},}"
+Mathematical_modeling_5,"{\displaystyle F=\{S_{1}\},}"
+Mathematical_modeling_6,{\displaystyle \delta }
+Mathematical_modeling_7,{\displaystyle S_{2}}
+Mathematical_modeling_8,{\displaystyle S_{1}}
+Mathematical_modeling_9,{\displaystyle S_{1}}
+Mathematical_modeling_10,{\displaystyle S_{2}}
+Mathematical_modeling_11,{\displaystyle S_{1}}
+Mathematical_modeling_12,{\displaystyle S_{2}}
+Mathematical_modeling_13,{\displaystyle M}
+Mathematical_modeling_14,"{\displaystyle S_{1},}"
+Mathematical_modeling_15,{\displaystyle M}
+Mathematical_modeling_16,{\displaystyle V\!:\mathbb {R} ^{3}\!\to \mathbb {R} }
+Mathematical_modeling_17,"{\displaystyle \mathbf {r} \!:\mathbb {R} \to \mathbb {R} ^{3},}"
+Mathematical_modeling_18,"{\displaystyle -{\frac {\mathrm {d} ^{2}\mathbf {r} (t)}{\mathrm {d} t^{2}}}m={\frac {\partial V[\mathbf {r} (t)]}{\partial x}}\mathbf {\hat {x}} +{\frac {\partial V[\mathbf {r} (t)]}{\partial y}}\mathbf {\hat {y}} +{\frac {\partial V[\mathbf {r} (t)]}{\partial z}}\mathbf {\hat {z}} ,}"
+Mathematical_modeling_19,{\displaystyle m{\frac {\mathrm {d} ^{2}\mathbf {r} (t)}{\mathrm {d} t^{2}}}=-\nabla V[\mathbf {r} (t)].}
+Mathematical_modeling_20,{\displaystyle n}
+Mathematical_modeling_21,"{\displaystyle 1,2,\dots ,n}"
+Mathematical_modeling_22,"{\displaystyle p_{1},p_{2},\dots ,p_{n}.}"
+Mathematical_modeling_23,{\displaystyle U}
+Mathematical_modeling_24,"{\displaystyle x_{1},x_{2},\dots ,x_{n}}"
+Mathematical_modeling_25,{\displaystyle M}
+Mathematical_modeling_26,"{\displaystyle x_{1},x_{2},\dots ,x_{n}}"
+Mathematical_modeling_27,"{\displaystyle U(x_{1},x_{2},\dots ,x_{n}).}"
+Mathematical_modeling_28,"{\displaystyle \max \,U(x_{1},x_{2},\ldots ,x_{n})}"
+Mathematical_modeling_29,"{\displaystyle \sum _{i=1}^{n}p_{i}x_{i}\leq M,}"
+Mathematical_modeling_30,"{\displaystyle x_{i}\geq 0\;\;\;{\text{ for all }}i=1,2,\dots ,n.}"

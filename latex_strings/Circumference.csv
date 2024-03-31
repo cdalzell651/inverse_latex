@@ -1,0 +1,24 @@
+name,latex
+Circumference_0,{\displaystyle \pi .}
+Circumference_1,{\displaystyle 2\pi .}
+Circumference_2,{\displaystyle \pi .}
+Circumference_3,{\displaystyle \pi }
+Circumference_4,{\displaystyle C}
+Circumference_5,{\displaystyle d:}
+Circumference_6,{\displaystyle \pi ={\frac {C}{d}}.}
+Circumference_7,{\displaystyle {C}=\pi \cdot {d}=2\pi \cdot {r}.\!}
+Circumference_8,{\displaystyle 2\pi }
+Circumference_9,{\displaystyle 2\pi }
+Circumference_10,"{\displaystyle C/d,}"
+Circumference_11,"{\displaystyle {\frac {x^{2}}{a^{2}}}+{\frac {y^{2}}{b^{2}}}=1,}"
+Circumference_12,{\displaystyle C_{\rm {ellipse}}\sim \pi {\sqrt {2\left(a^{2}+b^{2}\right)}}.}
+Circumference_13,{\displaystyle a\geq b}
+Circumference_14,"{\displaystyle 2\pi b\leq C\leq 2\pi a,}"
+Circumference_15,"{\displaystyle \pi (a+b)\leq C\leq 4(a+b),}"
+Circumference_16,{\displaystyle 4{\sqrt {a^{2}+b^{2}}}\leq C\leq \pi {\sqrt {2\left(a^{2}+b^{2}\right)}}.}
+Circumference_17,{\displaystyle 2\pi a}
+Circumference_18,{\displaystyle 4{\sqrt {a^{2}+b^{2}}}}
+Circumference_19,"{\displaystyle C_{\rm {ellipse}}=4a\int _{0}^{\pi /2}{\sqrt {1-e^{2}\sin ^{2}\theta }}\ d\theta ,}"
+Circumference_20,{\displaystyle a}
+Circumference_21,{\displaystyle e}
+Circumference_22,{\displaystyle {\sqrt {1-b^{2}/a^{2}}}.}

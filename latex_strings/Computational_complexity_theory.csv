@@ -1,0 +1,4 @@
+name,latex
+Computational_complexity_theory_0,{\displaystyle {\mathcal {O}}(n\log n)}
+Computational_complexity_theory_3,{\displaystyle O(2^{\sqrt {n\log n}})}
+Computational_complexity_theory_4,{\displaystyle O(e^{\left({\sqrt[{3}]{\frac {64}{9}}}\right){\sqrt[{3}]{(\log n)}}{\sqrt[{3}]{(\log \log n)^{2}}}})}

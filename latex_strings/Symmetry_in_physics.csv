@@ -1,0 +1,20 @@
+name,latex
+Symmetry_in_physics_0,"{\displaystyle t\,\rightarrow -t}"
+Symmetry_in_physics_1,"{\displaystyle F\,=m{\ddot {r}}}"
+Symmetry_in_physics_2,{\displaystyle t}
+Symmetry_in_physics_3,{\displaystyle -t}
+Symmetry_in_physics_4,"{\displaystyle {\vec {r}}\,\rightarrow -{\vec {r}}}"
+Symmetry_in_physics_5,{\displaystyle h(x)}
+Symmetry_in_physics_6,{\displaystyle \phi (x)}
+Symmetry_in_physics_7,{\displaystyle \psi (x)}
+Symmetry_in_physics_8,{\displaystyle A(x)}
+Symmetry_in_physics_9,{\displaystyle \delta \phi (x)=h^{\mu }(x)\partial _{\mu }\phi (x)}
+Symmetry_in_physics_10,{\displaystyle \delta \psi ^{\alpha }(x)=h^{\mu }(x)\partial _{\mu }\psi ^{\alpha }(x)+\partial _{\mu }h_{\nu }(x)\sigma _{\mu \nu }^{\alpha \beta }\psi ^{\beta }(x)}
+Symmetry_in_physics_11,{\displaystyle \delta A_{\mu }(x)=h^{\nu }(x)\partial _{\nu }A_{\mu }(x)+A_{\nu }(x)\partial _{\mu }h^{\nu }(x)}
+Symmetry_in_physics_12,{\displaystyle h(x)}
+Symmetry_in_physics_13,{\displaystyle h^{\mu }(x)=M^{\mu \nu }x_{\nu }+P^{\mu }}
+Symmetry_in_physics_14,{\displaystyle \delta \psi ^{\alpha }(x)=\lambda (x).\tau ^{\alpha \beta }\psi ^{\beta }(x)}
+Symmetry_in_physics_15,"{\displaystyle \delta A_{\mu }(x)=\partial _{\mu }\lambda (x),}"
+Symmetry_in_physics_16,{\displaystyle \tau }
+Symmetry_in_physics_17,{\displaystyle \delta \phi (x)=\Omega (x)\phi (x)}
+Symmetry_in_physics_18,"{\displaystyle h^{\mu }(x)=M^{\mu \nu }x_{\nu }+P^{\mu }+Dx_{\mu }+K^{\mu }|x|^{2}-2K^{\nu }x_{\nu }x_{\mu },}"

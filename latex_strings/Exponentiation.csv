@@ -1,0 +1,350 @@
+name,latex
+Exponentiation_0,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{term}}\,+\,{\text{term}}\\\scriptstyle {\text{summand}}\,+\,{\text{summand}}\\\scriptstyle {\text{addend}}\,+\,{\text{addend}}\\\scriptstyle {\text{augend}}\,+\,{\text{addend}}\end{matrix}}\right\}\,=\,}"
+Exponentiation_1,{\displaystyle \scriptstyle {\text{sum}}}
+Exponentiation_2,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{term}}\,-\,{\text{term}}\\\scriptstyle {\text{minuend}}\,-\,{\text{subtrahend}}\end{matrix}}\right\}\,=\,}"
+Exponentiation_3,{\displaystyle \scriptstyle {\text{difference}}}
+Exponentiation_4,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{factor}}\,\times \,{\text{factor}}\\\scriptstyle {\text{multiplier}}\,\times \,{\text{multiplicand}}\end{matrix}}\right\}\,=\,}"
+Exponentiation_5,{\displaystyle \scriptstyle {\text{product}}}
+Exponentiation_6,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\frac {\scriptstyle {\text{dividend}}}{\scriptstyle {\text{divisor}}}}\\[1ex]\scriptstyle {\frac {\scriptstyle {\text{numerator}}}{\scriptstyle {\text{denominator}}}}\end{matrix}}\right\}\,=\,}"
+Exponentiation_7,{\displaystyle \scriptstyle \left\{{\begin{matrix}\scriptstyle {\text{fraction}}\\\scriptstyle {\text{quotient}}\\\scriptstyle {\text{ratio}}\end{matrix}}\right.}
+Exponentiation_8,"{\displaystyle \scriptstyle {\text{base}}^{\text{exponent}}\,=\,}"
+Exponentiation_9,{\displaystyle \scriptstyle {\text{power}}}
+Exponentiation_10,"{\displaystyle \scriptstyle {\sqrt[{\text{degree}}]{\scriptstyle {\text{radicand}}}}\,=\,}"
+Exponentiation_11,{\displaystyle \scriptstyle {\text{root}}}
+Exponentiation_12,"{\displaystyle \scriptstyle \log _{\text{base}}({\text{anti-logarithm}})\,=\,}"
+Exponentiation_13,{\displaystyle \scriptstyle {\text{logarithm}}}
+Exponentiation_14,{\displaystyle b^{n}=\underbrace {b\times b\times \dots \times b\times b} _{n{\text{ times}}}.}
+Exponentiation_15,{\displaystyle n}
+Exponentiation_16,{\displaystyle b^{n}}
+Exponentiation_17,{\displaystyle n}
+Exponentiation_18,{\displaystyle b}
+Exponentiation_19,{\displaystyle {\begin{aligned}b^{n+m}&=\underbrace {b\times \dots \times b} _{n+m{\text{ times}}}\\[1ex]&=\underbrace {b\times \dots \times b} _{n{\text{ times}}}\times \underbrace {b\times \dots \times b} _{m{\text{ times}}}\\[1ex]&=b^{n}\times b^{m}\end{aligned}}}
+Exponentiation_20,{\displaystyle b^{0}}
+Exponentiation_21,{\displaystyle b\neq 0}
+Exponentiation_22,{\displaystyle n}
+Exponentiation_23,{\displaystyle b^{0}\times b^{n}=b^{0+n}=b^{n}}
+Exponentiation_24,{\displaystyle b^{n}}
+Exponentiation_25,{\displaystyle b^{0}=b^{n}/b^{n}=1}
+Exponentiation_26,{\displaystyle b^{1}=b}
+Exponentiation_27,{\displaystyle (b^{1})^{3}=b^{1}\times b^{1}\times b^{1}=b^{1+1+1}=b^{3}}
+Exponentiation_28,{\displaystyle b^{1}=b}
+Exponentiation_29,{\displaystyle b^{-1}}
+Exponentiation_30,{\displaystyle b^{-1}\times b^{1}=b^{-1+1}=b^{0}=1}
+Exponentiation_31,{\displaystyle b^{1}}
+Exponentiation_32,{\displaystyle b^{-1}=1/b^{1}}
+Exponentiation_33,{\displaystyle b^{-1}=1/b}
+Exponentiation_34,{\displaystyle b^{1}=b}
+Exponentiation_35,{\displaystyle b^{-n}=1/b^{n}}
+Exponentiation_36,{\displaystyle {\sqrt {b}}}
+Exponentiation_37,{\displaystyle r}
+Exponentiation_38,{\displaystyle b^{r}={\sqrt {b}}}
+Exponentiation_39,{\displaystyle {\sqrt {b}}\times {\sqrt {b}}=b}
+Exponentiation_40,{\displaystyle r}
+Exponentiation_41,{\displaystyle b^{r}\times b^{r}=b}
+Exponentiation_42,{\displaystyle b^{r+r}=b}
+Exponentiation_43,{\displaystyle b}
+Exponentiation_44,{\displaystyle b^{1}}
+Exponentiation_45,{\displaystyle b^{r+r}=b^{1}}
+Exponentiation_46,{\displaystyle r+r=1}
+Exponentiation_47,{\displaystyle r={\frac {1}{2}}}
+Exponentiation_48,{\displaystyle {\sqrt {b}}=b^{1/2}}
+Exponentiation_49,{\displaystyle b^{1}=b}
+Exponentiation_50,{\displaystyle b^{n+1}=b^{n}\cdot b.}
+Exponentiation_51,"{\displaystyle b^{m+n}=b^{m}\cdot b^{n},}"
+Exponentiation_52,{\displaystyle (b^{m})^{n}=b^{mn}.}
+Exponentiation_53,{\displaystyle b^{0}=1.}
+Exponentiation_54,{\displaystyle b^{m+n}=b^{m}\cdot b^{n}}
+Exponentiation_55,{\displaystyle n=0}
+Exponentiation_56,{\displaystyle b^{-n}={\frac {1}{b^{n}}}}
+Exponentiation_57,{\displaystyle \infty }
+Exponentiation_58,{\displaystyle b^{m+n}=b^{m}\cdot b^{n}}
+Exponentiation_59,{\displaystyle m=-n}
+Exponentiation_60,{\displaystyle x^{-1}.}
+Exponentiation_61,{\displaystyle {\begin{aligned}b^{m+n}&=b^{m}\cdot b^{n}\\\left(b^{m}\right)^{n}&=b^{m\cdot n}\\(b\cdot c)^{n}&=b^{n}\cdot c^{n}\end{aligned}}}
+Exponentiation_62,"{\displaystyle b^{p^{q}}=b^{\left(p^{q}\right)},}"
+Exponentiation_63,{\displaystyle \left(b^{p}\right)^{q}=b^{pq}.}
+Exponentiation_64,{\displaystyle (a+b)^{n}=\sum _{i=0}^{n}{\binom {n}{i}}a^{i}b^{n-i}=\sum _{i=0}^{n}{\frac {n!}{i!(n-i)!}}a^{i}b^{n-i}.}
+Exponentiation_65,{\displaystyle 1/0^{-n}}
+Exponentiation_66,{\displaystyle 1/0}
+Exponentiation_67,{\displaystyle f(x)=cx^{n}}
+Exponentiation_68,{\displaystyle c\neq 0}
+Exponentiation_69,{\displaystyle n}
+Exponentiation_70,{\displaystyle n\geq 1}
+Exponentiation_71,{\displaystyle n}
+Exponentiation_72,{\displaystyle n}
+Exponentiation_73,{\displaystyle c>0}
+Exponentiation_74,{\displaystyle n}
+Exponentiation_75,{\displaystyle f(x)=cx^{n}}
+Exponentiation_76,{\displaystyle x}
+Exponentiation_77,{\displaystyle x}
+Exponentiation_78,{\displaystyle y=cx^{2}}
+Exponentiation_79,{\displaystyle n}
+Exponentiation_80,{\displaystyle f(-x)=f(x)}
+Exponentiation_81,{\displaystyle n}
+Exponentiation_82,{\displaystyle f(x)}
+Exponentiation_83,{\displaystyle x}
+Exponentiation_84,{\displaystyle x}
+Exponentiation_85,{\displaystyle c>0}
+Exponentiation_86,{\displaystyle f(x)=cx^{n}}
+Exponentiation_87,{\displaystyle x}
+Exponentiation_88,{\displaystyle x}
+Exponentiation_89,{\displaystyle y=cx^{3}}
+Exponentiation_90,{\displaystyle n}
+Exponentiation_91,{\displaystyle n=1}
+Exponentiation_92,{\displaystyle f(-x)=-f(x)}
+Exponentiation_93,{\displaystyle c<0}
+Exponentiation_94,{\displaystyle x^{1/n}}
+Exponentiation_95,{\displaystyle {\sqrt[{n}]{x}}}
+Exponentiation_96,{\displaystyle y^{n}=x.}
+Exponentiation_97,{\displaystyle {\frac {p}{q}}}
+Exponentiation_99,{\displaystyle x^{\frac {p}{q}}=\left(x^{p}\right)^{\frac {1}{q}}=(x^{\frac {1}{q}})^{p}.}
+Exponentiation_100,"{\displaystyle y=x^{\frac {1}{q}},}"
+Exponentiation_101,{\displaystyle (x^{\frac {1}{q}})^{p}=y^{p}=\left((y^{p})^{q}\right)^{\frac {1}{q}}=\left((y^{q})^{p}\right)^{\frac {1}{q}}=(x^{p})^{\frac {1}{q}}.}
+Exponentiation_102,{\displaystyle (x^{r})^{s}=x^{rs}}
+Exponentiation_103,"{\displaystyle x^{\frac {1}{n}},}"
+Exponentiation_104,{\displaystyle (x^{a})^{b}=x^{ab}}
+Exponentiation_105,{\displaystyle \left((-1)^{2}\right)^{\frac {1}{2}}=1^{\frac {1}{2}}=1\neq (-1)^{2\cdot {\frac {1}{2}}}=(-1)^{1}=-1.}
+Exponentiation_106,{\displaystyle \left(b^{r}\right)^{s}=b^{rs}}
+Exponentiation_107,"{\displaystyle b^{x}=\lim _{r(\in \mathbb {Q} )\to x}b^{r}\quad (b\in \mathbb {R} ^{+},\,x\in \mathbb {R} ),}"
+Exponentiation_108,{\displaystyle b^{\pi }:}
+Exponentiation_109,"{\displaystyle \left[b^{3},b^{4}\right],\left[b^{3.1},b^{3.2}\right],\left[b^{3.14},b^{3.15}\right],\left[b^{3.141},b^{3.142}\right],\left[b^{3.1415},b^{3.1416}\right],\left[b^{3.14159},b^{3.14160}\right],\ldots }"
+Exponentiation_110,{\displaystyle b^{\pi }.}
+Exponentiation_111,{\displaystyle b^{x}}
+Exponentiation_112,"{\displaystyle x\mapsto e^{x},}"
+Exponentiation_113,{\displaystyle e\approx 2.718}
+Exponentiation_114,"{\displaystyle \exp(x),}"
+Exponentiation_115,{\displaystyle \exp(x)=e^{x}.}
+Exponentiation_116,{\displaystyle \exp(x)=\lim _{n\rightarrow \infty }\left(1+{\frac {x}{n}}\right)^{n}.}
+Exponentiation_117,"{\displaystyle \exp(0)=1,}"
+Exponentiation_118,{\displaystyle \exp(x+y)=\exp(x)\exp(y)}
+Exponentiation_119,"{\displaystyle \exp(x)\exp(y)=\lim _{n\rightarrow \infty }\left(1+{\frac {x}{n}}\right)^{n}\left(1+{\frac {y}{n}}\right)^{n}=\lim _{n\rightarrow \infty }\left(1+{\frac {x+y}{n}}+{\frac {xy}{n^{2}}}\right)^{n},}"
+Exponentiation_120,{\displaystyle {\frac {xy}{n^{2}}}}
+Exponentiation_121,{\displaystyle \exp(x)\exp(y)=\exp(x+y)}
+Exponentiation_122,{\displaystyle e=\exp(1)}
+Exponentiation_123,{\displaystyle \exp(x)=e^{x}}
+Exponentiation_124,{\displaystyle \exp(x)=e^{x}}
+Exponentiation_125,{\displaystyle \exp(z)}
+Exponentiation_126,"{\displaystyle e^{z},}"
+Exponentiation_127,{\displaystyle b=\exp(\ln b)=e^{\ln b}}
+Exponentiation_128,"{\displaystyle (e^{x})^{y}=e^{xy},}"
+Exponentiation_129,{\displaystyle b^{x}=\left(e^{\ln b}\right)^{x}=e^{x\ln b}}
+Exponentiation_130,{\displaystyle e^{x\ln b}}
+Exponentiation_131,"{\displaystyle b^{z}=e^{(z\ln b)},}"
+Exponentiation_132,{\displaystyle \ln b}
+Exponentiation_133,"{\displaystyle b^{z+t}=b^{z}b^{t},}"
+Exponentiation_135,"{\displaystyle \left(b^{z}\right)^{t}\neq b^{zt},}"
+Exponentiation_136,"{\displaystyle e^{iy}=\cos y+i\sin y,}"
+Exponentiation_137,{\displaystyle b^{z}}
+Exponentiation_138,"{\displaystyle b^{x+iy}=b^{x}(\cos(y\ln b)+i\sin(y\ln b)),}"
+Exponentiation_139,{\displaystyle b^{x+iy}=b^{x}b^{iy}=b^{x}e^{iy\ln b}=b^{x}(\cos(y\ln b)+i\sin(y\ln b)).}
+Exponentiation_140,"{\displaystyle 1/n,}"
+Exponentiation_141,"{\displaystyle z=\rho e^{i\theta }=\rho (\cos \theta +i\sin \theta ),}"
+Exponentiation_142,{\displaystyle \rho }
+Exponentiation_143,{\displaystyle \theta }
+Exponentiation_144,{\displaystyle \theta }
+Exponentiation_145,{\displaystyle \theta +2k\pi }
+Exponentiation_146,{\displaystyle k}
+Exponentiation_147,"{\displaystyle \left(\rho e^{i\theta }\right)^{\frac {1}{n}}={\sqrt[{n}]{\rho }}\,e^{\frac {i\theta }{n}}.}"
+Exponentiation_148,{\displaystyle 2\pi }
+Exponentiation_149,{\displaystyle \theta }
+Exponentiation_150,{\displaystyle 2i\pi /n}
+Exponentiation_151,"{\displaystyle -\pi <\theta \leq \pi ,}"
+Exponentiation_152,"{\displaystyle 2\pi ,}"
+Exponentiation_154,{\displaystyle \omega =e^{\frac {2\pi i}{n}}}
+Exponentiation_155,"{\displaystyle 1=\omega ^{0}=\omega ^{n},\omega =\omega ^{1},\omega ^{2},\omega ^{n-1}.}"
+Exponentiation_156,"{\displaystyle \omega ^{k}=e^{\frac {2k\pi i}{n}},}"
+Exponentiation_157,{\displaystyle -1;}
+Exponentiation_158,{\displaystyle i}
+Exponentiation_159,{\displaystyle -i.}
+Exponentiation_160,{\displaystyle e^{\frac {2k\pi i}{n}}}
+Exponentiation_161,{\displaystyle 1^{1/n}}
+Exponentiation_164,"{\displaystyle z^{w}=e^{w\log z},}"
+Exponentiation_165,{\displaystyle \log z}
+Exponentiation_166,{\displaystyle e^{\log z}=z}
+Exponentiation_167,"{\displaystyle \log ,}"
+Exponentiation_168,"{\displaystyle e^{\log z}=z,}"
+Exponentiation_169,{\displaystyle -\pi <\operatorname {Arg} z\leq \pi .}
+Exponentiation_170,"{\displaystyle z=0,}"
+Exponentiation_171,{\displaystyle \log z=\ln z.}
+Exponentiation_172,{\displaystyle z^{w}}
+Exponentiation_173,"{\displaystyle z^{w}=e^{w\log z},}"
+Exponentiation_174,{\displaystyle \log z}
+Exponentiation_175,"{\displaystyle (z,w)\to z^{w}}"
+Exponentiation_176,{\displaystyle z^{w}}
+Exponentiation_177,"{\displaystyle w=1/n,}"
+Exponentiation_178,{\displaystyle \log z}
+Exponentiation_179,{\displaystyle z^{w}}
+Exponentiation_180,{\displaystyle \log z}
+Exponentiation_181,"{\displaystyle 2ik\pi +\log z,}"
+Exponentiation_182,{\displaystyle z^{w}}
+Exponentiation_183,"{\displaystyle e^{w(2ik\pi +\log z)}=z^{w}e^{2ik\pi w},}"
+Exponentiation_184,{\displaystyle z^{w}}
+Exponentiation_185,{\displaystyle e^{a}=e^{b}}
+Exponentiation_186,{\displaystyle a-b}
+Exponentiation_187,{\displaystyle 2\pi i.}
+Exponentiation_188,{\displaystyle w={\frac {m}{n}}}
+Exponentiation_189,"{\displaystyle n>0,}"
+Exponentiation_190,{\displaystyle z^{w}}
+Exponentiation_191,"{\displaystyle m=1,}"
+Exponentiation_192,"{\displaystyle z\neq 0,}"
+Exponentiation_193,{\displaystyle z^{w}}
+Exponentiation_194,{\displaystyle x+iy}
+Exponentiation_195,{\displaystyle z^{w}}
+Exponentiation_196,{\displaystyle z=a+ib}
+Exponentiation_197,"{\displaystyle z=\rho e^{i\theta }=\rho (\cos \theta +i\sin \theta ),}"
+Exponentiation_198,{\displaystyle \rho ={\sqrt {a^{2}+b^{2}}}}
+Exponentiation_199,"{\displaystyle \theta =\operatorname {atan2} (a,b)}"
+Exponentiation_200,"{\displaystyle \log z=\ln \rho +i\theta ,}"
+Exponentiation_201,{\displaystyle \ln }
+Exponentiation_202,{\displaystyle 2ik\pi }
+Exponentiation_203,{\displaystyle w\log z.}
+Exponentiation_204,{\displaystyle w=c+di}
+Exponentiation_205,{\displaystyle w\log z}
+Exponentiation_206,"{\displaystyle w\log z=(c\ln \rho -d\theta -2dk\pi )+i(d\ln \rho +c\theta +2ck\pi ),}"
+Exponentiation_207,{\displaystyle k=0.}
+Exponentiation_208,{\displaystyle e^{x+y}=e^{x}e^{y}}
+Exponentiation_209,"{\displaystyle e^{y\ln x}=x^{y},}"
+Exponentiation_210,"{\displaystyle z^{w}=\rho ^{c}e^{-d(\theta +2k\pi )}\left(\cos(d\ln \rho +c\theta +2ck\pi )+i\sin(d\ln \rho +c\theta +2ck\pi )\right),}"
+Exponentiation_211,{\displaystyle k=0}
+Exponentiation_212,{\displaystyle i^{i}}
+Exponentiation_213,"{\displaystyle i=e^{i\pi /2},}"
+Exponentiation_214,{\displaystyle \log i}
+Exponentiation_215,{\displaystyle \log i=i\left({\frac {\pi }{2}}+2k\pi \right).}
+Exponentiation_216,{\displaystyle i^{i}=e^{i\log i}=e^{-{\frac {\pi }{2}}}e^{-2k\pi }.}
+Exponentiation_217,{\displaystyle i^{i}}
+Exponentiation_218,{\displaystyle e^{-{\frac {\pi }{2}}}\approx 0.2079.}
+Exponentiation_219,{\displaystyle (-2)^{3+4i}}
+Exponentiation_220,{\displaystyle -2=2e^{i\pi }.}
+Exponentiation_221,{\displaystyle {\begin{aligned}(-2)^{3+4i}&=2^{3}e^{-4(\pi +2k\pi )}(\cos(4\ln 2+3(\pi +2k\pi ))+i\sin(4\ln 2+3(\pi +2k\pi )))\\&=-2^{3}e^{-4(\pi +2k\pi )}(\cos(4\ln 2)+i\sin(4\ln 2)).\end{aligned}}}
+Exponentiation_222,"{\displaystyle 4\ln 2,}"
+Exponentiation_223,{\displaystyle z^{w}}
+Exponentiation_224,"{\displaystyle \log((-i)^{2})=\log(-1)=i\pi \neq 2\log(-i)=2\log(e^{-i\pi /2})=2\,{\frac {-i\pi }{2}}=-i\pi }"
+Exponentiation_225,{\displaystyle \log w^{z}\equiv z\log w{\pmod {2\pi i}}}
+Exponentiation_226,"{\displaystyle {\begin{aligned}\left\{\log w^{z}\right\}&=\left\{z\cdot \operatorname {Log} w+z\cdot 2\pi in+2\pi im\mid m,n\in \mathbb {Z} \right\}\\\left\{z\log w\right\}&=\left\{z\operatorname {Log} w+z\cdot 2\pi in\mid n\in \mathbb {Z} \right\}\end{aligned}}}"
+Exponentiation_227,{\displaystyle (-1\cdot -1)^{\frac {1}{2}}=1\neq (-1)^{\frac {1}{2}}(-1)^{\frac {1}{2}}=-1}
+Exponentiation_228,{\displaystyle \left({\frac {1}{-1}}\right)^{\frac {1}{2}}=(-1)^{\frac {1}{2}}=i\neq {\frac {1^{\frac {1}{2}}}{(-1)^{\frac {1}{2}}}}={\frac {1}{i}}=-i}
+Exponentiation_229,{\displaystyle e^{1+2\pi in}=e^{1}e^{2\pi in}=e\cdot 1=e}
+Exponentiation_230,{\displaystyle \left(e^{1+2\pi in}\right)^{1+2\pi in}=e\qquad }
+Exponentiation_231,{\displaystyle (1+2\pi in)}
+Exponentiation_232,{\displaystyle e^{1+4\pi in-4\pi ^{2}n^{2}}=e\qquad }
+Exponentiation_233,{\displaystyle \left(e^{x}\right)^{y}=e^{xy}}
+Exponentiation_234,{\displaystyle e^{1}e^{4\pi in}e^{-4\pi ^{2}n^{2}}=e\qquad }
+Exponentiation_235,{\displaystyle e^{x+y}=e^{x}e^{y}}
+Exponentiation_236,{\displaystyle e^{-4\pi ^{2}n^{2}}=1\qquad }
+Exponentiation_237,{\displaystyle e^{y}}
+Exponentiation_238,"{\displaystyle \exp(y),}"
+Exponentiation_239,{\displaystyle x^{y}}
+Exponentiation_240,"{\displaystyle \exp(y\log x),}"
+Exponentiation_241,{\displaystyle \exp \left((1+2\pi in)\log \exp(1+2\pi in)\right)=\exp(1+2\pi in).}
+Exponentiation_242,{\displaystyle \log \exp z=z}
+Exponentiation_243,"{\displaystyle \left(e^{x}\right)^{y}=e^{y\log e^{x}},}"
+Exponentiation_244,"{\displaystyle b\not \in \{0,1\},}"
+Exponentiation_245,"{\displaystyle x^{0}=1,}"
+Exponentiation_246,{\displaystyle x^{n+1}=xx^{n}}
+Exponentiation_247,{\displaystyle x^{n}}
+Exponentiation_248,{\displaystyle \left(x^{-1}\right)^{-n}.}
+Exponentiation_249,"{\displaystyle {\begin{aligned}x^{0}&=1\\x^{m+n}&=x^{m}x^{n}\\(x^{m})^{n}&=x^{mn}\\(xy)^{n}&=x^{n}y^{n}\quad {\text{if}}xy=yx,{\text{and, in particular, if the multiplication is commutative.}}\end{aligned}}}"
+Exponentiation_250,{\displaystyle f^{n}}
+Exponentiation_251,{\displaystyle f^{\circ n}}
+Exponentiation_252,"{\displaystyle (f^{n})(x)=(f(x))^{n}=f(x)\,f(x)\cdots f(x),}"
+Exponentiation_253,{\displaystyle (f^{\circ n})(x)=f(f(\cdots f(f(x))\cdots )).}
+Exponentiation_254,{\displaystyle (f^{n})(x)}
+Exponentiation_255,"{\displaystyle f(x)^{n},}"
+Exponentiation_256,{\displaystyle (f^{\circ n})(x)}
+Exponentiation_257,{\displaystyle f^{n}(x).}
+Exponentiation_258,{\displaystyle x^{n}}
+Exponentiation_259,{\displaystyle x\in G}
+Exponentiation_260,{\displaystyle \mathbb {Z} }
+Exponentiation_261,"{\displaystyle x^{n}=x^{0}=1,}"
+Exponentiation_262,{\displaystyle (g^{h})^{k}=g^{hk}}
+Exponentiation_263,{\displaystyle (gh)^{k}=g^{k}h^{k}.}
+Exponentiation_264,{\displaystyle x^{n}=0}
+Exponentiation_265,{\displaystyle x\neq 0}
+Exponentiation_266,{\displaystyle x^{n}\neq 0}
+Exponentiation_267,"{\displaystyle k[x_{1},\ldots ,x_{n}]}"
+Exponentiation_268,{\displaystyle A^{0}}
+Exponentiation_269,{\displaystyle A^{-n}=\left(A^{-1}\right)^{n}}
+Exponentiation_270,{\displaystyle A^{2}x}
+Exponentiation_271,{\displaystyle A^{n}x}
+Exponentiation_272,{\displaystyle A^{n}}
+Exponentiation_273,{\displaystyle d/dx}
+Exponentiation_274,{\displaystyle f(x)}
+Exponentiation_275,{\displaystyle (d/dx)f(x)=f'(x)}
+Exponentiation_276,{\displaystyle \left({\frac {d}{dx}}\right)^{n}f(x)={\frac {d^{n}}{dx^{n}}}f(x)=f^{(n)}(x).}
+Exponentiation_277,"{\displaystyle q=p^{k},}"
+Exponentiation_278,{\displaystyle \mathbb {F} _{q}.}
+Exponentiation_279,{\displaystyle x^{q}=x}
+Exponentiation_280,{\displaystyle x\in \mathbb {F} _{q}.}
+Exponentiation_281,{\displaystyle \mathbb {F} _{q}}
+Exponentiation_282,"{\displaystyle \{g^{1}=g,g^{2},\ldots ,g^{p-1}=g^{0}=1\}}"
+Exponentiation_283,{\displaystyle \mathbb {F} _{q}.}
+Exponentiation_284,{\displaystyle \varphi (p-1)}
+Exponentiation_285,"{\displaystyle \mathbb {F} _{q},}"
+Exponentiation_286,{\displaystyle \varphi }
+Exponentiation_287,"{\displaystyle \mathbb {F} _{q},}"
+Exponentiation_288,{\displaystyle (x+y)^{p}=x^{p}+y^{p}}
+Exponentiation_289,{\displaystyle x^{p}=x}
+Exponentiation_290,"{\displaystyle \mathbb {F} _{q},}"
+Exponentiation_291,{\displaystyle {\begin{aligned}F\colon {}&\mathbb {F} _{q}\to \mathbb {F} _{q}\\&x\mapsto x^{p}\end{aligned}}}
+Exponentiation_292,"{\displaystyle \mathbb {F} _{q},}"
+Exponentiation_293,"{\displaystyle q=p^{k},}"
+Exponentiation_294,{\displaystyle \mathbb {F} _{q}}
+Exponentiation_295,{\displaystyle \mathbb {F} _{q}}
+Exponentiation_296,"{\displaystyle \mathbb {F} _{q},}"
+Exponentiation_297,{\displaystyle g^{e}}
+Exponentiation_298,{\displaystyle g^{e}}
+Exponentiation_299,"{\displaystyle (x,y)}"
+Exponentiation_300,{\displaystyle x\in S}
+Exponentiation_301,{\displaystyle y\in T.}
+Exponentiation_302,"{\displaystyle (x,(y,z)),}"
+Exponentiation_303,"{\displaystyle ((x,y),z),}"
+Exponentiation_304,"{\displaystyle (x,y,z).}"
+Exponentiation_305,{\displaystyle S^{n}}
+Exponentiation_306,"{\displaystyle (x_{1},\ldots ,x_{n})}"
+Exponentiation_307,{\displaystyle S^{n}}
+Exponentiation_308,{\displaystyle \mathbb {R} ^{n}}
+Exponentiation_309,{\displaystyle \mathbb {R} }
+Exponentiation_310,"{\displaystyle \mathbb {R} ,}"
+Exponentiation_311,"{\displaystyle (x_{1},\ldots ,x_{n})}"
+Exponentiation_312,"{\displaystyle \{1,\ldots ,n\}.}"
+Exponentiation_313,{\displaystyle S^{T}}
+Exponentiation_314,"{\displaystyle (S^{T})^{U}\cong S^{T\times U},}"
+Exponentiation_315,"{\displaystyle S^{T\sqcup U}\cong S^{T}\times S^{U},}"
+Exponentiation_316,{\displaystyle \times }
+Exponentiation_317,{\displaystyle \sqcup }
+Exponentiation_318,{\displaystyle \mathbb {R} ^{\mathbb {N} }}
+Exponentiation_319,{\displaystyle \mathbb {R} ^{(\mathbb {N} )}}
+Exponentiation_320,"{\displaystyle \{0,1\}.}"
+Exponentiation_321,{\displaystyle 2^{S}}
+Exponentiation_322,"{\displaystyle \{0,1\},}"
+Exponentiation_323,{\displaystyle Y^{X}}
+Exponentiation_324,"{\displaystyle \hom(X,Y).}"
+Exponentiation_325,{\displaystyle (S^{T})^{U}\cong S^{T\times U}}
+Exponentiation_326,"{\displaystyle \hom(U,S^{T})\cong \hom(T\times U,S).}"
+Exponentiation_327,{\displaystyle X\to X^{T}}
+Exponentiation_328,{\displaystyle Y\to T\times Y.}
+Exponentiation_329,{\displaystyle Y\to X\times Y}
+Exponentiation_330,"{\displaystyle f(x,y)=x^{y}}"
+Exponentiation_331,"{\displaystyle D=\{(x,y)\in \mathbf {R} ^{2}:x>0\}}"
+Exponentiation_332,{\displaystyle 100=2^{2}+2^{5}+2^{6}=2^{2}(1+2^{3}(1+2))}
+Exponentiation_333,"{\displaystyle \sharp n+\lfloor \log _{2}n\rfloor -1,}"
+Exponentiation_334,{\displaystyle \sharp n}
+Exponentiation_335,"{\displaystyle g\circ f,}"
+Exponentiation_336,{\displaystyle (g\circ f)(x)=g(f(x))}
+Exponentiation_337,{\displaystyle f^{n}}
+Exponentiation_338,{\displaystyle f^{3}(x)}
+Exponentiation_339,{\displaystyle f(f(f(x))).}
+Exponentiation_340,"{\displaystyle f^{2}(x)=f(f(x)),}"
+Exponentiation_341,{\displaystyle f(x)^{2}=f(x)\cdot f(x).}
+Exponentiation_342,"{\displaystyle f^{\circ 3}=f\circ f\circ f,}"
+Exponentiation_343,{\displaystyle f^{3}=f\cdot f\cdot f.}
+Exponentiation_344,{\displaystyle \sin ^{2}x}
+Exponentiation_345,{\displaystyle \sin ^{2}(x)}
+Exponentiation_346,{\displaystyle \sin(x)\cdot \sin(x)}
+Exponentiation_347,"{\displaystyle \sin(\sin(x)),}"
+Exponentiation_348,{\displaystyle -1}
+Exponentiation_349,{\displaystyle \sin ^{-1}x=\sin ^{-1}(x)=\arcsin x.}
+Exponentiation_350,{\displaystyle 1/\sin(x)={\frac {1}{\sin x}}.}
+Exponentiation_351,{\displaystyle x\times y}
+Exponentiation_352,{\displaystyle xy}
+Exponentiation_353,{\displaystyle x\cdot y}

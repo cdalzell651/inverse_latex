@@ -1,0 +1,78 @@
+name,latex
+Euclidean_vector_1,"{\displaystyle {\stackrel {\,\longrightarrow }{AB}}}"
+Euclidean_vector_2,"{\displaystyle {\stackrel {\,\longrightarrow }{A'B'}}}"
+Euclidean_vector_3,{\displaystyle {\overrightarrow {AB}}.}
+Euclidean_vector_4,"{\displaystyle {\overrightarrow {E}},}"
+Euclidean_vector_5,"{\displaystyle {\overrightarrow {E}},}"
+Euclidean_vector_6,{\displaystyle {\overrightarrow {E}}}
+Euclidean_vector_7,{\displaystyle \mathbb {R} ^{n}}
+Euclidean_vector_8,{\displaystyle \mathbb {R} ^{n}}
+Euclidean_vector_9,{\displaystyle \mathbb {R} ^{n}}
+Euclidean_vector_10,{\displaystyle \mathbb {R} ^{n}.}
+Euclidean_vector_11,{\displaystyle {\overrightarrow {OP}}.}
+Euclidean_vector_12,"{\displaystyle \mathbb {R} ^{n},}"
+Euclidean_vector_13,{\displaystyle {\overrightarrow {AB}}}
+Euclidean_vector_14,"{\displaystyle (1,2,3)+(-2,0,4)=(1-2,2+0,3+4)=(-1,2,7)\,.}"
+Euclidean_vector_15,{\displaystyle \mathbf {u} }
+Euclidean_vector_16,{\displaystyle \mathbf {v} }
+Euclidean_vector_17,{\displaystyle \mathbf {w} }
+Euclidean_vector_18,{\displaystyle {\vec {a}}}
+Euclidean_vector_19,{\displaystyle {\underset {^{\sim }}{a}}}
+Euclidean_vector_20,{\displaystyle {\stackrel {\longrightarrow }{AB}}}
+Euclidean_vector_21,{\displaystyle {\mathfrak {a}}}
+Euclidean_vector_22,"{\displaystyle \mathbf {a} =(2,3).}"
+Euclidean_vector_23,{\displaystyle {\overrightarrow {OA}}}
+Euclidean_vector_24,"{\displaystyle \mathbf {a} =(a_{1},a_{2},a_{3}).}"
+Euclidean_vector_25,"{\displaystyle \mathbf {a} =(a_{x},a_{y},a_{z}).}"
+Euclidean_vector_26,"{\displaystyle \mathbf {a} =(a_{1},a_{2},a_{3},\cdots ,a_{n-1},a_{n}).}"
+Euclidean_vector_27,{\displaystyle \mathbf {a} ={\begin{bmatrix}a_{1}\\a_{2}\\a_{3}\\\end{bmatrix}}=[a_{1}\ a_{2}\ a_{3}]^{\operatorname {T} }.}
+Euclidean_vector_28,"{\displaystyle {\mathbf {e} }_{1}=(1,0,0),\ {\mathbf {e} }_{2}=(0,1,0),\ {\mathbf {e} }_{3}=(0,0,1).}"
+Euclidean_vector_29,"{\displaystyle \mathbf {a} =(a_{1},a_{2},a_{3})=a_{1}(1,0,0)+a_{2}(0,1,0)+a_{3}(0,0,1),\ }"
+Euclidean_vector_30,"{\displaystyle \mathbf {a} =\mathbf {a} _{1}+\mathbf {a} _{2}+\mathbf {a} _{3}=a_{1}{\mathbf {e} }_{1}+a_{2}{\mathbf {e} }_{2}+a_{3}{\mathbf {e} }_{3},}"
+Euclidean_vector_31,"{\displaystyle \mathbf {i} ,\mathbf {j} ,\mathbf {k} }"
+Euclidean_vector_32,"{\displaystyle \mathbf {\hat {x}} ,\mathbf {\hat {y}} ,\mathbf {\hat {z}} }"
+Euclidean_vector_33,{\displaystyle \mathbf {\hat {}} }
+Euclidean_vector_34,{\displaystyle \mathbf {a} =\mathbf {a} _{x}+\mathbf {a} _{y}+\mathbf {a} _{z}=a_{x}{\mathbf {i} }+a_{y}{\mathbf {j} }+a_{z}{\mathbf {k} }.}
+Euclidean_vector_35,"{\displaystyle \mathbf {\hat {x}} ,\mathbf {\hat {y}} ,\mathbf {\hat {z}} }"
+Euclidean_vector_36,"{\displaystyle {\boldsymbol {\hat {\rho }}},{\boldsymbol {\hat {\phi }}},\mathbf {\hat {z}} }"
+Euclidean_vector_37,"{\displaystyle \mathbf {\hat {r}} ,{\boldsymbol {\hat {\theta }}},{\boldsymbol {\hat {\phi }}}}"
+Euclidean_vector_38,"{\displaystyle {\mathbf {e} }_{1}=(1,0,0),\ {\mathbf {e} }_{2}=(0,1,0),\ {\mathbf {e} }_{3}=(0,0,1)}"
+Euclidean_vector_39,{\displaystyle {\mathbf {a} }=a_{1}{\mathbf {e} }_{1}+a_{2}{\mathbf {e} }_{2}+a_{3}{\mathbf {e} }_{3}.}
+Euclidean_vector_40,{\displaystyle {\mathbf {a} }=a_{1}{\mathbf {e} }_{1}+a_{2}{\mathbf {e} }_{2}+a_{3}{\mathbf {e} }_{3}}
+Euclidean_vector_41,{\displaystyle {\mathbf {b} }=b_{1}{\mathbf {e} }_{1}+b_{2}{\mathbf {e} }_{2}+b_{3}{\mathbf {e} }_{3}}
+Euclidean_vector_42,"{\displaystyle a_{1}=b_{1},\quad a_{2}=b_{2},\quad a_{3}=b_{3}.\,}"
+Euclidean_vector_43,{\displaystyle {\mathbf {a} }=a_{1}{\mathbf {e} }_{1}+a_{2}{\mathbf {e} }_{2}+a_{3}{\mathbf {e} }_{3}}
+Euclidean_vector_44,{\displaystyle {\mathbf {b} }=b_{1}{\mathbf {e} }_{1}+b_{2}{\mathbf {e} }_{2}+b_{3}{\mathbf {e} }_{3}}
+Euclidean_vector_45,"{\displaystyle a_{1}=-b_{1},\quad a_{2}=-b_{2},\quad a_{3}=-b_{3}.\,}"
+Euclidean_vector_46,{\displaystyle \mathbf {a} +\mathbf {b} =(a_{1}+b_{1})\mathbf {e} _{1}+(a_{2}+b_{2})\mathbf {e} _{2}+(a_{3}+b_{3})\mathbf {e} _{3}.}
+Euclidean_vector_47,{\displaystyle \mathbf {a} -\mathbf {b} =(a_{1}-b_{1})\mathbf {e} _{1}+(a_{2}-b_{2})\mathbf {e} _{2}+(a_{3}-b_{3})\mathbf {e} _{3}.}
+Euclidean_vector_48,{\displaystyle r\mathbf {a} =(ra_{1})\mathbf {e} _{1}+(ra_{2})\mathbf {e} _{2}+(ra_{3})\mathbf {e} _{3}.}
+Euclidean_vector_49,"{\displaystyle \left\|\mathbf {a} \right\|={\sqrt {a_{1}^{2}+a_{2}^{2}+a_{3}^{2}}},}"
+Euclidean_vector_50,{\displaystyle \left\|\mathbf {a} \right\|={\sqrt {\mathbf {a} \cdot \mathbf {a} }}.}
+Euclidean_vector_51,{\displaystyle \mathbf {\hat {a}} ={\frac {\mathbf {a} }{\left\|\mathbf {a} \right\|}}={\frac {a_{1}}{\left\|\mathbf {a} \right\|}}\mathbf {e} _{1}+{\frac {a_{2}}{\left\|\mathbf {a} \right\|}}\mathbf {e} _{2}+{\frac {a_{3}}{\left\|\mathbf {a} \right\|}}\mathbf {e} _{3}}
+Euclidean_vector_52,{\displaystyle {\vec {0}}}
+Euclidean_vector_53,"{\displaystyle \mathbf {a} \cdot \mathbf {b} =\left\|\mathbf {a} \right\|\left\|\mathbf {b} \right\|\cos \theta ,}"
+Euclidean_vector_54,{\displaystyle \mathbf {a} \cdot \mathbf {b} =a_{1}b_{1}+a_{2}b_{2}+a_{3}b_{3}.}
+Euclidean_vector_55,"{\displaystyle \mathbf {a} \times \mathbf {b} =\left\|\mathbf {a} \right\|\left\|\mathbf {b} \right\|\sin(\theta )\,\mathbf {n} }"
+Euclidean_vector_56,{\displaystyle {\mathbf {a} }\times {\mathbf {b} }=(a_{2}b_{3}-a_{3}b_{2}){\mathbf {e} }_{1}+(a_{3}b_{1}-a_{1}b_{3}){\mathbf {e} }_{2}+(a_{1}b_{2}-a_{2}b_{1}){\mathbf {e} }_{3}.}
+Euclidean_vector_57,{\displaystyle (\mathbf {a} \ \mathbf {b} \ \mathbf {c} )=\mathbf {a} \cdot (\mathbf {b} \times \mathbf {c} ).}
+Euclidean_vector_58,{\displaystyle (\mathbf {a} \ \mathbf {b} \ \mathbf {c} )={\begin{vmatrix}a_{1}&a_{2}&a_{3}\\b_{1}&b_{2}&b_{3}\\c_{1}&c_{2}&c_{3}\\\end{vmatrix}}}
+Euclidean_vector_59,{\displaystyle (\mathbf {a} \ \mathbf {b} \ \mathbf {c} )=(\mathbf {c} \ \mathbf {a} \ \mathbf {b} )=(\mathbf {b} \ \mathbf {c} \ \mathbf {a} )=-(\mathbf {a} \ \mathbf {c} \ \mathbf {b} )=-(\mathbf {b} \ \mathbf {a} \ \mathbf {c} )=-(\mathbf {c} \ \mathbf {b} \ \mathbf {a} ).}
+Euclidean_vector_60,{\displaystyle \mathbf {a} =p\mathbf {e} _{1}+q\mathbf {e} _{2}+r\mathbf {e} _{3}.}
+Euclidean_vector_61,"{\displaystyle {\begin{aligned}p&=\mathbf {a} \cdot \mathbf {e} _{1},\\q&=\mathbf {a} \cdot \mathbf {e} _{2},\\r&=\mathbf {a} \cdot \mathbf {e} _{3}.\end{aligned}}}"
+Euclidean_vector_62,{\displaystyle \mathbf {a} =u\mathbf {n} _{1}+v\mathbf {n} _{2}+w\mathbf {n} _{3}}
+Euclidean_vector_63,"{\displaystyle {\begin{aligned}u&=\mathbf {a} \cdot \mathbf {n} _{1},\\v&=\mathbf {a} \cdot \mathbf {n} _{2},\\w&=\mathbf {a} \cdot \mathbf {n} _{3}.\end{aligned}}}"
+Euclidean_vector_64,"{\displaystyle {\begin{aligned}u&=(p\mathbf {e} _{1}+q\mathbf {e} _{2}+r\mathbf {e} _{3})\cdot \mathbf {n} _{1},\\v&=(p\mathbf {e} _{1}+q\mathbf {e} _{2}+r\mathbf {e} _{3})\cdot \mathbf {n} _{2},\\w&=(p\mathbf {e} _{1}+q\mathbf {e} _{2}+r\mathbf {e} _{3})\cdot \mathbf {n} _{3}.\end{aligned}}}"
+Euclidean_vector_65,"{\displaystyle {\begin{aligned}u&=p\mathbf {e} _{1}\cdot \mathbf {n} _{1}+q\mathbf {e} _{2}\cdot \mathbf {n} _{1}+r\mathbf {e} _{3}\cdot \mathbf {n} _{1},\\v&=p\mathbf {e} _{1}\cdot \mathbf {n} _{2}+q\mathbf {e} _{2}\cdot \mathbf {n} _{2}+r\mathbf {e} _{3}\cdot \mathbf {n} _{2},\\w&=p\mathbf {e} _{1}\cdot \mathbf {n} _{3}+q\mathbf {e} _{2}\cdot \mathbf {n} _{3}+r\mathbf {e} _{3}\cdot \mathbf {n} _{3}.\end{aligned}}}"
+Euclidean_vector_66,"{\displaystyle {\begin{aligned}u&=c_{11}p+c_{12}q+c_{13}r,\\v&=c_{21}p+c_{22}q+c_{23}r,\\w&=c_{31}p+c_{32}q+c_{33}r,\end{aligned}}}"
+Euclidean_vector_67,{\displaystyle {\begin{bmatrix}u\\v\\w\\\end{bmatrix}}={\begin{bmatrix}c_{11}&c_{12}&c_{13}\\c_{21}&c_{22}&c_{23}\\c_{31}&c_{32}&c_{33}\end{bmatrix}}{\begin{bmatrix}p\\q\\r\end{bmatrix}}.}
+Euclidean_vector_68,{\displaystyle {\begin{aligned}c_{11}&=\mathbf {n} _{1}\cdot \mathbf {e} _{1}\\c_{12}&=\mathbf {n} _{1}\cdot \mathbf {e} _{2}\\c_{13}&=\mathbf {n} _{1}\cdot \mathbf {e} _{3}\\c_{21}&=\mathbf {n} _{2}\cdot \mathbf {e} _{1}\\c_{22}&=\mathbf {n} _{2}\cdot \mathbf {e} _{2}\\c_{23}&=\mathbf {n} _{2}\cdot \mathbf {e} _{3}\\c_{31}&=\mathbf {n} _{3}\cdot \mathbf {e} _{1}\\c_{32}&=\mathbf {n} _{3}\cdot \mathbf {e} _{2}\\c_{33}&=\mathbf {n} _{3}\cdot \mathbf {e} _{3}\end{aligned}}}
+Euclidean_vector_69,"{\displaystyle (a_{1}{\mathbf {e} }_{1}+a_{2}{\mathbf {e} }_{2})+(b_{1}{\mathbf {e} }_{1}+b_{2}{\mathbf {e} }_{2})=(a_{1}+b_{1}){\mathbf {e} }_{1}+(a_{2}+b_{2}){\mathbf {e} }_{2},}"
+Euclidean_vector_70,{\displaystyle {\begin{aligned}(a_{1}{\mathbf {e} }_{1}+a_{2}{\mathbf {e} }_{2}+a_{3}{\mathbf {e} }_{3}+a_{4}{\mathbf {e} }_{4})&+(b_{1}{\mathbf {e} }_{1}+b_{2}{\mathbf {e} }_{2}+b_{3}{\mathbf {e} }_{3}+b_{4}{\mathbf {e} }_{4})=\\(a_{1}+b_{1}){\mathbf {e} }_{1}+(a_{2}+b_{2}){\mathbf {e} }_{2}&+(a_{3}+b_{3}){\mathbf {e} }_{3}+(a_{4}+b_{4}){\mathbf {e} }_{4}.\end{aligned}}}
+Euclidean_vector_71,{\displaystyle (a_{1}{\mathbf {e} }_{1}+a_{2}{\mathbf {e} }_{2})\wedge (b_{1}{\mathbf {e} }_{1}+b_{2}{\mathbf {e} }_{2})=(a_{1}b_{2}-a_{2}b_{1})\mathbf {e} _{1}\mathbf {e} _{2}.}
+Euclidean_vector_72,{\displaystyle {\mathbf {x} }=x_{1}{\mathbf {e} }_{1}+x_{2}{\mathbf {e} }_{2}+x_{3}{\mathbf {e} }_{3}.}
+Euclidean_vector_73,{\displaystyle {\mathbf {y} }-{\mathbf {x} }=(y_{1}-x_{1}){\mathbf {e} }_{1}+(y_{2}-x_{2}){\mathbf {e} }_{2}+(y_{3}-x_{3}){\mathbf {e} }_{3}.}
+Euclidean_vector_74,"{\displaystyle {\mathbf {x} }_{t}=t{\mathbf {v} }+{\mathbf {x} }_{0},}"
+Euclidean_vector_75,{\displaystyle {\mathbf {F} }=m{\mathbf {a} }}
+Euclidean_vector_76,{\displaystyle E={\mathbf {F} }\cdot ({\mathbf {x} }_{2}-{\mathbf {x} }_{1}).}
+Euclidean_vector_77,{\displaystyle ^{-1}}

@@ -1,0 +1,7 @@
+name,latex
+Order_theory_0,{\displaystyle \bigvee S}
+Order_theory_1,{\displaystyle \bigwedge S}
+Order_theory_2,{\displaystyle x\vee y}
+Order_theory_3,{\displaystyle x\wedge y}
+Order_theory_4,{\displaystyle *}
+Order_theory_5,{\displaystyle a\leq a^{*}\implies a=0.}

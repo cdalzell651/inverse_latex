@@ -1,0 +1,67 @@
+name,latex
+Controversy_over_Cantor%27s_theory_0,{\displaystyle A}
+Controversy_over_Cantor%27s_theory_1,{\displaystyle P(A)}
+Controversy_over_Cantor%27s_theory_2,{\displaystyle f}
+Controversy_over_Cantor%27s_theory_3,{\displaystyle A}
+Controversy_over_Cantor%27s_theory_4,"{\displaystyle P(A),}"
+Controversy_over_Cantor%27s_theory_5,{\displaystyle A}
+Controversy_over_Cantor%27s_theory_6,{\displaystyle P(A)}
+Controversy_over_Cantor%27s_theory_7,{\displaystyle D=\{x\in A:x\notin f(x)\}.}
+Controversy_over_Cantor%27s_theory_8,"{\displaystyle D\in P(A),}"
+Controversy_over_Cantor%27s_theory_9,"{\displaystyle x\in A,\,D\neq f(x)}"
+Controversy_over_Cantor%27s_theory_10,{\displaystyle f}
+Controversy_over_Cantor%27s_theory_11,{\displaystyle x\in A.}
+Controversy_over_Cantor%27s_theory_12,"{\displaystyle x\in D\Leftrightarrow x\notin f(x),}"
+Controversy_over_Cantor%27s_theory_13,{\displaystyle x\notin D\Leftrightarrow x\in f(x).}
+Controversy_over_Cantor%27s_theory_14,"{\displaystyle x\in D,}"
+Controversy_over_Cantor%27s_theory_15,{\displaystyle x\notin f(x);}
+Controversy_over_Cantor%27s_theory_16,"{\displaystyle x\notin D,}"
+Controversy_over_Cantor%27s_theory_17,{\displaystyle x\in f(x).}
+Controversy_over_Cantor%27s_theory_18,{\displaystyle x}
+Controversy_over_Cantor%27s_theory_19,{\displaystyle D\neq f(x).}
+Controversy_over_Cantor%27s_theory_20,{\displaystyle D}
+Controversy_over_Cantor%27s_theory_21,{\displaystyle f}
+Controversy_over_Cantor%27s_theory_22,{\displaystyle f}
+Controversy_over_Cantor%27s_theory_23,{\displaystyle A}
+Controversy_over_Cantor%27s_theory_24,{\displaystyle P(A)}
+Controversy_over_Cantor%27s_theory_25,{\displaystyle P(A)}
+Controversy_over_Cantor%27s_theory_26,{\displaystyle A}
+Controversy_over_Cantor%27s_theory_27,{\displaystyle P(A)}
+Controversy_over_Cantor%27s_theory_28,{\displaystyle A}
+Controversy_over_Cantor%27s_theory_29,{\displaystyle P(A)}
+Controversy_over_Cantor%27s_theory_30,"{\displaystyle A,}"
+Controversy_over_Cantor%27s_theory_31,"{\displaystyle P_{1}=\{\,y\in P(A):\exists x\in A\,(y=\{x\})\,\}.}"
+Controversy_over_Cantor%27s_theory_32,"{\displaystyle f(x)=\{x\},}"
+Controversy_over_Cantor%27s_theory_33,{\displaystyle A}
+Controversy_over_Cantor%27s_theory_34,{\displaystyle P_{1}.}
+Controversy_over_Cantor%27s_theory_35,{\displaystyle f(x_{1})=f(x_{2})}
+Controversy_over_Cantor%27s_theory_36,"{\displaystyle x_{1}=x_{2},\,f}"
+Controversy_over_Cantor%27s_theory_37,{\displaystyle A}
+Controversy_over_Cantor%27s_theory_38,{\displaystyle P_{1}.}
+Controversy_over_Cantor%27s_theory_39,{\displaystyle A}
+Controversy_over_Cantor%27s_theory_40,{\displaystyle P(A).}
+Controversy_over_Cantor%27s_theory_41,"{\displaystyle A_{1},}"
+Controversy_over_Cantor%27s_theory_42,"{\displaystyle A,}"
+Controversy_over_Cantor%27s_theory_43,{\displaystyle P(A).}
+Controversy_over_Cantor%27s_theory_44,{\displaystyle g}
+Controversy_over_Cantor%27s_theory_45,{\displaystyle A_{1}}
+Controversy_over_Cantor%27s_theory_46,{\displaystyle P(A).}
+Controversy_over_Cantor%27s_theory_47,{\displaystyle h}
+Controversy_over_Cantor%27s_theory_48,{\displaystyle A}
+Controversy_over_Cantor%27s_theory_49,{\displaystyle P(A){\text{:}}}
+Controversy_over_Cantor%27s_theory_50,"{\displaystyle x\in A_{1},}"
+Controversy_over_Cantor%27s_theory_51,{\displaystyle h(x)=g(x);}
+Controversy_over_Cantor%27s_theory_52,"{\displaystyle x\in A\setminus A_{1},}"
+Controversy_over_Cantor%27s_theory_53,"{\displaystyle h(x)=\{\,\}.}"
+Controversy_over_Cantor%27s_theory_54,{\displaystyle g}
+Controversy_over_Cantor%27s_theory_55,{\displaystyle A_{1}}
+Controversy_over_Cantor%27s_theory_56,"{\displaystyle P(A),\,h}"
+Controversy_over_Cantor%27s_theory_57,{\displaystyle A}
+Controversy_over_Cantor%27s_theory_58,"{\displaystyle P(A),}"
+Controversy_over_Cantor%27s_theory_59,{\displaystyle A}
+Controversy_over_Cantor%27s_theory_60,{\displaystyle P(A)}
+Controversy_over_Cantor%27s_theory_61,{\displaystyle P(A)}
+Controversy_over_Cantor%27s_theory_62,{\displaystyle A.}
+Controversy_over_Cantor%27s_theory_63,"{\displaystyle D,}"
+Controversy_over_Cantor%27s_theory_64,"{\displaystyle D\neq f(x),}"
+Controversy_over_Cantor%27s_theory_65,{\displaystyle P_{1}.}

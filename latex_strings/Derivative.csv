@@ -1,0 +1,326 @@
+name,latex
+Derivative_0,"{\displaystyle \int _{a}^{b}f'(t)\,dt=f(b)-f(a)}"
+Derivative_1,{\displaystyle f(x)}
+Derivative_2,{\displaystyle a}
+Derivative_3,{\displaystyle a}
+Derivative_4,{\displaystyle L=\lim _{h\to 0}{\frac {f(a+h)-f(a)}{h}}}
+Derivative_5,{\displaystyle \varepsilon }
+Derivative_6,{\displaystyle \delta }
+Derivative_7,{\displaystyle h}
+Derivative_8,{\displaystyle |h|<\delta }
+Derivative_9,{\displaystyle h\neq 0}
+Derivative_10,{\displaystyle f(a+h)}
+Derivative_11,"{\displaystyle \left|L-{\frac {f(a+h)-f(a)}{h}}\right|<\varepsilon ,}"
+Derivative_12,{\displaystyle f}
+Derivative_13,{\displaystyle a}
+Derivative_14,{\displaystyle L}
+Derivative_15,{\displaystyle f}
+Derivative_16,{\displaystyle a}
+Derivative_17,{\displaystyle f}
+Derivative_18,{\displaystyle a}
+Derivative_19,{\displaystyle f'(a)}
+Derivative_20,{\displaystyle f}
+Derivative_21,{\displaystyle a}
+Derivative_23,{\displaystyle f}
+Derivative_24,{\displaystyle x}
+Derivative_25,{\displaystyle a}
+Derivative_26,{\displaystyle df}
+Derivative_27,{\displaystyle dx}
+Derivative_28,{\displaystyle a}
+Derivative_29,{\displaystyle f}
+Derivative_30,{\displaystyle x}
+Derivative_31,{\displaystyle f}
+Derivative_32,{\displaystyle x}
+Derivative_33,{\displaystyle f'}
+Derivative_34,{\displaystyle f}
+Derivative_35,{\displaystyle f}
+Derivative_36,{\displaystyle a}
+Derivative_37,{\displaystyle f'(a)}
+Derivative_38,{\displaystyle f'(a)}
+Derivative_39,{\displaystyle f}
+Derivative_40,{\displaystyle f}
+Derivative_41,{\displaystyle f}
+Derivative_42,{\displaystyle f(x)=x^{2}}
+Derivative_43,{\displaystyle {\frac {f(a+h)-f(a)}{h}}={\frac {(a+h)^{2}-a^{2}}{h}}={\frac {a^{2}+2ah+h^{2}-a^{2}}{h}}=2a+h.}
+Derivative_44,{\displaystyle h\neq 0}
+Derivative_45,{\displaystyle h}
+Derivative_46,{\displaystyle 0}
+Derivative_47,{\displaystyle 2a}
+Derivative_48,{\displaystyle a}
+Derivative_49,{\displaystyle 2a}
+Derivative_50,{\displaystyle f'(x)=2x}
+Derivative_51,{\displaystyle \sin \left(x^{2}\right)+2x^{2}\cos \left(x^{2}\right)}
+Derivative_52,{\displaystyle f}
+Derivative_53,"{\displaystyle (a,f(a))}"
+Derivative_54,"{\displaystyle (a+h,f(a+h))}"
+Derivative_55,{\displaystyle h}
+Derivative_56,{\displaystyle f}
+Derivative_57,{\displaystyle a}
+Derivative_59,{\displaystyle f}
+Derivative_60,{\displaystyle 1+1+\cdots +1}
+Derivative_61,{\displaystyle d}
+Derivative_62,{\displaystyle f(x)}
+Derivative_63,{\displaystyle f'(x)=\operatorname {st} \left({\frac {f(x+dx)-f(x)}{dx}}\right)}
+Derivative_64,{\displaystyle dx}
+Derivative_65,{\displaystyle \operatorname {st} }
+Derivative_66,{\displaystyle f(x)=x^{2}}
+Derivative_67,{\displaystyle {\begin{aligned}f'(x)&=\operatorname {st} \left({\frac {x^{2}+2x\cdot dx+(dx)^{2}-x^{2}}{dx}}\right)\\&=\operatorname {st} \left({\frac {2x\cdot dx+(dx)^{2}}{dx}}\right)\\&=\operatorname {st} \left({\frac {2x\cdot dx}{dx}}+{\frac {(dx)^{2}}{dx}}\right)\\&=\operatorname {st} \left(2x+dx\right)\\&=2x.\end{aligned}}}
+Derivative_68,{\displaystyle f}
+Derivative_69,{\displaystyle a}
+Derivative_70,{\displaystyle f}
+Derivative_71,{\displaystyle a}
+Derivative_72,{\displaystyle a}
+Derivative_73,{\displaystyle f}
+Derivative_74,{\displaystyle x}
+Derivative_75,{\displaystyle a}
+Derivative_76,{\displaystyle x}
+Derivative_77,{\displaystyle a}
+Derivative_78,{\displaystyle f}
+Derivative_79,{\displaystyle a}
+Derivative_80,{\displaystyle h}
+Derivative_81,{\displaystyle a+h}
+Derivative_82,{\displaystyle a}
+Derivative_83,{\displaystyle a+h}
+Derivative_84,{\displaystyle h}
+Derivative_85,{\displaystyle h}
+Derivative_86,{\displaystyle a+h}
+Derivative_87,{\displaystyle a}
+Derivative_88,{\displaystyle a+h}
+Derivative_89,{\displaystyle f(x)=|x|}
+Derivative_90,{\displaystyle x=0}
+Derivative_91,{\displaystyle h}
+Derivative_92,{\displaystyle h}
+Derivative_93,{\displaystyle h}
+Derivative_94,{\displaystyle 0}
+Derivative_95,{\displaystyle h}
+Derivative_96,{\displaystyle -1}
+Derivative_97,{\displaystyle x=0}
+Derivative_98,{\displaystyle f(x)=x^{1/3}}
+Derivative_99,{\displaystyle x=0}
+Derivative_100,{\displaystyle dy}
+Derivative_101,{\displaystyle dx}
+Derivative_102,{\displaystyle y=f(x)}
+Derivative_104,{\displaystyle y}
+Derivative_105,{\displaystyle x}
+Derivative_108,{\displaystyle n}
+Derivative_109,{\displaystyle y=f(x)}
+Derivative_111,{\displaystyle u=g(x)}
+Derivative_112,{\displaystyle y=f(g(x))}
+Derivative_114,{\displaystyle f(x)}
+Derivative_115,{\displaystyle f'(x)}
+Derivative_116,{\displaystyle f}
+Derivative_117,{\displaystyle x}
+Derivative_118,{\displaystyle y'}
+Derivative_119,{\displaystyle y}
+Derivative_120,{\displaystyle f''}
+Derivative_121,{\displaystyle f'''}
+Derivative_122,{\displaystyle f^{\mathrm {iv} }}
+Derivative_123,{\displaystyle f^{(4)}.}
+Derivative_124,{\displaystyle f^{(n)}}
+Derivative_125,{\displaystyle n}
+Derivative_126,{\displaystyle f}
+Derivative_127,{\displaystyle y}
+Derivative_128,{\displaystyle t}
+Derivative_129,{\displaystyle {\dot {y}}}
+Derivative_130,{\displaystyle {\ddot {y}}}
+Derivative_131,{\displaystyle D.}
+Derivative_132,{\displaystyle Df(x)}
+Derivative_133,{\displaystyle n}
+Derivative_134,{\displaystyle D^{n}f(x).}
+Derivative_135,"{\displaystyle u=f(x,y),}"
+Derivative_136,{\displaystyle x}
+Derivative_137,{\displaystyle D_{x}u}
+Derivative_138,"{\displaystyle D_{x}f(x,y).}"
+Derivative_141,{\displaystyle a}
+Derivative_142,{\displaystyle e}
+Derivative_143,{\displaystyle {\frac {d}{dx}}x^{a}=ax^{a-1}}
+Derivative_144,{\displaystyle {\frac {d}{dx}}e^{x}=e^{x}}
+Derivative_145,{\displaystyle {\frac {d}{dx}}a^{x}=a^{x}\ln(a)}
+Derivative_146,{\displaystyle a>0}
+Derivative_147,{\displaystyle {\frac {d}{dx}}\ln(x)={\frac {1}{x}}}
+Derivative_148,{\displaystyle x>0}
+Derivative_149,{\displaystyle {\frac {d}{dx}}\log _{a}(x)={\frac {1}{x\ln(a)}}}
+Derivative_150,"{\displaystyle x,a>0}"
+Derivative_151,{\displaystyle {\frac {d}{dx}}\sin(x)=\cos(x)}
+Derivative_152,{\displaystyle {\frac {d}{dx}}\cos(x)=-\sin(x)}
+Derivative_153,{\displaystyle {\frac {d}{dx}}\tan(x)=\sec ^{2}(x)={\frac {1}{\cos ^{2}(x)}}=1+\tan ^{2}(x)}
+Derivative_154,{\displaystyle {\frac {d}{dx}}\arcsin(x)={\frac {1}{\sqrt {1-x^{2}}}}}
+Derivative_155,{\displaystyle -1<x<1}
+Derivative_156,{\displaystyle {\frac {d}{dx}}\arccos(x)=-{\frac {1}{\sqrt {1-x^{2}}}}}
+Derivative_157,{\displaystyle -1<x<1}
+Derivative_158,{\displaystyle {\frac {d}{dx}}\arctan(x)={\frac {1}{1+x^{2}}}}
+Derivative_159,{\displaystyle f}
+Derivative_160,{\displaystyle g}
+Derivative_161,{\displaystyle f}
+Derivative_162,{\displaystyle x}
+Derivative_163,{\displaystyle f'(x)=0.}
+Derivative_164,{\displaystyle (\alpha f+\beta g)'=\alpha f'+\beta g'}
+Derivative_165,{\displaystyle f}
+Derivative_166,{\displaystyle g}
+Derivative_167,{\displaystyle \alpha }
+Derivative_168,{\displaystyle \beta }
+Derivative_169,{\displaystyle (fg)'=f'g+fg'}
+Derivative_170,{\displaystyle f}
+Derivative_171,{\displaystyle g}
+Derivative_172,{\displaystyle (\alpha f)'=\alpha f'}
+Derivative_173,{\displaystyle \alpha }
+Derivative_174,{\displaystyle \alpha 'f=0\cdot f=0}
+Derivative_175,{\displaystyle \left({\frac {f}{g}}\right)'={\frac {f'g-fg'}{g^{2}}}}
+Derivative_176,{\displaystyle f}
+Derivative_177,{\displaystyle g}
+Derivative_178,{\displaystyle f(x)=h(g(x))}
+Derivative_179,{\displaystyle f'(x)=h'(g(x))\cdot g'(x).}
+Derivative_180,{\displaystyle f(x)=x^{4}+\sin \left(x^{2}\right)-\ln(x)e^{x}+7}
+Derivative_181,{\displaystyle {\begin{aligned}f'(x)&=4x^{(4-1)}+{\frac {d\left(x^{2}\right)}{dx}}\cos \left(x^{2}\right)-{\frac {d\left(\ln {x}\right)}{dx}}e^{x}-\ln(x){\frac {d\left(e^{x}\right)}{dx}}+0\\&=4x^{3}+2x\cos \left(x^{2}\right)-{\frac {1}{x}}e^{x}-\ln(x)e^{x}.\end{aligned}}}
+Derivative_182,{\displaystyle x^{2}}
+Derivative_183,{\displaystyle x^{4}}
+Derivative_184,{\displaystyle \sin(x)}
+Derivative_185,{\displaystyle \ln(x)}
+Derivative_186,{\displaystyle \exp(x)=e^{x}}
+Derivative_187,{\displaystyle 7}
+Derivative_188,{\displaystyle f}
+Derivative_189,{\displaystyle f}
+Derivative_190,{\displaystyle f'}
+Derivative_191,{\displaystyle f'}
+Derivative_192,{\displaystyle f''}
+Derivative_193,{\displaystyle f''}
+Derivative_194,{\displaystyle f'''}
+Derivative_195,{\displaystyle n}
+Derivative_196,{\displaystyle (n-1)}
+Derivative_197,{\displaystyle n}
+Derivative_198,{\displaystyle f}
+Derivative_199,{\displaystyle f^{(n)}}
+Derivative_200,{\displaystyle k}
+Derivative_201,{\displaystyle k}
+Derivative_202,{\displaystyle k}
+Derivative_203,{\displaystyle C^{k}}
+Derivative_204,{\displaystyle \mathbf {y} }
+Derivative_205,{\displaystyle \mathbb {R} ^{n}}
+Derivative_206,"{\displaystyle y_{1}(t),y_{2}(t),\dots ,y_{n}(t)}"
+Derivative_207,"{\displaystyle \mathbf {y} =(y_{1}(t),y_{2}(t),\dots ,y_{n}(t))}"
+Derivative_208,{\displaystyle \mathbb {R} ^{2}}
+Derivative_209,{\displaystyle \mathbb {R} ^{3}}
+Derivative_210,{\displaystyle \mathbf {y} (t)}
+Derivative_211,"{\displaystyle \mathbf {y} '(t)=\lim _{h\to 0}{\frac {\mathbf {y} (t+h)-\mathbf {y} (t)}{h}},}"
+Derivative_212,{\displaystyle \mathbf {y} }
+Derivative_213,{\displaystyle t}
+Derivative_214,{\displaystyle \mathbf {y} }
+Derivative_215,"{\displaystyle f(x,y,\dots )}"
+Derivative_216,{\displaystyle x}
+Derivative_217,{\displaystyle f_{x}}
+Derivative_218,{\displaystyle f'_{x}}
+Derivative_219,{\displaystyle \partial _{x}f}
+Derivative_220,{\displaystyle {\frac {\partial }{\partial x}}f}
+Derivative_221,{\displaystyle {\frac {\partial f}{\partial x}}}
+Derivative_222,{\displaystyle x}
+Derivative_223,"{\displaystyle f(x,y)=x^{2}+xy+y^{2}}"
+Derivative_224,{\displaystyle f}
+Derivative_225,{\displaystyle x}
+Derivative_226,{\displaystyle y}
+Derivative_227,"{\displaystyle {\frac {\partial f}{\partial x}}=2x+y,\qquad {\frac {\partial f}{\partial y}}=x+2y.}"
+Derivative_228,"{\displaystyle f(x_{1},\dots ,x_{n})}"
+Derivative_229,{\displaystyle x_{i}}
+Derivative_230,"{\displaystyle (a_{1},\dots ,a_{n})}"
+Derivative_231,"{\displaystyle {\frac {\partial f}{\partial x_{i}}}(a_{1},\ldots ,a_{n})=\lim _{h\to 0}{\frac {f(a_{1},\ldots ,a_{i}+h,\ldots ,a_{n})-f(a_{1},\ldots ,a_{i},\ldots ,a_{n})}{h}}.}"
+Derivative_232,"{\displaystyle f(x_{1},\dots ,x_{n})}"
+Derivative_233,{\displaystyle f}
+Derivative_234,{\displaystyle x_{j}}
+Derivative_235,"{\displaystyle (a_{1},\dots ,a_{n})}"
+Derivative_236,"{\displaystyle \nabla f(a_{1},\ldots ,a_{n})=\left({\frac {\partial f}{\partial x_{1}}}(a_{1},\ldots ,a_{n}),\ldots ,{\frac {\partial f}{\partial x_{n}}}(a_{1},\ldots ,a_{n})\right),}"
+Derivative_237,{\displaystyle f}
+Derivative_238,{\displaystyle a}
+Derivative_239,{\displaystyle f}
+Derivative_240,{\displaystyle \nabla f}
+Derivative_241,"{\displaystyle (a_{1},\dots ,a_{n})}"
+Derivative_242,"{\displaystyle \nabla f(a_{1},\dots ,a_{n})}"
+Derivative_243,{\displaystyle f}
+Derivative_244,{\displaystyle \mathbb {R} ^{n}}
+Derivative_245,{\displaystyle f}
+Derivative_246,{\displaystyle f}
+Derivative_247,{\displaystyle x}
+Derivative_248,{\displaystyle y}
+Derivative_249,{\displaystyle f}
+Derivative_250,{\displaystyle x}
+Derivative_251,{\displaystyle y}
+Derivative_252,{\displaystyle f}
+Derivative_253,{\displaystyle y=x}
+Derivative_254,"{\displaystyle \mathbf {v} =(v_{1},\ldots ,v_{n})}"
+Derivative_255,{\displaystyle f}
+Derivative_256,{\displaystyle \mathbf {v} }
+Derivative_257,{\displaystyle \mathbf {x} }
+Derivative_258,{\displaystyle D_{\mathbf {v} }{f}(\mathbf {x} )=\lim _{h\rightarrow 0}{\frac {f(\mathbf {x} +h\mathbf {v} )-f(\mathbf {x} )}{h}}.}
+Derivative_259,{\displaystyle f}
+Derivative_260,{\displaystyle \mathbf {x} }
+Derivative_261,{\displaystyle f}
+Derivative_262,{\displaystyle \mathbf {v} }
+Derivative_263,{\displaystyle D_{\mathbf {v} }{f}(\mathbf {x} )=\sum _{j=1}^{n}v_{j}{\frac {\partial f}{\partial x_{j}}}.}
+Derivative_264,{\displaystyle f}
+Derivative_265,{\displaystyle \mathbb {R} ^{n}}
+Derivative_266,{\displaystyle \mathbb {R} ^{m}}
+Derivative_267,{\displaystyle f}
+Derivative_268,{\displaystyle f}
+Derivative_269,{\displaystyle n>1}
+Derivative_270,{\displaystyle f}
+Derivative_271,{\displaystyle \mathbf {v} }
+Derivative_272,{\displaystyle \mathbf {a} }
+Derivative_273,{\displaystyle f(\mathbf {a} +\mathbf {v} )\approx f(\mathbf {a} )+f'(\mathbf {a} )\mathbf {v} .}
+Derivative_274,{\displaystyle f'(\mathbf {a} )}
+Derivative_275,{\displaystyle f}
+Derivative_276,{\displaystyle \mathbf {a} }
+Derivative_277,{\displaystyle f'(\mathbf {a} )\colon \mathbb {R} ^{n}\to \mathbb {R} ^{m}}
+Derivative_278,{\displaystyle \lim _{\mathbf {h} \to 0}{\frac {\lVert f(\mathbf {a} +\mathbf {h} )-(f(\mathbf {a} )+f'(\mathbf {a} )\mathbf {h} )\rVert }{\lVert \mathbf {h} \rVert }}=0.}
+Derivative_279,{\displaystyle \mathbf {h} }
+Derivative_280,{\displaystyle \mathbb {R} ^{n}}
+Derivative_281,{\displaystyle \mathbb {R} ^{n}}
+Derivative_282,{\displaystyle f'(\mathbf {a} )\mathbf {h} }
+Derivative_283,{\displaystyle \mathbb {R} ^{m}}
+Derivative_284,{\displaystyle \mathbb {R} ^{m}}
+Derivative_285,{\displaystyle v}
+Derivative_286,{\displaystyle a}
+Derivative_287,{\displaystyle f'(\mathbf {a} )\mathbf {v} }
+Derivative_288,{\displaystyle \mathbf {v} }
+Derivative_289,{\displaystyle f}
+Derivative_290,{\displaystyle \mathbf {a} }
+Derivative_291,{\displaystyle f}
+Derivative_292,{\displaystyle \mathbf {a} }
+Derivative_293,{\displaystyle \mathbf {v} }
+Derivative_294,{\displaystyle f'(\mathbf {a} )\mathbf {v} }
+Derivative_295,{\displaystyle f}
+Derivative_296,{\displaystyle \mathbf {v} }
+Derivative_297,{\displaystyle f}
+Derivative_298,"{\displaystyle f=(f_{1},f_{2},\dots ,f_{m})}"
+Derivative_299,{\displaystyle f}
+Derivative_300,{\displaystyle \mathbf {a} }
+Derivative_301,{\displaystyle f'(\mathbf {a} )=\operatorname {Jac} _{\mathbf {a} }=\left({\frac {\partial f_{i}}{\partial x_{j}}}\right)_{ij}.}
+Derivative_302,{\displaystyle \mathbb {C} }
+Derivative_303,{\displaystyle \mathbb {C} }
+Derivative_304,{\displaystyle \mathbb {C} }
+Derivative_305,{\displaystyle \mathbb {R} ^{2}}
+Derivative_306,{\displaystyle z}
+Derivative_307,{\displaystyle x+iy}
+Derivative_308,{\displaystyle \mathbb {C} }
+Derivative_309,{\displaystyle \mathbb {C} }
+Derivative_310,{\displaystyle \mathbb {R} ^{2}}
+Derivative_311,{\displaystyle \mathbb {R} ^{2}}
+Derivative_312,{\displaystyle M}
+Derivative_313,{\displaystyle x}
+Derivative_314,{\displaystyle \mathbb {R} ^{3}}
+Derivative_315,{\displaystyle f:M\to N}
+Derivative_316,{\displaystyle x}
+Derivative_317,{\displaystyle M}
+Derivative_318,{\displaystyle M}
+Derivative_319,{\displaystyle x}
+Derivative_320,{\displaystyle N}
+Derivative_321,{\displaystyle f(x)}
+Derivative_322,{\displaystyle M}
+Derivative_323,{\displaystyle N}
+Derivative_324,{\displaystyle du}
+Derivative_325,{\displaystyle du}
+Derivative_327,{\displaystyle dx}
+Derivative_328,{\displaystyle du}
+Derivative_329,{\displaystyle du=dxf'(x).}
+Derivative_330,{\displaystyle du}
+Derivative_331,{\displaystyle u}
+Derivative_332,{\displaystyle e}
+Derivative_333,{\displaystyle a}
+Derivative_334,{\displaystyle a}

@@ -1,0 +1,128 @@
+name,latex
+Approximations_of_%CF%80_0,"{\displaystyle 3+8/60+30/60^{2},}"
+Approximations_of_%CF%80_1,{\displaystyle \pi =4\arctan(1):}
+Approximations_of_%CF%80_2,{\displaystyle \pi =4\left(1-{\frac {1}{3}}+{\frac {1}{5}}-{\frac {1}{7}}+\cdots \right)}
+Approximations_of_%CF%80_3,{\displaystyle \pi =6\arctan(1/{\sqrt {3}}):}
+Approximations_of_%CF%80_4,{\displaystyle \pi ={\sqrt {12}}\sum _{k=0}^{\infty }{\frac {(-3)^{-k}}{2k+1}}={\sqrt {12}}\sum _{k=0}^{\infty }{\frac {(-{\frac {1}{3}})^{k}}{2k+1}}={\sqrt {12}}\left(1-{1 \over 3\cdot 3}+{1 \over 5\cdot 3^{2}}-{1 \over 7\cdot 3^{3}}+\cdots \right)}
+Approximations_of_%CF%80_5,{\displaystyle \pi /4\approx 1-{\frac {1}{3}}+{\frac {1}{5}}-{\frac {1}{7}}+\cdots -{\frac {(-1)^{n}}{2n-1}}\pm {\frac {n^{2}+1}{4n^{3}+5n}}}
+Approximations_of_%CF%80_6,"{\displaystyle 2\pi \approx 6.2831853071795864,}"
+Approximations_of_%CF%80_7,{\displaystyle \pi \approx 3.1415926535897932}
+Approximations_of_%CF%80_8,{\displaystyle {\frac {\pi }{2}}=\prod _{n=1}^{\infty }{\frac {4n^{2}}{4n^{2}-1}}=\prod _{n=1}^{\infty }\left({\frac {2n}{2n-1}}\cdot {\frac {2n}{2n+1}}\right)={\Big (}{\frac {2}{1}}\cdot {\frac {2}{3}}{\Big )}\cdot {\Big (}{\frac {4}{3}}\cdot {\frac {4}{5}}{\Big )}\cdot {\Big (}{\frac {6}{5}}\cdot {\frac {6}{7}}{\Big )}\cdot {\Big (}{\frac {8}{7}}\cdot {\frac {8}{9}}{\Big )}\cdot \;\cdots }
+Approximations_of_%CF%80_10,{\displaystyle {\frac {1}{\pi }}={\frac {2{\sqrt {2}}}{9801}}\sum _{k=0}^{\infty }{\frac {(4k)!(1103+26390k)}{(k!)^{4}396^{4k}}}}
+Approximations_of_%CF%80_11,{\displaystyle \pi \approx {\frac {9801}{2206{\sqrt {2}}}}\approx 3.14159273}
+Approximations_of_%CF%80_12,{\displaystyle {\frac {1}{\pi }}=12\sum _{k=0}^{\infty }{\frac {(-1)^{k}(6k)!(13591409+545140134k)}{(3k)!(k!)^{3}640320^{3k+3/2}}}.}
+Approximations_of_%CF%80_13,"{\displaystyle P_{2n}={\frac {2p_{n}P_{n}}{p_{n}+P_{n}}},\quad \quad p_{2n}={\sqrt {p_{n}P_{2n}}}.}"
+Approximations_of_%CF%80_14,{\displaystyle 3{\frac {10}{71}}<\pi <3{\frac {1}{7}}.}
+Approximations_of_%CF%80_15,{\displaystyle {\frac {\pi }{4}}=4\arctan {\frac {1}{5}}-\arctan {\frac {1}{239}}}
+Approximations_of_%CF%80_16,{\displaystyle (5+i)^{4}\cdot (239-i)=2^{2}\cdot 13^{4}(1+i).}
+Approximations_of_%CF%80_17,{\displaystyle {\frac {\pi }{4}}=6\arctan {\frac {1}{8}}+2\arctan {\frac {1}{57}}+\arctan {\frac {1}{239}}}
+Approximations_of_%CF%80_18,{\displaystyle {\frac {\pi }{4}}=12\arctan {\frac {1}{18}}+8\arctan {\frac {1}{57}}-5\arctan {\frac {1}{239}}}
+Approximations_of_%CF%80_19,{\displaystyle {\frac {\pi }{4}}=12\arctan {\frac {1}{49}}+32\arctan {\frac {1}{57}}-5\arctan {\frac {1}{239}}+12\arctan {\frac {1}{110443}}}
+Approximations_of_%CF%80_20,{\displaystyle {\frac {\pi }{4}}=44\arctan {\frac {1}{57}}+7\arctan {\frac {1}{239}}-12\arctan {\frac {1}{682}}+24\arctan {\frac {1}{12943}}}
+Approximations_of_%CF%80_21,{\displaystyle {\begin{aligned}\pi &\approx 768{\sqrt {2-{\sqrt {2+{\sqrt {2+{\sqrt {2+{\sqrt {2+{\sqrt {2+{\sqrt {2+{\sqrt {2+{\sqrt {2+1}}}}}}}}}}}}}}}}}}\\&\approx 3.141590463236763.\end{aligned}}}
+Approximations_of_%CF%80_22,{\displaystyle \pi ={\sqrt {12}}\sum _{k=0}^{\infty }{\frac {(-3)^{-k}}{2k+1}}={\sqrt {12}}\sum _{k=0}^{\infty }{\frac {(-{\frac {1}{3}})^{k}}{2k+1}}={\sqrt {12}}\left({1 \over 1\cdot 3^{0}}-{1 \over 3\cdot 3^{1}}+{1 \over 5\cdot 3^{2}}-{1 \over 7\cdot 3^{3}}+\cdots \right)}
+Approximations_of_%CF%80_24,{\displaystyle {\pi }=20\arctan {\frac {1}{7}}+8\arctan {\frac {3}{79}}}
+Approximations_of_%CF%80_25,{\displaystyle {\frac {1}{\pi }}={\frac {2{\sqrt {2}}}{9801}}\sum _{k=0}^{\infty }{\frac {(4k)!(1103+26390k)}{(k!)^{4}396^{4k}}}}
+Approximations_of_%CF%80_26,{\displaystyle {\frac {1}{\pi }}=12\sum _{k=0}^{\infty }{\frac {(-1)^{k}(6k)!(13591409+545140134k)}{(3k)!(k!)^{3}640320^{3k+3/2}}}}
+Approximations_of_%CF%80_27,"{\displaystyle y_{0}={\sqrt {2}}-1,\ a_{0}=6-4{\sqrt {2}}}"
+Approximations_of_%CF%80_28,"{\displaystyle y_{k+1}=(1-f(y_{k}))/(1+f(y_{k}))~,~a_{k+1}=a_{k}(1+y_{k+1})^{4}-2^{2k+3}y_{k+1}(1+y_{k+1}+y_{k+1}^{2})}"
+Approximations_of_%CF%80_29,{\displaystyle f(y)=(1-y^{4})^{1/4}}
+Approximations_of_%CF%80_30,{\displaystyle 1/a_{k}}
+Approximations_of_%CF%80_31,{\displaystyle O(n\log ^{2}n)}
+Approximations_of_%CF%80_32,{\displaystyle O(n\log ^{3}n)}
+Approximations_of_%CF%80_33,{\displaystyle n}
+Approximations_of_%CF%80_34,{\displaystyle {\frac {\pi }{4}}=12\arctan {\frac {1}{49}}+32\arctan {\frac {1}{57}}-5\arctan {\frac {1}{239}}+12\arctan {\frac {1}{110443}}}
+Approximations_of_%CF%80_35,{\displaystyle {\frac {\pi }{4}}=44\arctan {\frac {1}{57}}+7\arctan {\frac {1}{239}}-12\arctan {\frac {1}{682}}+24\arctan {\frac {1}{12943}}}
+Approximations_of_%CF%80_36,{\displaystyle 3+{\frac {8}{60}}+{\frac {29}{60^{2}}}+{\frac {44}{60^{3}}}=3.14159\ 259^{+}}
+Approximations_of_%CF%80_37,{\displaystyle {\frac {22}{7}}=3.143^{+}}
+Approximations_of_%CF%80_38,{\displaystyle {\sqrt {2}}+{\sqrt {3}}=3.146^{+}}
+Approximations_of_%CF%80_39,{\displaystyle {\sqrt {15}}-{\sqrt {3}}+1=3.1409^{+}}
+Approximations_of_%CF%80_40,"{\displaystyle 1+e-\gamma =3.1410^{+},}"
+Approximations_of_%CF%80_41,{\displaystyle e}
+Approximations_of_%CF%80_42,{\displaystyle \gamma }
+Approximations_of_%CF%80_43,{\displaystyle {\sqrt[{3}]{31}}=3.1413^{+}}
+Approximations_of_%CF%80_44,{\displaystyle {\sqrt {63}}-{\sqrt {23}}=3.14142\ 2^{+}}
+Approximations_of_%CF%80_45,{\displaystyle {\sqrt {51}}-{\sqrt {16}}=3.14142\ 8^{+}}
+Approximations_of_%CF%80_46,{\displaystyle 3+{\frac {\sqrt {2}}{10}}=3.14142\ 1^{+}}
+Approximations_of_%CF%80_47,{\displaystyle {\sqrt {7+{\sqrt {6+{\sqrt {5}}}}}}=3.1416^{+}}
+Approximations_of_%CF%80_48,{\displaystyle {\frac {9}{5}}+{\sqrt {\frac {9}{5}}}=3.1416^{+}}
+Approximations_of_%CF%80_49,{\displaystyle {\frac {7^{7}}{4^{9}}}=3.14156^{+}}
+Approximations_of_%CF%80_50,{\displaystyle {\sqrt[{5}]{306}}=3.14155^{+}}
+Approximations_of_%CF%80_51,{\displaystyle \left(2-{\frac {\sqrt {2{\sqrt {2}}-2}}{2^{2}}}\right)^{2}=3.14159\ 6^{+}}
+Approximations_of_%CF%80_52,{\displaystyle {\sqrt {2}}+{\sqrt {3}}+{\frac {{\sqrt {2}}-{\sqrt {3}}}{68}}=3.14159\ 0^{+}}
+Approximations_of_%CF%80_53,{\displaystyle 4\left(1-{\frac {1}{3}}+{\frac {1}{5}}-{\frac {1}{7}}+{\frac {1}{9}}\right)-{\frac {2}{10+{\frac {1^{2}}{10+{\frac {2^{2}}{10+{\frac {3^{2}}{10}}}}}}}}=3.14159\ 3^{+}}
+Approximations_of_%CF%80_54,{\displaystyle {\frac {355}{113}}=3.14159\ 29^{+}}
+Approximations_of_%CF%80_55,{\displaystyle {\frac {{\sqrt {883}}-{\sqrt {21}}}{8}}=3.14159\ 25^{+}}
+Approximations_of_%CF%80_56,{\displaystyle {\frac {9801}{2206{\sqrt {2}}}}}
+Approximations_of_%CF%80_57,{\displaystyle \left({\frac {2\cdot 4\cdot 6}{3\cdot 5\cdot 7}}\right)^{2}\left(15+{\frac {1^{2}}{30+{\frac {3^{2}}{30+{\frac {5^{2}}{30}}}}}}\right)=3.14159\ 27^{+}}
+Approximations_of_%CF%80_58,{\displaystyle {\frac {{\sqrt {2669}}-{\sqrt {547}}}{9}}=3.14159\ 269^{+}}
+Approximations_of_%CF%80_59,{\displaystyle {\frac {16}{5{\sqrt[{38}]{2}}{\sqrt[{3846}]{2}}}}=3.14159\ 260^{+}}
+Approximations_of_%CF%80_60,{\displaystyle 3+{\frac {{\sqrt {2}}{\sqrt[{1234}]{2}}{\sqrt[{1068}]{2}}}{10}}=3.14159\ 268^{+}}
+Approximations_of_%CF%80_61,{\displaystyle {\frac {99733}{31746}}=3.14159\ 264^{+}}
+Approximations_of_%CF%80_62,{\displaystyle \left({\frac {\sqrt {58}}{4}}-{\frac {37{\sqrt {2}}}{33}}\right)^{-1}={\frac {66{\sqrt {2}}}{33{\sqrt {29}}-148}}=3.14159\ 263^{+}}
+Approximations_of_%CF%80_63,{\displaystyle {\sqrt[{4}]{3^{4}+2^{4}+{\frac {1}{2+({\frac {2}{3}})^{2}}}}}={\sqrt[{4}]{\frac {2143}{22}}}=3.14159\ 2652^{+}}
+Approximations_of_%CF%80_64,{\displaystyle {\sqrt[{15}]{28658146}}}
+Approximations_of_%CF%80_65,{\displaystyle {\frac {63}{25}}\times {\frac {17+15{\sqrt {5}}}{7+15{\sqrt {5}}}}=3.14159\ 26538^{+}}
+Approximations_of_%CF%80_66,{\displaystyle {\sqrt[{193}]{\frac {10^{100}}{11222.11122}}}=3.14159\ 26536^{+}}
+Approximations_of_%CF%80_67,{\displaystyle {\sqrt[{18}]{888582403}}}
+Approximations_of_%CF%80_68,{\displaystyle {\sqrt[{20}]{8769956796}}}
+Approximations_of_%CF%80_69,{\displaystyle \left({\frac {\sqrt {163}}{6}}-{\frac {181}{\sqrt {10005}}}\right)^{-1}}
+Approximations_of_%CF%80_70,{\displaystyle {\frac {2510613731736{\sqrt {2}}}{1130173253125}}}
+Approximations_of_%CF%80_71,{\displaystyle {\frac {165707065}{52746197}}=3.14159\ 26535\ 897\ 934^{+}}
+Approximations_of_%CF%80_72,{\displaystyle {\frac {80{\sqrt {15}}(5^{4}+53{\sqrt {89}})^{\frac {3}{2}}}{3308(5^{4}+53{\sqrt {89}})-3{\sqrt {89}}}}}
+Approximations_of_%CF%80_73,{\displaystyle \scriptstyle 5^{4}+53{\sqrt {89}}}
+Approximations_of_%CF%80_74,{\displaystyle \scriptstyle U_{89}=500+53{\sqrt {89}}}
+Approximations_of_%CF%80_75,{\displaystyle \left({\frac {\sqrt {253}}{4}}-{\frac {643{\sqrt {11}}}{903}}-{\frac {223}{172}}\right)^{-1}}
+Approximations_of_%CF%80_76,{\displaystyle {\frac {2286635172367940241408{\sqrt {2}}}{1029347477390786609545}}}
+Approximations_of_%CF%80_77,{\displaystyle {\frac {1}{10}}\ln \left({\frac {2^{21}}{({\sqrt[{4}]{5}}-1)^{24}}}+24\right)}
+Approximations_of_%CF%80_78,{\displaystyle {\frac {\ln(640320^{3}+744)}{\sqrt {163}}}=3.14159\ 26535\ 89793\ 23846\ 26433\ 83279^{+}}
+Approximations_of_%CF%80_79,{\displaystyle {\frac {\ln(5280^{3}(236674+30303{\sqrt {61}})^{3}+744)}{\sqrt {427}}}}
+Approximations_of_%CF%80_80,{\displaystyle {\frac {\ln(2^{-30}((3+{\sqrt {5}})({\sqrt {5}}+{\sqrt {7}})({\sqrt {7}}+{\sqrt {11}})({\sqrt {11}}+3))^{12}-24)}{{\sqrt {5}}{\sqrt {7}}{\sqrt {11}}}}}
+Approximations_of_%CF%80_81,{\displaystyle {\frac {\ln {\big (}(2u)^{6}+24{\big )}}{\sqrt {3502}}}}
+Approximations_of_%CF%80_82,{\displaystyle u=(a+{\sqrt {a^{2}-1}})^{2}(b+{\sqrt {b^{2}-1}})^{2}(c+{\sqrt {c^{2}-1}})(d+{\sqrt {d^{2}-1}})}
+Approximations_of_%CF%80_83,{\displaystyle {\begin{aligned}a&={\tfrac {1}{2}}(23+4{\sqrt {34}})\\b&={\tfrac {1}{2}}(19{\sqrt {2}}+7{\sqrt {17}})\\c&=(429+304{\sqrt {2}})\\d&={\tfrac {1}{2}}(627+442{\sqrt {2}})\end{aligned}}}
+Approximations_of_%CF%80_84,{\displaystyle \tau ={\sqrt {-3502}}}
+Approximations_of_%CF%80_85,"{\displaystyle {\frac {3}{1}},{\frac {22}{7}},{\frac {333}{106}},{\frac {355}{113}},{\frac {103993}{33102}},{\frac {104348}{33215}},{\frac {208341}{66317}},{\frac {312689}{99532}},{\frac {833719}{265381}},{\frac {1146408}{364913}},{\frac {4272943}{1360120}},{\frac {5419351}{1725033}}}"
+Approximations_of_%CF%80_86,{\displaystyle {\frac {355}{113}}}
+Approximations_of_%CF%80_87,{\displaystyle A=\pi r^{2}.}
+Approximations_of_%CF%80_88,{\displaystyle d={\sqrt {x^{2}+y^{2}}}.}
+Approximations_of_%CF%80_89,{\displaystyle {\sqrt {x^{2}+y^{2}}}\leq r.}
+Approximations_of_%CF%80_90,{\displaystyle \pi =\lim _{r\to \infty }{\frac {1}{r^{2}}}\sum _{x=-r}^{r}\;\sum _{y=-r}^{r}{\begin{cases}1&{\text{if }}{\sqrt {x^{2}+y^{2}}}\leq r\\0&{\text{if }}{\sqrt {x^{2}+y^{2}}}>r.\end{cases}}}
+Approximations_of_%CF%80_91,"{\displaystyle \pi ={3+{\cfrac {1^{2}}{6+{\cfrac {3^{2}}{6+{\cfrac {5^{2}}{6+\ddots \,}}}}}}}}"
+Approximations_of_%CF%80_92,{\displaystyle \pi ={\cfrac {4}{1+{\cfrac {1^{2}}{3+{\cfrac {2^{2}}{5+{\cfrac {3^{2}}{7+{\cfrac {4^{2}}{9+\ddots }}}}}}}}}}=3+{\cfrac {1^{2}}{5+{\cfrac {4^{2}}{7+{\cfrac {3^{2}}{9+{\cfrac {6^{2}}{11+{\cfrac {5^{2}}{13+\ddots }}}}}}}}}}}
+Approximations_of_%CF%80_93,"{\displaystyle \pi =4\sum _{n=1}^{m}{\frac {(-1)^{n-1}}{2n-1}}+{\cfrac {2(-1)^{m}}{2m+{\cfrac {1^{2}}{2m+{\cfrac {2^{2}}{2m+{\cfrac {3^{2}}{2m+\ddots }}}}}}}}\qquad (m=1,2,3,\ldots )}"
+Approximations_of_%CF%80_94,{\displaystyle {\frac {2}{2m+{\frac {1^{2}}{2m+{\frac {2^{2}}{2m}}}}}}=4{\frac {m^{2}+1}{4m^{3}+5m}}}
+Approximations_of_%CF%80_95,{\displaystyle \pi =4\sum _{n=0}^{\infty }{\cfrac {(-1)^{n}}{2n+1}}=4\left({\frac {1}{1}}-{\frac {1}{3}}+{\frac {1}{5}}-{\frac {1}{7}}+-\cdots \right)}
+Approximations_of_%CF%80_96,{\displaystyle x}
+Approximations_of_%CF%80_97,{\displaystyle \pi }
+Approximations_of_%CF%80_98,{\displaystyle {\begin{aligned}\pi &=2\left(1+{\cfrac {1}{3}}+{\cfrac {1\cdot 2}{3\cdot 5}}+{\cfrac {1\cdot 2\cdot 3}{3\cdot 5\cdot 7}}+{\cfrac {1\cdot 2\cdot 3\cdot 4}{3\cdot 5\cdot 7\cdot 9}}+{\cfrac {1\cdot 2\cdot 3\cdot 4\cdot 5}{3\cdot 5\cdot 7\cdot 9\cdot 11}}+\cdots \right)\\&=2\sum _{n=0}^{\infty }{\cfrac {n!}{(2n+1)!!}}=\sum _{n=0}^{\infty }{\cfrac {2^{n+1}n!^{2}}{(2n+1)!}}=\sum _{n=0}^{\infty }{\cfrac {2^{n+1}}{{\binom {2n}{n}}(2n+1)}}\\&=2+{\frac {2}{3}}+{\frac {4}{15}}+{\frac {4}{35}}+{\frac {16}{315}}+{\frac {16}{693}}+{\frac {32}{3003}}+{\frac {32}{6435}}+{\frac {256}{109395}}+{\frac {256}{230945}}+\cdots \end{aligned}}}
+Approximations_of_%CF%80_99,{\displaystyle \pi =2+{\frac {1}{3}}\left(2+{\frac {2}{5}}\left(2+{\frac {3}{7}}\left(2+\cdots \right)\right)\right)}
+Approximations_of_%CF%80_100,{\displaystyle \pi }
+Approximations_of_%CF%80_101,"{\displaystyle {\frac {\pi }{2^{k+1}}}=\arctan {\frac {\sqrt {2-a_{k-1}}}{a_{k}}},\qquad \qquad k\geq 2,}"
+Approximations_of_%CF%80_102,{\displaystyle a_{k}={\sqrt {2+a_{k-1}}}}
+Approximations_of_%CF%80_103,{\displaystyle a_{1}={\sqrt {2}}}
+Approximations_of_%CF%80_104,{\displaystyle \arctan(x)=\sum _{n=0}^{\infty }{\frac {2^{2n}(n!)^{2}}{(2n+1)!}}\;{\frac {x^{2n+1}}{(1+x^{2})^{n+1}}}.}
+Approximations_of_%CF%80_105,"{\displaystyle \arctan(x)=2\sum _{n=1}^{\infty }{{\frac {1}{2n-1}}{\frac {{{a}_{n}}\left(x\right)}{a_{n}^{2}\left(x\right)+b_{n}^{2}\left(x\right)}}},}"
+Approximations_of_%CF%80_106,"{\displaystyle {\begin{aligned}&a_{1}(x)=2/x,\\&b_{1}(x)=1,\\&a_{n}(x)=a_{n-1}(x)\,\left(1-4/x^{2}\right)+4b_{n-1}(x)/x,\\&b_{n}(x)=b_{n-1}(x)\,\left(1-4/x^{2}\right)-4a_{n-1}(x)/x,\end{aligned}}}"
+Approximations_of_%CF%80_107,{\displaystyle \pi }
+Approximations_of_%CF%80_108,{\displaystyle \pi }
+Approximations_of_%CF%80_109,{\displaystyle k}
+Approximations_of_%CF%80_110,{\displaystyle \pi }
+Approximations_of_%CF%80_111,{\displaystyle {\frac {\pi }{2}}=\sum _{n=0}^{\infty }\arctan {\frac {1}{F_{2n+1}}}=\arctan {\frac {1}{1}}+\arctan {\frac {1}{2}}+\arctan {\frac {1}{5}}+\arctan {\frac {1}{13}}+\cdots }
+Approximations_of_%CF%80_112,"{\displaystyle {\frac {\pi }{4}}=\sum _{k\geq 2}\arctan {\frac {\sqrt {2-a_{k-1}}}{a_{k}}},}"
+Approximations_of_%CF%80_113,{\displaystyle F_{n}}
+Approximations_of_%CF%80_114,{\displaystyle \pi }
+Approximations_of_%CF%80_115,{\displaystyle \sin \left({\frac {\pi }{6}}\right)={\frac {1}{2}}}
+Approximations_of_%CF%80_116,{\displaystyle {\begin{aligned}\pi &=6\sin ^{-1}\left({\frac {1}{2}}\right)=6\left({\frac {1}{2}}+{\frac {1}{2\cdot 3\cdot 2^{3}}}+{\frac {1\cdot 3}{2\cdot 4\cdot 5\cdot 2^{5}}}+{\frac {1\cdot 3\cdot 5}{2\cdot 4\cdot 6\cdot 7\cdot 2^{7}}}+\cdots \!\right)\\&={\frac {3}{16^{0}\cdot 1}}+{\frac {6}{16^{1}\cdot 3}}+{\frac {18}{16^{2}\cdot 5}}+{\frac {60}{16^{3}\cdot 7}}+\cdots \!=\sum _{n=0}^{\infty }{\frac {3\cdot {\binom {2n}{n}}}{16^{n}(2n+1)}}\\&=3+{\frac {1}{8}}+{\frac {9}{640}}+{\frac {15}{7168}}+{\frac {35}{98304}}+{\frac {189}{2883584}}+{\frac {693}{54525952}}+{\frac {429}{167772160}}+\cdots \end{aligned}}}
+Approximations_of_%CF%80_117,{\displaystyle \pi =\sum _{n=0}^{\infty }\left({\frac {4}{8n+1}}-{\frac {2}{8n+4}}-{\frac {1}{8n+5}}-{\frac {1}{8n+6}}\right)\left({\frac {1}{16}}\right)^{n}}
+Approximations_of_%CF%80_118,{\displaystyle \pi +3=\sum _{n=1}^{\infty }{\frac {n2^{n}n!^{2}}{(2n)!}}}
+Approximations_of_%CF%80_119,{\displaystyle \pi ={\frac {1}{2^{6}}}\sum _{n=0}^{\infty }{\frac {(-1)^{n}}{2^{10n}}}\left(-{\frac {2^{5}}{4n+1}}-{\frac {1}{4n+3}}+{\frac {2^{8}}{10n+1}}-{\frac {2^{6}}{10n+3}}-{\frac {2^{2}}{10n+5}}-{\frac {2^{2}}{10n+7}}+{\frac {1}{10n+9}}\right)}
+Approximations_of_%CF%80_120,{\displaystyle \pi =\sum _{k=0}^{\infty }{\frac {1}{16^{k}}}\left({\frac {4}{8k+1}}-{\frac {2}{8k+4}}-{\frac {1}{8k+5}}-{\frac {1}{8k+6}}\right).}
+Approximations_of_%CF%80_121,{\displaystyle \pi ={\frac {1}{2^{6}}}\sum _{n=0}^{\infty }{\frac {{(-1)}^{n}}{2^{10n}}}\left(-{\frac {2^{5}}{4n+1}}-{\frac {1}{4n+3}}+{\frac {2^{8}}{10n+1}}-{\frac {2^{6}}{10n+3}}-{\frac {2^{2}}{10n+5}}-{\frac {2^{2}}{10n+7}}+{\frac {1}{10n+9}}\right)}
+Approximations_of_%CF%80_122,{\displaystyle {\frac {\pi }{2}}=\sum _{k=0}^{\infty }{\frac {k!}{(2k+1)!!}}=\sum _{k=0}^{\infty }{\frac {2^{k}k!^{2}}{(2k+1)!}}=1+{\frac {1}{3}}\left(1+{\frac {2}{5}}\left(1+{\frac {3}{7}}\left(1+\cdots \right)\right)\right)}
+Approximations_of_%CF%80_123,{\displaystyle {\frac {1}{\pi }}={\frac {2{\sqrt {2}}}{9801}}\sum _{k=0}^{\infty }{\frac {(4k)!(1103+26390k)}{(k!)^{4}396^{4k}}}}
+Approximations_of_%CF%80_124,{\displaystyle {\frac {1}{\pi }}={\frac {1}{426880{\sqrt {10005}}}}\sum _{k=0}^{\infty }{\frac {(6k)!(13591409+545140134k)}{(3k)!(k!)^{3}(-640320)^{3k}}}}
+Approximations_of_%CF%80_125,{\displaystyle O(M(n)\log(n))}
+Approximations_of_%CF%80_126,{\displaystyle O(n\log(n)^{3})}
+Approximations_of_%CF%80_127,{\displaystyle O(M(n)(\log n)^{2})}
+Approximations_of_%CF%80_128,"{\displaystyle {\overline {{\tfrac {16}{5}}-{\tfrac {4}{239}}}}-{\tfrac {1}{3}}{\overline {{\tfrac {16}{5^{3}}}-{\tfrac {4}{239^{3}}}}}+{\tfrac {1}{5}}{\overline {{\tfrac {16}{5^{5}}}-{\tfrac {4}{239^{5}}}}}-,\,\&c.=}"

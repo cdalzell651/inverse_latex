@@ -1,0 +1,43 @@
+name,latex
+Approximation_theory_0,{\displaystyle \mid P(x)-f(x)\mid }
+Approximation_theory_1,{\displaystyle +\varepsilon }
+Approximation_theory_2,{\displaystyle -\varepsilon }
+Approximation_theory_3,{\displaystyle \varepsilon }
+Approximation_theory_4,{\displaystyle +\varepsilon }
+Approximation_theory_5,{\displaystyle -\varepsilon }
+Approximation_theory_6,{\displaystyle |Q(x_{i})-f(x_{i})|<|P(x_{i})-f(x_{i})|.}
+Approximation_theory_7,"{\displaystyle Q(x_{i})-f(x_{i})\leq |Q(x_{i})-f(x_{i})|<|P(x_{i})-f(x_{i})|=P(x_{i})-f(x_{i}),}"
+Approximation_theory_8,{\displaystyle f(x_{i})-Q(x_{i})\leq |Q(x_{i})-f(x_{i})|<|P(x_{i})-f(x_{i})|=f(x_{i})-P(x_{i}).}
+Approximation_theory_9,{\displaystyle f(x)\sim \sum _{i=0}^{\infty }c_{i}T_{i}(x)}
+Approximation_theory_10,{\displaystyle T_{N}}
+Approximation_theory_11,{\displaystyle T_{N}}
+Approximation_theory_12,{\displaystyle T_{N+1}}
+Approximation_theory_13,{\displaystyle T_{N+1}}
+Approximation_theory_14,{\displaystyle T_{N}}
+Approximation_theory_15,{\displaystyle x_{1}}
+Approximation_theory_16,{\displaystyle x_{2}}
+Approximation_theory_17,{\displaystyle x_{N+2}}
+Approximation_theory_18,{\displaystyle x_{1}}
+Approximation_theory_19,{\displaystyle x_{N+2}}
+Approximation_theory_20,{\displaystyle {\begin{aligned}P(x_{1})-f(x_{1})&=+\varepsilon \\P(x_{2})-f(x_{2})&=-\varepsilon \\P(x_{3})-f(x_{3})&=+\varepsilon \\&\ \ \vdots \\P(x_{N+2})-f(x_{N+2})&=\pm \varepsilon .\end{aligned}}}
+Approximation_theory_21,{\displaystyle {\begin{aligned}P_{0}+P_{1}x_{1}+P_{2}x_{1}^{2}+P_{3}x_{1}^{3}+\dots +P_{N}x_{1}^{N}-f(x_{1})&=+\varepsilon \\P_{0}+P_{1}x_{2}+P_{2}x_{2}^{2}+P_{3}x_{2}^{3}+\dots +P_{N}x_{2}^{N}-f(x_{2})&=-\varepsilon \\&\ \ \vdots \end{aligned}}}
+Approximation_theory_22,{\displaystyle x_{1}}
+Approximation_theory_23,{\displaystyle x_{N+2}}
+Approximation_theory_24,{\displaystyle f(x_{1})}
+Approximation_theory_25,{\displaystyle f(x_{N+2})}
+Approximation_theory_26,{\displaystyle P_{0}}
+Approximation_theory_27,{\displaystyle P_{1}}
+Approximation_theory_28,{\displaystyle P_{N}}
+Approximation_theory_29,{\displaystyle \varepsilon }
+Approximation_theory_30,{\displaystyle x_{1}}
+Approximation_theory_31,{\displaystyle x_{N+2}}
+Approximation_theory_32,{\displaystyle \varepsilon }
+Approximation_theory_33,{\displaystyle e^{x}}
+Approximation_theory_34,{\displaystyle \varepsilon }
+Approximation_theory_35,{\displaystyle \pm \varepsilon }
+Approximation_theory_36,"{\displaystyle f(x)\,}"
+Approximation_theory_37,"{\displaystyle f'(x)\,}"
+Approximation_theory_38,"{\displaystyle f''(x)\,}"
+Approximation_theory_39,{\displaystyle 10^{-15}}
+Approximation_theory_40,{\displaystyle 10^{-30}}
+Approximation_theory_41,{\displaystyle T_{N+1}}

@@ -1,0 +1,58 @@
+name,latex
+Indian_mathematics_0,{\displaystyle {\sqrt {2}}\approx 1+{\frac {1}{3}}+{\frac {1}{3\cdot 4}}-{\frac {1}{3\cdot 4\cdot 34}}=1.4142156\ldots }
+Indian_mathematics_1,{\displaystyle {\sqrt {2}}\approx 1+{\frac {24}{60}}+{\frac {51}{60^{2}}}+{\frac {10}{60^{3}}}=1.41421297\ldots }
+Indian_mathematics_2,{\displaystyle {n \choose 0}+{n \choose 1}+{n \choose 2}+\cdots +{n \choose n-1}+{n \choose n}=2^{n}}
+Indian_mathematics_3,{\displaystyle \sin ^{2}(x)+\cos ^{2}(x)=1}
+Indian_mathematics_4,{\displaystyle \sin(x)=\cos \left({\frac {\pi }{2}}-x\right)}
+Indian_mathematics_5,{\displaystyle {\frac {1-\cos(2x)}{2}}=\sin ^{2}(x)}
+Indian_mathematics_6,"{\displaystyle A={\sqrt {(s-a)(s-b)(s-c)(s-d)}}\,}"
+Indian_mathematics_7,{\displaystyle s={\frac {a+b+c+d}{2}}.}
+Indian_mathematics_8,"{\displaystyle a,b,c}"
+Indian_mathematics_9,"{\displaystyle a={\frac {u^{2}}{v}}+v,\ \ b={\frac {u^{2}}{w}}+w,\ \ c={\frac {u^{2}}{v}}+{\frac {u^{2}}{w}}-(v+w)}"
+Indian_mathematics_10,"{\displaystyle u,v,}"
+Indian_mathematics_11,{\displaystyle w}
+Indian_mathematics_12,{\displaystyle a+0=\ a}
+Indian_mathematics_13,{\displaystyle a\times 0=0}
+Indian_mathematics_14,{\displaystyle {\frac {0}{0}}=0}
+Indian_mathematics_15,{\displaystyle \ ax^{2}+bx=c}
+Indian_mathematics_16,{\displaystyle x={\frac {{\sqrt {4ac+b^{2}}}-b}{2a}}}
+Indian_mathematics_17,"{\displaystyle \ x^{2}-Ny^{2}=1,}"
+Indian_mathematics_18,{\displaystyle N}
+Indian_mathematics_19,{\displaystyle \ (x^{2}-Ny^{2})(x'^{2}-Ny'^{2})=(xx'+Nyy')^{2}-N(xy'+x'y)^{2}}
+Indian_mathematics_20,"{\displaystyle x=x_{1},\ \ y=y_{1}\ \ }"
+Indian_mathematics_21,"{\displaystyle \ \ x^{2}-Ny^{2}=k_{1},}"
+Indian_mathematics_22,"{\displaystyle x=x_{2},\ \ y=y_{2}\ \ }"
+Indian_mathematics_23,"{\displaystyle \ \ x^{2}-Ny^{2}=k_{2},}"
+Indian_mathematics_24,"{\displaystyle x=x_{1}x_{2}+Ny_{1}y_{2},\ \ y=x_{1}y_{2}+x_{2}y_{1}\ \ }"
+Indian_mathematics_25,{\displaystyle \ x^{2}-Ny^{2}=k_{1}k_{2}}
+Indian_mathematics_26,{\displaystyle \ x^{2}-Ny^{2}=k}
+Indian_mathematics_27,"{\displaystyle \ k=\pm 4,\pm 2,-1}"
+Indian_mathematics_28,{\displaystyle \ x^{2}-Ny^{2}=1}
+Indian_mathematics_29,"{\displaystyle \ x,\ y\ }"
+Indian_mathematics_30,{\displaystyle \ x^{2}-92y^{2}=1}
+Indian_mathematics_31,"{\displaystyle \ x=1151,\ y=120}"
+Indian_mathematics_32,{\displaystyle \ ax^{n}=q}
+Indian_mathematics_33,{\displaystyle a{\frac {x^{n}-1}{x-1}}=p}
+Indian_mathematics_34,{\displaystyle \ \sin w'-\sin w}
+Indian_mathematics_35,{\displaystyle \ (w'-w)\cos w}
+Indian_mathematics_36,{\displaystyle \ \sin(a+b)=\sin(a)\cos(b)+\sin(b)\cos(a)}
+Indian_mathematics_37,{\displaystyle \ \sin(a-b)=\sin(a)\cos(b)-\sin(b)\cos(a)}
+Indian_mathematics_38,{\displaystyle {\frac {1}{1-x}}=1+x+x^{2}+x^{3}+x^{4}+\cdots {\text{ for }}|x|<1}
+Indian_mathematics_39,{\displaystyle 1^{p}+2^{p}+\cdots +n^{p}\approx {\frac {n^{p+1}}{p+1}}}
+Indian_mathematics_40,"{\displaystyle r\arctan \left({\frac {y}{x}}\right)={\frac {1}{1}}\cdot {\frac {ry}{x}}-{\frac {1}{3}}\cdot {\frac {ry^{3}}{x^{3}}}+{\frac {1}{5}}\cdot {\frac {ry^{5}}{x^{5}}}-\cdots ,{\text{ where }}y/x\leq 1.}"
+Indian_mathematics_41,{\displaystyle r\sin x=x-x{\frac {x^{2}}{(2^{2}+2)r^{2}}}+x{\frac {x^{2}}{(2^{2}+2)r^{2}}}\cdot {\frac {x^{2}}{(4^{2}+4)r^{2}}}-\cdots }
+Indian_mathematics_42,"{\displaystyle r-\cos x=r{\frac {x^{2}}{(2^{2}-2)r^{2}}}-r{\frac {x^{2}}{(2^{2}-2)r^{2}}}{\frac {x^{2}}{(4^{2}-4)r^{2}}}+\cdots ,}"
+Indian_mathematics_43,{\displaystyle \sin x=x-{\frac {x^{3}}{3!}}+{\frac {x^{5}}{5!}}-{\frac {x^{7}}{7!}}+\cdots }
+Indian_mathematics_44,{\displaystyle \cos x=1-{\frac {x^{2}}{2!}}+{\frac {x^{4}}{4!}}-{\frac {x^{6}}{6!}}+\cdots }
+Indian_mathematics_45,{\displaystyle \arctan x}
+Indian_mathematics_46,{\displaystyle {\frac {\pi }{4}}=1-{\frac {1}{3}}+{\frac {1}{5}}-{\frac {1}{7}}+\cdots }
+Indian_mathematics_47,{\displaystyle f_{i}(n+1)}
+Indian_mathematics_48,{\displaystyle {\frac {\pi }{4}}\approx 1-{\frac {1}{3}}+{\frac {1}{5}}-\cdots +(-1)^{(n-1)/2}{\frac {1}{n}}+(-1)^{(n+1)/2}f_{i}(n+1)}
+Indian_mathematics_49,"{\displaystyle {\text{where }}f_{1}(n)={\frac {1}{2n}},\ f_{2}(n)={\frac {n/2}{n^{2}+1}},\ f_{3}(n)={\frac {(n/2)^{2}+1}{(n^{2}+5)n/2}}.}"
+Indian_mathematics_50,{\displaystyle \pi }
+Indian_mathematics_51,{\displaystyle {\frac {\pi }{4}}={\frac {3}{4}}+{\frac {1}{3^{3}-3}}-{\frac {1}{5^{3}-5}}+{\frac {1}{7^{3}-7}}-\cdots }
+Indian_mathematics_52,"{\displaystyle {\begin{aligned}&x+y=a,\ x-y=b,\ xy=c,x^{2}+y^{2}=d,\\[8pt]&x^{2}-y^{2}=e,\ x^{3}+y^{3}=f,\ x^{3}-y^{3}=g\end{aligned}}}"
+Indian_mathematics_53,{\displaystyle \theta <\pi }
+Indian_mathematics_54,{\displaystyle 2r\sin \left(\theta /2\right)}
+Indian_mathematics_55,"{\displaystyle (a,b,c)}"
+Indian_mathematics_56,{\displaystyle \pi }

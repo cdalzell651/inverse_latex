@@ -1,0 +1,127 @@
+name,latex
+Pythagorean_theorem_0,{\displaystyle a^{2}+b^{2}=c^{2}}
+Pythagorean_theorem_1,{\displaystyle a^{2}+b^{2}=c^{2}.}
+Pythagorean_theorem_2,{\displaystyle a+b}
+Pythagorean_theorem_3,{\displaystyle (a+b)^{2}}
+Pythagorean_theorem_4,{\displaystyle 2ab+c^{2}}
+Pythagorean_theorem_5,{\displaystyle 2ab}
+Pythagorean_theorem_6,{\displaystyle (a+b)^{2}}
+Pythagorean_theorem_7,{\displaystyle 2ab+a^{2}+b^{2}}
+Pythagorean_theorem_8,{\displaystyle (a+b)^{2}}
+Pythagorean_theorem_9,{\displaystyle 2ab+c^{2}}
+Pythagorean_theorem_10,{\displaystyle 2ab+a^{2}+b^{2}}
+Pythagorean_theorem_11,{\displaystyle a^{2}+b^{2}=c^{2}.}
+Pythagorean_theorem_12,{\displaystyle a^{2}}
+Pythagorean_theorem_13,{\displaystyle b^{2}}
+Pythagorean_theorem_14,{\displaystyle 2ab+a^{2}+b^{2}}
+Pythagorean_theorem_15,"{\displaystyle (b+a)^{2}=c^{2}+4{\frac {ab}{2}}=c^{2}+2ab,}"
+Pythagorean_theorem_16,{\displaystyle c^{2}=(b+a)^{2}-2ab=b^{2}+2ab+a^{2}-2ab=a^{2}+b^{2}.}
+Pythagorean_theorem_17,{\displaystyle {\tfrac {1}{2}}ab}
+Pythagorean_theorem_18,{\displaystyle (b-a)^{2}+4{\frac {ab}{2}}=(b-a)^{2}+2ab=b^{2}-2ab+a^{2}+2ab=a^{2}+b^{2}.}
+Pythagorean_theorem_19,{\displaystyle c^{2}=a^{2}+b^{2}.}
+Pythagorean_theorem_20,{\displaystyle A\times B^{2}.}
+Pythagorean_theorem_21,{\displaystyle {\frac {BC}{AB}}={\frac {BH}{BC}}{\text{ and }}{\frac {AC}{AB}}={\frac {AH}{AC}}.}
+Pythagorean_theorem_22,{\displaystyle BC^{2}=AB\times BH{\text{ and }}AC^{2}=AB\times AH.}
+Pythagorean_theorem_23,"{\displaystyle BC^{2}+AC^{2}=AB\times BH+AB\times AH=AB(AH+BH)=AB^{2},}"
+Pythagorean_theorem_24,{\displaystyle BC^{2}+AC^{2}=AB^{2}.}
+Pythagorean_theorem_25,{\displaystyle \triangle ABC}
+Pythagorean_theorem_26,"{\displaystyle \sin \alpha ={\frac {a}{c}},}"
+Pythagorean_theorem_27,"{\displaystyle \sin \beta ={\frac {b}{c}},}"
+Pythagorean_theorem_28,"{\displaystyle c=b\sin \beta +a\sin \alpha ={\frac {b^{2}}{c}}+{\frac {a^{2}}{c}},}"
+Pythagorean_theorem_29,{\displaystyle c^{2}=a^{2}+b^{2}.}
+Pythagorean_theorem_30,{\displaystyle {\frac {1}{2}}(b+a)^{2}.}
+Pythagorean_theorem_31,{\displaystyle {\frac {1}{2}}}
+Pythagorean_theorem_32,{\displaystyle {\frac {dy}{dx}}={\frac {x}{y}}.}
+Pythagorean_theorem_33,"{\displaystyle y\,dy=x\,dx}"
+Pythagorean_theorem_34,"{\displaystyle \int y\,dy=\int x\,dx\,,}"
+Pythagorean_theorem_35,{\displaystyle y^{2}=x^{2}+C.}
+Pythagorean_theorem_36,{\displaystyle y^{2}=x^{2}+a^{2}.}
+Pythagorean_theorem_37,"{\displaystyle a,b,c}"
+Pythagorean_theorem_38,{\displaystyle d}
+Pythagorean_theorem_39,{\displaystyle c}
+Pythagorean_theorem_40,{\displaystyle a^{2}+b^{2}=c^{2}}
+Pythagorean_theorem_41,"{\displaystyle a,b}"
+Pythagorean_theorem_42,{\displaystyle d}
+Pythagorean_theorem_43,{\displaystyle {\frac {1}{a^{2}}}+{\frac {1}{b^{2}}}={\frac {1}{d^{2}}}}
+Pythagorean_theorem_44,{\displaystyle {\frac {1}{(xz)^{2}}}+{\frac {1}{(yz)^{2}}}={\frac {1}{(xy)^{2}}}}
+Pythagorean_theorem_45,{\displaystyle x^{2}+y^{2}=z^{2}}
+Pythagorean_theorem_46,"{\displaystyle x,y,z}"
+Pythagorean_theorem_47,"{\displaystyle a,b,d}"
+Pythagorean_theorem_48,{\displaystyle a>b>d}
+Pythagorean_theorem_49,{\displaystyle {\frac {1}{20^{2}}}+{\frac {1}{15^{2}}}={\frac {1}{12^{2}}}}
+Pythagorean_theorem_50,"{\displaystyle 3,4,5}"
+Pythagorean_theorem_51,{\displaystyle {\frac {1}{p}}+{\frac {1}{q}}={\frac {1}{r}}}
+Pythagorean_theorem_52,"{\displaystyle p,q,r}"
+Pythagorean_theorem_53,"{\displaystyle z=x+iy,}"
+Pythagorean_theorem_54,{\displaystyle r=|z|={\sqrt {x^{2}+y^{2}}}.}
+Pythagorean_theorem_55,{\displaystyle r^{2}=x^{2}+y^{2}.}
+Pythagorean_theorem_56,"{\displaystyle |z_{1}-z_{2}|={\sqrt {(x_{1}-x_{2})^{2}+(y_{1}-y_{2})^{2}}},}"
+Pythagorean_theorem_57,{\displaystyle |z_{1}-z_{2}|^{2}=(x_{1}-x_{2})^{2}+(y_{1}-y_{2})^{2}.}
+Pythagorean_theorem_58,{\displaystyle {\sqrt {(x_{1}-x_{2})^{2}+(y_{1}-y_{2})^{2}}}.}
+Pythagorean_theorem_59,"{\displaystyle A\,=\,(a_{1},a_{2},\dots ,a_{n})}"
+Pythagorean_theorem_60,"{\displaystyle B\,=\,(b_{1},b_{2},\dots ,b_{n})}"
+Pythagorean_theorem_61,{\displaystyle {\sqrt {(a_{1}-b_{1})^{2}+(a_{2}-b_{2})^{2}+\cdots +(a_{n}-b_{n})^{2}}}={\sqrt {\sum _{i=1}^{n}(a_{i}-b_{i})^{2}}}.}
+Pythagorean_theorem_62,{\displaystyle (a_{1}-b_{1})^{2}+(a_{2}-b_{2})^{2}+\cdots +(a_{n}-b_{n})^{2}=\sum _{i=1}^{n}(a_{i}-b_{i})^{2}.}
+Pythagorean_theorem_63,"{\displaystyle x=r\cos \theta ,\ y=r\sin \theta .}"
+Pythagorean_theorem_64,{\displaystyle s^{2}=(x_{1}-x_{2})^{2}+(y_{1}-y_{2})^{2}=(r_{1}\cos \theta _{1}-r_{2}\cos \theta _{2})^{2}+(r_{1}\sin \theta _{1}-r_{2}\sin \theta _{2})^{2}.}
+Pythagorean_theorem_65,"{\displaystyle {\begin{aligned}s^{2}&=r_{1}^{2}+r_{2}^{2}-2r_{1}r_{2}\left(\cos \theta _{1}\cos \theta _{2}+\sin \theta _{1}\sin \theta _{2}\right)\\&=r_{1}^{2}+r_{2}^{2}-2r_{1}r_{2}\cos \left(\theta _{1}-\theta _{2}\right)\\&=r_{1}^{2}+r_{2}^{2}-2r_{1}r_{2}\cos \Delta \theta ,\end{aligned}}}"
+Pythagorean_theorem_66,{\displaystyle s^{2}=r_{1}^{2}+r_{2}^{2}.}
+Pythagorean_theorem_67,"{\displaystyle \sin \theta ={\frac {b}{c}},\quad \cos \theta ={\frac {a}{c}}.}"
+Pythagorean_theorem_68,"{\displaystyle {\cos }^{2}\theta +{\sin }^{2}\theta ={\frac {a^{2}+b^{2}}{c^{2}}}=1,}"
+Pythagorean_theorem_69,{\displaystyle \|\mathbf {a} \times \mathbf {b} \|^{2}+(\mathbf {a} \cdot \mathbf {b} )^{2}=\|\mathbf {a} \|^{2}\|\mathbf {b} \|^{2}.}
+Pythagorean_theorem_70,"{\displaystyle {\begin{aligned}\mathbf {a} \times \mathbf {b} &=ab\mathbf {n} \sin {\theta }\\\mathbf {a} \cdot \mathbf {b} &=ab\cos {\theta },\end{aligned}}}"
+Pythagorean_theorem_71,{\displaystyle \|\mathbf {a} \times \mathbf {b} \|^{2}=\|\mathbf {a} \|^{2}\|\mathbf {b} \|^{2}-(\mathbf {a} \cdot \mathbf {b} )^{2}.}
+Pythagorean_theorem_72,"{\displaystyle {\frac {A}{a^{2}}}={\frac {B}{b^{2}}}={\frac {C}{c^{2}}}\,,}"
+Pythagorean_theorem_73,"{\displaystyle \Rightarrow A+B={\frac {a^{2}}{c^{2}}}C+{\frac {b^{2}}{c^{2}}}C\,.}"
+Pythagorean_theorem_74,{\displaystyle a^{2}+b^{2}-2ab\cos {\theta }=c^{2}}
+Pythagorean_theorem_75,{\displaystyle \theta }
+Pythagorean_theorem_76,{\displaystyle a}
+Pythagorean_theorem_77,{\displaystyle b}
+Pythagorean_theorem_78,{\displaystyle \theta }
+Pythagorean_theorem_79,{\displaystyle {\frac {\pi }{2}}}
+Pythagorean_theorem_80,{\displaystyle \cos {\theta }=0}
+Pythagorean_theorem_81,{\displaystyle a^{2}+b^{2}=c(r+s)\ .}
+Pythagorean_theorem_82,{\displaystyle {\frac {c}{b}}={\frac {b}{r}}\ .}
+Pythagorean_theorem_83,{\displaystyle {\frac {c}{a}}={\frac {a}{s}}\ .}
+Pythagorean_theorem_84,"{\displaystyle cs+cr=a^{2}+b^{2}\ ,}"
+Pythagorean_theorem_85,{\displaystyle \theta }
+Pythagorean_theorem_86,"{\displaystyle {\overline {AC}}^{\,2}={\overline {AB}}^{\,2}+{\overline {BC}}^{\,2}\,,}"
+Pythagorean_theorem_87,"{\displaystyle {\overline {AD}}^{\,2}={\overline {AC}}^{\,2}+{\overline {CD}}^{\,2}\,,}"
+Pythagorean_theorem_88,"{\displaystyle {\overline {AD}}^{\,2}={\overline {AB}}^{\,2}+{\overline {BC}}^{\,2}+{\overline {CD}}^{\,2}\,.}"
+Pythagorean_theorem_89,{\displaystyle \|\mathbf {v} \|^{2}=\sum _{k=1}^{3}\|\mathbf {v} _{k}\|^{2}.}
+Pythagorean_theorem_90,"{\displaystyle x_{1},x_{2},\ldots ,x_{n}}"
+Pythagorean_theorem_91,"{\displaystyle 0,x_{1},\ldots ,x_{n}}"
+Pythagorean_theorem_92,"{\displaystyle x_{1},\ldots ,x_{n}}"
+Pythagorean_theorem_93,"{\displaystyle \langle \mathbf {v} ,\mathbf {w} \rangle }"
+Pythagorean_theorem_94,"{\displaystyle \lVert \mathbf {v} \rVert \equiv {\sqrt {\langle \mathbf {v} ,\mathbf {v} \rangle }}\,.}"
+Pythagorean_theorem_95,{\displaystyle \left\|\mathbf {v} +\mathbf {w} \right\|^{2}=\left\|\mathbf {v} \right\|^{2}+\left\|\mathbf {w} \right\|^{2}.}
+Pythagorean_theorem_97,"{\displaystyle \langle \mathbf {v,\ w} \rangle =\langle \mathbf {w,\ v} \rangle =0}"
+Pythagorean_theorem_98,"{\displaystyle 2\|\mathbf {v} \|^{2}+2\|\mathbf {w} \|^{2}=\|\mathbf {v+w} \|^{2}+\|\mathbf {v-w} \|^{2}\ ,}"
+Pythagorean_theorem_99,{\displaystyle {\biggl \|}\sum _{k=1}^{n}\mathbf {v} _{k}{\biggr \|}^{2}=\sum _{k=1}^{n}\|\mathbf {v} _{k}\|^{2}}
+Pythagorean_theorem_100,{\displaystyle \mu _{ms}^{2}=\sum _{i=1}^{x}\mathbf {\mu ^{2}} _{mp_{i}}}
+Pythagorean_theorem_101,{\displaystyle \mu _{m}}
+Pythagorean_theorem_102,{\displaystyle s}
+Pythagorean_theorem_103,{\displaystyle \mu _{ms}}
+Pythagorean_theorem_104,{\displaystyle p}
+Pythagorean_theorem_105,{\displaystyle \mu _{mp_{i}}}
+Pythagorean_theorem_106,{\displaystyle i}
+Pythagorean_theorem_107,{\displaystyle x}
+Pythagorean_theorem_108,{\displaystyle x={\binom {n}{m}}={\frac {n!}{m!(n-m)!}}}
+Pythagorean_theorem_109,{\displaystyle a^{2}+b^{2}=2c^{2}>c^{2}}
+Pythagorean_theorem_110,"{\displaystyle \cos {\frac {c}{R}}=\cos {\frac {a}{R}}\,\cos {\frac {b}{R}}.}"
+Pythagorean_theorem_111,"{\displaystyle \cos {\frac {c}{R}}=\cos {\frac {a}{R}}\,\cos {\frac {b}{R}}+\sin {\frac {a}{R}}\,\sin {\frac {b}{R}}\,\cos {\gamma }.}"
+Pythagorean_theorem_112,"{\displaystyle 1=1,}"
+Pythagorean_theorem_114,{\displaystyle x=c/R}
+Pythagorean_theorem_115,{\displaystyle {\begin{aligned}\cos {\frac {c}{R}}=1-{\frac {c^{2}}{2R^{2}}}+O{\left(R^{-4}\right)}\end{aligned}}}
+Pythagorean_theorem_116,{\displaystyle {\begin{aligned}1-{\frac {c^{2}}{2R^{2}}}+O{\left(R^{-4}\right)}&=\left(1-{\frac {a^{2}}{2R^{2}}}+O{\left(R^{-4}\right)}\right)\left(1-{\frac {b^{2}}{2R^{2}}}+O{\left(R^{-4}\right)}\right)\\&=1-{\frac {a^{2}}{2R^{2}}}-{\frac {b^{2}}{2R^{2}}}+O{\left(R^{-4}\right)}.\end{aligned}}}
+Pythagorean_theorem_117,{\displaystyle {\frac {c^{2}}{2R^{2}}}={\frac {a^{2}}{2R^{2}}}+{\frac {b^{2}}{2R^{2}}}+O{\left(R^{-4}\right)}.}
+Pythagorean_theorem_118,{\displaystyle c^{2}=a^{2}+b^{2}+O{\left(R^{-2}\right)}.}
+Pythagorean_theorem_120,{\displaystyle \cos {2\theta }=1-2\sin ^{2}{\theta }}
+Pythagorean_theorem_121,"{\displaystyle \sin ^{2}{\frac {c}{2R}}=\sin ^{2}{\frac {a}{2R}}+\sin ^{2}{\frac {b}{2R}}-2\sin ^{2}{\frac {a}{2R}}\,\sin ^{2}{\frac {b}{2R}}.}"
+Pythagorean_theorem_122,"{\displaystyle \cosh {\frac {c}{R}}=\cosh {\frac {a}{R}}\,\cosh {\frac {b}{R}}}"
+Pythagorean_theorem_123,"{\displaystyle \cosh {\frac {c}{R}}=\cosh {\frac {a}{R}}\ \cosh {\frac {b}{R}}-\sinh {\frac {a}{R}}\ \sinh {\frac {b}{R}}\ \cos \gamma \ ,}"
+Pythagorean_theorem_124,"{\displaystyle \sinh ^{2}{\frac {c}{2R}}=\sinh ^{2}{\frac {a}{2R}}+\sinh ^{2}{\frac {b}{2R}}+2\sinh ^{2}{\frac {a}{2R}}\sinh ^{2}{\frac {b}{2R}}\,.}"
+Pythagorean_theorem_125,"{\displaystyle c^{2}=a^{2}+b^{2}-{\frac {K}{3}}a^{2}b^{2}-{\frac {K^{2}}{45}}a^{2}b^{2}(a^{2}+b^{2})-{\frac {2K^{3}}{945}}a^{2}b^{2}(a^{2}-b^{2})^{2}+O(K^{4}c^{10})\,.}"
+Pythagorean_theorem_126,"{\displaystyle ds^{2}=dx^{2}+dy^{2}+dz^{2},}"
+Pythagorean_theorem_127,"{\displaystyle ds^{2}=\sum _{i,j}^{n}g_{ij}\,dx_{i}\,dx_{j}}"
+Pythagorean_theorem_128,{\displaystyle ds^{2}=dr^{2}+r^{2}d\theta ^{2}\ .}

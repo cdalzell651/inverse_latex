@@ -1,0 +1,99 @@
+name,latex
+Integer_0,{\displaystyle \mathbb {Z} }
+Integer_1,{\displaystyle \mathbb {Z} }
+Integer_2,{\displaystyle \mathbb {Z} }
+Integer_3,{\displaystyle \mathbb {Z} }
+Integer_4,{\displaystyle \mathbb {N} }
+Integer_5,{\displaystyle \mathbb {Z} }
+Integer_6,{\displaystyle \mathbb {Q} }
+Integer_7,{\displaystyle \mathbb {R} }
+Integer_8,{\displaystyle \mathbb {Z} }
+Integer_9,{\displaystyle \mathbb {Z} }
+Integer_10,{\displaystyle \mathbb {Z} ^{+}}
+Integer_11,{\displaystyle \mathbb {Z} _{+}}
+Integer_12,{\displaystyle \mathbb {Z} ^{>}}
+Integer_13,{\displaystyle \mathbb {Z} ^{0+}}
+Integer_14,{\displaystyle \mathbb {Z} ^{\geq }}
+Integer_15,{\displaystyle \mathbb {Z} ^{\neq }}
+Integer_16,{\displaystyle \mathbb {Z} ^{*}}
+Integer_17,{\displaystyle \mathbb {Z} }
+Integer_18,{\displaystyle \mathbb {Z} _{p}}
+Integer_19,{\displaystyle \mathbb {Z} }
+Integer_20,{\displaystyle 0=\mathbb {Z} /1\mathbb {Z} }
+Integer_21,{\displaystyle \mathbb {Z} /1\mathbb {Z} }
+Integer_22,{\displaystyle \mathbb {Z} /p^{n}\mathbb {Z} }
+Integer_23,{\displaystyle \mathbb {Z} (p^{\infty })}
+Integer_24,{\displaystyle \mathbb {T} }
+Integer_25,{\displaystyle \mathbb {Z} }
+Integer_26,{\displaystyle \mathbb {Z} [1/p]}
+Integer_27,{\displaystyle \mathbb {R} }
+Integer_28,{\displaystyle \mathbb {Z} _{p}}
+Integer_29,{\displaystyle \mathbb {Q} _{p}}
+Integer_30,{\displaystyle \mathbb {T} _{p}}
+Integer_31,{\displaystyle \mathbb {Z} }
+Integer_32,{\displaystyle \mathbb {Z} }
+Integer_33,{\displaystyle \mathbb {Z} }
+Integer_34,{\displaystyle \mathbb {Z} }
+Integer_35,{\displaystyle \mathbb {Z} }
+Integer_36,{\displaystyle \mathbb {Z} }
+Integer_37,{\displaystyle \mathbb {Z} }
+Integer_38,{\displaystyle \mathbb {Z} }
+Integer_39,{\displaystyle \mathbb {Z} }
+Integer_40,{\displaystyle \mathbb {Z} }
+Integer_41,{\displaystyle \mathbb {Z} }
+Integer_42,{\displaystyle \mathbb {Z} }
+Integer_43,{\displaystyle \mathbb {Z} }
+Integer_44,{\displaystyle \mathbb {Z} }
+Integer_45,{\displaystyle \mathbb {Z} }
+Integer_46,{\displaystyle \mathbb {Z} }
+Integer_47,{\displaystyle \mathbb {Z} }
+Integer_48,{\displaystyle \mathbb {Z} }
+Integer_49,{\displaystyle \mathbb {Z} }
+Integer_50,{\displaystyle \mathbb {Z} }
+Integer_51,{\displaystyle \mathbb {Z} }
+Integer_52,{\displaystyle P}
+Integer_53,{\displaystyle P^{-}}
+Integer_54,{\displaystyle P}
+Integer_55,{\displaystyle P}
+Integer_56,{\displaystyle \psi }
+Integer_57,{\displaystyle P^{-}}
+Integer_58,"{\displaystyle (1,n)}"
+Integer_59,"{\displaystyle \psi =n\mapsto (1,n)}"
+Integer_60,{\displaystyle P}
+Integer_61,{\displaystyle P^{-}}
+Integer_62,"{\displaystyle (0,0)}"
+Integer_63,{\displaystyle P\cup P^{-}\cup \{0\}}
+Integer_64,"{\displaystyle -x={\begin{cases}\psi (x),&{\text{if }}x\in P\\\psi ^{-1}(x),&{\text{if }}x\in P^{-}\\0,&{\text{if }}x=0\end{cases}}}"
+Integer_65,"{\displaystyle (a,b)\sim (c,d)}"
+Integer_66,{\displaystyle a+d=b+c.}
+Integer_67,"{\displaystyle [(a,b)]+[(c,d)]:=[(a+c,b+d)].}"
+Integer_68,"{\displaystyle [(a,b)]\cdot [(c,d)]:=[(ac+bd,ad+bc)].}"
+Integer_69,"{\displaystyle -[(a,b)]:=[(b,a)].}"
+Integer_70,"{\displaystyle [(a,b)]-[(c,d)]:=[(a+d,b+c)].}"
+Integer_71,"{\displaystyle [(a,b)]<[(c,d)]}"
+Integer_72,{\displaystyle a+d<b+c.}
+Integer_73,"{\displaystyle {\begin{cases}a-b,&{\mbox{if }}a\geq b\\-(b-a),&{\mbox{if }}a<b.\end{cases}}}"
+Integer_74,"{\displaystyle {\begin{aligned}0&=[(0,0)]&=[(1,1)]&=\cdots &&=[(k,k)]\\1&=[(1,0)]&=[(2,1)]&=\cdots &&=[(k+1,k)]\\-1&=[(0,1)]&=[(1,2)]&=\cdots &&=[(k,k+1)]\\2&=[(2,0)]&=[(3,1)]&=\cdots &&=[(k+2,k)]\\-2&=[(0,2)]&=[(1,3)]&=\cdots &&=[(k,k+2)].\end{aligned}}}"
+Integer_75,"{\displaystyle (x,y)}"
+Integer_76,{\displaystyle x}
+Integer_77,{\displaystyle y}
+Integer_78,{\displaystyle x-y}
+Integer_79,{\displaystyle \mathbb {Z} }
+Integer_80,{\displaystyle \mathbb {Z} }
+Integer_81,{\displaystyle \mathbb {N} }
+Integer_82,{\displaystyle :\;\mathbb {C} }
+Integer_83,{\displaystyle :\;\mathbb {R} }
+Integer_84,{\displaystyle :\;\mathbb {Q} }
+Integer_85,{\displaystyle :\;\mathbb {Z} }
+Integer_86,{\displaystyle :\;\mathbb {N} }
+Integer_87,{\displaystyle \mathbb {N} }
+Integer_88,{\displaystyle \mathbb {Z} }
+Integer_89,{\displaystyle \mathbb {Q} }
+Integer_90,{\displaystyle \mathbb {A} }
+Integer_91,{\displaystyle \mathbb {R} }
+Integer_92,{\displaystyle \mathbb {C} }
+Integer_93,{\displaystyle \mathbb {H} }
+Integer_94,{\displaystyle \mathbb {O} }
+Integer_95,{\displaystyle \mathbb {R} }
+Integer_96,{\displaystyle \mathbb {C} }
+Integer_97,{\displaystyle \mathbb {S} }

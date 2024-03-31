@@ -1,0 +1,350 @@
+name,latex
+Group_testing_0,{\displaystyle n}
+Group_testing_1,{\displaystyle n}
+Group_testing_2,{\displaystyle n}
+Group_testing_3,{\displaystyle d}
+Group_testing_4,{\displaystyle q}
+Group_testing_5,"{\displaystyle 0,1}"
+Group_testing_6,{\displaystyle 2^{+}}
+Group_testing_7,"{\displaystyle {0,1,\ldots ,k^{+}}}"
+Group_testing_8,{\displaystyle k\in \mathbb {N} }
+Group_testing_9,{\displaystyle p>p_{u}=(3-{\sqrt {5}})/2\approx 0.38}
+Group_testing_10,{\displaystyle p<p_{u}}
+Group_testing_11,{\displaystyle p<p_{u}}
+Group_testing_12,{\displaystyle n>2}
+Group_testing_13,{\displaystyle s}
+Group_testing_14,{\displaystyle t={\frac {e}{\log _{2}(e)}}d\log _{2}(n)}
+Group_testing_15,{\displaystyle d}
+Group_testing_16,{\displaystyle n}
+Group_testing_17,{\displaystyle s-1}
+Group_testing_18,{\displaystyle t=\lceil \log _{2}(n)\rceil }
+Group_testing_19,{\displaystyle d-1}
+Group_testing_20,{\displaystyle d}
+Group_testing_21,{\displaystyle 0.187d+0.5\log _{2}(d)+5.5}
+Group_testing_22,{\displaystyle n/d\geq 38}
+Group_testing_23,{\displaystyle d\geq 10}
+Group_testing_24,{\displaystyle n\leq \lfloor (5d+1)/2\rfloor }
+Group_testing_25,{\displaystyle n>3d}
+Group_testing_26,{\displaystyle n\leq 3d}
+Group_testing_27,{\displaystyle n}
+Group_testing_28,{\displaystyle d\geq n/\log _{3/2}(3)\approx 0.369n}
+Group_testing_29,{\displaystyle t=ed(1+\delta )\ln(n)}
+Group_testing_30,{\displaystyle d}
+Group_testing_31,{\displaystyle n}
+Group_testing_32,{\displaystyle n^{-\delta }}
+Group_testing_33,{\displaystyle t=O(d\log _{2}n)}
+Group_testing_34,{\displaystyle d^{2}\geq n}
+Group_testing_35,{\displaystyle d^{2}<n}
+Group_testing_36,"{\displaystyle \mathbf {x} =(x_{1},x_{2},\dots ,x_{n})}"
+Group_testing_37,{\displaystyle n}
+Group_testing_38,"{\displaystyle \mathbf {x} \in \{0,1\}^{n}}"
+Group_testing_39,{\displaystyle x_{j}=1}
+Group_testing_40,{\displaystyle \mathbf {x} }
+Group_testing_41,{\displaystyle \mathbf {x} }
+Group_testing_42,{\displaystyle \mathbf {x} }
+Group_testing_43,{\displaystyle \mathbf {x} }
+Group_testing_44,"{\displaystyle S\subseteq \{1,2,\dots ,n\}}"
+Group_testing_45,{\displaystyle j\in S}
+Group_testing_46,{\displaystyle x_{j}=1}
+Group_testing_47,{\displaystyle \mathbf {x} }
+Group_testing_48,"{\displaystyle t(d,n)}"
+Group_testing_49,{\displaystyle d}
+Group_testing_50,{\displaystyle n}
+Group_testing_51,"{\displaystyle {\bar {t}}(d,n)}"
+Group_testing_52,{\displaystyle S_{j}=\{j\}}
+Group_testing_53,{\displaystyle 1\leq j\leq n}
+Group_testing_54,"{\displaystyle {\bar {t}}(d,n)\leq n}"
+Group_testing_55,"{\displaystyle t(d,n)\leq {\bar {t}}(d,n)}"
+Group_testing_56,{\displaystyle 0\neq d\neq n}
+Group_testing_57,"{\displaystyle 1\leq t(d,n)}"
+Group_testing_58,{\displaystyle 0\neq d\neq n}
+Group_testing_59,"{\displaystyle 1\leq t(d,n)\leq {\bar {t}}(d,n)\leq n}"
+Group_testing_60,{\displaystyle {\mathcal {S}}}
+Group_testing_61,{\displaystyle {\mathcal {S}}}
+Group_testing_62,{\displaystyle t\geq \lceil \log _{2}{|{\mathcal {S}}|}\rceil }
+Group_testing_63,{\displaystyle t}
+Group_testing_64,{\displaystyle {\mathcal {S}}}
+Group_testing_65,{\displaystyle {\mathcal {S}}}
+Group_testing_66,{\displaystyle t}
+Group_testing_67,{\displaystyle \mathbb {P} ({\textrm {success}})}
+Group_testing_68,{\displaystyle \mathbb {P} ({\textrm {success}})\leq t/\log _{2}{n \choose d}}
+Group_testing_70,{\displaystyle M}
+Group_testing_71,{\displaystyle n}
+Group_testing_72,"{\displaystyle S_{1},S_{2},\dots ,S_{t}}"
+Group_testing_73,{\displaystyle t\in \mathbb {N} _{\geq 0}}
+Group_testing_74,{\displaystyle t\times n}
+Group_testing_75,{\displaystyle M}
+Group_testing_76,{\displaystyle (M)_{ij}=1}
+Group_testing_77,{\displaystyle j\in S_{i}}
+Group_testing_78,{\displaystyle M}
+Group_testing_79,{\displaystyle 1}
+Group_testing_80,"{\displaystyle (i,j){\textrm {-th}}}"
+Group_testing_81,{\displaystyle i{\textrm {-th}}}
+Group_testing_82,{\displaystyle j{\textrm {-th}}}
+Group_testing_83,{\displaystyle 0}
+Group_testing_84,{\displaystyle \mathbf {x} }
+Group_testing_85,{\displaystyle n}
+Group_testing_86,{\displaystyle t}
+Group_testing_87,"{\displaystyle \mathbf {y} =(y_{1},y_{2},\dots ,y_{t})}"
+Group_testing_88,{\displaystyle t}
+Group_testing_89,"{\displaystyle \mathbf {y} \in \{0,1\}^{t}}"
+Group_testing_90,{\displaystyle y_{i}=1}
+Group_testing_91,{\displaystyle i{\textrm {-th}}}
+Group_testing_92,{\displaystyle M}
+Group_testing_93,{\displaystyle \mathbf {y} }
+Group_testing_94,{\displaystyle \mathbf {y} }
+Group_testing_95,{\displaystyle \mathbf {x} }
+Group_testing_96,{\displaystyle q}
+Group_testing_97,{\displaystyle \mathbf {v} }
+Group_testing_98,{\displaystyle q}
+Group_testing_99,{\displaystyle 1}
+Group_testing_100,{\displaystyle 0}
+Group_testing_101,{\displaystyle {\hat {\mathbf {y} }}=\mathbf {y} +\mathbf {v} }
+Group_testing_102,{\displaystyle (\mathbb {Z} /2\mathbb {Z} )^{n}}
+Group_testing_103,{\displaystyle \mathbf {x} }
+Group_testing_104,{\displaystyle {\hat {\mathbf {y} }}}
+Group_testing_105,{\displaystyle \mathbf {y} }
+Group_testing_106,{\displaystyle d}
+Group_testing_107,{\displaystyle M}
+Group_testing_108,{\displaystyle d}
+Group_testing_109,{\displaystyle d}
+Group_testing_110,{\displaystyle {\bar {d}}}
+Group_testing_111,{\displaystyle d}
+Group_testing_112,{\displaystyle M}
+Group_testing_113,{\displaystyle M}
+Group_testing_114,{\displaystyle k}
+Group_testing_115,{\displaystyle k\leq d}
+Group_testing_116,{\displaystyle M}
+Group_testing_117,{\displaystyle d}
+Group_testing_118,{\displaystyle {\bar {d}}}
+Group_testing_119,{\displaystyle d}
+Group_testing_120,{\displaystyle d}
+Group_testing_121,{\displaystyle M}
+Group_testing_122,{\displaystyle d}
+Group_testing_123,{\displaystyle d}
+Group_testing_124,{\displaystyle d}
+Group_testing_125,{\displaystyle d}
+Group_testing_126,{\displaystyle d}
+Group_testing_127,{\displaystyle d}
+Group_testing_128,{\displaystyle d}
+Group_testing_129,{\displaystyle n}
+Group_testing_130,{\displaystyle O(d\log _{2}n)}
+Group_testing_131,{\displaystyle O(d^{2}\log _{2}n)}
+Group_testing_132,{\displaystyle O\left({\frac {d^{2}\log _{2}n}{\log _{2}d}}\right)}
+Group_testing_133,{\displaystyle 2^{\alpha _{1}}=16}
+Group_testing_134,{\displaystyle 2^{\alpha _{2}}=8}
+Group_testing_135,{\displaystyle \alpha }
+Group_testing_136,{\displaystyle d}
+Group_testing_137,{\displaystyle n}
+Group_testing_138,{\displaystyle n\leq 2d-2}
+Group_testing_139,{\displaystyle n}
+Group_testing_140,{\displaystyle l=n-d+1}
+Group_testing_141,{\displaystyle \alpha =\lfloor \log _{2}{l/d}\rfloor }
+Group_testing_142,{\displaystyle 2^{\alpha }}
+Group_testing_143,{\displaystyle n:=n-2^{\alpha }}
+Group_testing_144,{\displaystyle x}
+Group_testing_145,{\displaystyle n:=n-1-x}
+Group_testing_146,{\displaystyle d:=d-1}
+Group_testing_147,{\displaystyle T}
+Group_testing_148,{\displaystyle T={\begin{cases}n&n\leq 2d-2\\(\alpha +2)d+p-1&n\geq 2d-1\end{cases}}}
+Group_testing_149,{\displaystyle n/d}
+Group_testing_150,{\displaystyle T\rightarrow d\log _{2}(n/d)}
+Group_testing_151,{\displaystyle t={\frac {e}{\log _{2}e}}d\log _{2}\left({\frac {n}{d}}\right)}
+Group_testing_152,{\displaystyle s}
+Group_testing_153,{\displaystyle d\geq 2}
+Group_testing_154,"{\displaystyle T-B_{I}(d,n)\leq (d-1)}"
+Group_testing_155,"{\displaystyle B_{I}(d,n)=\left\lceil \log _{2}\sum _{i=0}^{d}{n \choose i}\right\rceil }"
+Group_testing_156,{\displaystyle d}
+Group_testing_157,{\displaystyle d}
+Group_testing_158,{\displaystyle 1}
+Group_testing_159,{\displaystyle 1/d}
+Group_testing_160,{\displaystyle 0}
+Group_testing_161,{\displaystyle M}
+Group_testing_162,{\displaystyle ed(1+\delta )\ln(n)}
+Group_testing_163,{\displaystyle n^{-\delta }}
+Group_testing_164,{\displaystyle M}
+Group_testing_165,{\displaystyle q}
+Group_testing_166,{\displaystyle 4.36({\sqrt {\delta }}+{\sqrt {1+\delta }})^{2}(1-2q)^{-2}d\log _{2}{n}}
+Group_testing_167,{\displaystyle n^{-\delta }}
+Group_testing_168,{\displaystyle K}
+Group_testing_169,{\displaystyle K}
+Group_testing_170,{\displaystyle K}
+Group_testing_171,{\displaystyle K}
+Group_testing_172,{\displaystyle K}
+Group_testing_173,{\displaystyle K}
+Group_testing_174,{\displaystyle K}
+Group_testing_175,{\displaystyle d}
+Group_testing_176,{\displaystyle M}
+Group_testing_177,{\displaystyle y}
+Group_testing_178,"{\displaystyle x_{i}=1~~{\text{ if }}~~M(:,i)~.*~y=M(:,i)}"
+Group_testing_179,{\displaystyle .*}
+Group_testing_180,"{\displaystyle M(:,i)}"
+Group_testing_181,{\displaystyle i}
+Group_testing_182,{\displaystyle M}
+Group_testing_183,{\displaystyle M}
+Group_testing_184,{\displaystyle q^{c-1}=9}
+Group_testing_185,{\displaystyle n=q^{c}=27}
+Group_testing_186,{\displaystyle \ell }
+Group_testing_187,{\displaystyle p>1}
+Group_testing_188,{\displaystyle n\geq 1}
+Group_testing_189,{\displaystyle q=p^{n}}
+Group_testing_190,{\displaystyle c\geq 2}
+Group_testing_191,{\displaystyle n=q^{c}}
+Group_testing_192,{\displaystyle q^{c-1}}
+Group_testing_193,{\displaystyle q}
+Group_testing_194,{\displaystyle \mathbb {F} _{q}}
+Group_testing_195,"{\displaystyle \{0,1,2,\ldots ,q-1\}}"
+Group_testing_196,{\displaystyle \mathbb {F} _{q}}
+Group_testing_197,{\displaystyle \mathbb {F} _{q}}
+Group_testing_198,"{\displaystyle x=(u,v)}"
+Group_testing_199,{\displaystyle 1\leq l\leq c-1}
+Group_testing_200,{\displaystyle 0\leq u_{i_{l}}\leq q-1}
+Group_testing_201,"{\displaystyle v~=~a^{c-1}~u_{i_{c-1}}+\cdots +a~u_{i_{1}}+b,\quad a,b,u_{i_{l}}\in \mathbb {F} _{q}.}"
+Group_testing_202,{\displaystyle u_{i_{l}}}
+Group_testing_203,{\displaystyle q^{c-1}}
+Group_testing_204,{\displaystyle d-1}
+Group_testing_205,"{\displaystyle u_{i_{1}}\times \cdots \times u_{i_{c-1}}=\{(i_{1},\ldots ,i_{c-1})\}}"
+Group_testing_206,{\displaystyle 0\leq i_{l}\leq q-1}
+Group_testing_207,{\displaystyle i_{d-1}}
+Group_testing_208,{\displaystyle q}
+Group_testing_209,{\displaystyle i_{d-2}}
+Group_testing_210,{\displaystyle q^{2}}
+Group_testing_211,{\displaystyle i_{1}}
+Group_testing_212,{\displaystyle a}
+Group_testing_213,{\displaystyle b}
+Group_testing_214,"{\displaystyle {\begin{aligned}u_{i}&=\sum _{l=1}^{c-1}~q^{d-1-l}~i_{l}\\v_{u_{i}}&=\sum _{l=1}^{c-1}~a^{l}~i_{l}+b\quad ({\text{computed in }}\mathbb {F} _{q})\\x_{qu_{i}+v_{u_{i}}}&=(u_{i},v_{u_{i}})\end{aligned}}}"
+Group_testing_215,{\displaystyle \mathbb {F} _{q}}
+Group_testing_216,{\displaystyle q}
+Group_testing_217,{\displaystyle q}
+Group_testing_218,{\displaystyle \mathbb {F} _{q}}
+Group_testing_219,{\displaystyle v_{u_{i}}=(\sum _{l=1}^{c-1}a^{l}i_{l}+b)~{\text{mod}}~q}
+Group_testing_220,{\displaystyle \ell }
+Group_testing_221,"{\displaystyle a=1,b=0,c=2}"
+Group_testing_222,{\displaystyle \ell }
+Group_testing_223,{\displaystyle c=3}
+Group_testing_224,{\displaystyle q=3}
+Group_testing_225,{\displaystyle a=1}
+Group_testing_226,{\displaystyle b=0}
+Group_testing_227,{\displaystyle i_{1}}
+Group_testing_228,{\displaystyle i_{2}}
+Group_testing_229,{\displaystyle u_{i}}
+Group_testing_230,{\displaystyle v_{u_{i}}}
+Group_testing_231,{\displaystyle qu_{i}+v_{u_{i}}}
+Group_testing_232,{\displaystyle \ell }
+Group_testing_233,{\displaystyle 0}
+Group_testing_234,{\displaystyle 0}
+Group_testing_235,{\displaystyle 0}
+Group_testing_236,{\displaystyle 0}
+Group_testing_237,{\displaystyle 0}
+Group_testing_238,{\displaystyle x_{0}}
+Group_testing_239,{\displaystyle 0}
+Group_testing_240,{\displaystyle 1}
+Group_testing_241,{\displaystyle 1}
+Group_testing_242,{\displaystyle 1}
+Group_testing_243,{\displaystyle 4}
+Group_testing_244,{\displaystyle x_{4}}
+Group_testing_245,{\displaystyle 0}
+Group_testing_246,{\displaystyle 2}
+Group_testing_247,{\displaystyle 2}
+Group_testing_248,{\displaystyle 2}
+Group_testing_249,{\displaystyle 8}
+Group_testing_250,{\displaystyle x_{8}}
+Group_testing_251,{\displaystyle 1}
+Group_testing_252,{\displaystyle 0}
+Group_testing_253,{\displaystyle 3}
+Group_testing_254,{\displaystyle 1}
+Group_testing_255,{\displaystyle 10}
+Group_testing_256,{\displaystyle x_{10}}
+Group_testing_257,{\displaystyle 1}
+Group_testing_258,{\displaystyle 1}
+Group_testing_259,{\displaystyle 4}
+Group_testing_260,{\displaystyle 2}
+Group_testing_261,{\displaystyle 14}
+Group_testing_262,{\displaystyle x_{14}}
+Group_testing_263,{\displaystyle 1}
+Group_testing_264,{\displaystyle 2}
+Group_testing_265,{\displaystyle 5}
+Group_testing_266,{\displaystyle 0}
+Group_testing_267,{\displaystyle 15}
+Group_testing_268,{\displaystyle x_{15}}
+Group_testing_269,{\displaystyle 2}
+Group_testing_270,{\displaystyle 0}
+Group_testing_271,{\displaystyle 6}
+Group_testing_272,{\displaystyle 2}
+Group_testing_273,{\displaystyle 20}
+Group_testing_274,{\displaystyle x_{20}}
+Group_testing_275,{\displaystyle 2}
+Group_testing_276,{\displaystyle 1}
+Group_testing_277,{\displaystyle 7}
+Group_testing_278,{\displaystyle 0}
+Group_testing_279,{\displaystyle 21}
+Group_testing_280,{\displaystyle x_{21}}
+Group_testing_281,{\displaystyle 2}
+Group_testing_282,{\displaystyle 2}
+Group_testing_283,{\displaystyle 8}
+Group_testing_284,{\displaystyle 1}
+Group_testing_285,{\displaystyle 25}
+Group_testing_286,{\displaystyle x_{25}}
+Group_testing_287,{\displaystyle q(c-1)(d+1)}
+Group_testing_288,{\displaystyle d}
+Group_testing_289,{\displaystyle n=q^{c}}
+Group_testing_290,{\displaystyle c}
+Group_testing_291,{\displaystyle n}
+Group_testing_292,"{\displaystyle 0,1,}"
+Group_testing_293,{\displaystyle 2^{+}}
+Group_testing_294,"{\displaystyle \{0,1,2^{+}\}}"
+Group_testing_295,"{\displaystyle f:\{0,1\}^{N}\to \{0,1\}}"
+Group_testing_296,{\displaystyle f({\textbf {x}})={\textbf {a}}\cdot {\textbf {x}}}
+Group_testing_297,"{\displaystyle {\textbf {a}}\in \{0,1\}^{N}}"
+Group_testing_298,{\displaystyle {\textbf {a}}}
+Group_testing_299,{\displaystyle d}
+Group_testing_300,{\displaystyle d\ll N}
+Group_testing_301,{\displaystyle 1}
+Group_testing_302,{\displaystyle f}
+Group_testing_303,{\displaystyle t}
+Group_testing_304,{\displaystyle t}
+Group_testing_305,{\displaystyle f}
+Group_testing_306,{\displaystyle f}
+Group_testing_307,{\displaystyle f}
+Group_testing_308,{\displaystyle {\textbf {a}}}
+Group_testing_309,{\displaystyle f({\textbf {p}})=1}
+Group_testing_310,{\displaystyle n}
+Group_testing_311,{\displaystyle {\textbf {a}}_{n}={\textbf {p}}_{n}=1}
+Group_testing_312,{\displaystyle d}
+Group_testing_313,{\displaystyle n}
+Group_testing_314,{\displaystyle {\textbf {a}}}
+Group_testing_315,{\displaystyle 1}
+Group_testing_316,{\displaystyle {\textbf {p}}}
+Group_testing_317,{\displaystyle f({\textbf {p}})=1}
+Group_testing_318,{\displaystyle f:\mathbb {C} ^{N}\to \mathbb {C} }
+Group_testing_319,{\displaystyle f({\textbf {x}})={\textbf {a}}\cdot {\textbf {x}}}
+Group_testing_320,{\displaystyle {\textbf {v}}\in \mathbb {C} ^{N}}
+Group_testing_321,{\displaystyle {\textbf {v}}}
+Group_testing_322,{\displaystyle {\textbf {v}}}
+Group_testing_323,{\displaystyle {\textbf {v}}}
+Group_testing_324,{\displaystyle M{\textbf {v}}={\textbf {q}}}
+Group_testing_325,{\displaystyle M}
+Group_testing_326,{\displaystyle t\times N}
+Group_testing_327,{\displaystyle \mathbf {q} }
+Group_testing_328,{\displaystyle d2^{(\log _{2}\log _{2}N)^{O(1)}}}
+Group_testing_329,{\displaystyle f}
+Group_testing_330,{\displaystyle N}
+Group_testing_331,{\displaystyle t}
+Group_testing_332,{\displaystyle t=O\left(d^{2}\log _{d}n\right)}
+Group_testing_333,{\displaystyle t=O(d\log _{2}n)}
+Group_testing_334,{\displaystyle d\to \infty }
+Group_testing_335,{\displaystyle n\to \infty }
+Group_testing_336,{\displaystyle s}
+Group_testing_337,{\displaystyle t\leq {\frac {e}{\log _{2}e}}d\log _{2}{(n/d)}}
+Group_testing_338,{\displaystyle \mathbf {y} }
+Group_testing_339,{\displaystyle \mathbf {y} :=M\mathbf {x} }
+Group_testing_340,{\displaystyle \wedge }
+Group_testing_341,{\displaystyle \vee }
+Group_testing_342,{\displaystyle \mathbf {y} }
+Group_testing_343,{\displaystyle 1}
+Group_testing_344,{\displaystyle i}
+Group_testing_345,"{\displaystyle (M)_{i,j}}"
+Group_testing_346,{\displaystyle \mathbf {x} _{j}}
+Group_testing_347,{\displaystyle 1}
+Group_testing_348,{\displaystyle j}
+Group_testing_349,{\displaystyle i{\textrm {-th}}}

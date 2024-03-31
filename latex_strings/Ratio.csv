@@ -1,0 +1,18 @@
+name,latex
+Ratio_0,{\displaystyle {\tfrac {A}{B}}}
+Ratio_1,{\displaystyle {\text{thickness : width : length }}=2:4:10;}
+Ratio_2,{\displaystyle {\text{cement : sand : gravel }}=1:2:4.}
+Ratio_3,{\displaystyle {\tfrac {2}{3}}}
+Ratio_4,{\displaystyle {\tfrac {3}{7}}}
+Ratio_5,{\displaystyle {\tfrac {2}{5}}}
+Ratio_6,{\displaystyle {\tfrac {3}{5}}}
+Ratio_7,{\displaystyle a:d=1:{\sqrt {2}}.}
+Ratio_8,{\displaystyle a:b=(a+b):a\quad }
+Ratio_9,{\displaystyle \quad a:b=(1+b/a):1.}
+Ratio_10,{\displaystyle a:b}
+Ratio_11,{\displaystyle x=1+{\tfrac {1}{x}}\quad }
+Ratio_12,"{\displaystyle \quad x^{2}-x-1=0,}"
+Ratio_13,{\displaystyle x={\tfrac {a}{b}}={\tfrac {1+{\sqrt {5}}}{2}}.}
+Ratio_14,"{\displaystyle a:b=(2a+b):a\quad (=(2+b/a):1),}"
+Ratio_15,{\displaystyle x^{2}-2x-1=0.}
+Ratio_16,"{\displaystyle x={\tfrac {a}{b}}=1+{\sqrt {2}},}"

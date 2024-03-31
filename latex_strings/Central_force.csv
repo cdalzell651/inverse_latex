@@ -1,0 +1,12 @@
+name,latex
+Central_force_0,{\displaystyle {\vec {F}}=\mathbf {F} (\mathbf {r} )=\left\vert F(\mathbf {r} )\right\vert {\hat {\mathbf {r} }}}
+Central_force_3,"{\displaystyle \mathbf {F} (\mathbf {r} )=-\mathbf {\nabla } V(\mathbf {r} )\;{\text{, where }}V(\mathbf {r} )=\int _{|\mathbf {r} |}^{+\infty }F(r)\,\mathrm {d} r}"
+Central_force_4,{\displaystyle E={\tfrac {1}{2}}m|\mathbf {\dot {r}} |^{2}+{\tfrac {1}{2}}I|{\boldsymbol {\omega }}|^{2}+V(\mathbf {r} )={\text{constant}}}
+Central_force_5,{\displaystyle \mathbf {L} =\mathbf {r} \times m\mathbf {\dot {r}} ={\text{constant}}}
+Central_force_6,{\displaystyle \nabla \times \mathbf {F} (\mathbf {r} )=\mathbf {0} .}
+Central_force_7,{\displaystyle F(\mathbf {r} )}
+Central_force_8,{\displaystyle F(\mathbf {r} )}
+Central_force_9,{\displaystyle F(\mathbf {r} )}
+Central_force_10,{\displaystyle F(\mathbf {r} )=-k/r^{2}}
+Central_force_11,{\displaystyle F(\mathbf {r} )=-kr}
+Central_force_12,{\displaystyle {\vec {F}}=\mathbf {F} (\mathbf {r} )=F(\|\mathbf {r} \|){\hat {\mathbf {r} }}}

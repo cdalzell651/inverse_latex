@@ -1,0 +1,30 @@
+name,latex
+Classical_mechanics_0,{\displaystyle {\textbf {F}}={\frac {d}{dt}}(m{\textbf {v}})}
+Classical_mechanics_1,"{\displaystyle \mathbf {v} ={\mathrm {d} \mathbf {r}  \over \mathrm {d} t}\,\!}"
+Classical_mechanics_2,"{\displaystyle \mathbf {u} '=\mathbf {u} -\mathbf {v} \,.}"
+Classical_mechanics_3,"{\displaystyle \mathbf {v'} =\mathbf {v} -\mathbf {u} \,.}"
+Classical_mechanics_4,"{\displaystyle \mathbf {u} '=(u-v)\mathbf {d} \,.}"
+Classical_mechanics_5,"{\displaystyle u'=u-v\,.}"
+Classical_mechanics_6,{\displaystyle \mathbf {a} ={\mathrm {d} \mathbf {v}  \over \mathrm {d} t}={\mathrm {d^{2}} \mathbf {r}  \over \mathrm {d} t^{2}}.}
+Classical_mechanics_7,{\displaystyle F=ma}
+Classical_mechanics_8,"{\displaystyle {\begin{aligned}x'&=x-tu,\\y'&=y,\\z'&=z,\\t'&=t.\end{aligned}}}"
+Classical_mechanics_9,{\displaystyle \mathbf {F} ={\mathrm {d} \mathbf {p}  \over \mathrm {d} t}={\mathrm {d} (m\mathbf {v} ) \over \mathrm {d} t}.}
+Classical_mechanics_10,"{\displaystyle \mathbf {F} =m\mathbf {a} \,.}"
+Classical_mechanics_11,"{\displaystyle \mathbf {F} _{\rm {R}}=-\lambda \mathbf {v} \,,}"
+Classical_mechanics_12,"{\displaystyle -\lambda \mathbf {v} =m\mathbf {a} =m{\mathrm {d} \mathbf {v}  \over \mathrm {d} t}\,.}"
+Classical_mechanics_13,{\displaystyle \mathbf {v} =\mathbf {v} _{0}e^{{-\lambda t}/{m}}}
+Classical_mechanics_14,"{\displaystyle W=\mathbf {F} \cdot \Delta \mathbf {r} \,.}"
+Classical_mechanics_15,"{\displaystyle W=\int _{C}\mathbf {F} (\mathbf {r} )\cdot \mathrm {d} \mathbf {r} \,.}"
+Classical_mechanics_16,"{\displaystyle E_{\mathrm {k} }={\tfrac {1}{2}}mv^{2}\,.}"
+Classical_mechanics_17,"{\displaystyle W=\Delta E_{\mathrm {k} }=E_{\mathrm {k_{2}} }-E_{\mathrm {k_{1}} }={\tfrac {1}{2}}m\left(v_{2}^{\,2}-v_{1}^{\,2}\right).}"
+Classical_mechanics_18,"{\displaystyle \mathbf {F} =-\mathbf {\nabla } E_{\mathrm {p} }\,.}"
+Classical_mechanics_19,"{\displaystyle \mathbf {F} \cdot \Delta \mathbf {r} =-\mathbf {\nabla } E_{\mathrm {p} }\cdot \Delta \mathbf {r} =-\Delta E_{\mathrm {p} }\,.}"
+Classical_mechanics_20,"{\displaystyle -\Delta E_{\mathrm {p} }=\Delta E_{\mathrm {k} }\Rightarrow \Delta (E_{\mathrm {k} }+E_{\mathrm {p} })=0\,.}"
+Classical_mechanics_21,"{\displaystyle \sum E=E_{\mathrm {k} }+E_{\mathrm {p} }\,,}"
+Classical_mechanics_27,{\displaystyle V}
+Classical_mechanics_29,{\displaystyle {\dot {q}}^{i}}
+Classical_mechanics_30,"{\displaystyle {\frac {\mathrm {d} {\boldsymbol {q}}}{\mathrm {d} t}}={\frac {\partial {\mathcal {H}}}{\partial {\boldsymbol {p}}}},\quad {\frac {\mathrm {d} {\boldsymbol {p}}}{\mathrm {d} t}}=-{\frac {\partial {\mathcal {H}}}{\partial {\boldsymbol {q}}}}.}"
+Classical_mechanics_31,"{\displaystyle \mathbf {p} ={\frac {m\mathbf {v} }{\sqrt {1-{\frac {v^{2}}{c^{2}}}}}}\,,}"
+Classical_mechanics_32,"{\displaystyle \mathbf {p} \approx m\mathbf {v} \,.}"
+Classical_mechanics_33,"{\displaystyle f=f_{\mathrm {c} }{\frac {m_{0}}{m_{0}+{\frac {T}{c^{2}}}}}\,,}"
+Classical_mechanics_34,{\displaystyle \lambda ={\frac {h}{p}}}

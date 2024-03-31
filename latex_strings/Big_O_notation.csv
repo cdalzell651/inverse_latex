@@ -1,0 +1,268 @@
+name,latex
+Big_O_notation_1,{\displaystyle x\to \infty }
+Big_O_notation_2,{\displaystyle M>0}
+Big_O_notation_3,{\displaystyle M=1}
+Big_O_notation_4,{\displaystyle x_{0}}
+Big_O_notation_5,{\displaystyle x_{0}=5}
+Big_O_notation_7,{\displaystyle x\geq x_{0}}
+Big_O_notation_8,{\displaystyle f}
+Big_O_notation_9,{\displaystyle g}
+Big_O_notation_10,{\displaystyle g(x)}
+Big_O_notation_11,{\displaystyle x}
+Big_O_notation_12,{\displaystyle f(x)=O{\bigl (}g(x){\bigr )}\quad {\text{ as }}x\to \infty }
+Big_O_notation_13,{\displaystyle f(x)}
+Big_O_notation_14,{\displaystyle g(x)}
+Big_O_notation_15,{\displaystyle f(x)}
+Big_O_notation_16,{\displaystyle g(x)}
+Big_O_notation_17,{\displaystyle x}
+Big_O_notation_18,{\displaystyle f(x)=O{\bigl (}g(x){\bigr )}}
+Big_O_notation_19,{\displaystyle M}
+Big_O_notation_20,{\displaystyle x_{0}}
+Big_O_notation_21,{\displaystyle |f(x)|\leq Mg(x)\quad {\text{ for all }}x\geq x_{0}.}
+Big_O_notation_22,{\displaystyle x}
+Big_O_notation_23,{\displaystyle f(x)=O{\bigl (}g(x){\bigr )}.}
+Big_O_notation_24,{\displaystyle f}
+Big_O_notation_25,{\displaystyle a}
+Big_O_notation_26,{\displaystyle a=0}
+Big_O_notation_27,{\displaystyle f(x)=O{\bigl (}g(x){\bigr )}\quad {\text{ as }}x\to a}
+Big_O_notation_28,{\displaystyle \delta }
+Big_O_notation_29,{\displaystyle M}
+Big_O_notation_30,{\displaystyle x}
+Big_O_notation_31,{\displaystyle 0<|x-a|<\delta }
+Big_O_notation_32,{\displaystyle |f(x)|\leq Mg(x).}
+Big_O_notation_33,{\displaystyle g(x)}
+Big_O_notation_34,{\displaystyle x}
+Big_O_notation_35,{\displaystyle f(x)=O{\bigl (}g(x){\bigr )}\quad {\text{ as }}x\to a}
+Big_O_notation_36,{\displaystyle \limsup _{x\to a}{\frac {\left|f(x)\right|}{g(x)}}<\infty .}
+Big_O_notation_37,{\displaystyle a}
+Big_O_notation_38,{\displaystyle \infty }
+Big_O_notation_39,{\displaystyle f}
+Big_O_notation_40,{\displaystyle g}
+Big_O_notation_41,{\displaystyle a}
+Big_O_notation_42,{\displaystyle \textstyle \limsup _{x\to a}}
+Big_O_notation_43,{\displaystyle f}
+Big_O_notation_44,{\displaystyle g}
+Big_O_notation_45,{\displaystyle f(x)=O{\bigl (}g(x){\bigr )}}
+Big_O_notation_46,{\displaystyle M}
+Big_O_notation_47,{\displaystyle n_{0}}
+Big_O_notation_48,{\displaystyle f(n)\leq Mg(n)}
+Big_O_notation_49,{\displaystyle n\geq n_{0}}
+Big_O_notation_50,{\displaystyle |f(x)|\leq Mx^{4}}
+Big_O_notation_51,{\displaystyle {\begin{aligned}|6x^{4}-2x^{3}+5|&\leq 6x^{4}+|2x^{3}|+5\\&\leq 6x^{4}+2x^{4}+5x^{4}\\&=13x^{4}\end{aligned}}}
+Big_O_notation_52,{\displaystyle |6x^{4}-2x^{3}+5|\leq 13x^{4}.}
+Big_O_notation_53,{\displaystyle T(n)=O(n^{2})}
+Big_O_notation_54,{\displaystyle T(n)\in O(n^{2})}
+Big_O_notation_55,{\displaystyle {\begin{aligned}e^{x}&=1+x+{\frac {x^{2}}{2!}}+{\frac {x^{3}}{3!}}+{\frac {x^{4}}{4!}}+\dotsb &{\text{for all }}x\\[4pt]&=1+x+{\frac {x^{2}}{2}}+O(x^{3})&{\text{as }}x\to 0\\[4pt]&=1+x+O(x^{2})&{\text{as }}x\to 0\end{aligned}}}
+Big_O_notation_56,{\displaystyle f(n)=9\log n+5(\log n)^{4}+3n^{2}+2n^{3}=O(n^{3})\qquad {\text{as }}n\to \infty .}
+Big_O_notation_57,{\displaystyle f_{1}=O(g_{1}){\text{ and }}f_{2}=O(g_{2})\Rightarrow f_{1}f_{2}=O(g_{1}g_{2})}
+Big_O_notation_58,{\displaystyle f\cdot O(g)=O(fg)}
+Big_O_notation_59,{\displaystyle f_{1}=O(g_{1})}
+Big_O_notation_60,{\displaystyle f_{2}=O(g_{2})}
+Big_O_notation_61,"{\displaystyle f_{1}+f_{2}=O(\max(g_{1},g_{2}))}"
+Big_O_notation_62,{\displaystyle f_{1}=O(g)}
+Big_O_notation_63,{\displaystyle f_{2}=O(g)}
+Big_O_notation_64,{\displaystyle f_{1}+f_{2}\in O(g)}
+Big_O_notation_65,{\displaystyle O(g)}
+Big_O_notation_66,{\displaystyle O(|k|\cdot g)=O(g)}
+Big_O_notation_67,{\displaystyle f=O(g)}
+Big_O_notation_68,{\displaystyle k\cdot f=O(g).}
+Big_O_notation_69,{\displaystyle f}
+Big_O_notation_70,{\displaystyle g}
+Big_O_notation_71,{\displaystyle \mathbb {R} ^{n}}
+Big_O_notation_72,{\displaystyle f(\mathbf {x} ){\text{ is }}O(g(\mathbf {x} ))\quad {\text{ as }}\mathbf {x} \to \infty }
+Big_O_notation_73,{\displaystyle M}
+Big_O_notation_74,{\displaystyle C>0}
+Big_O_notation_75,{\displaystyle |f(\mathbf {x} )|\leq C|g(\mathbf {x} )|}
+Big_O_notation_76,{\displaystyle \mathbf {x} }
+Big_O_notation_77,{\displaystyle x_{i}\geq M}
+Big_O_notation_78,{\displaystyle i.}
+Big_O_notation_79,{\displaystyle x_{i}\geq M}
+Big_O_notation_80,{\displaystyle i}
+Big_O_notation_81,{\displaystyle \|\mathbf {x} \|_{\infty }\geq M}
+Big_O_notation_82,{\displaystyle \|\mathbf {x} \|_{\infty }}
+Big_O_notation_83,"{\displaystyle f(n,m)=n^{2}+m^{3}+O(n+m)\quad {\text{ as }}n,m\to \infty }"
+Big_O_notation_84,"{\displaystyle |f(n,m)-(n^{2}+m^{3})|\leq C|n+m|}"
+Big_O_notation_85,{\displaystyle m\geq M}
+Big_O_notation_86,{\displaystyle n\geq M}
+Big_O_notation_87,{\displaystyle \mathbf {x} }
+Big_O_notation_88,"{\displaystyle f(n,m)=O(n^{m})\quad {\text{ as }}n,m\to \infty }"
+Big_O_notation_89,"{\displaystyle \exists C\,\exists M\,\forall n\,\forall m\,\cdots }"
+Big_O_notation_90,"{\displaystyle \forall m\colon ~f(n,m)=O(n^{m})\quad {\text{ as }}n\to \infty }"
+Big_O_notation_91,"{\displaystyle \forall m\,\exists C\,\exists M\,\forall n\,\cdots }"
+Big_O_notation_92,"{\displaystyle f(n,m)=1}"
+Big_O_notation_93,"{\displaystyle g(n,m)=n}"
+Big_O_notation_94,"{\displaystyle f(n,m)=O(g(n,m))}"
+Big_O_notation_95,{\displaystyle f}
+Big_O_notation_96,{\displaystyle g}
+Big_O_notation_97,"{\displaystyle [1,\infty )^{2}}"
+Big_O_notation_98,"{\displaystyle [0,\infty )^{2}}"
+Big_O_notation_99,{\displaystyle g(x)=h(x)+O(f(x))}
+Big_O_notation_100,{\displaystyle g(x)-h(x)=O(f(x)).}
+Big_O_notation_101,{\displaystyle n\to \infty }
+Big_O_notation_102,"{\displaystyle {\begin{aligned}(n+1)^{2}&=n^{2}+O(n),\\(n+O(n^{1/2}))\cdot (n+O(\log n))^{2}&=n^{3}+O(n^{5/2}),\\n^{O(1)}&=O(e^{n}).\end{aligned}}}"
+Big_O_notation_103,{\displaystyle O(n^{2})}
+Big_O_notation_104,{\displaystyle {\mathcal {O}}}
+Big_O_notation_105,{\displaystyle O(1)}
+Big_O_notation_106,{\displaystyle (-1)^{n}}
+Big_O_notation_107,{\displaystyle O(\log \log n)}
+Big_O_notation_108,{\displaystyle O(\log n)}
+Big_O_notation_109,{\displaystyle O((\log n)^{c})}
+Big_O_notation_111,{\displaystyle O(n^{c})}
+Big_O_notation_113,{\displaystyle O(n)}
+Big_O_notation_114,{\displaystyle O(n\log ^{*}n)}
+Big_O_notation_115,"{\displaystyle \log ^{*}(n)={\begin{cases}0,&{\text{if }}n\leq 1\\1+\log ^{*}(\log n),&{\text{if }}n>1\end{cases}}}"
+Big_O_notation_116,{\displaystyle O(n\log n)=O(\log n!)}
+Big_O_notation_117,{\displaystyle O(n^{2})}
+Big_O_notation_118,{\displaystyle O(n^{c})}
+Big_O_notation_119,"{\displaystyle L_{n}[\alpha ,c]=e^{(c+o(1))(\ln n)^{\alpha }(\ln \ln n)^{1-\alpha }}}"
+Big_O_notation_121,{\displaystyle O(c^{n})}
+Big_O_notation_123,{\displaystyle O(n!)}
+Big_O_notation_124,{\displaystyle f(n)=O(n!)}
+Big_O_notation_125,{\displaystyle f(n)=O\left(n^{n}\right)}
+Big_O_notation_126,{\displaystyle k>0}
+Big_O_notation_127,{\displaystyle c>0}
+Big_O_notation_128,{\displaystyle O(n^{c}(\log n)^{k})}
+Big_O_notation_129,{\displaystyle O(n^{c+\varepsilon })}
+Big_O_notation_130,{\displaystyle \varepsilon >0}
+Big_O_notation_131,{\displaystyle f(x)=o(g(x))\quad {\text{ as }}x\to \infty }
+Big_O_notation_132,{\displaystyle x_{0}}
+Big_O_notation_133,{\displaystyle |f(x)|\leq \varepsilon g(x)\quad {\text{ for all }}x\geq x_{0}.}
+Big_O_notation_134,{\displaystyle 2x=o(x^{2})}
+Big_O_notation_135,"{\displaystyle 1/x=o(1),}"
+Big_O_notation_136,{\displaystyle x\to \infty .}
+Big_O_notation_137,{\displaystyle 2x^{2}=O(x^{2})}
+Big_O_notation_138,{\displaystyle 2x^{2}\neq o(x^{2})}
+Big_O_notation_139,{\displaystyle f(x)=o(g(x))}
+Big_O_notation_140,{\displaystyle \lim _{x\to \infty }{\frac {f(x)}{g(x)}}=0}
+Big_O_notation_141,{\displaystyle f=o(g)}
+Big_O_notation_142,{\displaystyle c\cdot f=o(g)}
+Big_O_notation_143,{\displaystyle f=o(F)}
+Big_O_notation_144,{\displaystyle g=o(G)}
+Big_O_notation_145,{\displaystyle f\cdot g=o(F\cdot G).}
+Big_O_notation_146,{\displaystyle f=o(g)}
+Big_O_notation_147,{\displaystyle g=o(h)}
+Big_O_notation_148,{\displaystyle f=o(h).}
+Big_O_notation_149,{\displaystyle \Omega }
+Big_O_notation_150,{\displaystyle f(x)=\Omega (g(x))}
+Big_O_notation_151,{\displaystyle x\to a}
+Big_O_notation_152,{\displaystyle \infty }
+Big_O_notation_153,{\displaystyle -\infty }
+Big_O_notation_154,{\displaystyle \Omega }
+Big_O_notation_155,{\displaystyle f(x)=\Omega (g(x))}
+Big_O_notation_156,{\displaystyle x\to \infty }
+Big_O_notation_157,{\displaystyle \limsup _{x\to \infty }\left|{\frac {f(x)}{g(x)}}\right|>0.}
+Big_O_notation_158,{\displaystyle f(x)=\Omega (g(x))}
+Big_O_notation_159,{\displaystyle f(x)=o(g(x))}
+Big_O_notation_160,{\displaystyle \Omega _{R}}
+Big_O_notation_161,{\displaystyle \Omega _{L}}
+Big_O_notation_162,{\displaystyle f(x)=\Omega _{R}(g(x))}
+Big_O_notation_163,{\displaystyle x\to \infty }
+Big_O_notation_164,{\displaystyle \limsup _{x\to \infty }{\frac {f(x)}{g(x)}}>0}
+Big_O_notation_165,{\displaystyle f(x)=\Omega _{L}(g(x))}
+Big_O_notation_166,{\displaystyle x\to \infty }
+Big_O_notation_167,{\displaystyle \liminf _{x\to \infty }{\frac {f(x)}{g(x)}}<0.}
+Big_O_notation_168,{\displaystyle \Omega _{R}}
+Big_O_notation_169,{\displaystyle \Omega _{+}}
+Big_O_notation_170,{\displaystyle \Omega _{L}}
+Big_O_notation_171,{\displaystyle \Omega _{-}}
+Big_O_notation_172,"{\displaystyle \Omega ,\Omega _{+},\Omega _{-}}"
+Big_O_notation_173,{\displaystyle f(x)=\Omega _{\pm }(g(x))}
+Big_O_notation_174,{\displaystyle f(x)=\Omega _{+}(g(x))}
+Big_O_notation_175,{\displaystyle f(x)=\Omega _{-}(g(x))}
+Big_O_notation_176,{\displaystyle \sin x=\Omega (1)}
+Big_O_notation_177,"{\displaystyle x\to \infty ,}"
+Big_O_notation_178,{\displaystyle \sin x=\Omega _{\pm }(1)}
+Big_O_notation_179,{\displaystyle x\to \infty .}
+Big_O_notation_180,{\displaystyle \sin x+1=\Omega (1)}
+Big_O_notation_181,"{\displaystyle x\to \infty ,}"
+Big_O_notation_182,{\displaystyle \sin x+1=\Omega _{+}(1)}
+Big_O_notation_183,{\displaystyle x\to \infty ;}
+Big_O_notation_184,{\displaystyle \sin x+1\not =\Omega _{-}(1)}
+Big_O_notation_185,{\displaystyle x\to \infty .}
+Big_O_notation_186,{\displaystyle \Omega }
+Big_O_notation_187,{\displaystyle f(x)=\Omega (g(x))\Leftrightarrow g(x)=O(f(x))}
+Big_O_notation_188,{\displaystyle \Omega }
+Big_O_notation_189,{\displaystyle f(n)=o(g(n))}
+Big_O_notation_190,"{\displaystyle \forall k>0\,\exists n_{0}\,\forall n>n_{0}\colon |f(n)|<k\,g(n)}"
+Big_O_notation_191,{\displaystyle \lim _{n\to \infty }{\frac {f(n)}{g(n)}}=0}
+Big_O_notation_192,{\displaystyle f(n)=O(g(n))}
+Big_O_notation_193,{\displaystyle |f|}
+Big_O_notation_194,{\displaystyle k}
+Big_O_notation_195,"{\displaystyle \exists k>0\,\exists n_{0}\,\forall n>n_{0}\colon |f(n)|\leq k\,g(n)}"
+Big_O_notation_196,{\displaystyle \limsup _{n\to \infty }{\frac {f(n)}{g(n)}}<\infty }
+Big_O_notation_197,{\displaystyle f(n)\asymp g(n)}
+Big_O_notation_198,{\displaystyle f(n)=\Theta (g(n))}
+Big_O_notation_199,{\displaystyle k_{2}}
+Big_O_notation_200,{\displaystyle k_{1}}
+Big_O_notation_201,"{\displaystyle \exists k_{1}>0\,\exists k_{2}>0\,\exists n_{0}\,\forall n>n_{0}\colon }"
+Big_O_notation_202,"{\displaystyle k_{1}\,g(n)\leq f(n)\leq k_{2}\,g(n)}"
+Big_O_notation_203,{\displaystyle f(n)=O(g(n))}
+Big_O_notation_204,{\displaystyle g(n)=O(f(n))}
+Big_O_notation_205,{\displaystyle f(n)\sim g(n)}
+Big_O_notation_206,"{\displaystyle \forall \varepsilon >0\,\exists n_{0}\,\forall n>n_{0}\colon \left|{\frac {f(n)}{g(n)}}-1\right|<\varepsilon }"
+Big_O_notation_207,{\displaystyle \lim _{n\to \infty }{\frac {f(n)}{g(n)}}=1}
+Big_O_notation_208,{\displaystyle f(n)=\Omega (g(n))}
+Big_O_notation_209,"{\displaystyle \exists k>0\,\exists n_{0}\,\forall n>n_{0}\colon f(n)\geq k\,g(n)}"
+Big_O_notation_210,{\displaystyle \liminf _{n\to \infty }{\frac {f(n)}{g(n)}}>0}
+Big_O_notation_211,{\displaystyle f(n)=\omega (g(n))}
+Big_O_notation_212,"{\displaystyle \forall k>0\,\exists n_{0}\,\forall n>n_{0}\colon f(n)>k\,g(n)}"
+Big_O_notation_213,{\displaystyle \lim _{n\to \infty }{\frac {f(n)}{g(n)}}=\infty }
+Big_O_notation_214,{\displaystyle f(n)=\Omega (g(n))}
+Big_O_notation_215,{\displaystyle |f|}
+Big_O_notation_216,"{\displaystyle \exists k>0\,\forall n_{0}\,\exists n>n_{0}\colon |f(n)|\geq k\,g(n)}"
+Big_O_notation_217,{\displaystyle \limsup _{n\to \infty }{\frac {\left|f(n)\right|}{g(n)}}>0}
+Big_O_notation_218,{\displaystyle g(n)>0}
+Big_O_notation_219,{\displaystyle n}
+Big_O_notation_220,"{\displaystyle o,O,\Theta ,\sim ,}"
+Big_O_notation_221,"{\displaystyle \Omega ,\omega }"
+Big_O_notation_222,"{\displaystyle <,\leq ,\approx ,=,}"
+Big_O_notation_223,"{\displaystyle \geq ,>}"
+Big_O_notation_224,{\displaystyle \Omega }
+Big_O_notation_225,{\displaystyle O}
+Big_O_notation_226,{\displaystyle \Theta }
+Big_O_notation_227,{\displaystyle o}
+Big_O_notation_228,{\displaystyle \omega }
+Big_O_notation_229,{\displaystyle \Omega }
+Big_O_notation_230,{\displaystyle O}
+Big_O_notation_231,{\displaystyle o}
+Big_O_notation_232,{\displaystyle \asymp }
+Big_O_notation_233,{\displaystyle \Omega }
+Big_O_notation_234,{\displaystyle \sim }
+Big_O_notation_235,{\displaystyle \omega }
+Big_O_notation_236,{\displaystyle f(n)=O(g(n))\quad (n\to \infty )~.}
+Big_O_notation_237,{\displaystyle O(g)=\{f:{\text{there exist positive constants}}~c~{\text{and}}~n_{0}~{\text{such that}}~0\leq f(n)\leq cg(n){\text{ for all }}n\geq n_{0}\}.}
+Big_O_notation_238,{\displaystyle 2n^{2}+3n+1=2n^{2}+O(n).}
+Big_O_notation_239,{\displaystyle n2^{n}={\tilde {O}}(2^{n})}
+Big_O_notation_240,{\displaystyle \log ^{k}n={\tilde {O}}(1)}
+Big_O_notation_241,"{\displaystyle L_{n}[\alpha ,c]=e^{(c+o(1))(\ln n)^{\alpha }(\ln \ln n)^{1-\alpha }}}"
+Big_O_notation_242,{\displaystyle \ln n}
+Big_O_notation_243,{\displaystyle f\sim g\iff (f-g)\in o(g)}
+Big_O_notation_244,{\displaystyle \Omega }
+Big_O_notation_245,{\displaystyle \Omega _{R}}
+Big_O_notation_246,{\displaystyle \Omega _{L}}
+Big_O_notation_247,{\displaystyle \Omega _{+}}
+Big_O_notation_248,{\displaystyle \Omega _{-}}
+Big_O_notation_249,{\displaystyle \Omega }
+Big_O_notation_250,{\displaystyle \sim }
+Big_O_notation_251,{\displaystyle \asymp }
+Big_O_notation_252,{\displaystyle f(x)\asymp g(x)}
+Big_O_notation_253,{\displaystyle f(x)=O(g(x))}
+Big_O_notation_254,{\displaystyle g(x)=O(f(x))}
+Big_O_notation_255,"{\displaystyle \,\asymp \!\!\!\!\!\!-}"
+Big_O_notation_256,{\displaystyle f\asymp \!\!\!\!\!\!-g}
+Big_O_notation_257,{\displaystyle f\sim Kg}
+Big_O_notation_258,{\displaystyle K\not =0}
+Big_O_notation_259,{\displaystyle f(x)=\Theta (g(x))}
+Big_O_notation_260,{\displaystyle f(x)\asymp g(x)}
+Big_O_notation_262,{\displaystyle f\prec g\iff f=o(g);}
+Big_O_notation_263,{\displaystyle \prec \!\!\prec }
+Big_O_notation_264,{\displaystyle \ll }
+Big_O_notation_266,{\displaystyle \prec }
+Big_O_notation_268,{\displaystyle \prec }
+Big_O_notation_269,"{\displaystyle \,\asymp \!\!\!\!\!\!-}"
+Big_O_notation_270,{\displaystyle \ll }
+Big_O_notation_271,{\displaystyle O}
+Big_O_notation_272,"{\displaystyle f\ll g\iff f=O(g),}"
+Big_O_notation_273,{\displaystyle {\mathcal {O}}(N\log N)}
+Big_O_notation_274,"{\displaystyle (k,n-k)}"
+Big_O_notation_275,{\displaystyle {\mathcal {O}}^{*}(2^{p})}

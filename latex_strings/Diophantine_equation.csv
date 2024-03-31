@@ -1,0 +1,70 @@
+name,latex
+Diophantine_equation_0,{\displaystyle a^{2}+b^{2}=c^{2}.}
+Diophantine_equation_1,{\displaystyle ax+by=c}
+Diophantine_equation_2,{\displaystyle w^{3}+x^{3}=y^{3}+z^{3}}
+Diophantine_equation_3,{\displaystyle x^{n}+y^{n}=z^{n}}
+Diophantine_equation_4,{\displaystyle x^{2}-ny^{2}=\pm 1}
+Diophantine_equation_5,{\displaystyle {\frac {4}{n}}={\frac {1}{x}}+{\frac {1}{y}}+{\frac {1}{z}}}
+Diophantine_equation_6,{\displaystyle 4xyz=yzn+xzn+xyn=n(yz+xz+xy).}
+Diophantine_equation_7,{\displaystyle x^{4}+y^{4}+z^{4}=w^{4}}
+Diophantine_equation_8,"{\displaystyle ax+by=c,}"
+Diophantine_equation_9,"{\displaystyle {\begin{aligned}a(x+kv)+b(y-ku)&=ax+by+k(av-bu)\\&=ax+by+k(udv-vdu)\\&=ax+by,\end{aligned}}}"
+Diophantine_equation_10,"{\displaystyle ax_{1}+by_{1}=ax_{2}+by_{2}=c,}"
+Diophantine_equation_11,{\displaystyle u(x_{2}-x_{1})+v(y_{2}-y_{1})=0.}
+Diophantine_equation_12,"{\displaystyle x_{2}-x_{1}=kv,\quad y_{2}-y_{1}=-ku.}"
+Diophantine_equation_13,"{\displaystyle x_{2}=x_{1}+kv,\quad y_{2}=y_{1}-ku,}"
+Diophantine_equation_14,"{\displaystyle n_{1},\dots ,n_{k}}"
+Diophantine_equation_15,"{\displaystyle a_{1},\dots ,a_{k}}"
+Diophantine_equation_16,{\displaystyle n_{1}\cdots n_{k}.}
+Diophantine_equation_17,"{\displaystyle (x,x_{1},\dots ,x_{k})}"
+Diophantine_equation_18,"{\displaystyle {\begin{aligned}x&=a_{1}+n_{1}\,x_{1}\\&\;\;\vdots \\x&=a_{k}+n_{k}\,x_{k}\end{aligned}}}"
+Diophantine_equation_19,"{\displaystyle AX=C,}"
+Diophantine_equation_20,"{\displaystyle B=[b_{i,j}]=UAV}"
+Diophantine_equation_21,{\displaystyle B(V^{-1}X)=UC.}
+Diophantine_equation_22,"{\displaystyle {\begin{aligned}&b_{i,i}y_{i}=d_{i},\quad 1\leq i\leq k\\&0y_{i}=d_{i},\quad k<i\leq n.\end{aligned}}}"
+Diophantine_equation_23,"{\displaystyle V\,{\begin{bmatrix}{\frac {d_{1}}{b_{1,1}}}\\\vdots \\{\frac {d_{k}}{b_{k,k}}}\\h_{k+1}\\\vdots \\h_{n}\end{bmatrix}}\,,}"
+Diophantine_equation_24,{\displaystyle x^{d}+y^{d}-z^{d}=0.}
+Diophantine_equation_25,"{\displaystyle x^{2}+y^{2}=3z^{2},}"
+Diophantine_equation_26,"{\displaystyle {\sqrt {3}},}"
+Diophantine_equation_27,"{\displaystyle Q(x_{1},\ldots ,x_{n})=0}"
+Diophantine_equation_28,"{\displaystyle Q(x_{1},\ldots ,x_{n})}"
+Diophantine_equation_29,{\displaystyle x_{i}}
+Diophantine_equation_30,"{\displaystyle (a_{1},\ldots ,a_{n})}"
+Diophantine_equation_31,"{\displaystyle \left(a_{1},\ldots ,a_{n}\right)}"
+Diophantine_equation_33,"{\displaystyle q,p_{1},\ldots ,p_{n}}"
+Diophantine_equation_34,"{\displaystyle \left(p_{1},\ldots ,p_{n}\right)}"
+Diophantine_equation_35,"{\displaystyle \left(k{\frac {p_{1}}{d}},\ldots ,k{\frac {p_{n}}{d}}\right),}"
+Diophantine_equation_36,{\displaystyle p_{i}.}
+Diophantine_equation_37,"{\displaystyle Q(x_{1},\ldots ,x_{n})=0}"
+Diophantine_equation_38,"{\displaystyle A=\left(a_{1},\ldots ,a_{n}\right)}"
+Diophantine_equation_39,"{\displaystyle Q(x_{1},\ldots ,x_{n})=0.}"
+Diophantine_equation_40,{\displaystyle a_{n}\neq 0.}
+Diophantine_equation_41,"{\displaystyle q(x_{1},\ldots ,x_{n-1})=Q(x_{1},\ldots ,x_{n-1},1),}"
+Diophantine_equation_42,"{\displaystyle R=(r_{1},\ldots ,r_{n-1})=\left({\frac {a_{1}}{a_{n}}},\ldots ,{\frac {a_{n-1}}{a_{n}}}\right).}"
+Diophantine_equation_43,{\displaystyle y_{i}=x_{i}-r_{i}}
+Diophantine_equation_44,{\displaystyle {\begin{aligned}x_{2}&=r_{2}+t_{2}(x_{1}-r_{1})\\&\;\;\vdots \\x_{n-1}&=r_{n-1}+t_{n-1}(x_{1}-r_{1}).\end{aligned}}}
+Diophantine_equation_45,"{\displaystyle t_{2},\ldots ,t_{n-1},}"
+Diophantine_equation_46,"{\displaystyle x_{1}={\frac {f_{1}(t_{2},\ldots ,t_{n-1})}{f_{n}(t_{2},\ldots ,t_{n-1})}}.}"
+Diophantine_equation_47,"{\displaystyle x_{2},\ldots ,x_{n-1},}"
+Diophantine_equation_48,"{\displaystyle x_{i}={\frac {f_{i}(t_{2},\ldots ,t_{n-1})}{f_{n}(t_{2},\ldots ,t_{n-1})}},}"
+Diophantine_equation_49,"{\displaystyle f_{1},\ldots ,f_{n}}"
+Diophantine_equation_50,"{\displaystyle F_{i}(t_{1},\ldots ,t_{n-1})=t_{1}^{2}f_{i}\left({\frac {t_{2}}{t_{1}}},\ldots ,{\frac {t_{n-1}}{t_{1}}}\right),}"
+Diophantine_equation_51,{\displaystyle f_{i}.}
+Diophantine_equation_52,"{\displaystyle {\begin{aligned}x_{1}&=F_{1}(t_{1},\ldots ,t_{n-1})\\&\;\;\vdots \\x_{n}&=F_{n}(t_{1},\ldots ,t_{n-1}).\end{aligned}}}"
+Diophantine_equation_53,"{\displaystyle t_{1},\ldots ,t_{n-1}.}"
+Diophantine_equation_54,"{\displaystyle F_{1},\ldots ,F_{n}}"
+Diophantine_equation_55,"{\displaystyle t_{1},\ldots ,t_{n-1}}"
+Diophantine_equation_56,"{\displaystyle (x_{1},\ldots ,x_{n})}"
+Diophantine_equation_57,"{\displaystyle x_{i}=k\,{\frac {F_{i}(t_{1},\ldots ,t_{n-1})}{d}},}"
+Diophantine_equation_58,"{\displaystyle t_{1},\ldots ,t_{n-1}}"
+Diophantine_equation_59,"{\displaystyle F_{i}(t_{1},\ldots ,t_{n-1}).}"
+Diophantine_equation_60,{\displaystyle x^{2}+y^{2}-z^{2}=0}
+Diophantine_equation_61,{\displaystyle y=t(x+1).}
+Diophantine_equation_62,"{\displaystyle x^{2}+y^{2}-1=0,}"
+Diophantine_equation_63,{\displaystyle x^{2}-1+t^{2}(x+1)^{2}=0.}
+Diophantine_equation_64,"{\displaystyle x-1+t^{2}(x+1)=0,}"
+Diophantine_equation_65,{\displaystyle x={\frac {1-t^{2}}{1+t^{2}}}.}
+Diophantine_equation_66,{\displaystyle y=t(x+1)={\frac {2t}{1+t^{2}}}.}
+Diophantine_equation_67,"{\displaystyle {\begin{aligned}x&=k\,{\frac {s^{2}-t^{2}}{d}}\\y&=k\,{\frac {2st}{d}}\\z&=k\,{\frac {s^{2}+t^{2}}{d}},\end{aligned}}}"
+Diophantine_equation_68,"{\displaystyle n=a^{2}+2b^{2}+3c^{2}+4d^{2}+5e^{2}+\cdots ,}"
+Diophantine_equation_69,"{\displaystyle n=a^{2}+4b^{2}+9c^{2}+16d^{2}+25e^{2}+\cdots ,}"

@@ -1,0 +1,22 @@
+name,latex
+Shapiro_effect_0,{\displaystyle G_{\mu \nu }+\Lambda g_{\mu \nu }={\kappa }T_{\mu \nu }}
+Shapiro_effect_1,{\displaystyle M}
+Shapiro_effect_2,"{\displaystyle \Delta t\approx {\frac {4GM}{c^{3}}}\left(\ln \left[{\frac {x_{p}+(x_{p}^{2}+d^{2})^{1/2}}{-x_{e}+(x_{e}^{2}+d^{2})^{1/2}}}\right]-{\frac {1}{2}}\left[{\frac {x_{p}}{(x_{p}^{2}+d^{2})^{1/2}}}+{\frac {2x_{e}+x_{p}}{(x_{e}^{2}+d^{2})^{1/2}}}\right]\right)+{\mathcal {O}}\left({\frac {G^{2}M^{2}}{c^{5}d}}\right),}"
+Shapiro_effect_3,{\displaystyle d}
+Shapiro_effect_4,{\displaystyle x_{e}}
+Shapiro_effect_5,{\displaystyle x_{p}}
+Shapiro_effect_6,{\displaystyle M}
+Shapiro_effect_7,{\displaystyle {\mathcal {O}}}
+Shapiro_effect_8,{\displaystyle \Delta t=-{\frac {2GM}{c^{3}}}\ln(1-\mathbf {R} \cdot \mathbf {x} ).}
+Shapiro_effect_9,{\displaystyle \mathbf {R} }
+Shapiro_effect_10,{\displaystyle \mathbf {x} }
+Shapiro_effect_11,{\displaystyle M}
+Shapiro_effect_12,{\displaystyle \Delta x=c\Delta t}
+Shapiro_effect_13,"{\displaystyle \Delta x=-R_{s}\ln(1-\mathbf {R} \cdot \mathbf {x} ),}"
+Shapiro_effect_14,{\displaystyle R_{s}={\frac {2GM}{c^{2}}}}
+Shapiro_effect_15,"{\displaystyle \Delta t=-(1+\gamma ){\frac {R_{s}}{2c}}\ln(1-\mathbf {R} \cdot \mathbf {x} ),}"
+Shapiro_effect_16,{\displaystyle \gamma =0}
+Shapiro_effect_17,{\displaystyle \tau =t{\sqrt {1-{\tfrac {R_{s}}{r}}}}}
+Shapiro_effect_18,{\displaystyle c'=c{\sqrt {1-{\tfrac {R_{s}}{r}}}}}
+Shapiro_effect_19,{\displaystyle s'={\frac {s}{\sqrt {1-{\tfrac {R_{s}}{r}}}}}}
+Shapiro_effect_20,{\displaystyle T={\frac {s'}{c'}}={\frac {s}{c\left(1-{\tfrac {R_{s}}{r}}\right)}}}

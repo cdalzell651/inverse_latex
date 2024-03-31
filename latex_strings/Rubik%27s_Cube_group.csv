@@ -1,0 +1,63 @@
+name,latex
+Rubik%27s_Cube_group_0,"{\displaystyle (G,\cdot )}"
+Rubik%27s_Cube_group_1,{\displaystyle G}
+Rubik%27s_Cube_group_2,{\displaystyle G}
+Rubik%27s_Cube_group_3,{\displaystyle \cdot }
+Rubik%27s_Cube_group_4,{\displaystyle S_{48}}
+Rubik%27s_Cube_group_5,{\displaystyle \cdot }
+Rubik%27s_Cube_group_6,{\displaystyle 3\times 3\times 3}
+Rubik%27s_Cube_group_7,{\displaystyle 6}
+Rubik%27s_Cube_group_8,{\displaystyle 9}
+Rubik%27s_Cube_group_9,{\displaystyle 54}
+Rubik%27s_Cube_group_10,{\displaystyle 6}
+Rubik%27s_Cube_group_11,"{\displaystyle 90^{\circ },180^{\circ },}"
+Rubik%27s_Cube_group_12,{\displaystyle -90^{\circ }}
+Rubik%27s_Cube_group_13,{\displaystyle F}
+Rubik%27s_Cube_group_14,{\displaystyle F^{2}}
+Rubik%27s_Cube_group_15,{\displaystyle F^{\prime }}
+Rubik%27s_Cube_group_16,{\displaystyle B}
+Rubik%27s_Cube_group_17,{\displaystyle B^{2}}
+Rubik%27s_Cube_group_18,{\displaystyle B^{\prime }}
+Rubik%27s_Cube_group_19,{\displaystyle U}
+Rubik%27s_Cube_group_20,{\displaystyle U^{2}}
+Rubik%27s_Cube_group_21,{\displaystyle U^{\prime }}
+Rubik%27s_Cube_group_22,{\displaystyle D}
+Rubik%27s_Cube_group_23,{\displaystyle D^{2}}
+Rubik%27s_Cube_group_24,{\displaystyle D^{\prime }}
+Rubik%27s_Cube_group_25,{\displaystyle L}
+Rubik%27s_Cube_group_26,{\displaystyle L^{2}}
+Rubik%27s_Cube_group_27,{\displaystyle L^{\prime }}
+Rubik%27s_Cube_group_28,{\displaystyle R}
+Rubik%27s_Cube_group_29,{\displaystyle R^{2}}
+Rubik%27s_Cube_group_30,{\displaystyle R^{\prime }}
+Rubik%27s_Cube_group_31,{\displaystyle E}
+Rubik%27s_Cube_group_32,{\displaystyle LLLL}
+Rubik%27s_Cube_group_33,{\displaystyle E}
+Rubik%27s_Cube_group_34,{\displaystyle RRR}
+Rubik%27s_Cube_group_35,{\displaystyle R^{\prime }}
+Rubik%27s_Cube_group_36,{\displaystyle \mathbb {Z} }
+Rubik%27s_Cube_group_37,{\displaystyle \mathbb {Z} }
+Rubik%27s_Cube_group_38,{\displaystyle \mathbb {Z} }
+Rubik%27s_Cube_group_39,"{\displaystyle \{F,B,U,D,L,R\}}"
+Rubik%27s_Cube_group_40,"{\displaystyle |G|=43{,}252{,}003{,}274{,}489{,}856{,}000\,\!={\bigl (}{\bigl (}12!\cdot 8!{\bigr )}\div 2{\bigr )}\cdot {\bigl (}2^{12}\div 2{\bigr )}\cdot {\bigl (}3^{8}\div 3{\bigr )}=2^{27}3^{14}5^{3}7^{2}11}"
+Rubik%27s_Cube_group_41,{\displaystyle (RU^{2}D^{-1}BD^{-1})}
+Rubik%27s_Cube_group_42,{\displaystyle FR}
+Rubik%27s_Cube_group_43,{\displaystyle RF}
+Rubik%27s_Cube_group_44,"{\displaystyle BR^{\prime }D^{2}RB^{\prime }U^{2}BR^{\prime }D^{2}RB^{\prime }U^{2},\,\!}"
+Rubik%27s_Cube_group_45,"{\displaystyle RUDB^{2}U^{2}B^{\prime }UBUB^{2}D^{\prime }R^{\prime }U^{\prime },\,\!}"
+Rubik%27s_Cube_group_46,{\displaystyle C_{P}}
+Rubik%27s_Cube_group_47,"{\displaystyle C_{p}=[U^{2},D^{2},F,B,L^{2},R^{2},R^{2}U^{\prime }FB^{\prime }R^{2}F^{\prime }BU^{\prime }R^{2}].\,\!}"
+Rubik%27s_Cube_group_49,"{\displaystyle \mathbb {Z} _{3}^{7}\times \mathbb {Z} _{2}^{11},\ }"
+Rubik%27s_Cube_group_50,{\displaystyle \mathbb {Z} _{3}}
+Rubik%27s_Cube_group_51,{\displaystyle \mathbb {Z} _{2}}
+Rubik%27s_Cube_group_56,{\displaystyle \mathbb {Z} _{4}^{6}\times (\mathbb {Z} _{3}\wr \mathrm {S} _{8})\times (\mathbb {Z} _{2}\wr \mathrm {S} _{12}).}
+Rubik%27s_Cube_group_57,{\displaystyle A_{8}}
+Rubik%27s_Cube_group_58,{\displaystyle A_{12}}
+Rubik%27s_Cube_group_59,{\displaystyle \mathbb {Z} _{3}}
+Rubik%27s_Cube_group_60,{\displaystyle \mathbb {Z} _{2}}
+Rubik%27s_Cube_group_61,{\displaystyle E}
+Rubik%27s_Cube_group_62,{\displaystyle U}
+Rubik%27s_Cube_group_63,{\displaystyle D}
+Rubik%27s_Cube_group_64,{\displaystyle D}
+Rubik%27s_Cube_group_65,{\displaystyle X}
+Rubik%27s_Cube_group_66,{\displaystyle X}

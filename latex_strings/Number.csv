@@ -1,0 +1,47 @@
+name,latex
+Number_0,{\displaystyle \left({\tfrac {1}{2}}\right)}
+Number_1,{\displaystyle \left({\sqrt {2}}\right)}
+Number_3,{\displaystyle \left({\sqrt {-1}}\right)^{2}={\sqrt {-1}}{\sqrt {-1}}=-1}
+Number_4,"{\displaystyle {\sqrt {a}}{\sqrt {b}}={\sqrt {ab}},}"
+Number_5,{\displaystyle {\frac {1}{\sqrt {a}}}={\sqrt {\frac {1}{a}}}}
+Number_6,{\displaystyle {\sqrt {-1}}}
+Number_7,{\displaystyle (\cos \theta +i\sin \theta )^{n}=\cos n\theta +i\sin n\theta }
+Number_8,{\displaystyle \cos \theta +i\sin \theta =e^{i\theta }.}
+Number_9,{\displaystyle \mathbb {N} }
+Number_10,{\displaystyle \mathbb {N} _{0}}
+Number_11,{\displaystyle \mathbb {N} _{1}}
+Number_12,{\displaystyle \mathbb {Z} }
+Number_13,{\displaystyle \mathbb {Q} }
+Number_14,{\displaystyle \mathbb {R} }
+Number_15,{\displaystyle \mathbb {C} }
+Number_16,{\displaystyle \mathbb {N} \subset \mathbb {Z} \subset \mathbb {Q} \subset \mathbb {R} \subset \mathbb {C} }
+Number_17,{\displaystyle :\;\mathbb {C} }
+Number_18,{\displaystyle :\;\mathbb {R} }
+Number_19,{\displaystyle :\;\mathbb {Q} }
+Number_20,{\displaystyle :\;\mathbb {Z} }
+Number_21,{\displaystyle :\;\mathbb {N} }
+Number_22,{\displaystyle \mathbb {N} }
+Number_23,{\displaystyle \mathbb {N} _{0}}
+Number_24,{\displaystyle \mathbb {N} _{1}}
+Number_25,{\displaystyle \mathbb {Z} }
+Number_26,{\displaystyle {1 \over 2}={2 \over 4}.}
+Number_27,{\displaystyle {a \over b}={c \over d}}
+Number_28,{\displaystyle {a\times d}={c\times b}.}
+Number_29,{\displaystyle \mathbb {Q} }
+Number_30,{\displaystyle \mathbb {R} .}
+Number_31,"{\displaystyle \pi =3.14159265358979\dots ,}"
+Number_32,"{\displaystyle {\sqrt {2}}=1.41421356237\dots ,}"
+Number_33,{\displaystyle x^{2}+1=0}
+Number_34,"{\displaystyle \,a+bi}"
+Number_35,{\displaystyle \mathbb {C} }
+Number_36,{\displaystyle \mathbb {N} }
+Number_37,{\displaystyle \mathbb {Z} }
+Number_38,{\displaystyle \mathbb {Q} }
+Number_39,{\displaystyle \mathbb {A} }
+Number_40,{\displaystyle \mathbb {R} }
+Number_41,{\displaystyle \mathbb {C} }
+Number_42,{\displaystyle \mathbb {H} }
+Number_43,{\displaystyle \mathbb {O} }
+Number_44,{\displaystyle \mathbb {R} }
+Number_45,{\displaystyle \mathbb {C} }
+Number_46,{\displaystyle \mathbb {S} }

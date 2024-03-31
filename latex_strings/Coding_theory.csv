@@ -1,0 +1,18 @@
+name,latex
+Coding_theory_0,{\displaystyle X:\Omega \to {\mathcal {X}}}
+Coding_theory_1,{\displaystyle x\in {\mathcal {X}}}
+Coding_theory_2,{\displaystyle \mathbb {P} [X=x]}
+Coding_theory_3,{\displaystyle \Sigma }
+Coding_theory_4,{\displaystyle C:{\mathcal {X}}\to \Sigma ^{*}}
+Coding_theory_5,{\displaystyle \Sigma ^{+}}
+Coding_theory_6,{\displaystyle C(x)}
+Coding_theory_7,{\displaystyle x}
+Coding_theory_8,{\displaystyle l(C(x)).}
+Coding_theory_9,{\displaystyle l(C)=\sum _{x\in {\mathcal {X}}}l(C(x))\mathbb {P} [X=x].}
+Coding_theory_10,"{\displaystyle C(x_{1},\ldots ,x_{k})=C(x_{1})C(x_{2})\cdots C(x_{k})}"
+Coding_theory_11,{\displaystyle C(\epsilon )=\epsilon }
+Coding_theory_12,{\displaystyle C:{\mathcal {X}}\to \Sigma ^{*}}
+Coding_theory_13,{\displaystyle C:{\mathcal {X}}^{*}\to \Sigma ^{*}}
+Coding_theory_14,{\displaystyle C:{\mathcal {X}}\to \Sigma ^{*}}
+Coding_theory_15,{\displaystyle C(x_{1})}
+Coding_theory_16,{\displaystyle C(x_{2})}

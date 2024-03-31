@@ -1,0 +1,5 @@
+name,latex
+Hamiltonian_cycle_0,{\displaystyle n\geq 3}
+Hamiltonian_cycle_1,{\displaystyle {\tfrac {n}{2}}}
+Hamiltonian_cycle_2,{\displaystyle n\geq 3}
+Hamiltonian_cycle_3,{\displaystyle 2n-1}

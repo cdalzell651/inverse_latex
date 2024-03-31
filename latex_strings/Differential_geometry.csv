@@ -1,0 +1,24 @@
+name,latex
+Differential_geometry_0,{\displaystyle d^{2}y=0}
+Differential_geometry_1,{\displaystyle dy=0}
+Differential_geometry_2,{\displaystyle ds^{2}}
+Differential_geometry_3,{\displaystyle ds}
+Differential_geometry_4,{\displaystyle g}
+Differential_geometry_5,{\displaystyle \Gamma }
+Differential_geometry_6,{\displaystyle \alpha }
+Differential_geometry_7,{\displaystyle H_{p}=\ker \alpha _{p}\subset T_{p}M.}
+Differential_geometry_8,{\displaystyle \alpha }
+Differential_geometry_9,{\displaystyle \alpha \wedge (d\alpha )^{n}}
+Differential_geometry_10,{\displaystyle M}
+Differential_geometry_11,{\displaystyle J:TM\rightarrow TM}
+Differential_geometry_12,"{\displaystyle J^{2}=-1.\,}"
+Differential_geometry_13,{\displaystyle N_{J}=0}
+Differential_geometry_14,{\displaystyle N_{J}}
+Differential_geometry_15,{\displaystyle J}
+Differential_geometry_16,"{\displaystyle g(JX,JY)=g(X,Y).\,}"
+Differential_geometry_17,"{\displaystyle \omega _{J,g}(X,Y):=g(JX,Y).\,}"
+Differential_geometry_18,"{\displaystyle N_{J}=0{\mbox{ and }}d\omega =0\,}"
+Differential_geometry_19,"{\displaystyle \nabla J=0\,}"
+Differential_geometry_20,{\displaystyle \nabla }
+Differential_geometry_21,{\displaystyle g}
+Differential_geometry_22,"{\displaystyle (J,g)}"

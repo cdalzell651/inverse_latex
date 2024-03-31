@@ -1,0 +1,589 @@
+name,latex
+Geometric_algebra_0,{\displaystyle V}
+Geometric_algebra_1,{\displaystyle V}
+Geometric_algebra_2,{\displaystyle F}
+Geometric_algebra_3,{\displaystyle g:V\times V\to F}
+Geometric_algebra_4,"{\displaystyle (V,g)}"
+Geometric_algebra_5,"{\displaystyle \operatorname {Cl} (V,g)}"
+Geometric_algebra_6,"{\displaystyle \operatorname {Cl} (V,g)}"
+Geometric_algebra_7,{\displaystyle g:V\times V\to F}
+Geometric_algebra_8,"{\displaystyle (V,g)}"
+Geometric_algebra_9,{\displaystyle F}
+Geometric_algebra_10,{\displaystyle V}
+Geometric_algebra_11,"{\displaystyle a^{2}=g(a,a)1}"
+Geometric_algebra_12,{\displaystyle a\in V}
+Geometric_algebra_13,{\displaystyle V}
+Geometric_algebra_14,"{\displaystyle \operatorname {Cl} (V,g)}"
+Geometric_algebra_15,"{\displaystyle \operatorname {Cl} (V,g)}"
+Geometric_algebra_16,{\displaystyle V}
+Geometric_algebra_17,{\displaystyle F=\mathbb {R} }
+Geometric_algebra_18,"{\displaystyle {\mathcal {G}}(p,q)}"
+Geometric_algebra_19,"{\displaystyle {\mathcal {G}}(p,q,r)}"
+Geometric_algebra_20,{\displaystyle g}
+Geometric_algebra_21,"{\displaystyle (p,q)}"
+Geometric_algebra_22,"{\displaystyle (p,q,r)}"
+Geometric_algebra_23,{\displaystyle \wedge }
+Geometric_algebra_24,"{\displaystyle A,B,C\in {\mathcal {G}}(p,q)}"
+Geometric_algebra_25,"{\displaystyle AB\in {\mathcal {G}}(p,q)}"
+Geometric_algebra_26,{\displaystyle 1A=A1=A}
+Geometric_algebra_27,{\displaystyle 1}
+Geometric_algebra_28,{\displaystyle A(BC)=(AB)C}
+Geometric_algebra_29,{\displaystyle A(B+C)=AB+AC}
+Geometric_algebra_30,{\displaystyle (B+C)A=BA+CA}
+Geometric_algebra_31,"{\displaystyle a^{2}=g(a,a)1}"
+Geometric_algebra_32,{\displaystyle a\in V}
+Geometric_algebra_33,{\displaystyle a\wedge a=0}
+Geometric_algebra_34,{\displaystyle a\in V}
+Geometric_algebra_35,"{\displaystyle g(a,a)}"
+Geometric_algebra_36,{\displaystyle g}
+Geometric_algebra_37,{\displaystyle a}
+Geometric_algebra_38,{\displaystyle a^{2}\neq 0}
+Geometric_algebra_39,{\displaystyle a^{-1}}
+Geometric_algebra_40,"{\displaystyle g(a,a)^{-1}a}"
+Geometric_algebra_41,{\displaystyle u}
+Geometric_algebra_42,{\displaystyle V}
+Geometric_algebra_43,{\displaystyle u^{2}=1}
+Geometric_algebra_44,{\displaystyle \textstyle {\frac {1}{2}}(1+u)}
+Geometric_algebra_45,{\displaystyle \mathbb {R} }
+Geometric_algebra_46,{\displaystyle V}
+Geometric_algebra_47,"{\displaystyle \mathbb {R} \to {\mathcal {G}}(p,q)}"
+Geometric_algebra_48,"{\displaystyle V\to {\mathcal {G}}(p,q)}"
+Geometric_algebra_49,{\displaystyle \mathbb {R} }
+Geometric_algebra_50,{\displaystyle V}
+Geometric_algebra_51,{\displaystyle a}
+Geometric_algebra_52,{\displaystyle b}
+Geometric_algebra_53,{\displaystyle ab}
+Geometric_algebra_54,{\displaystyle a\cdot b=0}
+Geometric_algebra_55,{\displaystyle a\wedge b=0}
+Geometric_algebra_56,{\displaystyle n}
+Geometric_algebra_57,{\displaystyle n=0}
+Geometric_algebra_58,{\displaystyle 1}
+Geometric_algebra_59,{\displaystyle 2}
+Geometric_algebra_60,{\displaystyle 3}
+Geometric_algebra_61,{\displaystyle n}
+Geometric_algebra_62,{\displaystyle n}
+Geometric_algebra_63,{\displaystyle n}
+Geometric_algebra_64,{\displaystyle n}
+Geometric_algebra_65,{\displaystyle (n-1)}
+Geometric_algebra_66,{\displaystyle a}
+Geometric_algebra_67,{\displaystyle b}
+Geometric_algebra_68,{\displaystyle a}
+Geometric_algebra_69,{\displaystyle b}
+Geometric_algebra_70,{\displaystyle ab={\frac {1}{2}}(ab+ba)+{\frac {1}{2}}(ab-ba).}
+Geometric_algebra_71,"{\displaystyle a\cdot b:=g(a,b),}"
+Geometric_algebra_72,{\displaystyle {\frac {1}{2}}(ab+ba)={\frac {1}{2}}\left((a+b)^{2}-a^{2}-b^{2}\right)=a\cdot b.}
+Geometric_algebra_73,{\displaystyle g}
+Geometric_algebra_74,{\displaystyle a\wedge b:={\frac {1}{2}}(ab-ba)=-(b\wedge a).}
+Geometric_algebra_75,{\displaystyle ab=a\cdot b+a\wedge b}
+Geometric_algebra_76,{\displaystyle a}
+Geometric_algebra_77,{\displaystyle b}
+Geometric_algebra_78,{\displaystyle a}
+Geometric_algebra_79,{\displaystyle b}
+Geometric_algebra_80,{\displaystyle 3}
+Geometric_algebra_81,"{\displaystyle {\begin{aligned}1\wedge a_{i}&=a_{i}\wedge 1=a_{i}\\a_{1}\wedge a_{2}\wedge \cdots \wedge a_{r}&={\frac {1}{r!}}\sum _{\sigma \in {\mathfrak {S}}_{r}}\operatorname {sgn} (\sigma )a_{\sigma (1)}a_{\sigma (2)}\cdots a_{\sigma (r)},\end{aligned}}}"
+Geometric_algebra_82,{\displaystyle \operatorname {sgn} (\sigma )}
+Geometric_algebra_83,{\displaystyle a_{i}}
+Geometric_algebra_84,"{\displaystyle a_{1}a_{2}a_{3}\dots a_{n}=\sum _{i=0}^{[{\frac {n}{2}}]}\sum _{\mu \in {}{\mathcal {C}}}(-1)^{k}\operatorname {Pf} (a_{\mu _{1}}\cdot a_{\mu _{2}},\dots ,a_{\mu _{2i-1}}\cdot a_{\mu _{2i}})a_{\mu _{2i+1}}\land \dots \land a_{\mu _{n}}}"
+Geometric_algebra_85,{\displaystyle \operatorname {Pf} (A)}
+Geometric_algebra_86,{\displaystyle A}
+Geometric_algebra_88,{\displaystyle \mu }
+Geometric_algebra_89,{\displaystyle n}
+Geometric_algebra_90,{\displaystyle 2i}
+Geometric_algebra_91,{\displaystyle n-2i}
+Geometric_algebra_92,{\displaystyle k}
+Geometric_algebra_93,{\displaystyle r}
+Geometric_algebra_94,{\displaystyle r}
+Geometric_algebra_95,{\displaystyle r}
+Geometric_algebra_96,{\displaystyle r}
+Geometric_algebra_97,{\displaystyle r}
+Geometric_algebra_98,"{\displaystyle \{a_{1},\ldots ,a_{r}\}}"
+Geometric_algebra_99,{\displaystyle r}
+Geometric_algebra_100,{\displaystyle [\mathbf {A} ]_{ij}=a_{i}\cdot a_{j}}
+Geometric_algebra_101,{\displaystyle \mathbf {A} }
+Geometric_algebra_102,{\displaystyle \mathbf {D} }
+Geometric_algebra_103,{\displaystyle \mathbf {O} }
+Geometric_algebra_104,"{\displaystyle \sum _{k,l}[\mathbf {O} ]_{ik}[\mathbf {A} ]_{kl}[\mathbf {O} ^{\mathrm {T} }]_{lj}=\sum _{k,l}[\mathbf {O} ]_{ik}[\mathbf {O} ]_{jl}[\mathbf {A} ]_{kl}=[\mathbf {D} ]_{ij}}"
+Geometric_algebra_105,"{\displaystyle \{e_{1},\ldots ,e_{r}\}}"
+Geometric_algebra_106,{\displaystyle e_{i}=\sum _{j}[\mathbf {O} ]_{ij}a_{j}}
+Geometric_algebra_107,{\displaystyle e_{i}\cdot e_{j}=[\mathbf {D} ]_{ij}}
+Geometric_algebra_108,"{\displaystyle \{e_{1},\ldots ,e_{r}\}}"
+Geometric_algebra_109,{\displaystyle e_{i}\neq e_{j}}
+Geometric_algebra_110,{\displaystyle {\begin{array}{rl}e_{1}e_{2}\cdots e_{r}&=e_{1}\wedge e_{2}\wedge \cdots \wedge e_{r}\\&=\left(\sum _{j}[\mathbf {O} ]_{1j}a_{j}\right)\wedge \left(\sum _{j}[\mathbf {O} ]_{2j}a_{j}\right)\wedge \cdots \wedge \left(\sum _{j}[\mathbf {O} ]_{rj}a_{j}\right)\\&=(\det \mathbf {O} )a_{1}\wedge a_{2}\wedge \cdots \wedge a_{r}\end{array}}}
+Geometric_algebra_111,{\displaystyle r}
+Geometric_algebra_112,{\displaystyle r}
+Geometric_algebra_113,"{\displaystyle {\hat {e}}_{i}={\frac {1}{\sqrt {|e_{i}\cdot e_{i}|}}}e_{i},}"
+Geometric_algebra_114,{\displaystyle +1}
+Geometric_algebra_115,{\displaystyle -1}
+Geometric_algebra_116,{\displaystyle +1}
+Geometric_algebra_117,{\displaystyle -1}
+Geometric_algebra_118,{\displaystyle p}
+Geometric_algebra_119,{\displaystyle +1}
+Geometric_algebra_120,{\displaystyle q}
+Geometric_algebra_121,{\displaystyle -1}
+Geometric_algebra_122,"{\displaystyle {\mathcal {G}}(p,q)}"
+Geometric_algebra_123,"{\displaystyle {\mathcal {G}}(3,0)}"
+Geometric_algebra_124,"{\displaystyle {\mathcal {G}}(1,3)}"
+Geometric_algebra_125,"{\displaystyle {\mathcal {G}}(4,1)}"
+Geometric_algebra_126,{\displaystyle n}
+Geometric_algebra_127,{\displaystyle 1}
+Geometric_algebra_128,"{\displaystyle {\mathcal {G}}(3,0)}"
+Geometric_algebra_129,"{\displaystyle \{1,e_{1},e_{2},e_{3},e_{1}e_{2},e_{2}e_{3},e_{3}e_{1},e_{1}e_{2}e_{3}\}}"
+Geometric_algebra_130,{\displaystyle V}
+Geometric_algebra_131,{\displaystyle 2^{n}}
+Geometric_algebra_132,{\displaystyle \{B_{i}\mid i\in S\}}
+Geometric_algebra_133,{\displaystyle S}
+Geometric_algebra_134,"{\displaystyle \left(\sum _{i}\alpha _{i}B_{i}\right)\left(\sum _{j}\beta _{j}B_{j}\right)=\sum _{i,j}\alpha _{i}\beta _{j}B_{i}B_{j}.}"
+Geometric_algebra_135,{\displaystyle k}
+Geometric_algebra_136,{\displaystyle k}
+Geometric_algebra_137,{\displaystyle e_{1}\wedge e_{2}+e_{3}\wedge e_{4}}
+Geometric_algebra_138,"{\displaystyle {\mathcal {G}}(4,0)}"
+Geometric_algebra_139,{\displaystyle 0}
+Geometric_algebra_140,{\displaystyle 1}
+Geometric_algebra_141,{\displaystyle (n-1)}
+Geometric_algebra_142,{\displaystyle n}
+Geometric_algebra_143,{\displaystyle n}
+Geometric_algebra_144,{\displaystyle k}
+Geometric_algebra_145,{\displaystyle k}
+Geometric_algebra_146,{\displaystyle V\to V:a\mapsto RaR^{-1}}
+Geometric_algebra_147,{\displaystyle {\mathcal {G}}(V)\to {\mathcal {G}}(V):A\mapsto RAR^{-1}.}
+Geometric_algebra_148,"{\displaystyle {\mathcal {G}}(p,q)}"
+Geometric_algebra_149,{\displaystyle {\mathcal {G}}^{\times }}
+Geometric_algebra_150,{\displaystyle {\mathcal {G}}}
+Geometric_algebra_151,{\displaystyle \{v_{1}v_{2}\cdots v_{k}\in {\mathcal {G}}\mid v_{i}\in V^{\times }\}}
+Geometric_algebra_152,{\displaystyle \Gamma }
+Geometric_algebra_153,{\displaystyle {\hat {X}}}
+Geometric_algebra_154,{\displaystyle {\tilde {X}}}
+Geometric_algebra_155,{\displaystyle \{X\in {\mathcal {G}}^{\times }\mid {\hat {X}}VX^{-1}\subseteq V\}}
+Geometric_algebra_156,"{\displaystyle \textstyle \{\prod _{i=0}^{k}v_{i}\mid v_{i}\in V^{\times },k\in \mathbb {N} \}}"
+Geometric_algebra_157,{\displaystyle \operatorname {Pin} }
+Geometric_algebra_158,{\displaystyle \operatorname {Spin} }
+Geometric_algebra_159,{\displaystyle \operatorname {Spin} ^{+}}
+Geometric_algebra_160,{\displaystyle \Gamma }
+Geometric_algebra_161,{\displaystyle \{X\in {\mathcal {G}}^{\times }\mid {\hat {X}}VX^{-1}\subseteq V\}}
+Geometric_algebra_162,{\displaystyle \operatorname {Pin} }
+Geometric_algebra_163,{\displaystyle \{X\in \Gamma \mid X{\tilde {X}}=\pm 1\}}
+Geometric_algebra_164,{\displaystyle \operatorname {Spin} }
+Geometric_algebra_165,{\displaystyle {\operatorname {Pin} }\cap {\mathcal {G}}^{[0]}}
+Geometric_algebra_166,{\displaystyle \operatorname {Spin} ^{+}}
+Geometric_algebra_167,{\displaystyle \{X\in \operatorname {Spin} \mid X{\tilde {X}}=1\}}
+Geometric_algebra_168,{\displaystyle \mathbb {Z} }
+Geometric_algebra_169,"{\displaystyle \{e_{1},\ldots ,e_{n}\}}"
+Geometric_algebra_170,{\displaystyle 1}
+Geometric_algebra_171,{\displaystyle 0}
+Geometric_algebra_172,"{\displaystyle \{e_{1},\ldots ,e_{n}\}}"
+Geometric_algebra_173,{\displaystyle 1}
+Geometric_algebra_174,{\displaystyle \{e_{i}e_{j}\mid 1\leq i<j\leq n\}}
+Geometric_algebra_175,{\displaystyle 2}
+Geometric_algebra_176,{\displaystyle n}
+Geometric_algebra_177,{\displaystyle n}
+Geometric_algebra_178,{\displaystyle (n-1)}
+Geometric_algebra_179,{\displaystyle r}
+Geometric_algebra_180,{\displaystyle s}
+Geometric_algebra_181,{\displaystyle 0}
+Geometric_algebra_182,{\displaystyle r+s}
+Geometric_algebra_183,{\displaystyle A}
+Geometric_algebra_184,{\displaystyle \langle A\rangle _{r}}
+Geometric_algebra_185,{\displaystyle r}
+Geometric_algebra_186,{\displaystyle A}
+Geometric_algebra_187,{\displaystyle A=\sum _{r=0}^{n}\langle A\rangle _{r}}
+Geometric_algebra_188,{\displaystyle ab=a\cdot b+a\wedge b=\langle ab\rangle _{0}+\langle ab\rangle _{2}}
+Geometric_algebra_189,{\displaystyle \langle ab\rangle _{0}=a\cdot b}
+Geometric_algebra_190,{\displaystyle \langle ab\rangle _{2}=a\wedge b}
+Geometric_algebra_191,{\displaystyle \langle ab\rangle _{i}=0}
+Geometric_algebra_192,{\displaystyle i}
+Geometric_algebra_193,{\displaystyle 0}
+Geometric_algebra_194,{\displaystyle 2}
+Geometric_algebra_195,{\displaystyle A}
+Geometric_algebra_196,{\displaystyle A^{+}=\langle A\rangle _{0}+\langle A\rangle _{2}+\langle A\rangle _{4}+\cdots }
+Geometric_algebra_197,{\displaystyle A^{-}=\langle A\rangle _{1}+\langle A\rangle _{3}+\langle A\rangle _{5}+\cdots }
+Geometric_algebra_198,{\displaystyle \mathrm {Z} }
+Geometric_algebra_199,{\displaystyle \mathrm {Z} _{2}}
+Geometric_algebra_200,{\displaystyle \mathrm {Z} _{2}}
+Geometric_algebra_201,{\displaystyle \mathrm {Z} _{2}}
+Geometric_algebra_202,{\displaystyle n}
+Geometric_algebra_203,{\displaystyle (n-1)}
+Geometric_algebra_204,"{\displaystyle {\mathcal {G}}^{+}(2,0)\cong {\mathcal {G}}(0,1)}"
+Geometric_algebra_205,"{\displaystyle {\mathcal {G}}^{+}(1,3)\cong {\mathcal {G}}(3,0)}"
+Geometric_algebra_206,{\displaystyle V}
+Geometric_algebra_207,{\displaystyle V}
+Geometric_algebra_208,{\displaystyle k}
+Geometric_algebra_209,{\displaystyle W}
+Geometric_algebra_210,{\displaystyle V}
+Geometric_algebra_211,"{\displaystyle \{b_{1},b_{2},\ldots ,b_{k}\}}"
+Geometric_algebra_212,{\displaystyle D=b_{1}b_{2}\cdots b_{k}}
+Geometric_algebra_213,{\displaystyle W}
+Geometric_algebra_214,{\displaystyle W}
+Geometric_algebra_215,{\displaystyle D}
+Geometric_algebra_216,{\displaystyle D}
+Geometric_algebra_217,{\displaystyle D}
+Geometric_algebra_218,{\displaystyle D}
+Geometric_algebra_219,{\displaystyle D}
+Geometric_algebra_220,{\displaystyle n}
+Geometric_algebra_221,{\displaystyle n}
+Geometric_algebra_222,{\displaystyle n\geq 4}
+Geometric_algebra_223,{\displaystyle W}
+Geometric_algebra_224,{\displaystyle V}
+Geometric_algebra_225,{\displaystyle W}
+Geometric_algebra_226,{\displaystyle I}
+Geometric_algebra_227,{\displaystyle I'}
+Geometric_algebra_228,{\displaystyle W}
+Geometric_algebra_229,{\displaystyle I=\pm I'}
+Geometric_algebra_230,{\displaystyle I^{2}=\pm 1}
+Geometric_algebra_231,{\displaystyle W}
+Geometric_algebra_232,{\displaystyle \alpha I}
+Geometric_algebra_233,{\displaystyle \alpha \neq 0}
+Geometric_algebra_234,"{\displaystyle {\mathcal {G}}(n,0)}"
+Geometric_algebra_235,{\displaystyle \mathbb {R} ^{n}}
+Geometric_algebra_236,{\displaystyle \mathbb {R} ^{n}}
+Geometric_algebra_237,"{\displaystyle \{b_{1},b_{2}\}}"
+Geometric_algebra_238,{\displaystyle I=b_{1}b_{2}}
+Geometric_algebra_239,{\displaystyle b_{1}}
+Geometric_algebra_240,{\displaystyle b_{2}}
+Geometric_algebra_241,{\displaystyle \{\alpha _{0}+\alpha _{1}I\mid \alpha _{i}\in \mathbb {R} \}}
+Geometric_algebra_242,{\displaystyle 0}
+Geometric_algebra_243,{\displaystyle 2}
+Geometric_algebra_244,{\displaystyle I^{2}=b_{1}b_{2}b_{1}b_{2}=-b_{1}b_{2}b_{2}b_{1}=-1}
+Geometric_algebra_245,{\displaystyle \{\alpha _{0}+\alpha _{1}I\mid \alpha _{i}\in \mathbb {R} \}}
+Geometric_algebra_246,{\displaystyle \mathbb {R} }
+Geometric_algebra_247,{\displaystyle V}
+Geometric_algebra_248,{\displaystyle -1}
+Geometric_algebra_249,"{\displaystyle {\mathcal {G}}(3,0)}"
+Geometric_algebra_250,{\displaystyle e_{i}}
+Geometric_algebra_251,{\displaystyle V}
+Geometric_algebra_252,{\displaystyle 2}
+Geometric_algebra_253,"{\displaystyle \{e_{3}e_{2},e_{1}e_{3},e_{2}e_{1}\}.}"
+Geometric_algebra_254,{\displaystyle i}
+Geometric_algebra_255,{\displaystyle j}
+Geometric_algebra_256,{\displaystyle k}
+Geometric_algebra_257,{\displaystyle 0}
+Geometric_algebra_258,{\displaystyle 2}
+Geometric_algebra_259,{\displaystyle \{\alpha _{0}+i\alpha _{1}+j\alpha _{2}+k\alpha _{3}\mid \alpha _{i}\in \mathbb {R} \}}
+Geometric_algebra_260,"{\displaystyle {\mathcal {G}}(3,0)}"
+Geometric_algebra_261,{\displaystyle \mathbb {R} }
+Geometric_algebra_262,"{\displaystyle C\wedge D:=\sum _{r,s}\langle \langle C\rangle _{r}\langle D\rangle _{s}\rangle _{r+s}}"
+Geometric_algebra_263,{\displaystyle C\times D:={\tfrac {1}{2}}(CD-DC)}
+Geometric_algebra_264,{\displaystyle C}
+Geometric_algebra_265,{\displaystyle D}
+Geometric_algebra_266,{\displaystyle C}
+Geometric_algebra_267,{\displaystyle D}
+Geometric_algebra_268,{\displaystyle C\vee D:=((CI^{-1})\wedge (DI^{-1}))I}
+Geometric_algebra_269,{\displaystyle I}
+Geometric_algebra_270,"{\displaystyle C\;\rfloor \;D:=\sum _{r,s}\langle \langle C\rangle _{r}\langle D\rangle _{s}\rangle _{s-r}}"
+Geometric_algebra_271,"{\displaystyle C\;\lfloor \;D:=\sum _{r,s}\langle \langle C\rangle _{r}\langle D\rangle _{s}\rangle _{r-s}}"
+Geometric_algebra_272,"{\displaystyle C*D:=\sum _{r,s}\langle \langle C\rangle _{r}\langle D\rangle _{s}\rangle _{0}}"
+Geometric_algebra_273,"{\displaystyle C\bullet D:=\sum _{r,s}\langle \langle C\rangle _{r}\langle D\rangle _{s}\rangle _{|s-r|}}"
+Geometric_algebra_274,{\displaystyle C\;\rfloor \;D=(C\wedge (DI^{-1}))I}
+Geometric_algebra_275,{\displaystyle C\;\lfloor \;D=I((I^{-1}C)\wedge D)}
+Geometric_algebra_276,{\displaystyle (A\wedge B)*C=A*(B\;\rfloor \;C)}
+Geometric_algebra_277,{\displaystyle C*(B\wedge A)=(C\;\lfloor \;B)*A}
+Geometric_algebra_278,{\displaystyle A\;\rfloor \;(B\;\rfloor \;C)=(A\wedge B)\;\rfloor \;C}
+Geometric_algebra_279,{\displaystyle (A\;\rfloor \;B)\;\lfloor \;C=A\;\rfloor \;(B\;\lfloor \;C).}
+Geometric_algebra_280,{\displaystyle ab=a\cdot b+a\wedge b}
+Geometric_algebra_281,{\displaystyle aB=a\;\rfloor \;B+a\wedge B}
+Geometric_algebra_282,{\displaystyle a}
+Geometric_algebra_283,{\displaystyle B}
+Geometric_algebra_284,{\displaystyle {\mathcal {P}}_{b}(a)=(a\cdot b^{-1})b}
+Geometric_algebra_285,{\displaystyle {\mathcal {P}}_{B}(A)=(A\;\rfloor \;B^{-1})\;\rfloor \;B}
+Geometric_algebra_286,{\displaystyle B}
+Geometric_algebra_287,{\displaystyle A}
+Geometric_algebra_288,{\displaystyle B}
+Geometric_algebra_289,"{\displaystyle \{e_{1},\ldots ,e_{n}\}}"
+Geometric_algebra_290,{\displaystyle V}
+Geometric_algebra_291,{\displaystyle n}
+Geometric_algebra_292,{\displaystyle n}
+Geometric_algebra_293,{\displaystyle V}
+Geometric_algebra_294,"{\displaystyle \{e_{1},\ldots ,e_{n}\}}"
+Geometric_algebra_295,{\displaystyle V^{*}}
+Geometric_algebra_296,"{\displaystyle \{e^{1},\ldots ,e^{n}\}}"
+Geometric_algebra_297,"{\displaystyle e^{i}\cdot e_{j}=\delta ^{i}{}_{j},}"
+Geometric_algebra_298,{\displaystyle \delta }
+Geometric_algebra_299,{\displaystyle V}
+Geometric_algebra_300,{\displaystyle V^{*}}
+Geometric_algebra_301,{\displaystyle V}
+Geometric_algebra_302,{\displaystyle V}
+Geometric_algebra_303,{\displaystyle V}
+Geometric_algebra_304,{\displaystyle I=e_{1}\wedge \cdots \wedge e_{n}}
+Geometric_algebra_305,{\displaystyle \pm 1}
+Geometric_algebra_306,"{\displaystyle \{e_{1},\ldots ,e_{n}\}}"
+Geometric_algebra_307,"{\displaystyle e^{i}=(-1)^{i-1}(e_{1}\wedge \cdots \wedge {\check {e}}_{i}\wedge \cdots \wedge e_{n})I^{-1},}"
+Geometric_algebra_308,{\displaystyle {\check {e}}_{i}}
+Geometric_algebra_309,{\displaystyle i}
+Geometric_algebra_310,{\displaystyle a}
+Geometric_algebra_311,{\displaystyle a^{i}}
+Geometric_algebra_312,"{\displaystyle a^{i}=a\cdot e^{i}\ ,}"
+Geometric_algebra_313,{\displaystyle a}
+Geometric_algebra_314,{\displaystyle a=\sum _{i}a^{i}e_{i}\ .}
+Geometric_algebra_315,{\displaystyle a_{i}}
+Geometric_algebra_316,"{\displaystyle a_{i}=a\cdot e_{i}\ ,}"
+Geometric_algebra_317,{\displaystyle a}
+Geometric_algebra_318,{\displaystyle a=\sum _{i}a_{i}e^{i}\ .}
+Geometric_algebra_319,"{\displaystyle J=(j_{1},\dots ,j_{n})\ ,}"
+Geometric_algebra_320,{\displaystyle j_{1}<j_{2}<\dots <j_{n}}
+Geometric_algebra_321,{\displaystyle e_{J}=e_{j_{1}}\wedge e_{j_{2}}\wedge \cdots \wedge e_{j_{n}}\ .}
+Geometric_algebra_322,{\displaystyle e^{J}=e^{j_{n}}\wedge \cdots \wedge e^{j_{2}}\wedge e^{j_{1}}\ .}
+Geometric_algebra_323,"{\displaystyle e^{J}*e_{K}=\delta _{K}^{J}\ ,}"
+Geometric_algebra_324,{\displaystyle *}
+Geometric_algebra_325,{\displaystyle A}
+Geometric_algebra_326,"{\displaystyle A^{ij\cdots k}=(e^{k}\wedge \cdots \wedge e^{j}\wedge e^{i})*A\ ,}"
+Geometric_algebra_327,{\displaystyle A}
+Geometric_algebra_328,{\displaystyle A=\sum _{i<j<\cdots <k}A^{ij\cdots k}e_{i}\wedge e_{j}\wedge \cdots \wedge e_{k}\ .}
+Geometric_algebra_329,"{\displaystyle A_{ij\cdots k}=(e_{k}\wedge \cdots \wedge e_{j}\wedge e_{i})*A\ ,}"
+Geometric_algebra_330,{\displaystyle A}
+Geometric_algebra_331,{\displaystyle A=\sum _{i<j<\cdots <k}A_{ij\cdots k}e^{i}\wedge e^{j}\wedge \cdots \wedge e^{k}\ .}
+Geometric_algebra_332,{\displaystyle n}
+Geometric_algebra_333,{\displaystyle 2^{n}}
+Geometric_algebra_334,{\displaystyle 2^{n}\times 1}
+Geometric_algebra_335,{\displaystyle 2^{n}\times 2^{n}}
+Geometric_algebra_336,{\displaystyle f}
+Geometric_algebra_337,{\displaystyle {\underline {\mathsf {f}}}(a_{1}\wedge a_{2}\wedge \cdots \wedge a_{r})=f(a_{1})\wedge f(a_{2})\wedge \cdots \wedge f(a_{r})}
+Geometric_algebra_338,"{\displaystyle {\mathcal {G}}(2,0)}"
+Geometric_algebra_339,{\displaystyle P}
+Geometric_algebra_340,{\displaystyle e_{1}}
+Geometric_algebra_341,"{\displaystyle Z=e_{1}P=e_{1}(xe_{1}+ye_{2})=x(1)+y(e_{1}e_{2}),}"
+Geometric_algebra_342,{\displaystyle i\mapsto e_{1}e_{2}}
+Geometric_algebra_343,{\displaystyle (e_{1}e_{2})^{2}=e_{1}e_{2}e_{1}e_{2}=-e_{1}e_{1}e_{2}e_{2}=-1.}
+Geometric_algebra_344,"{\displaystyle {\mathcal {G}}(3,0)}"
+Geometric_algebra_345,"{\displaystyle \{1,e_{2}e_{3},e_{3}e_{1},e_{1}e_{2}\}}"
+Geometric_algebra_346,{\displaystyle i\mapsto -e_{2}e_{3}}
+Geometric_algebra_347,{\displaystyle j\mapsto -e_{3}e_{1}}
+Geometric_algebra_348,{\displaystyle k\mapsto -e_{1}e_{2}}
+Geometric_algebra_349,"{\displaystyle {\mathcal {G}}(3,0)}"
+Geometric_algebra_350,"{\displaystyle {\begin{aligned}e_{1}=\sigma _{1}=\sigma _{x}&={\begin{pmatrix}0&1\\1&0\end{pmatrix}}\\e_{2}=\sigma _{2}=\sigma _{y}&={\begin{pmatrix}0&-i\\i&0\end{pmatrix}}\\e_{3}=\sigma _{3}=\sigma _{z}&={\begin{pmatrix}1&0\\0&-1\end{pmatrix}}\,.\end{aligned}}}"
+Geometric_algebra_351,{\displaystyle \sigma =\sigma _{1}e_{1}+\sigma _{2}e_{2}+\sigma _{3}e_{3}}
+Geometric_algebra_352,{\displaystyle a}
+Geometric_algebra_353,{\displaystyle b}
+Geometric_algebra_354,{\displaystyle (\sigma \cdot a)(\sigma \cdot b)=a\cdot b+a\wedge b}
+Geometric_algebra_355,{\displaystyle a\cdot b+i\sigma \cdot (a\times b)}
+Geometric_algebra_356,"{\displaystyle {\mathcal {G}}(1,3)}"
+Geometric_algebra_357,"{\displaystyle {\mathcal {G}}(3,0)}"
+Geometric_algebra_358,{\displaystyle (3+1)}
+Geometric_algebra_359,{\displaystyle {F}=({E}+ic{B})\gamma _{0}}
+Geometric_algebra_360,{\displaystyle i=\gamma _{0}\gamma _{1}\gamma _{2}\gamma _{3}}
+Geometric_algebra_361,{\displaystyle \gamma _{0}}
+Geometric_algebra_362,{\displaystyle E}
+Geometric_algebra_363,{\displaystyle B}
+Geometric_algebra_364,{\displaystyle {J}}
+Geometric_algebra_365,{\displaystyle DF=\mu _{0}J}
+Geometric_algebra_366,{\displaystyle D\wedge F=0}
+Geometric_algebra_367,{\displaystyle D~\rfloor ~F=\mu _{0}J}
+Geometric_algebra_368,{\displaystyle F=D\wedge A}
+Geometric_algebra_369,{\displaystyle D~\rfloor ~(D\wedge A)=\mu _{0}J}
+Geometric_algebra_370,{\displaystyle F=DA}
+Geometric_algebra_371,{\displaystyle D~\rfloor ~A=0}
+Geometric_algebra_372,{\displaystyle D^{2}A=\mu _{0}J}
+Geometric_algebra_373,{\displaystyle DF}
+Geometric_algebra_374,{\displaystyle DF=D~\rfloor ~F+D\wedge F}
+Geometric_algebra_375,{\displaystyle D}
+Geometric_algebra_376,{\displaystyle \nabla }
+Geometric_algebra_377,{\displaystyle \bigtriangledown }
+Geometric_algebra_378,{\displaystyle 4}
+Geometric_algebra_379,{\displaystyle \nabla }
+Geometric_algebra_380,{\displaystyle 3}
+Geometric_algebra_381,{\displaystyle \Box =\bigtriangledown ^{2}}
+Geometric_algebra_382,{\displaystyle \gamma _{0}}
+Geometric_algebra_383,{\displaystyle \gamma _{0}\cdot \bigtriangledown ={\frac {1}{c}}{\frac {\partial }{\partial t}}}
+Geometric_algebra_384,{\displaystyle \gamma _{0}\wedge \bigtriangledown =\nabla }
+Geometric_algebra_385,{\displaystyle e^{\beta }}
+Geometric_algebra_386,{\displaystyle {\beta }}
+Geometric_algebra_387,"{\displaystyle {\mathcal {G}}(1,3)}"
+Geometric_algebra_388,{\displaystyle n}
+Geometric_algebra_389,{\displaystyle n(n-1)/2}
+Geometric_algebra_390,{\displaystyle 3}
+Geometric_algebra_391,{\displaystyle n=3}
+Geometric_algebra_392,{\displaystyle 6}
+Geometric_algebra_393,{\displaystyle n=4}
+Geometric_algebra_394,{\displaystyle n+1}
+Geometric_algebra_396,{\displaystyle n}
+Geometric_algebra_397,"{\displaystyle {\mathcal {G}}(3,0,1)}"
+Geometric_algebra_398,"{\displaystyle {\mathcal {G}}(3,0,1)}"
+Geometric_algebra_399,{\displaystyle {\boldsymbol {e}}_{12}}
+Geometric_algebra_400,{\displaystyle {\boldsymbol {e}}_{03}}
+Geometric_algebra_401,{\displaystyle {\boldsymbol {e}}_{0}}
+Geometric_algebra_402,{\displaystyle {\boldsymbol {e}}_{3}}
+Geometric_algebra_403,{\displaystyle {\boldsymbol {e}}_{12}}
+Geometric_algebra_404,{\displaystyle {\boldsymbol {e}}_{03}}
+Geometric_algebra_405,{\displaystyle {\boldsymbol {e}}_{12}}
+Geometric_algebra_406,{\displaystyle {\boldsymbol {e}}_{0}}
+Geometric_algebra_407,{\displaystyle {\boldsymbol {e}}_{3}}
+Geometric_algebra_408,{\displaystyle {\mathcal {E}}^{3}}
+Geometric_algebra_409,"{\displaystyle {\mathcal {G}}(4,1)}"
+Geometric_algebra_410,{\displaystyle e_{+}}
+Geometric_algebra_411,{\displaystyle e_{-}}
+Geometric_algebra_412,{\displaystyle e_{+}^{2}=+1}
+Geometric_algebra_413,{\displaystyle e_{-}^{2}=-1}
+Geometric_algebra_414,"{\displaystyle {\mathcal {G}}(3,0)}"
+Geometric_algebra_415,{\displaystyle n_{\infty }=e_{-}+e_{+}}
+Geometric_algebra_416,{\displaystyle n_{\text{o}}={\tfrac {1}{2}}(e_{-}-e_{+})}
+Geometric_algebra_417,{\displaystyle n_{\infty }\cdot n_{\text{o}}=-1.}
+Geometric_algebra_418,{\displaystyle \mathbf {R} ^{3}}
+Geometric_algebra_419,"{\displaystyle \mathbf {R} ^{4,1}}"
+Geometric_algebra_420,{\displaystyle p}
+Geometric_algebra_421,{\displaystyle q}
+Geometric_algebra_422,"{\displaystyle {\mathcal {G}}(3,1,0)}"
+Geometric_algebra_423,"{\displaystyle {\mathcal {G}}(1,3,0)}"
+Geometric_algebra_424,"{\displaystyle {\mathcal {G}}(3,0,0)}"
+Geometric_algebra_425,{\displaystyle \mathrm {SO} (3)}
+Geometric_algebra_426,"{\displaystyle {\mathcal {G}}(3,0,1)}"
+Geometric_algebra_427,{\displaystyle \mathrm {SE} (3)}
+Geometric_algebra_428,"{\displaystyle \mathrm {SO} (3,0,1)}"
+Geometric_algebra_429,"{\displaystyle {\mathcal {G}}(3,1,0)}"
+Geometric_algebra_430,"{\displaystyle \mathrm {SO} (3,1)}"
+Geometric_algebra_431,"{\displaystyle {\mathcal {G}}(3,1,1)}"
+Geometric_algebra_432,"{\displaystyle {\mathcal {G}}(4,1,0)}"
+Geometric_algebra_433,"{\displaystyle \mathrm {SO} (4,1)}"
+Geometric_algebra_434,"{\displaystyle {\mathcal {G}}(4,2,0)}"
+Geometric_algebra_435,"{\displaystyle {\mathcal {G}}(3,3,0)}"
+Geometric_algebra_436,"{\displaystyle {\mathcal {G}}(5,3,0)}"
+Geometric_algebra_437,"{\displaystyle {\mathcal {G}}(9,6,0)}"
+Geometric_algebra_438,"{\displaystyle {\mathcal {G}}(8,2,0)}"
+Geometric_algebra_439,{\displaystyle a\land b}
+Geometric_algebra_440,{\displaystyle c}
+Geometric_algebra_441,{\displaystyle c_{\Vert }}
+Geometric_algebra_442,{\displaystyle c_{\perp }}
+Geometric_algebra_443,{\displaystyle a}
+Geometric_algebra_444,{\displaystyle m}
+Geometric_algebra_445,"{\displaystyle a=amm^{-1}=(a\cdot m+a\wedge m)m^{-1}=a_{\|m}+a_{\perp m},}"
+Geometric_algebra_446,{\displaystyle a}
+Geometric_algebra_447,{\displaystyle m}
+Geometric_algebra_448,{\displaystyle a_{\|m}=(a\cdot m)m^{-1}}
+Geometric_algebra_449,{\displaystyle a}
+Geometric_algebra_450,{\displaystyle m}
+Geometric_algebra_451,{\displaystyle a_{\perp m}=a-a_{\|m}=(a\wedge m)m^{-1}.}
+Geometric_algebra_452,{\displaystyle k}
+Geometric_algebra_453,{\displaystyle B}
+Geometric_algebra_454,{\displaystyle V}
+Geometric_algebra_455,{\displaystyle k}
+Geometric_algebra_456,{\displaystyle B}
+Geometric_algebra_457,"{\displaystyle {\mathcal {P}}_{B}(A)=(A\;\rfloor \;B)\;\rfloor \;B^{-1},}"
+Geometric_algebra_458,{\displaystyle {\mathcal {P}}_{B}^{\perp }(A)=A-{\mathcal {P}}_{B}(A).}
+Geometric_algebra_459,{\displaystyle B}
+Geometric_algebra_460,{\displaystyle B^{-1}}
+Geometric_algebra_461,{\displaystyle B^{+}}
+Geometric_algebra_462,{\displaystyle B}
+Geometric_algebra_463,{\displaystyle B}
+Geometric_algebra_464,{\displaystyle A}
+Geometric_algebra_465,{\displaystyle B}
+Geometric_algebra_466,{\displaystyle B}
+Geometric_algebra_467,{\displaystyle c}
+Geometric_algebra_468,{\displaystyle m}
+Geometric_algebra_469,{\displaystyle c}
+Geometric_algebra_470,{\displaystyle m}
+Geometric_algebra_471,{\displaystyle c'}
+Geometric_algebra_472,{\displaystyle c}
+Geometric_algebra_473,{\displaystyle m}
+Geometric_algebra_474,{\displaystyle m}
+Geometric_algebra_475,{\displaystyle m}
+Geometric_algebra_476,{\displaystyle c'={-c_{\|m}+c_{\perp m}}={-(c\cdot m)m^{-1}+(c\wedge m)m^{-1}}={(-m\cdot c-m\wedge c)m^{-1}}=-mcm^{-1}}
+Geometric_algebra_477,{\displaystyle n\geq 4}
+Geometric_algebra_478,{\displaystyle a'}
+Geometric_algebra_479,{\displaystyle a}
+Geometric_algebra_480,"{\displaystyle a\mapsto a'=-MaM^{-1},}"
+Geometric_algebra_481,{\displaystyle M=pq\cdots r}
+Geometric_algebra_482,{\displaystyle M^{-1}=(pq\cdots r)^{-1}=r^{-1}\cdots q^{-1}p^{-1}.}
+Geometric_algebra_483,{\displaystyle m}
+Geometric_algebra_484,"{\displaystyle (abc)'=a'b'c'=(-mam^{-1})(-mbm^{-1})(-mcm^{-1})=-ma(m^{-1}m)b(m^{-1}m)cm^{-1}=-mabcm^{-1}\,}"
+Geometric_algebra_485,{\displaystyle (abcd)'=a'b'c'd'=(-mam^{-1})(-mbm^{-1})(-mcm^{-1})(-mdm^{-1})=mabcdm^{-1}.}
+Geometric_algebra_486,{\displaystyle A}
+Geometric_algebra_487,{\displaystyle M}
+Geometric_algebra_488,"{\displaystyle A\mapsto M\alpha (A)M^{-1},}"
+Geometric_algebra_489,{\displaystyle \alpha }
+Geometric_algebra_490,{\displaystyle v\mapsto -v}
+Geometric_algebra_491,{\displaystyle \theta }
+Geometric_algebra_492,{\displaystyle x\mapsto R_{\theta }x{\tilde {R}}_{\theta }}
+Geometric_algebra_493,{\displaystyle x}
+Geometric_algebra_494,{\displaystyle \theta }
+Geometric_algebra_495,{\displaystyle u}
+Geometric_algebra_496,{\displaystyle v}
+Geometric_algebra_497,{\displaystyle \theta /2}
+Geometric_algebra_498,{\displaystyle X}
+Geometric_algebra_499,{\displaystyle x}
+Geometric_algebra_500,{\displaystyle R=a_{1}a_{2}\cdots a_{r}}
+Geometric_algebra_501,{\displaystyle {\tilde {R}}=a_{r}\cdots a_{2}a_{1}.}
+Geometric_algebra_502,{\displaystyle R=ab}
+Geometric_algebra_503,{\displaystyle R{\tilde {R}}=abba=ab^{2}a=a^{2}b^{2}=ba^{2}b=baab={\tilde {R}}R.}
+Geometric_algebra_504,{\displaystyle R}
+Geometric_algebra_505,{\displaystyle R{\tilde {R}}=1}
+Geometric_algebra_506,{\displaystyle (Rv{\tilde {R}})^{2}=Rv^{2}{\tilde {R}}=v^{2}R{\tilde {R}}=v^{2}}
+Geometric_algebra_507,{\displaystyle Rv{\tilde {R}}}
+Geometric_algebra_508,{\displaystyle v}
+Geometric_algebra_509,{\displaystyle (Rv_{1}{\tilde {R}})\cdot (Rv_{2}{\tilde {R}})=v_{1}\cdot v_{2}}
+Geometric_algebra_510,{\displaystyle Rv{\tilde {R}}}
+Geometric_algebra_511,{\displaystyle R}
+Geometric_algebra_512,{\displaystyle R=e^{-B\theta /2}}
+Geometric_algebra_513,{\displaystyle \theta }
+Geometric_algebra_514,{\displaystyle 2}
+Geometric_algebra_515,{\displaystyle B}
+Geometric_algebra_516,{\displaystyle n}
+Geometric_algebra_517,{\displaystyle a}
+Geometric_algebra_518,{\displaystyle b}
+Geometric_algebra_519,{\displaystyle a\wedge b=((a\wedge b)b^{-1})b=a_{\perp b}b}
+Geometric_algebra_520,{\displaystyle a\wedge b}
+Geometric_algebra_521,{\displaystyle n}
+Geometric_algebra_522,"{\displaystyle a_{1},a_{2},\ldots ,a_{n}}"
+Geometric_algebra_523,{\displaystyle \textstyle \bigwedge _{i=1}^{n}a_{i}}
+Geometric_algebra_524,{\displaystyle n}
+Geometric_algebra_525,{\displaystyle n}
+Geometric_algebra_526,{\displaystyle p=t+\alpha \ v}
+Geometric_algebra_527,{\displaystyle p}
+Geometric_algebra_528,{\displaystyle t}
+Geometric_algebra_529,{\displaystyle v}
+Geometric_algebra_530,{\displaystyle B\wedge (p-q)=0}
+Geometric_algebra_531,{\displaystyle B\wedge (t+\alpha v-q)=0}
+Geometric_algebra_532,{\displaystyle \alpha ={\frac {B\wedge (q-t)}{B\wedge v}}}
+Geometric_algebra_533,{\displaystyle p=t+\left({\frac {B\wedge (q-t)}{B\wedge v}}\right)v.}
+Geometric_algebra_534,{\displaystyle {\hat {u}}}
+Geometric_algebra_535,{\displaystyle {\hat {v}}}
+Geometric_algebra_536,{\displaystyle \mathbf {r} =r({\hat {u}}\cos \theta +{\hat {v}}\sin \theta )=r{\hat {u}}(\cos \theta +{\hat {u}}{\hat {v}}\sin \theta )}
+Geometric_algebra_537,{\displaystyle {i}={\hat {u}}{\hat {v}}={\hat {u}}\wedge {\hat {v}}}
+Geometric_algebra_538,{\displaystyle i^{2}=-1}
+Geometric_algebra_539,{\displaystyle \mathbf {r} =r{\hat {u}}e^{i\theta }}
+Geometric_algebra_540,{\displaystyle {\frac {d\mathbf {r} }{d\theta }}=r{\hat {u}}ie^{i\theta }=\mathbf {r} i.}
+Geometric_algebra_541,{\displaystyle W}
+Geometric_algebra_542,{\displaystyle F}
+Geometric_algebra_543,{\displaystyle \tau ={\frac {dW}{d\theta }}=F\cdot {\frac {dr}{d\theta }}=F\cdot (\mathbf {r} i).}
+Geometric_algebra_544,{\displaystyle I}
+Geometric_algebra_545,{\displaystyle a\times b=-I(a\wedge b).}
+Geometric_algebra_546,{\displaystyle \tau =\mathbf {r} \times F}
+Geometric_algebra_547,{\displaystyle {\hat {u}}}
+Geometric_algebra_548,{\displaystyle {\hat {v}}}
+Geometric_algebra_549,"{\displaystyle \int _{A}dA\,\nabla f=\oint _{\partial A}dx\,f}"
+Geometric_algebra_550,{\displaystyle \nabla f=\nabla \cdot f+\nabla \wedge f}
+Geometric_algebra_551,{\displaystyle A}
+Geometric_algebra_552,{\displaystyle a}
+Geometric_algebra_553,{\displaystyle b}
+Geometric_algebra_554,"{\displaystyle \int _{A}dA\,\nabla f=\oint _{\partial A}dx\,f}"
+Geometric_algebra_555,"{\displaystyle \int _{a}^{b}dx\,\nabla f=\int _{a}^{b}dx\cdot \nabla f=\int _{a}^{b}df=f(b)-f(a)}"
+Geometric_algebra_556,{\displaystyle n}
+Geometric_algebra_557,{\displaystyle i}
+Geometric_algebra_558,{\displaystyle j}
+Geometric_algebra_559,{\displaystyle k}
+Geometric_algebra_560,{\displaystyle \mathbf {R} ^{3}}
+Geometric_algebra_561,{\displaystyle 1}
+Geometric_algebra_562,{\displaystyle V}
+Geometric_algebra_563,{\displaystyle F}
+Geometric_algebra_564,{\displaystyle 2^{\dim V}}
+Geometric_algebra_565,{\displaystyle u^{2}=1}
+Geometric_algebra_567,{\displaystyle ={\tfrac {1}{4}}(1+2u+uu)}
+Geometric_algebra_568,{\displaystyle ={\tfrac {1}{4}}(1+2u+1)}
+Geometric_algebra_569,{\displaystyle ={\tfrac {1}{2}}(1+u)}
+Geometric_algebra_571,{\displaystyle {\tfrac {1}{2}}(1+u)(1-u)}
+Geometric_algebra_572,{\displaystyle ={\tfrac {1}{2}}(1-uu)}
+Geometric_algebra_573,{\displaystyle ={\tfrac {1}{2}}(1-1)=0}
+Geometric_algebra_574,{\displaystyle \mathrm {Z} }
+Geometric_algebra_575,{\displaystyle k}
+Geometric_algebra_576,{\displaystyle k}
+Geometric_algebra_577,"{\displaystyle \textstyle C\bullet _{\text{H}}D:=\sum _{r\neq 0,s\neq 0}\langle \langle C\rangle _{r}\langle D\rangle _{s}\rangle _{\vert s-r\vert }}"
+Geometric_algebra_578,{\displaystyle {\underline {\mathsf {f}}}(1)=1}
+Geometric_algebra_579,{\displaystyle A}
+Geometric_algebra_580,{\displaystyle B}
+Geometric_algebra_581,{\displaystyle B^{+}}
+Geometric_algebra_582,{\displaystyle B\;\rfloor \;B^{+}=1}
+Geometric_algebra_583,{\displaystyle B^{+}=B^{\dagger }/(B\;\rfloor \;B^{\dagger })}
+Geometric_algebra_584,{\displaystyle B^{\dagger }}
+Geometric_algebra_585,{\displaystyle B}
+Geometric_algebra_586,{\displaystyle B}
+Geometric_algebra_587,{\displaystyle {\mathcal {P}}_{B}(A)=(A\;\rfloor \;B^{+})\;\rfloor \;B}
+Geometric_algebra_588,{\displaystyle (A\;\rfloor \;B)\;\rfloor \;B^{+}}
+Geometric_algebra_589,{\displaystyle B}
+Geometric_algebra_590,{\displaystyle A}
+Geometric_algebra_591,"{\displaystyle \mathbb {R} ^{3,3}}"

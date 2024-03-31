@@ -1,0 +1,12 @@
+name,latex
+Point_(geometry)_0,"{\displaystyle L=\lbrace (a_{1},a_{2},...a_{n})\mid a_{1}c_{1}+a_{2}c_{2}+...a_{n}c_{n}=d\rbrace ,}"
+Point_(geometry)_1,{\displaystyle 1\cdot \mathbf {0} =\mathbf {0} }
+Point_(geometry)_2,{\displaystyle X}
+Point_(geometry)_3,{\displaystyle {\mathcal {A}}}
+Point_(geometry)_4,{\displaystyle X}
+Point_(geometry)_5,{\displaystyle {\mathcal {B}}}
+Point_(geometry)_6,{\displaystyle X}
+Point_(geometry)_7,{\displaystyle {\mathcal {A}}}
+Point_(geometry)_8,"{\displaystyle \{B(x_{i},r_{i}):i\in I\}}"
+Point_(geometry)_9,{\displaystyle \sum _{i\in I}r_{i}^{d}<\delta .}
+Point_(geometry)_10,{\displaystyle \operatorname {dim} _{\operatorname {H} }(X):=\inf\{d\geq 0:C_{H}^{d}(X)=0\}.}

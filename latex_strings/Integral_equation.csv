@@ -1,0 +1,133 @@
+name,latex
+Integral_equation_0,"{\displaystyle f(x_{1},x_{2},x_{3},...,x_{n};u(x_{1},x_{2},x_{3},...,x_{n});I^{1}(u),I^{2}(u),I^{3}(u),...,I^{m}(u))=0}"
+Integral_equation_1,{\displaystyle I^{i}(u)}
+Integral_equation_2,"{\displaystyle f(x_{1},x_{2},x_{3},...,x_{n};u(x_{1},x_{2},x_{3},...,x_{n});D^{1}(u),D^{2}(u),D^{3}(u),...,D^{m}(u))=0}"
+Integral_equation_3,{\displaystyle D^{i}(u)}
+Integral_equation_4,"{\displaystyle u(x)=f(x)+\lambda \int _{\alpha (x)}^{\beta (x)}K(x,t)\cdot u(t)dt}"
+Integral_equation_5,"{\displaystyle u^{2}(x),\,\,cos(u(x)),\,{\text{or }}\,e^{u(x)}}"
+Integral_equation_6,"{\displaystyle u(x)=f(x)+\int _{\alpha (x)}^{\beta (x)}K(x,t)\cdot u^{2}(t)dt}"
+Integral_equation_7,"{\displaystyle u(x)=f(x)+\lambda \int _{a}^{x}K(x,t)\,F(x,t,u(t))\,dt,}"
+Integral_equation_8,"{\displaystyle f(x)=F(x,\int _{a}^{b}K(x,y,f(x),f(y))\,dy)}"
+Integral_equation_9,"{\displaystyle f(x)=g(x)+\int _{a}^{b}K(x,y,f(x),f(y))\,dy}"
+Integral_equation_10,"{\displaystyle f(x)=g(x)+\int _{a}^{b}k(x,y,f(y))\,dy}"
+Integral_equation_11,"{\displaystyle f(x)=g(x)+\int _{a}^{b}k(x,y)\,G(y,f(y))\,dy}"
+Integral_equation_12,"{\displaystyle f(x)=\int _{a}^{b}K(x,t)\,u(t)\,dt}"
+Integral_equation_13,"{\displaystyle g(t)u(t)+\lambda \int _{a}^{b}K(t,x)u(x)\,dx=f(t)}"
+Integral_equation_14,{\displaystyle \mathbb {R} ^{n}}
+Integral_equation_15,"{\displaystyle f(x)=\int _{a}^{b}K(x,t)\,u(t)\,dt}"
+Integral_equation_16,"{\displaystyle u(x)=f(x)+\lambda \int _{a}^{b}K(x,t)\,u(t)\,dt.}"
+Integral_equation_17,"{\displaystyle ({\mathcal {F}}y)(t):=\int _{t_{0}}^{T}K(t,s)\,y(s)\,ds.}"
+Integral_equation_18,{\displaystyle y(t)=g(t)+\lambda ({\mathcal {F}}y)(t).}
+Integral_equation_19,"{\displaystyle f(x)=\int _{a}^{x}K(x,t)\,u(t)\,dt}"
+Integral_equation_20,"{\displaystyle u(x)=f(x)+\lambda \int _{a}^{x}K(x,t)\,u(t)\,dt.}"
+Integral_equation_21,{\displaystyle {\mathcal {V}}:C(I)\to C(I)}
+Integral_equation_22,"{\displaystyle ({\mathcal {V}}\phi )(t):=\int _{t_{0}}^{t}K(t,s)\,\phi (s)\,ds}"
+Integral_equation_23,"{\displaystyle t\in I=[t_{0},T]}"
+Integral_equation_24,"{\displaystyle D:=\{(t,s):0\leq s\leq t\leq T\leq \infty \}}"
+Integral_equation_25,{\displaystyle ({\mathcal {V}}y)(t)=g(t)}
+Integral_equation_26,{\displaystyle g(0)=0}
+Integral_equation_27,{\displaystyle y(t)}
+Integral_equation_28,{\displaystyle g(t)}
+Integral_equation_29,{\displaystyle I}
+Integral_equation_30,{\displaystyle t\in I}
+Integral_equation_31,{\displaystyle y(t)=g(t)+({\mathcal {V}}y)(t).}
+Integral_equation_32,"{\displaystyle u(t,x)=g(t,x)+({\mathcal {T}}u)(t,x)}"
+Integral_equation_33,{\displaystyle x\in \Omega }
+Integral_equation_34,{\displaystyle \Omega }
+Integral_equation_35,{\displaystyle \mathbb {R} ^{d}}
+Integral_equation_36,{\displaystyle {\mathcal {T}}:C(I\times \Omega )\to C(I\times \Omega )}
+Integral_equation_37,"{\displaystyle ({\mathcal {T}}u)(t,x):=\int _{0}^{t}\int _{\Omega }K(t,s,x,\xi )\,G(u(s,\xi ))\,d\xi \,ds.}"
+Integral_equation_38,"{\displaystyle [a,b]=I}"
+Integral_equation_39,{\displaystyle f}
+Integral_equation_40,{\displaystyle f}
+Integral_equation_41,"{\displaystyle F(\lambda )=\int _{-\infty }^{\infty }e^{-i\lambda x}u(x)\,dx}"
+Integral_equation_42,"{\displaystyle L[u(x)]=\int _{0}^{\infty }e^{-\lambda x}u(x)\,dx}"
+Integral_equation_43,"{\displaystyle K(x,t)=e^{-i\lambda x}}"
+Integral_equation_44,"{\displaystyle K(x,t)=e^{-\lambda x}}"
+Integral_equation_45,"{\displaystyle x^{2}=\int _{0}^{x}{\frac {1}{\sqrt {x-t}}}\,u(t)\,dt.}"
+Integral_equation_46,"{\displaystyle g(x)=\int _{a}^{x}{\frac {f(y)}{\sqrt {x-y}}}\,dy}"
+Integral_equation_47,"{\displaystyle y'(t)=f(t,y(t))+(V_{\alpha }y)(t)}"
+Integral_equation_48,"{\displaystyle ({\mathcal {W}}_{\theta ,\alpha }y)}"
+Integral_equation_49,"{\displaystyle ({\mathcal {W}}_{\theta ,\alpha }y)(t):=\int _{\theta (t)}^{t}(t-s)^{-\alpha }\cdot k_{2}(t,s,y(s),y'(s))\,ds}"
+Integral_equation_50,"{\displaystyle y'(t)=f(t,y(t),y(\theta (t)))+({\mathcal {W}}_{\theta ,\alpha }y)(t).}"
+Integral_equation_51,{\displaystyle ({\mathcal {V}}y)(t)=g(t)}
+Integral_equation_52,{\displaystyle {\mathcal {V}}:C(I)\to C(I)}
+Integral_equation_53,"{\displaystyle ({\mathcal {V}}\phi )(t):=\int _{t_{0}}^{t}K(t,s)\,\phi (s)\,ds}"
+Integral_equation_54,"{\displaystyle t\in I=[t_{0},T]}"
+Integral_equation_55,"{\displaystyle D:=\{(t,s):0\leq s\leq t\leq T\leq \infty \}}"
+Integral_equation_56,{\displaystyle K}
+Integral_equation_57,"{\displaystyle K\in C(D),\,\partial K/\partial t\in C(D)}"
+Integral_equation_58,"{\displaystyle \vert K(t,t)\vert \geq k_{0}>0}"
+Integral_equation_59,{\displaystyle t\in I.}
+Integral_equation_60,{\displaystyle g\in C^{1}(I)}
+Integral_equation_61,{\displaystyle g(0)=0}
+Integral_equation_62,{\displaystyle y\in C(I)}
+Integral_equation_63,{\displaystyle y(t)=g(t)+({\mathcal {V}}y)(t)}
+Integral_equation_64,{\displaystyle K\in C(D)}
+Integral_equation_65,{\displaystyle R}
+Integral_equation_66,{\displaystyle K}
+Integral_equation_67,{\displaystyle g\in C(I)}
+Integral_equation_68,{\displaystyle y\in C(I)}
+Integral_equation_69,"{\displaystyle y(t)=g(t)+\int _{0}^{t}R(t,s)\,g(s)\,ds}"
+Integral_equation_70,"{\displaystyle u(t,x)=g(t,x)+\int _{0}^{x}\int _{0}^{y}K(x,\xi ,y,\eta )\,u(\xi ,\eta )\,d\eta \,d\xi }"
+Integral_equation_71,"{\displaystyle (x,y)\in \Omega :=[0,X]\times [0,Y]}"
+Integral_equation_72,{\displaystyle g\in C(\Omega )}
+Integral_equation_73,{\displaystyle K\in C(D_{2})}
+Integral_equation_74,"{\displaystyle D_{2}:=\{(x,\xi ,y,\eta ):0\leq \xi \leq x\leq X,0\leq \eta \leq y\leq Y\}}"
+Integral_equation_75,{\displaystyle u\in C(\Omega )}
+Integral_equation_76,"{\displaystyle u(t,x)=g(t,x)+\int _{0}^{x}\int _{0}^{y}R(x,\xi ,y,\eta )\,g(\xi ,\eta )\,d\eta \,d\xi }"
+Integral_equation_77,{\displaystyle R}
+Integral_equation_78,"{\displaystyle u(t,x)=g(t,x)+({\mathcal {T}}u)(t,x)}"
+Integral_equation_79,{\displaystyle x\in \Omega }
+Integral_equation_80,{\displaystyle \Omega }
+Integral_equation_81,{\displaystyle \mathbb {R} ^{d}}
+Integral_equation_82,{\displaystyle {\mathcal {T}}:C(I\times \Omega )\to C(I\times \Omega )}
+Integral_equation_83,"{\displaystyle ({\mathcal {T}}u)(t,x):=\int _{0}^{t}\int _{\Omega }K(t,s,x,\xi )\,G(u(s,\xi ))\,d\xi \,ds.}"
+Integral_equation_84,"{\displaystyle K(t,s,x,\xi )=k(t-s)H(x,\xi )}"
+Integral_equation_85,"{\displaystyle u(t,x)=g(t,x)+\int _{0}^{t}\int _{\Omega }K(t,s,x,\xi )\,G(u(s,\xi ))\,d\xi \,ds}"
+Integral_equation_86,"{\displaystyle (t,x)\in I\times \Omega }"
+Integral_equation_87,{\displaystyle g\in C(I\times \Omega )}
+Integral_equation_88,{\displaystyle K\in C(D\times \Omega ^{2})}
+Integral_equation_89,"{\displaystyle D:=\{(t,s):0\leq s\leq t\leq T\}}"
+Integral_equation_90,{\displaystyle \Omega ^{2}=\Omega \times \Omega }
+Integral_equation_91,{\displaystyle u\in C(I\times \Omega )}
+Integral_equation_92,"{\displaystyle u(t,x)=g(t,x)+\int _{0}^{t}\int _{\Omega }R(t,s,x,\xi )\,G(u(s,\xi ))\,d\xi \,ds}"
+Integral_equation_93,{\displaystyle R\in C(D\times \Omega ^{2})}
+Integral_equation_94,{\displaystyle K}
+Integral_equation_95,"{\displaystyle R(t,s,x,\xi )=K(t,s,x,\xi )+\int _{0}^{t}\int _{\Omega }K(t,v,x,z)R(v,s,z,\xi )\,dz\,dv=K(t,s,x,\xi )+\int _{0}^{t}\int _{\Omega }R(t,v,x,z)K(v,s,z,\xi )\,dz\,dv}"
+Integral_equation_96,{\displaystyle y(t)=g(t)+(V_{\alpha }y)(t)}
+Integral_equation_97,"{\displaystyle t\in I=[t_{0},T]}"
+Integral_equation_98,{\displaystyle I}
+Integral_equation_99,{\displaystyle (V_{\alpha }t)}
+Integral_equation_100,"{\displaystyle (V_{\alpha }t)(t):=\int _{t_{0}}^{t}(t-s)^{-\alpha }\cdot k(t,s,y(s))\,ds}"
+Integral_equation_101,{\displaystyle (0\leq \alpha <1)}
+Integral_equation_102,"{\displaystyle u'(t)=2tu(t),\,\,\,\,\,\,\,x\geq 0}"
+Integral_equation_103,{\displaystyle u(0)=1}
+Integral_equation_104,{\displaystyle \int _{0}^{x}u'(t)dt=\int _{0}^{x}2tu(t)dt}
+Integral_equation_105,{\displaystyle u(x)-u(0)=\int _{0}^{x}2tu(t)dt}
+Integral_equation_106,{\displaystyle u(x)=1+\int _{0}^{x}2tu(t)dt}
+Integral_equation_107,"{\displaystyle u(x)=f(x)+\int _{\alpha (x)}^{\beta (x)}K(x,t)\cdot u(t)dt}"
+Integral_equation_108,"{\displaystyle g(s)=s\int _{0}^{\infty }K(st)\,f(t)\,dt}"
+Integral_equation_109,{\displaystyle f(t)=\sum _{n=0}^{\infty }{\frac {a_{n}}{M(n+1)}}t^{n}}
+Integral_equation_110,"{\displaystyle g(s)=\sum _{n=0}^{\infty }a_{n}s^{-n},\qquad M(n+1)=\int _{0}^{\infty }K(t)\,t^{n}\,dt}"
+Integral_equation_111,"{\displaystyle \sum _{j=1}^{n}w_{j}K\left(s_{i},t_{j}\right)u(t_{j})=f(s_{i}),\qquad i=0,1,\dots ,n.}"
+Integral_equation_112,"{\displaystyle u(t_{0}),u(t_{1}),\dots ,u(t_{n}).}"
+Integral_equation_113,"{\displaystyle \sum _{j}M_{i,j}v_{j}=\lambda v_{i}}"
+Integral_equation_114,"{\displaystyle \int K(x,y)\,\varphi (y)\,dy=\lambda \,\varphi (x),}"
+Integral_equation_115,"{\displaystyle y(t)=\lambda x(t)+\int _{0}^{\infty }k(t-s)\,x(s)\,ds,\qquad 0\leq t<\infty .}"
+Integral_equation_116,"{\displaystyle g(t)=\int _{0}^{t}K(t,s)\,G(s,y(s))\,ds.}"
+Integral_equation_117,"{\displaystyle G(t,y(t))=g_{1}(t)-\int _{0}^{t}K_{1}(t,s)\,G(s,y(s))\,ds}"
+Integral_equation_118,"{\displaystyle g_{1}(t):={\frac {g'(t)}{K(t,t)}}\,\,\,\,\,\,\,{\text{and}}\,\,\,\,\,\,\,K_{1}(t,s):=-{\frac {1}{K(t,t)}}{\frac {\partial K(t,s)}{\partial t}}.}"
+Integral_equation_119,"{\displaystyle ({\mathcal {H}}y)(t):=\int _{0}^{t}K(t,s)\,G(s,y(s))\,ds}"
+Integral_equation_120,{\displaystyle G:I\times \mathbb {R} \to \mathbb {R} }
+Integral_equation_121,{\displaystyle y(t)=g(t)+({\mathcal {H}}y)(t)}
+Integral_equation_122,"{\displaystyle G(s,y)=y+H(s,y)}"
+Integral_equation_123,"{\displaystyle y(t)=g(t)+({\mathcal {H}}y)(t)=g(t)+\int _{0}^{t}K(t,s)[y(s)+H(s,y(s))]\,ds}"
+Integral_equation_124,{\displaystyle y\in C(I)}
+Integral_equation_125,{\displaystyle H:I\times \mathbb {R} \to \mathbb {R} }
+Integral_equation_126,"{\displaystyle y(t)=y_{l}(t)+\int _{0}^{t}R(t,s)\,H(s,y(s))\,ds}"
+Integral_equation_127,{\displaystyle y_{l}(t)}
+Integral_equation_128,"{\displaystyle y_{l}(t)=g(t)+\int _{0}^{t}R(t,s)\,g(s)\,ds}"
+Integral_equation_129,"{\displaystyle R(t,s)}"
+Integral_equation_130,{\displaystyle {\mathcal {N}}}
+Integral_equation_131,"{\displaystyle ({\mathcal {N}}\phi )(t):=G(t,\phi (t))}"

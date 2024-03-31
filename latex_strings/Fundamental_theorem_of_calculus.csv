@@ -1,0 +1,107 @@
+name,latex
+Fundamental_theorem_of_calculus_0,"{\displaystyle \int _{a}^{b}f'(t)\,dt=f(b)-f(a)}"
+Fundamental_theorem_of_calculus_1,{\displaystyle y=f(x)}
+Fundamental_theorem_of_calculus_2,{\displaystyle x\mapsto A(x)}
+Fundamental_theorem_of_calculus_3,{\displaystyle A(x+h)-A(x)\approx f(x)\cdot h}
+Fundamental_theorem_of_calculus_4,{\displaystyle A(x+h)-A(x)=f(x)\cdot h+{\text{ (Excess)}}}
+Fundamental_theorem_of_calculus_5,{\displaystyle f(x)={\frac {A(x+h)-A(x)}{h}}-{\frac {\text{Excess}}{h}}.}
+Fundamental_theorem_of_calculus_6,"{\displaystyle |{\text{Excess}}|\leq h\,(f(x{+}h_{1})-f(x{+}h_{2})),}"
+Fundamental_theorem_of_calculus_7,{\displaystyle x+h_{1}}
+Fundamental_theorem_of_calculus_8,{\displaystyle x+h_{2}}
+Fundamental_theorem_of_calculus_9,"{\displaystyle \left|f(x)-{\frac {A(x+h)-A(x)}{h}}\right|={\frac {|{\text{Excess}}|}{h}}\leq {\frac {h(f(x+h_{1})-f(x+h_{2}))}{h}}=f(x{+}h_{1})-f(x{+}h_{2}),}"
+Fundamental_theorem_of_calculus_10,{\displaystyle f(x)=\lim _{h\to 0}{\frac {A(x+h)-A(x)}{h}}\ {\stackrel {\text{def}}{=}}\ A'(x).}
+Fundamental_theorem_of_calculus_11,{\displaystyle {\tfrac {1}{3600}}}
+Fundamental_theorem_of_calculus_12,{\displaystyle {\text{distance traveled}}=\sum \left({\begin{array}{c}{\text{velocity at}}\\{\text{each time}}\end{array}}\right)\times \left({\begin{array}{c}{\text{time}}\\{\text{interval}}\end{array}}\right)=\sum v(t)\times \Delta t.}
+Fundamental_theorem_of_calculus_13,{\displaystyle \Delta t}
+Fundamental_theorem_of_calculus_14,"{\displaystyle F(x)=\int _{a}^{x}f(t)\,dt.}"
+Fundamental_theorem_of_calculus_15,{\displaystyle F'(x)=f(x)}
+Fundamental_theorem_of_calculus_16,{\displaystyle f}
+Fundamental_theorem_of_calculus_17,{\displaystyle F}
+Fundamental_theorem_of_calculus_18,{\displaystyle f}
+Fundamental_theorem_of_calculus_19,"{\displaystyle [a,b]}"
+Fundamental_theorem_of_calculus_20,{\displaystyle F}
+Fundamental_theorem_of_calculus_21,{\displaystyle f}
+Fundamental_theorem_of_calculus_22,"{\displaystyle [a,b]}"
+Fundamental_theorem_of_calculus_23,"{\displaystyle \int _{a}^{b}f(t)\,dt=F(b)-F(a).}"
+Fundamental_theorem_of_calculus_24,{\displaystyle f}
+Fundamental_theorem_of_calculus_25,"{\displaystyle [a,b]}"
+Fundamental_theorem_of_calculus_26,{\displaystyle F}
+Fundamental_theorem_of_calculus_27,"{\displaystyle [a,b]}"
+Fundamental_theorem_of_calculus_28,{\displaystyle f}
+Fundamental_theorem_of_calculus_29,"{\displaystyle (a,b)}"
+Fundamental_theorem_of_calculus_30,{\displaystyle F'(x)=f(x).}
+Fundamental_theorem_of_calculus_31,{\displaystyle f}
+Fundamental_theorem_of_calculus_32,"{\displaystyle [a,b]}"
+Fundamental_theorem_of_calculus_33,"{\displaystyle \int _{a}^{b}f(x)\,dx=F(b)-F(a).}"
+Fundamental_theorem_of_calculus_34,{\displaystyle f}
+Fundamental_theorem_of_calculus_35,{\displaystyle F}
+Fundamental_theorem_of_calculus_36,{\displaystyle f}
+Fundamental_theorem_of_calculus_37,{\displaystyle f}
+Fundamental_theorem_of_calculus_38,{\displaystyle F}
+Fundamental_theorem_of_calculus_39,{\displaystyle f}
+Fundamental_theorem_of_calculus_40,{\displaystyle f}
+Fundamental_theorem_of_calculus_41,"{\displaystyle F(x)=\int _{a}^{x}f(t)\,dt.}"
+Fundamental_theorem_of_calculus_42,"{\displaystyle {\begin{aligned}F(x_{1}+\Delta x)-F(x_{1})&=\int _{a}^{x_{1}+\Delta x}f(t)\,dt-\int _{a}^{x_{1}}f(t)\,dt\\&=\int _{x_{1}}^{x_{1}+\Delta x}f(t)\,dt,\end{aligned}}}"
+Fundamental_theorem_of_calculus_43,"{\displaystyle c\in [x_{1},x_{1}+\Delta x]}"
+Fundamental_theorem_of_calculus_44,"{\displaystyle \int _{x_{1}}^{x_{1}+\Delta x}f(t)\,dt=f(c)\cdot \Delta x.}"
+Fundamental_theorem_of_calculus_45,"{\displaystyle F(x_{1}+\Delta x)-F(x_{1})=f(c)\cdot \Delta x,}"
+Fundamental_theorem_of_calculus_46,{\displaystyle {\frac {F(x_{1}+\Delta x)-F(x_{1})}{\Delta x}}=f(c).}
+Fundamental_theorem_of_calculus_47,"{\displaystyle \Delta x\to 0,}"
+Fundamental_theorem_of_calculus_48,"{\displaystyle c\in [x_{1},x_{1}+\Delta x],}"
+Fundamental_theorem_of_calculus_49,"{\displaystyle \lim _{\Delta x\to 0}{\frac {F(x_{1}+\Delta x)-F(x_{1})}{\Delta x}}=\lim _{\Delta x\to 0}f(c),}"
+Fundamental_theorem_of_calculus_50,"{\displaystyle F'(x_{1})=f(x_{1}),}"
+Fundamental_theorem_of_calculus_51,"{\displaystyle G(x)=\int _{a}^{x}f(t)\,dt.}"
+Fundamental_theorem_of_calculus_52,"{\displaystyle F(a)+c=G(a)=\int _{a}^{a}f(t)\,dt=0,}"
+Fundamental_theorem_of_calculus_53,"{\displaystyle \int _{a}^{b}f(x)\,dx=G(b)=F(b)-F(a).}"
+Fundamental_theorem_of_calculus_54,{\displaystyle F'(c)(b-a)=F(b)-F(a).}
+Fundamental_theorem_of_calculus_55,{\displaystyle a=x_{0}<x_{1}<x_{2}<\cdots <x_{n-1}<x_{n}=b.}
+Fundamental_theorem_of_calculus_56,{\displaystyle F(b)-F(a)=F(x_{n})-F(x_{0}).}
+Fundamental_theorem_of_calculus_57,{\displaystyle {\begin{aligned}F(b)-F(a)&=F(x_{n})+[-F(x_{n-1})+F(x_{n-1})]+\cdots +[-F(x_{1})+F(x_{1})]-F(x_{0})\\&=[F(x_{n})-F(x_{n-1})]+[F(x_{n-1})-F(x_{n-2})]+\cdots +[F(x_{2})-F(x_{1})]+[F(x_{1})-F(x_{0})].\end{aligned}}}
+Fundamental_theorem_of_calculus_58,{\displaystyle F(b)-F(a)=\sum _{i=1}^{n}[F(x_{i})-F(x_{i-1})].}
+Fundamental_theorem_of_calculus_59,{\displaystyle c_{i}}
+Fundamental_theorem_of_calculus_60,{\displaystyle F(x_{i})-F(x_{i-1})=F'(c_{i})(x_{i}-x_{i-1}).}
+Fundamental_theorem_of_calculus_61,{\displaystyle F(b)-F(a)=\sum _{i=1}^{n}[F'(c_{i})(x_{i}-x_{i-1})].}
+Fundamental_theorem_of_calculus_62,{\displaystyle F'(c_{i})=f(c_{i}).}
+Fundamental_theorem_of_calculus_63,{\displaystyle x_{i}-x_{i-1}}
+Fundamental_theorem_of_calculus_64,{\displaystyle \Delta x}
+Fundamental_theorem_of_calculus_65,{\displaystyle i}
+Fundamental_theorem_of_calculus_66,{\displaystyle F(b)-F(a)=\sum _{i=1}^{n}[f(c_{i})(\Delta x_{i})].}
+Fundamental_theorem_of_calculus_67,{\displaystyle \Delta x_{i}}
+Fundamental_theorem_of_calculus_68,{\displaystyle \lim _{\|\Delta x_{i}\|\to 0}F(b)-F(a)=\lim _{\|\Delta x_{i}\|\to 0}\sum _{i=1}^{n}[f(c_{i})(\Delta x_{i})].}
+Fundamental_theorem_of_calculus_69,{\displaystyle \|\Delta x_{i}\|}
+Fundamental_theorem_of_calculus_70,{\displaystyle F(b)-F(a)=\lim _{\|\Delta x_{i}\|\to 0}\sum _{i=1}^{n}[f(c_{i})(\Delta x_{i})].}
+Fundamental_theorem_of_calculus_71,"{\displaystyle F(b)-F(a)=\int _{a}^{b}f(x)\,dx,}"
+Fundamental_theorem_of_calculus_74,"{\displaystyle G(x)=\int _{0}^{x}f(t)\,dt}"
+Fundamental_theorem_of_calculus_75,"{\displaystyle \int _{2}^{5}x^{2}\,dx.}"
+Fundamental_theorem_of_calculus_76,{\displaystyle f(x)=x^{2}}
+Fundamental_theorem_of_calculus_78,"{\displaystyle \int _{2}^{5}x^{2}\,dx=F(5)-F(2)={\frac {5^{3}}{3}}-{\frac {2^{3}}{3}}={\frac {125}{3}}-{\frac {8}{3}}={\frac {117}{3}}=39.}"
+Fundamental_theorem_of_calculus_79,"{\displaystyle {\frac {d}{dx}}\int _{0}^{x}t^{3}\,dt}"
+Fundamental_theorem_of_calculus_80,{\displaystyle f(t)=t^{3}}
+Fundamental_theorem_of_calculus_81,"{\displaystyle {\frac {d}{dx}}\int _{0}^{x}t^{3}\,dt=f(x)=x^{3}.}"
+Fundamental_theorem_of_calculus_83,{\displaystyle f(t)}
+Fundamental_theorem_of_calculus_84,"{\displaystyle {\frac {d}{dx}}\int _{0}^{x}t^{3}\,dt={\frac {d}{dx}}F(x)-{\frac {d}{dx}}F(0)={\frac {d}{dx}}{\frac {x^{4}}{4}}=x^{3}.}"
+Fundamental_theorem_of_calculus_85,{\displaystyle f(x)={\begin{cases}\sin \left({\frac {1}{x}}\right)-{\frac {1}{x}}\cos \left({\frac {1}{x}}\right)&x\neq 0\\0&x=0\\\end{cases}}}
+Fundamental_theorem_of_calculus_86,{\displaystyle f(x)}
+Fundamental_theorem_of_calculus_87,{\displaystyle f}
+Fundamental_theorem_of_calculus_88,{\displaystyle x\to 0}
+Fundamental_theorem_of_calculus_89,{\displaystyle f(x)}
+Fundamental_theorem_of_calculus_90,"{\displaystyle \int _{0}^{1}f(x)\,dx.}"
+Fundamental_theorem_of_calculus_91,{\displaystyle F(x)={\begin{cases}x\sin \left({\frac {1}{x}}\right)&x\neq 0\\0&x=0.\\\end{cases}}}
+Fundamental_theorem_of_calculus_92,{\displaystyle F(x)}
+Fundamental_theorem_of_calculus_93,"{\displaystyle [0,1]}"
+Fundamental_theorem_of_calculus_94,{\displaystyle F(x)}
+Fundamental_theorem_of_calculus_95,"{\displaystyle (0,1)}"
+Fundamental_theorem_of_calculus_96,{\displaystyle F'(x)=f(x).}
+Fundamental_theorem_of_calculus_97,"{\displaystyle \int _{0}^{1}f(x)\,dx=F(1)-F(0)=\sin(1).}"
+Fundamental_theorem_of_calculus_98,{\displaystyle \int _{a}^{b}f(x)dx=\int _{a}^{c}f(x)dx+\int _{c}^{b}f(x)dx.}
+Fundamental_theorem_of_calculus_99,"{\displaystyle {\begin{aligned}\int _{a}^{b}f(x)dx&=F(b)-F(a),\\\int _{a}^{c}f(x)dx&=F(c)-F(a),{\text{ and }}\\\int _{c}^{b}f(x)dx&=F(b)-F(c),\end{aligned}}}"
+Fundamental_theorem_of_calculus_100,{\displaystyle F(b)-F(a)=F(c)-F(a)+F(b)-F(c).}
+Fundamental_theorem_of_calculus_101,"{\displaystyle F(x)=\int _{a}^{x}f(t)\,dt}"
+Fundamental_theorem_of_calculus_102,"{\displaystyle F(b)-F(a)=\int _{a}^{b}f(t)\,dt.}"
+Fundamental_theorem_of_calculus_103,"{\displaystyle \int _{\gamma }f(z)\,dz=F(\gamma (b))-F(\gamma (a)).}"
+Fundamental_theorem_of_calculus_104,{\displaystyle \omega }
+Fundamental_theorem_of_calculus_105,{\displaystyle \int _{M}d\omega =\int _{\partial M}\omega .}
+Fundamental_theorem_of_calculus_106,{\displaystyle \omega }
+Fundamental_theorem_of_calculus_107,"{\displaystyle \int _{a}^{b}f(x)\,dx}"
+Fundamental_theorem_of_calculus_108,"{\displaystyle {\frac {dy}{dx}}=f(x),\;\;y(a)=0}"
+Fundamental_theorem_of_calculus_109,{\displaystyle y(b)}

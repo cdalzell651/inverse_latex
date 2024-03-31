@@ -1,0 +1,14 @@
+name,latex
+Parameter_0,{\displaystyle f(x)=ax^{2}+bx+c}
+Parameter_1,{\displaystyle \log _{b}(x)={\frac {\log(x)}{\log(b)}}}
+Parameter_2,{\displaystyle \textstyle \log _{b}'(x)=(x\ln(b))^{-1}}
+Parameter_3,{\displaystyle n^{\underline {k}}=n(n-1)(n-2)\cdots (n-k+1)}
+Parameter_4,"{\displaystyle (n,k)\mapsto n^{\underline {k}}}"
+Parameter_5,{\displaystyle x^{2}+y^{2}=1.}
+Parameter_6,"{\displaystyle t\mapsto (\cos t,\sin t)}"
+Parameter_7,"{\displaystyle t\in [0,2\pi ).}"
+Parameter_8,"{\displaystyle (x,y)=(\cos t,\sin t).}"
+Parameter_9,"{\displaystyle F(t)=\int _{x_{0}(t)}^{x_{1}(t)}f(x;t)\,dx.}"
+Parameter_10,{\displaystyle {\overline {X}}}
+Parameter_11,{\displaystyle f(k;\lambda )={\frac {e^{-\lambda }\lambda ^{k}}{k!}}.}
+Parameter_12,{\displaystyle f(k_{1};\lambda )}

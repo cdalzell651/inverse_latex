@@ -1,0 +1,13 @@
+name,latex
+Even_number_0,{\displaystyle x=2k}
+Even_number_1,{\displaystyle x=2k+1.}
+Even_number_2,{\displaystyle 2\ |\ x}
+Even_number_3,{\displaystyle 2\not |\ x}
+Even_number_4,{\displaystyle \{2k:k\in \mathbb {Z} \}}
+Even_number_5,{\displaystyle \{2k+1:k\in \mathbb {Z} \}}
+Even_number_6,{\displaystyle \mathbb {Z} }
+Even_number_7,{\displaystyle \mathbb {Z} /2\mathbb {Z} }
+Even_number_8,{\displaystyle \mathbb {Z} }
+Even_number_9,{\displaystyle \mathbb {Z} /2\mathbb {Z} }
+Even_number_10,{\displaystyle 0+I}
+Even_number_11,{\displaystyle 1+I}

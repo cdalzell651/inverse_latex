@@ -1,0 +1,12 @@
+name,latex
+Inverse_square_law_0,"{\displaystyle {\text{intensity}}\ \propto \ {\frac {1}{{\text{distance}}^{2}}}\,}"
+Inverse_square_law_1,{\displaystyle {\frac {{\text{intensity}}_{1}}{{\text{intensity}}_{2}}}={\frac {{\text{distance}}_{2}^{2}}{{\text{distance}}_{1}^{2}}}}
+Inverse_square_law_2,{\displaystyle {\text{intensity}}_{1}\times {\text{distance}}_{1}^{2}={\text{intensity}}_{2}\times {\text{distance}}_{2}^{2}}
+Inverse_square_law_3,{\displaystyle F=k_{\text{e}}{\frac {q_{1}q_{2}}{r^{2}}}}
+Inverse_square_law_4,"{\displaystyle I={\frac {P}{A}}={\frac {P}{4\pi r^{2}}}.\,}"
+Inverse_square_law_5,"{\displaystyle p\ \propto \ {\frac {1}{r}}\,}"
+Inverse_square_law_6,"{\displaystyle v\,}"
+Inverse_square_law_7,"{\displaystyle p\,}"
+Inverse_square_law_8,"{\displaystyle v\ \propto {\frac {1}{r}}\ \,}"
+Inverse_square_law_9,"{\displaystyle I\ =\ pv\ \propto \ {\frac {1}{r^{2}}}.\,}"
+Inverse_square_law_10,"{\displaystyle I\propto {\frac {1}{r^{n-1}}},}"

@@ -1,0 +1,7 @@
+name,latex
+Graph_isomorphism_0,{\displaystyle f\colon V(G)\to V(H)}
+Graph_isomorphism_1,{\displaystyle f(u)}
+Graph_isomorphism_2,{\displaystyle f(v)}
+Graph_isomorphism_3,{\displaystyle G\simeq H}
+Graph_isomorphism_4,{\displaystyle K_{2}}
+Graph_isomorphism_5,{\displaystyle \sum _{v\in V(G)}v\cdot {\text{deg }}v}

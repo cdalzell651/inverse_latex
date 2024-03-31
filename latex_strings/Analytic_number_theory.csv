@@ -1,0 +1,33 @@
+name,latex
+Analytic_number_theory_0,"{\displaystyle \lim _{x\to \infty }{\frac {\pi (x)}{x/\ln(x)}}=1,}"
+Analytic_number_theory_1,{\displaystyle a(=\infty ){\frac {a}{\ln a}}}
+Analytic_number_theory_2,{\displaystyle a(=\infty ){\frac {a}{\ln a}}}
+Analytic_number_theory_3,{\displaystyle \mathbb {Z} [i]}
+Analytic_number_theory_4,{\displaystyle p_{n+1}-p_{n}\geq o(\log p_{n}).}
+Analytic_number_theory_5,"{\displaystyle \int _{2}^{N}{\frac {1}{\log t}}\,dt.}"
+Analytic_number_theory_6,"{\displaystyle \pi (x)=({\text{number of primes }}\leq x),}"
+Analytic_number_theory_7,{\displaystyle \lim _{x\to \infty }{\frac {\pi (x)}{x/\log x}}=1.}
+Analytic_number_theory_8,"{\displaystyle \pi (x,a,q)=({\text{number of primes }}\leq x{\text{ such that }}p{\text{ is in the arithmetic progression }}a+nq,n\in \mathbf {Z} ),}"
+Analytic_number_theory_9,"{\displaystyle \lim _{x\to \infty }{\frac {\pi (x,a,q)\phi (q)}{x/\log x}}=1.}"
+Analytic_number_theory_10,{\displaystyle n=x_{1}^{k}+\cdots +x_{\ell }^{k}.}
+Analytic_number_theory_11,{\displaystyle G(k)\leq k(3\log k+11).}
+Analytic_number_theory_12,{\displaystyle x^{2}+y^{2}\leq r^{2}.}
+Analytic_number_theory_13,{\displaystyle \pi r^{2}+E(r)}
+Analytic_number_theory_14,{\displaystyle E(r)/r^{2}\to 0}
+Analytic_number_theory_15,{\displaystyle r\to \infty }
+Analytic_number_theory_16,{\displaystyle E(r)=O(r)}
+Analytic_number_theory_17,{\displaystyle O(r^{\delta })}
+Analytic_number_theory_18,{\displaystyle \delta <1}
+Analytic_number_theory_19,{\displaystyle E(r)=O(r^{2/3})}
+Analytic_number_theory_20,{\displaystyle E(r)=O(r^{1/2})}
+Analytic_number_theory_21,{\displaystyle \epsilon >0}
+Analytic_number_theory_22,{\displaystyle C(\epsilon )}
+Analytic_number_theory_23,{\displaystyle E(r)\leq C(\epsilon )r^{1/2+\epsilon }}
+Analytic_number_theory_24,{\displaystyle E(r)=O(r^{131/208})}
+Analytic_number_theory_25,{\displaystyle f(s)=\sum _{n=1}^{\infty }a_{n}n^{-s}.}
+Analytic_number_theory_26,{\displaystyle a_{n}}
+Analytic_number_theory_27,{\displaystyle \left(\sum _{n=1}^{\infty }a_{n}n^{-s}\right)\left(\sum _{n=1}^{\infty }b_{n}n^{-s}\right)=\sum _{n=1}^{\infty }\left(\sum _{k\ell =n}a_{k}b_{\ell }\right)n^{-s};}
+Analytic_number_theory_28,{\displaystyle \sum _{n=1}^{\infty }{\frac {1}{n^{s}}}=\prod _{p}^{\infty }{\frac {1}{1-p^{-s}}}{\text{ for }}s>1}
+Analytic_number_theory_29,{\displaystyle \Re (s)=1/2}
+Analytic_number_theory_30,{\displaystyle O(x^{1/2+\varepsilon })}
+Analytic_number_theory_31,{\displaystyle \Re (z)=1/2.}

@@ -1,0 +1,21 @@
+name,latex
+Calculus_0,"{\displaystyle \int _{a}^{b}f'(t)\,dt=f(b)-f(a)}"
+Calculus_1,{\displaystyle x\approx y}
+Calculus_2,{\displaystyle \sin(y)-\sin(x)\approx (y-x)\cos(y).}
+Calculus_3,{\displaystyle dx}
+Calculus_4,{\displaystyle dy}
+Calculus_5,{\displaystyle dy/dx}
+Calculus_6,{\displaystyle m={\frac {\text{rise}}{\text{run}}}={\frac {{\text{change in }}y}{{\text{change in }}x}}={\frac {\Delta y}{\Delta x}}.}
+Calculus_7,{\displaystyle m={\frac {f(a+h)-f(a)}{(a+h)-a}}={\frac {f(a+h)-f(a)}{h}}.}
+Calculus_8,{\displaystyle \lim _{h\to 0}{f(a+h)-f(a) \over {h}}.}
+Calculus_9,{\displaystyle {\begin{aligned}f'(3)&=\lim _{h\to 0}{(3+h)^{2}-3^{2} \over {h}}\\&=\lim _{h\to 0}{9+6h+h^{2}-9 \over {h}}\\&=\lim _{h\to 0}{6h+h^{2} \over {h}}\\&=\lim _{h\to 0}(6+h)\\&=6\end{aligned}}}
+Calculus_10,{\displaystyle {\begin{aligned}y&=x^{2}\\{\frac {dy}{dx}}&=2x.\end{aligned}}}
+Calculus_11,{\displaystyle {\frac {d}{dx}}(x^{2})=2x.}
+Calculus_12,{\displaystyle {\begin{aligned}g(t)&=t^{2}+2t+4\\{d \over dt}g(t)&=2t+2\end{aligned}}}
+Calculus_13,{\displaystyle \mathrm {Distance} =\mathrm {Speed} \cdot \mathrm {Time} }
+Calculus_14,{\displaystyle \int }
+Calculus_15,"{\displaystyle \int _{a}^{b}f(x)\,dx.}"
+Calculus_16,"{\displaystyle \int f(x)\,dx.}"
+Calculus_17,"{\displaystyle \int 2x\,dx=x^{2}+C.}"
+Calculus_18,"{\displaystyle \int _{a}^{b}f(x)\,dx=F(b)-F(a).}"
+Calculus_19,"{\displaystyle {\frac {d}{dx}}\int _{a}^{x}f(t)\,dt=f(x).}"

@@ -1,0 +1,16 @@
+name,latex
+Fluid_dynamics_0,{\displaystyle J=-D{\frac {d\varphi }{dx}}}
+Fluid_dynamics_1,{\displaystyle p={\frac {\rho R_{u}T}{M}}}
+Fluid_dynamics_2,"{\displaystyle {\frac {\partial }{\partial t}}\iiint _{V}\rho \,dV=-\,{}}"
+Fluid_dynamics_3,{\displaystyle {\scriptstyle S}}
+Fluid_dynamics_4,"{\displaystyle {}\,\rho \mathbf {u} \cdot d\mathbf {S} }"
+Fluid_dynamics_5,{\displaystyle \ {\frac {\partial \rho }{\partial t}}+\nabla \cdot (\rho \mathbf {u} )=0}
+Fluid_dynamics_6,"{\displaystyle {\frac {\partial }{\partial t}}\iiint _{\scriptstyle V}\rho \mathbf {u} \,dV=-\,{}}"
+Fluid_dynamics_7,{\displaystyle _{\scriptstyle S}}
+Fluid_dynamics_8,{\displaystyle (\rho \mathbf {u} \cdot d\mathbf {S} )\mathbf {u} -{}}
+Fluid_dynamics_9,{\displaystyle {\scriptstyle S}}
+Fluid_dynamics_10,"{\displaystyle {}\,p\,d\mathbf {S} }"
+Fluid_dynamics_11,"{\displaystyle \displaystyle {}+\iiint _{\scriptstyle V}\rho \mathbf {f} _{\text{body}}\,dV+\mathbf {F} _{\text{surf}}}"
+Fluid_dynamics_12,{\displaystyle \ {\frac {D\mathbf {u} }{Dt}}=\mathbf {F} -{\frac {\nabla p}{\rho }}}
+Fluid_dynamics_13,{\displaystyle \ \rho {\frac {Dh}{Dt}}={\frac {Dp}{Dt}}+\nabla \cdot \left(k\nabla T\right)+\Phi }
+Fluid_dynamics_14,"{\displaystyle {\frac {\mathrm {D} \rho }{\mathrm {D} t}}=0\,,}"

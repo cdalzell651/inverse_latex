@@ -1,0 +1,4 @@
+name,latex
+Thought_0,{\displaystyle \lnot (p\land \lnot p)}
+Thought_1,{\displaystyle p\lor \lnot p}
+Thought_2,{\displaystyle \forall x(x=x)}

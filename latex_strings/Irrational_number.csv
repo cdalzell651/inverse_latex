@@ -1,0 +1,56 @@
+name,latex
+Irrational_number_0,{\displaystyle {\frac {3\quad 1}{5\quad 3}}}
+Irrational_number_1,{\displaystyle \log _{2}3={\frac {m}{n}}.}
+Irrational_number_2,{\displaystyle 2^{m/n}=3}
+Irrational_number_3,{\displaystyle (2^{m/n})^{n}=3^{n}}
+Irrational_number_4,{\displaystyle 2^{m}=3^{n}.}
+Irrational_number_5,"{\displaystyle p(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\cdots +a_{1}x+a_{0}=0\;,}"
+Irrational_number_6,{\displaystyle a_{i}}
+Irrational_number_7,{\displaystyle a_{n}\neq 0}
+Irrational_number_8,"{\displaystyle A=0.7\,162\,162\,162\,\ldots }"
+Irrational_number_9,"{\displaystyle 10A=7.162\,162\,162\,\ldots }"
+Irrational_number_10,"{\displaystyle 10,000A=7\,162.162\,162\,\ldots }"
+Irrational_number_11,{\displaystyle 9990A=7155.}
+Irrational_number_12,{\displaystyle A={\frac {7155}{9990}}={\frac {53}{74}}}
+Irrational_number_13,{\displaystyle \left({\sqrt {2}}\right)^{\log _{\sqrt {2}}3}=3.}
+Irrational_number_14,{\displaystyle \log _{\sqrt {2}}3}
+Irrational_number_15,{\displaystyle \log _{\sqrt {2}}3={\frac {\log _{2}3}{\log _{2}{\sqrt {2}}}}={\frac {\log _{2}3}{1/2}}=2\log _{2}3}
+Irrational_number_16,{\displaystyle \log _{2}3=m/2n}
+Irrational_number_17,{\displaystyle 2^{\log _{2}3}=2^{m/2n}}
+Irrational_number_18,{\displaystyle 3=2^{m/2n}}
+Irrational_number_19,{\displaystyle 3^{2n}=2^{m}}
+Irrational_number_20,"{\displaystyle ((1/e)^{1/e},\infty )}"
+Irrational_number_21,{\displaystyle a^{a^{a}}}
+Irrational_number_22,{\displaystyle n^{n^{n}}}
+Irrational_number_23,{\displaystyle \pi +e}
+Irrational_number_24,{\displaystyle \pi -e}
+Irrational_number_25,"{\displaystyle m,n}"
+Irrational_number_26,{\displaystyle m\pi +ne}
+Irrational_number_27,"{\displaystyle \{\pi ,e\}}"
+Irrational_number_28,{\displaystyle \mathbb {Q} }
+Irrational_number_29,"{\displaystyle \pi e,\ \pi /e,\ \pi ^{e},\ \pi ^{\sqrt {2}},\ \ln \pi ,}"
+Irrational_number_30,{\displaystyle \gamma }
+Irrational_number_31,{\displaystyle ^{n}\pi }
+Irrational_number_32,{\displaystyle ^{n}e}
+Irrational_number_33,{\displaystyle n>1.}
+Irrational_number_34,{\displaystyle r}
+Irrational_number_35,{\displaystyle \vert r-q\vert }
+Irrational_number_36,{\displaystyle r}
+Irrational_number_37,{\displaystyle q}
+Irrational_number_38,"{\displaystyle d(x,y)=\vert x-y\vert }"
+Irrational_number_39,{\displaystyle :\;\mathbb {C} }
+Irrational_number_40,{\displaystyle :\;\mathbb {R} }
+Irrational_number_41,{\displaystyle :\;\mathbb {Q} }
+Irrational_number_42,{\displaystyle :\;\mathbb {Z} }
+Irrational_number_43,{\displaystyle :\;\mathbb {N} }
+Irrational_number_44,{\displaystyle \mathbb {N} }
+Irrational_number_45,{\displaystyle \mathbb {Z} }
+Irrational_number_46,{\displaystyle \mathbb {Q} }
+Irrational_number_47,{\displaystyle \mathbb {A} }
+Irrational_number_48,{\displaystyle \mathbb {R} }
+Irrational_number_49,{\displaystyle \mathbb {C} }
+Irrational_number_50,{\displaystyle \mathbb {H} }
+Irrational_number_51,{\displaystyle \mathbb {O} }
+Irrational_number_52,{\displaystyle \mathbb {R} }
+Irrational_number_53,{\displaystyle \mathbb {C} }
+Irrational_number_54,{\displaystyle \mathbb {S} }

@@ -1,0 +1,97 @@
+name,latex
+Spirograph_0,{\displaystyle C_{o}}
+Spirograph_1,{\displaystyle R}
+Spirograph_2,{\displaystyle C_{i}}
+Spirograph_3,{\displaystyle r<R}
+Spirograph_4,{\displaystyle C_{o}}
+Spirograph_5,{\displaystyle C_{i}}
+Spirograph_6,{\displaystyle C_{o}}
+Spirograph_7,{\displaystyle A}
+Spirograph_8,{\displaystyle C_{i}}
+Spirograph_9,{\displaystyle \rho <r}
+Spirograph_10,{\displaystyle C_{i}}
+Spirograph_11,{\displaystyle A}
+Spirograph_12,{\displaystyle A}
+Spirograph_13,{\displaystyle X}
+Spirograph_14,{\displaystyle A}
+Spirograph_15,{\displaystyle T}
+Spirograph_16,{\displaystyle C_{o}}
+Spirograph_17,{\displaystyle B}
+Spirograph_18,{\displaystyle C_{i}}
+Spirograph_19,{\displaystyle T}
+Spirograph_20,{\displaystyle B}
+Spirograph_21,{\displaystyle C_{i}}
+Spirograph_22,{\displaystyle T}
+Spirograph_23,{\displaystyle C_{i}}
+Spirograph_24,{\displaystyle C_{o}}
+Spirograph_25,{\displaystyle C_{i}}
+Spirograph_26,{\displaystyle B}
+Spirograph_27,{\displaystyle C_{i}}
+Spirograph_28,{\displaystyle T}
+Spirograph_29,{\displaystyle C_{o}}
+Spirograph_30,"{\displaystyle (X',Y')}"
+Spirograph_31,{\displaystyle C_{i}}
+Spirograph_32,{\displaystyle X}
+Spirograph_33,{\displaystyle Y}
+Spirograph_34,{\displaystyle t}
+Spirograph_35,{\displaystyle T}
+Spirograph_36,{\displaystyle C_{o}}
+Spirograph_37,{\displaystyle t'}
+Spirograph_38,{\displaystyle C_{i}}
+Spirograph_39,{\displaystyle B}
+Spirograph_40,{\displaystyle B}
+Spirograph_41,{\displaystyle T}
+Spirograph_42,"{\displaystyle tR=(t-t')r,}"
+Spirograph_43,{\displaystyle t'=-{\frac {R-r}{r}}t.}
+Spirograph_44,{\displaystyle t'<0}
+Spirograph_45,"{\displaystyle (x_{c},y_{c})}"
+Spirograph_46,{\displaystyle C_{i}}
+Spirograph_47,{\displaystyle R-r}
+Spirograph_48,{\displaystyle C_{i}}
+Spirograph_49,"{\displaystyle {\begin{aligned}x_{c}&=(R-r)\cos t,\\y_{c}&=(R-r)\sin t.\end{aligned}}}"
+Spirograph_50,{\displaystyle t'}
+Spirograph_51,{\displaystyle A}
+Spirograph_52,"{\displaystyle (x',y')}"
+Spirograph_53,"{\displaystyle {\begin{aligned}x'&=\rho \cos t',\\y'&=\rho \sin t'.\end{aligned}}}"
+Spirograph_54,{\displaystyle A}
+Spirograph_55,"{\displaystyle {\begin{aligned}x&=x_{c}+x'=(R-r)\cos t+\rho \cos t',\\y&=y_{c}+y'=(R-r)\sin t+\rho \sin t',\\\end{aligned}}}"
+Spirograph_56,{\displaystyle \rho }
+Spirograph_57,{\displaystyle t}
+Spirograph_58,{\displaystyle t'}
+Spirograph_59,{\displaystyle A}
+Spirograph_60,{\displaystyle t}
+Spirograph_61,"{\displaystyle {\begin{aligned}x&=x_{c}+x'=(R-r)\cos t+\rho \cos {\frac {R-r}{r}}t,\\y&=y_{c}+y'=(R-r)\sin t-\rho \sin {\frac {R-r}{r}}t\\\end{aligned}}}"
+Spirograph_62,{\displaystyle \sin }
+Spirograph_63,{\displaystyle R}
+Spirograph_64,{\displaystyle C_{o}}
+Spirograph_65,{\displaystyle l={\frac {\rho }{r}}}
+Spirograph_66,{\displaystyle k={\frac {r}{R}}.}
+Spirograph_67,{\displaystyle 0\leq l\leq 1}
+Spirograph_68,{\displaystyle A}
+Spirograph_69,{\displaystyle C_{i}}
+Spirograph_70,{\displaystyle 0\leq k\leq 1}
+Spirograph_71,{\displaystyle C_{i}}
+Spirograph_72,{\displaystyle C_{o}}
+Spirograph_73,"{\displaystyle {\frac {\rho }{R}}=lk,}"
+Spirograph_74,"{\displaystyle {\begin{aligned}x(t)&=R\left[(1-k)\cos t+lk\cos {\frac {1-k}{k}}t\right],\\y(t)&=R\left[(1-k)\sin t-lk\sin {\frac {1-k}{k}}t\right].\\\end{aligned}}}"
+Spirograph_75,{\displaystyle R}
+Spirograph_76,{\displaystyle R}
+Spirograph_77,{\displaystyle k=0}
+Spirograph_78,{\displaystyle k=1}
+Spirograph_79,{\displaystyle k=0}
+Spirograph_80,{\displaystyle R}
+Spirograph_81,{\displaystyle C_{i}}
+Spirograph_82,{\displaystyle k=0}
+Spirograph_83,{\displaystyle \sin }
+Spirograph_84,{\displaystyle \cos }
+Spirograph_85,{\displaystyle k=1}
+Spirograph_86,{\displaystyle C_{i}}
+Spirograph_87,{\displaystyle r}
+Spirograph_88,{\displaystyle R}
+Spirograph_89,{\displaystyle C_{o}}
+Spirograph_90,{\displaystyle r=R}
+Spirograph_91,{\displaystyle C_{i}}
+Spirograph_92,{\displaystyle C_{o}}
+Spirograph_93,{\displaystyle l=1}
+Spirograph_94,{\displaystyle A}
+Spirograph_95,{\displaystyle C_{i}}

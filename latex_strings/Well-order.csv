@@ -1,0 +1,30 @@
+name,latex
+Well-order_0,"{\displaystyle a,b}"
+Well-order_2,{\displaystyle {\begin{aligned}&aRb\\\Rightarrow {}&bRa\end{aligned}}}
+Well-order_3,{\displaystyle {\begin{aligned}aRb{\text{ and }}&bRa\\\Rightarrow a={}&b\end{aligned}}}
+Well-order_4,{\displaystyle {\begin{aligned}a\neq {}&b\Rightarrow \\aRb{\text{ or }}&bRa\end{aligned}}}
+Well-order_5,{\displaystyle {\begin{aligned}\min S\\{\text{exists}}\end{aligned}}}
+Well-order_6,{\displaystyle {\begin{aligned}a\vee b\\{\text{exists}}\end{aligned}}}
+Well-order_7,{\displaystyle {\begin{aligned}a\wedge b\\{\text{exists}}\end{aligned}}}
+Well-order_8,{\displaystyle aRa}
+Well-order_9,{\displaystyle {\text{not }}aRa}
+Well-order_10,{\displaystyle {\begin{aligned}aRb\Rightarrow \\{\text{not }}bRa\end{aligned}}}
+Well-order_11,{\displaystyle R}
+Well-order_12,"{\displaystyle a,b,c,}"
+Well-order_13,{\displaystyle aRb}
+Well-order_14,{\displaystyle bRc}
+Well-order_15,{\displaystyle aRc.}
+Well-order_17,{\displaystyle {\begin{matrix}0&1&2&3&4&\dots &-1&-2&-3&\dots \end{matrix}}}
+Well-order_18,{\displaystyle x\leq _{z}y}
+Well-order_19,{\displaystyle |x|<|y|\qquad {\text{or}}\qquad |x|=|y|{\text{ and }}x\leq y.}
+Well-order_20,{\displaystyle {\begin{matrix}0&-1&1&-2&2&-3&3&-4&4&\dots \end{matrix}}}
+Well-order_21,"{\displaystyle (0,1)\subseteq [0,1]}"
+Well-order_22,{\displaystyle \mathbb {R} }
+Well-order_23,"{\displaystyle A=\{(x,s(x))\,|\,x\in X\}}"
+Well-order_24,{\displaystyle \mathbb {Q} .}
+Well-order_25,{\displaystyle \mathbb {Q} }
+Well-order_26,"{\displaystyle \{1/n\,|\,n=1,2,3,\dots \}}"
+Well-order_27,"{\displaystyle \{-2^{-n}\,|\,0\leq n<\omega \}}"
+Well-order_28,"{\displaystyle \{-2^{-n}-2^{-m-n}\,|\,0\leq m,n<\omega \}}"
+Well-order_29,"{\displaystyle \{-2^{-n}\,|\,0\leq n<\omega \}\cup \{1\}}"
+Well-order_30,{\displaystyle \mathbb {N} .}

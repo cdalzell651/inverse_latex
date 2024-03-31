@@ -1,0 +1,305 @@
+name,latex
+Real_analysis_0,{\displaystyle \mathbb {R} }
+Real_analysis_1,{\displaystyle \mathbb {Q} }
+Real_analysis_2,{\displaystyle \mathbb {R} }
+Real_analysis_3,{\displaystyle <}
+Real_analysis_4,{\displaystyle d:\mathbb {R} \times \mathbb {R} \to \mathbb {R} _{\geq 0}}
+Real_analysis_5,"{\displaystyle d(x,y)=|x-y|}"
+Real_analysis_6,{\displaystyle d}
+Real_analysis_7,{\displaystyle <}
+Real_analysis_8,{\displaystyle \mathbb {R} }
+Real_analysis_9,{\displaystyle a:\mathbb {N} \to \mathbb {R} :n\mapsto a_{n}}
+Real_analysis_10,{\displaystyle a(n)=a_{n}}
+Real_analysis_11,"{\displaystyle (a_{n})=(a_{n})_{n\in \mathbb {N} }=(a_{1},a_{2},a_{3},\dots ).}"
+Real_analysis_13,{\displaystyle (a_{n})}
+Real_analysis_14,{\displaystyle M\in \mathbb {R} }
+Real_analysis_15,{\displaystyle |a_{n}|<M}
+Real_analysis_16,{\displaystyle n\in \mathbb {N} }
+Real_analysis_17,{\displaystyle (a_{n})}
+Real_analysis_18,{\displaystyle a_{1}\leq a_{2}\leq a_{3}\leq \cdots }
+Real_analysis_19,{\displaystyle a_{1}\geq a_{2}\geq a_{3}\geq \cdots }
+Real_analysis_20,{\displaystyle \leq }
+Real_analysis_21,{\displaystyle \geq }
+Real_analysis_22,{\displaystyle (a_{n})}
+Real_analysis_23,{\displaystyle (b_{k})}
+Real_analysis_24,{\displaystyle (a_{n})}
+Real_analysis_25,{\displaystyle b_{k}=a_{n_{k}}}
+Real_analysis_26,{\displaystyle k}
+Real_analysis_27,{\displaystyle (n_{k})}
+Real_analysis_28,{\displaystyle \pm \infty }
+Real_analysis_29,{\displaystyle f}
+Real_analysis_30,{\displaystyle E\subset \mathbb {R} }
+Real_analysis_31,{\displaystyle f(x)}
+Real_analysis_32,{\displaystyle L}
+Real_analysis_33,{\displaystyle x}
+Real_analysis_34,{\displaystyle x_{0}}
+Real_analysis_35,{\displaystyle f(x)}
+Real_analysis_36,{\displaystyle x}
+Real_analysis_37,{\displaystyle x_{0}}
+Real_analysis_38,{\displaystyle L}
+Real_analysis_39,{\displaystyle \varepsilon >0}
+Real_analysis_40,{\displaystyle \delta >0}
+Real_analysis_41,{\displaystyle x\in E}
+Real_analysis_42,{\displaystyle 0<|x-x_{0}|<\delta }
+Real_analysis_43,{\displaystyle |f(x)-L|<\varepsilon }
+Real_analysis_44,"{\displaystyle f(x)\to L\ \ {\text{as}}\ \ x\to x_{0},}"
+Real_analysis_45,{\displaystyle \lim _{x\to x_{0}}f(x)=L.}
+Real_analysis_46,{\displaystyle f(x)\to L}
+Real_analysis_47,{\displaystyle x\to x_{0}}
+Real_analysis_48,{\displaystyle \varepsilon }
+Real_analysis_49,{\displaystyle \delta }
+Real_analysis_50,{\displaystyle f(x)}
+Real_analysis_51,{\displaystyle L}
+Real_analysis_52,{\displaystyle \varepsilon }
+Real_analysis_53,{\displaystyle x}
+Real_analysis_54,{\displaystyle f}
+Real_analysis_55,{\displaystyle \delta }
+Real_analysis_56,{\displaystyle x_{0}}
+Real_analysis_57,{\displaystyle x_{0}}
+Real_analysis_58,{\displaystyle 0<|x-x_{0}|}
+Real_analysis_60,{\displaystyle f(x_{0})}
+Real_analysis_61,{\displaystyle x_{0}}
+Real_analysis_62,{\displaystyle f}
+Real_analysis_64,{\displaystyle (a_{n})}
+Real_analysis_65,{\displaystyle n}
+Real_analysis_66,{\displaystyle (a_{n})}
+Real_analysis_67,{\displaystyle (a_{n})}
+Real_analysis_68,{\displaystyle a}
+Real_analysis_69,{\displaystyle \varepsilon >0}
+Real_analysis_70,{\displaystyle N}
+Real_analysis_71,{\displaystyle n\geq N}
+Real_analysis_72,{\displaystyle |a-a_{n}|<\varepsilon }
+Real_analysis_73,"{\displaystyle a_{n}\to a\ \ {\text{as}}\ \ n\to \infty ,}"
+Real_analysis_74,{\displaystyle \lim _{n\to \infty }a_{n}=a;}
+Real_analysis_75,{\displaystyle (a_{n})}
+Real_analysis_76,{\displaystyle (a_{n})}
+Real_analysis_77,{\displaystyle (a_{n})}
+Real_analysis_78,{\displaystyle a_{n}}
+Real_analysis_79,{\displaystyle f}
+Real_analysis_80,{\displaystyle f(x)}
+Real_analysis_81,{\displaystyle N}
+Real_analysis_82,{\displaystyle n}
+Real_analysis_83,{\displaystyle M}
+Real_analysis_84,{\displaystyle x}
+Real_analysis_85,{\displaystyle f(x)}
+Real_analysis_86,{\displaystyle x}
+Real_analysis_88,{\displaystyle x\geq M}
+Real_analysis_89,{\displaystyle x\leq M}
+Real_analysis_90,{\displaystyle f(x)}
+Real_analysis_91,{\displaystyle x}
+Real_analysis_93,{\displaystyle (a_{n})}
+Real_analysis_94,{\displaystyle (a_{n})}
+Real_analysis_95,{\displaystyle \varepsilon >0}
+Real_analysis_96,{\displaystyle N}
+Real_analysis_97,"{\displaystyle m,n\geq N}"
+Real_analysis_98,{\displaystyle |a_{m}-a_{n}|<\varepsilon }
+Real_analysis_99,"{\displaystyle (\mathbb {R} ,|\cdot |)}"
+Real_analysis_100,{\displaystyle E\subset \mathbb {R} }
+Real_analysis_101,{\displaystyle f_{n}:E\to \mathbb {R} }
+Real_analysis_102,{\displaystyle (f_{n})_{n=1}^{\infty }}
+Real_analysis_103,{\displaystyle f_{n}}
+Real_analysis_104,{\displaystyle f:E\to \mathbb {R} }
+Real_analysis_105,{\displaystyle f_{n}\rightarrow f}
+Real_analysis_106,{\displaystyle x\in E}
+Real_analysis_107,{\displaystyle f_{n}(x)\to f(x)}
+Real_analysis_108,{\displaystyle n\to \infty }
+Real_analysis_109,{\displaystyle f_{n}}
+Real_analysis_110,{\displaystyle \varepsilon >0}
+Real_analysis_111,{\displaystyle f}
+Real_analysis_112,{\displaystyle x\in E}
+Real_analysis_113,{\displaystyle n\geq N}
+Real_analysis_114,{\displaystyle N}
+Real_analysis_116,{\displaystyle N}
+Real_analysis_117,{\displaystyle \varepsilon >0}
+Real_analysis_118,{\displaystyle N}
+Real_analysis_119,"{\displaystyle f_{N},f_{N+1},f_{N+2},\ldots }"
+Real_analysis_120,{\displaystyle 2\varepsilon }
+Real_analysis_121,{\displaystyle f}
+Real_analysis_122,{\displaystyle f-\varepsilon }
+Real_analysis_123,{\displaystyle f+\varepsilon }
+Real_analysis_124,{\displaystyle E}
+Real_analysis_125,{\displaystyle \mathbb {R} }
+Real_analysis_126,{\displaystyle \{1/n:n\in \mathbb {N} \}\cup \{0}\}
+Real_analysis_127,"{\displaystyle {\mathcal {C}}\subset [0,1]}"
+Real_analysis_128,{\displaystyle \{1/n:n\in \mathbb {N} \}}
+Real_analysis_129,"{\displaystyle [0,\infty )}"
+Real_analysis_130,{\displaystyle E\subset \mathbb {R} }
+Real_analysis_131,{\displaystyle \mathbb {R} ^{n}}
+Real_analysis_132,{\displaystyle E}
+Real_analysis_133,{\displaystyle E}
+Real_analysis_134,{\displaystyle \mathbb {R} }
+Real_analysis_135,{\displaystyle \mathbb {R} }
+Real_analysis_136,{\displaystyle U_{\alpha }}
+Real_analysis_137,{\displaystyle X}
+Real_analysis_138,{\displaystyle X}
+Real_analysis_139,{\displaystyle U_{\alpha }}
+Real_analysis_140,{\displaystyle X}
+Real_analysis_141,{\displaystyle X}
+Real_analysis_142,{\displaystyle X}
+Real_analysis_143,{\displaystyle f:I\to \mathbb {R} }
+Real_analysis_144,{\displaystyle I}
+Real_analysis_145,{\displaystyle I=\mathbb {R} }
+Real_analysis_146,"{\displaystyle I=(a,b)=\{x\in \mathbb {R} \mid a<x<b\},}"
+Real_analysis_147,"{\displaystyle I=[a,b]=\{x\in \mathbb {R} \mid a\leq x\leq b\}.}"
+Real_analysis_148,{\displaystyle a}
+Real_analysis_149,{\displaystyle b}
+Real_analysis_150,{\displaystyle I}
+Real_analysis_151,{\displaystyle I\subset \mathbb {R} }
+Real_analysis_152,{\displaystyle f:I\to \mathbb {R} }
+Real_analysis_153,{\displaystyle p\in I}
+Real_analysis_155,{\displaystyle f}
+Real_analysis_156,{\displaystyle f}
+Real_analysis_157,{\displaystyle p\in I}
+Real_analysis_158,{\displaystyle f}
+Real_analysis_159,{\displaystyle p}
+Real_analysis_160,{\displaystyle f}
+Real_analysis_161,{\displaystyle p}
+Real_analysis_163,{\displaystyle f}
+Real_analysis_164,{\displaystyle p}
+Real_analysis_165,{\displaystyle f}
+Real_analysis_166,{\displaystyle p}
+Real_analysis_167,{\displaystyle p}
+Real_analysis_168,{\displaystyle f}
+Real_analysis_169,{\displaystyle f(x)\to f(p)}
+Real_analysis_170,{\displaystyle x\to p}
+Real_analysis_171,{\displaystyle E}
+Real_analysis_172,{\displaystyle E}
+Real_analysis_173,{\displaystyle p\in E}
+Real_analysis_174,{\displaystyle E}
+Real_analysis_175,{\displaystyle f:X\to \mathbb {R} }
+Real_analysis_176,{\displaystyle X\subset \mathbb {R} }
+Real_analysis_177,{\displaystyle X}
+Real_analysis_178,{\displaystyle \mathbb {R} }
+Real_analysis_179,{\displaystyle f:X\to \mathbb {R} }
+Real_analysis_180,{\displaystyle p\in X}
+Real_analysis_181,{\displaystyle \varepsilon >0}
+Real_analysis_182,{\displaystyle \delta >0}
+Real_analysis_183,{\displaystyle x\in X}
+Real_analysis_184,{\displaystyle |x-p|<\delta }
+Real_analysis_185,{\displaystyle |f(x)-f(p)|<\varepsilon }
+Real_analysis_186,{\displaystyle f}
+Real_analysis_187,{\displaystyle f}
+Real_analysis_188,{\displaystyle p\in X}
+Real_analysis_189,{\displaystyle f}
+Real_analysis_190,{\displaystyle p\in X}
+Real_analysis_191,{\displaystyle \mathbb {R} }
+Real_analysis_192,{\displaystyle X}
+Real_analysis_193,{\displaystyle Y}
+Real_analysis_194,{\displaystyle f:X\to Y}
+Real_analysis_195,{\displaystyle p\in X}
+Real_analysis_196,{\displaystyle f^{-1}(V)}
+Real_analysis_197,{\displaystyle p}
+Real_analysis_198,{\displaystyle X}
+Real_analysis_199,{\displaystyle V}
+Real_analysis_200,{\displaystyle f(p)}
+Real_analysis_201,{\displaystyle Y}
+Real_analysis_202,{\displaystyle f}
+Real_analysis_203,{\displaystyle f^{-1}(U)}
+Real_analysis_204,{\displaystyle X}
+Real_analysis_205,{\displaystyle U}
+Real_analysis_206,{\displaystyle Y}
+Real_analysis_207,{\displaystyle f^{-1}(S)}
+Real_analysis_208,{\displaystyle S\subset Y}
+Real_analysis_209,{\displaystyle f}
+Real_analysis_210,{\displaystyle X}
+Real_analysis_211,{\displaystyle f:X\to \mathbb {R} }
+Real_analysis_212,{\displaystyle X}
+Real_analysis_213,{\displaystyle \varepsilon >0}
+Real_analysis_214,{\displaystyle \delta >0}
+Real_analysis_215,"{\displaystyle x,y\in X}"
+Real_analysis_216,{\displaystyle |x-y|<\delta }
+Real_analysis_217,{\displaystyle |f(x)-f(y)|<\varepsilon }
+Real_analysis_218,{\displaystyle X}
+Real_analysis_219,{\displaystyle \delta }
+Real_analysis_220,{\displaystyle X}
+Real_analysis_221,{\displaystyle \varepsilon }
+Real_analysis_222,{\displaystyle p\in X}
+Real_analysis_223,{\displaystyle X}
+Real_analysis_224,{\displaystyle \delta }
+Real_analysis_225,{\displaystyle \varepsilon }
+Real_analysis_226,{\displaystyle p}
+Real_analysis_227,{\displaystyle p}
+Real_analysis_228,{\displaystyle E}
+Real_analysis_229,{\displaystyle \mathbb {R} }
+Real_analysis_230,{\displaystyle f:E\to \mathbb {R} }
+Real_analysis_231,"{\displaystyle f:(0,1)\to \mathbb {R} }"
+Real_analysis_232,{\displaystyle f(x)=1/x}
+Real_analysis_233,{\displaystyle |f(x)-f(y)|>\varepsilon }
+Real_analysis_234,{\displaystyle \delta >0}
+Real_analysis_235,{\displaystyle \varepsilon >0}
+Real_analysis_236,{\displaystyle I\subset \mathbb {R} }
+Real_analysis_237,{\displaystyle f:I\to \mathbb {R} }
+Real_analysis_238,{\displaystyle I}
+Real_analysis_239,{\displaystyle \varepsilon }
+Real_analysis_240,{\displaystyle \delta }
+Real_analysis_241,"{\displaystyle (x_{1},y_{1}),(x_{2},y_{2}),\ldots ,(x_{n},y_{n})}"
+Real_analysis_242,{\displaystyle I}
+Real_analysis_243,{\displaystyle \sum _{k=1}^{n}(y_{k}-x_{k})<\delta }
+Real_analysis_244,{\displaystyle \sum _{k=1}^{n}|f(y_{k})-f(x_{k})|<\varepsilon .}
+Real_analysis_245,{\displaystyle a}
+Real_analysis_246,{\displaystyle a}
+Real_analysis_247,{\displaystyle f:\mathbb {R} \to \mathbb {R} }
+Real_analysis_248,{\displaystyle a}
+Real_analysis_249,{\displaystyle f'(a)=\lim _{h\to 0}{\frac {f(a+h)-f(a)}{h}}}
+Real_analysis_250,{\displaystyle f}
+Real_analysis_251,{\displaystyle a}
+Real_analysis_252,{\displaystyle f'}
+Real_analysis_253,{\displaystyle \mathbb {R} }
+Real_analysis_254,{\displaystyle f}
+Real_analysis_255,{\displaystyle f}
+Real_analysis_256,{\displaystyle a}
+Real_analysis_257,{\displaystyle C^{0}}
+Real_analysis_258,"{\displaystyle C^{0}([a,b])}"
+Real_analysis_259,{\displaystyle C^{1}}
+Real_analysis_260,{\displaystyle C^{1}}
+Real_analysis_261,{\displaystyle C^{0}}
+Real_analysis_262,{\displaystyle C^{k}}
+Real_analysis_263,{\displaystyle C^{0}}
+Real_analysis_264,{\displaystyle C^{k}}
+Real_analysis_265,{\displaystyle k}
+Real_analysis_266,{\displaystyle C^{k-1}}
+Real_analysis_267,{\displaystyle C^{k}}
+Real_analysis_268,{\displaystyle C^{k-1}}
+Real_analysis_269,{\displaystyle k}
+Real_analysis_270,{\displaystyle C^{\infty }}
+Real_analysis_271,{\displaystyle C^{k}}
+Real_analysis_272,{\displaystyle k}
+Real_analysis_273,{\displaystyle C^{\omega }}
+Real_analysis_274,{\displaystyle C^{\infty }}
+Real_analysis_275,{\displaystyle n}
+Real_analysis_276,{\displaystyle n}
+Real_analysis_277,{\displaystyle (a_{n})}
+Real_analysis_283,{\displaystyle (s_{n})}
+Real_analysis_285,{\displaystyle \sum _{n=1}^{\infty }{\frac {1}{2^{n}}}={\frac {1}{2}}+{\frac {1}{4}}+{\frac {1}{8}}+\cdots =1.}
+Real_analysis_286,{\displaystyle \sum _{n=1}^{\infty }{\frac {1}{n}}=1+{\frac {1}{2}}+{\frac {1}{3}}+\cdots =\infty .}
+Real_analysis_287,{\displaystyle =\infty }
+Real_analysis_292,{\displaystyle \sum _{n=1}^{\infty }{\frac {(-1)^{n-1}}{n}}=1-{\frac {1}{2}}+{\frac {1}{3}}-{\frac {1}{4}}+\cdots =\ln 2.}
+Real_analysis_293,{\displaystyle f(a)+{\frac {f'(a)}{1!}}(x-a)+{\frac {f''(a)}{2!}}(x-a)^{2}+{\frac {f^{(3)}(a)}{3!}}(x-a)^{3}+\cdots .}
+Real_analysis_294,"{\displaystyle \sum _{n=0}^{\infty }{\frac {f^{(n)}(a)}{n!}}\,(x-a)^{n}}"
+Real_analysis_295,{\displaystyle |x-a|<R}
+Real_analysis_296,"{\displaystyle [a,b]}"
+Real_analysis_297,{\displaystyle {\cal {P}}}
+Real_analysis_298,"{\displaystyle [a,b]}"
+Real_analysis_299,"{\displaystyle a=x_{0}\leq t_{1}\leq x_{1}\leq t_{2}\leq x_{2}\leq \cdots \leq x_{n-1}\leq t_{n}\leq x_{n}=b.\,\!}"
+Real_analysis_300,"{\displaystyle [a,b]}"
+Real_analysis_301,{\displaystyle n}
+Real_analysis_302,"{\displaystyle [x_{i-1},x_{i}]}"
+Real_analysis_303,"{\displaystyle i=1,\ldots ,n}"
+Real_analysis_304,"{\displaystyle t_{i}\in [x_{i-1},x_{i}]}"
+Real_analysis_305,{\displaystyle f}
+Real_analysis_306,"{\displaystyle [a,b]}"
+Real_analysis_307,{\displaystyle f}
+Real_analysis_308,{\displaystyle {\cal {P}}}
+Real_analysis_309,"{\displaystyle \sum _{i=1}^{n}f(t_{i})\Delta _{i},}"
+Real_analysis_310,{\displaystyle \Delta _{i}=x_{i}-x_{i-1}}
+Real_analysis_311,{\displaystyle i}
+Real_analysis_313,{\displaystyle f}
+Real_analysis_314,"{\displaystyle [a,b]}"
+Real_analysis_315,{\displaystyle S}
+Real_analysis_316,{\displaystyle \varepsilon >0}
+Real_analysis_317,{\displaystyle \delta >0}
+Real_analysis_318,{\displaystyle {\cal {P}}}
+Real_analysis_319,{\displaystyle \|\Delta _{i}\|<\delta }
+Real_analysis_320,{\displaystyle \left|S-\sum _{i=1}^{n}f(t_{i})\Delta _{i}\right|<\varepsilon .}
+Real_analysis_322,{\displaystyle \{a_{n}\}}
+Real_analysis_323,{\displaystyle \mathbb {R} ^{n}}

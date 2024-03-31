@@ -1,0 +1,14 @@
+name,latex
+Undirected_graph_0,"{\displaystyle \{v_{1},v_{2}\}}"
+Undirected_graph_1,"{\displaystyle \{u,v\}}"
+Undirected_graph_2,"{\displaystyle E\subseteq \{(x,y)\mid (x,y)\in V^{2}\;{\textrm {and}}\;x\neq y\}}"
+Undirected_graph_3,"{\displaystyle \phi :E\to \{(x,y)\mid (x,y)\in V^{2}\;{\textrm {and}}\;x\neq y\}}"
+Undirected_graph_4,{\displaystyle x}
+Undirected_graph_5,"{\displaystyle (x,x)}"
+Undirected_graph_6,"{\displaystyle \{(x,y)\mid (x,y)\in V^{2}\;{\textrm {and}}\;x\neq y\}}"
+Undirected_graph_7,{\displaystyle E}
+Undirected_graph_8,"{\displaystyle E\subseteq \{(x,y)\mid (x,y)\in V^{2}\}}"
+Undirected_graph_9,{\displaystyle \phi }
+Undirected_graph_10,"{\displaystyle \phi :E\to \{(x,y)\mid (x,y)\in V^{2}\}}"
+Undirected_graph_11,"{\displaystyle V=\{1,2,3,4,5,6\}}"
+Undirected_graph_12,"{\displaystyle E=\{\{1,2\},\{1,5\},\{2,3\},\{2,5\},\{3,4\},\{4,5\},\{4,6\}\}.}"

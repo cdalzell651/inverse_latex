@@ -1,0 +1,119 @@
+name,latex
+Ordinal_number_0,{\displaystyle f(\alpha )=\omega (1+\alpha )}
+Ordinal_number_1,{\displaystyle f}
+Ordinal_number_2,{\displaystyle \omega ^{\omega }}
+Ordinal_number_3,{\displaystyle \omega }
+Ordinal_number_4,{\displaystyle \omega +1}
+Ordinal_number_5,{\displaystyle \omega +2}
+Ordinal_number_6,{\displaystyle \omega }
+Ordinal_number_7,{\displaystyle \omega }
+Ordinal_number_8,{\displaystyle \omega }
+Ordinal_number_9,{\displaystyle \Omega }
+Ordinal_number_10,{\displaystyle a\mapsto T_{<a}}
+Ordinal_number_11,{\displaystyle T_{<a}:=\{x\in T\mid x<a\}}
+Ordinal_number_12,"{\displaystyle \lambda =[0,\lambda )}"
+Ordinal_number_13,{\displaystyle \alpha \cup \{\alpha \}}
+Ordinal_number_14,{\displaystyle \langle \alpha _{\iota }|\iota <\gamma \rangle }
+Ordinal_number_15,{\displaystyle \gamma }
+Ordinal_number_16,{\displaystyle \alpha _{\iota }<\alpha _{\rho }}
+Ordinal_number_17,"{\displaystyle \iota <\rho ,}"
+Ordinal_number_18,"{\displaystyle \{\alpha _{\iota }|\iota <\gamma \},}"
+Ordinal_number_19,{\displaystyle \alpha }
+Ordinal_number_20,{\displaystyle \alpha }
+Ordinal_number_21,{\displaystyle \alpha }
+Ordinal_number_22,{\displaystyle \gamma }
+Ordinal_number_23,{\displaystyle \gamma }
+Ordinal_number_24,{\displaystyle \beta <\gamma }
+Ordinal_number_25,{\displaystyle \beta }
+Ordinal_number_26,{\displaystyle \beta <\gamma }
+Ordinal_number_27,{\displaystyle \gamma }
+Ordinal_number_28,{\displaystyle \omega \cdot \gamma }
+Ordinal_number_29,{\displaystyle \gamma }
+Ordinal_number_30,{\displaystyle \omega ^{\gamma }}
+Ordinal_number_31,{\displaystyle \gamma }
+Ordinal_number_32,{\displaystyle \alpha }
+Ordinal_number_33,{\displaystyle \omega ^{\alpha }=\alpha }
+Ordinal_number_34,{\displaystyle \varepsilon _{\gamma }}
+Ordinal_number_35,{\displaystyle C}
+Ordinal_number_36,{\displaystyle \alpha }
+Ordinal_number_37,{\displaystyle \beta }
+Ordinal_number_38,{\displaystyle C}
+Ordinal_number_39,{\displaystyle \alpha <\beta }
+Ordinal_number_40,{\displaystyle F}
+Ordinal_number_41,{\displaystyle \delta }
+Ordinal_number_42,{\displaystyle F(\delta )}
+Ordinal_number_43,{\displaystyle \delta }
+Ordinal_number_44,{\displaystyle F(\gamma )}
+Ordinal_number_45,{\displaystyle \gamma <\delta }
+Ordinal_number_46,{\displaystyle \varepsilon _{\cdot }}
+Ordinal_number_47,{\displaystyle \alpha }
+Ordinal_number_48,{\displaystyle \alpha }
+Ordinal_number_49,{\displaystyle \alpha }
+Ordinal_number_50,{\displaystyle \alpha }
+Ordinal_number_51,{\displaystyle \alpha }
+Ordinal_number_52,{\displaystyle \alpha }
+Ordinal_number_53,{\displaystyle \alpha }
+Ordinal_number_54,{\displaystyle \alpha }
+Ordinal_number_55,{\displaystyle \alpha }
+Ordinal_number_56,{\displaystyle \alpha }
+Ordinal_number_57,{\displaystyle 0}
+Ordinal_number_58,{\displaystyle \{\emptyset \}}
+Ordinal_number_59,{\displaystyle 1}
+Ordinal_number_60,{\displaystyle \omega _{\alpha }}
+Ordinal_number_61,{\displaystyle \aleph _{\alpha }}
+Ordinal_number_62,{\displaystyle \aleph _{0}}
+Ordinal_number_63,{\displaystyle \aleph _{0}}
+Ordinal_number_64,{\displaystyle \aleph _{0}}
+Ordinal_number_65,{\displaystyle \aleph _{0}^{2}}
+Ordinal_number_66,{\displaystyle \aleph _{0}}
+Ordinal_number_67,{\displaystyle \omega ^{2}>\omega }
+Ordinal_number_68,{\displaystyle \omega _{1}}
+Ordinal_number_69,{\displaystyle \omega _{1}}
+Ordinal_number_70,{\displaystyle \omega _{2}}
+Ordinal_number_71,{\displaystyle \aleph _{1}}
+Ordinal_number_72,{\displaystyle \omega _{\omega }}
+Ordinal_number_73,{\displaystyle \omega _{n}}
+Ordinal_number_74,{\displaystyle \omega _{n}}
+Ordinal_number_75,{\displaystyle \alpha }
+Ordinal_number_76,{\displaystyle \delta }
+Ordinal_number_77,{\displaystyle \alpha }
+Ordinal_number_78,{\displaystyle \delta }
+Ordinal_number_79,{\displaystyle \alpha }
+Ordinal_number_80,{\displaystyle \omega _{\omega }}
+Ordinal_number_81,{\displaystyle \omega }
+Ordinal_number_82,{\displaystyle \omega _{\alpha +1}}
+Ordinal_number_83,{\displaystyle \omega }
+Ordinal_number_84,{\displaystyle \omega _{1}}
+Ordinal_number_85,{\displaystyle \omega _{2}}
+Ordinal_number_86,{\displaystyle \omega _{\omega }}
+Ordinal_number_87,{\displaystyle \omega ^{\alpha }=\alpha }
+Ordinal_number_88,{\displaystyle \omega }
+Ordinal_number_89,{\displaystyle \omega ^{\omega }}
+Ordinal_number_90,{\displaystyle \omega ^{\omega ^{\omega }}}
+Ordinal_number_91,{\displaystyle \iota }
+Ordinal_number_92,{\displaystyle \omega ^{\alpha }=\alpha }
+Ordinal_number_93,{\displaystyle \varepsilon _{\iota }}
+Ordinal_number_94,{\displaystyle \iota }
+Ordinal_number_95,{\displaystyle \varepsilon _{\alpha }=\alpha }
+Ordinal_number_96,{\displaystyle \omega _{1}^{\mathrm {CK} }}
+Ordinal_number_97,{\displaystyle \omega _{1}}
+Ordinal_number_98,{\displaystyle \omega _{1}^{\mathrm {CK} }}
+Ordinal_number_99,{\displaystyle \varepsilon _{0}}
+Ordinal_number_100,{\displaystyle \aleph _{n-1}}
+Ordinal_number_101,{\displaystyle \aleph _{\alpha }}
+Ordinal_number_102,{\displaystyle \aleph _{0}}
+Ordinal_number_103,{\displaystyle \aleph _{n-1}}
+Ordinal_number_104,{\displaystyle \aleph _{\omega }}
+Ordinal_number_105,{\displaystyle \aleph _{n-1}}
+Ordinal_number_106,{\displaystyle \aleph _{\alpha }}
+Ordinal_number_107,{\displaystyle \mathbb {N} }
+Ordinal_number_108,{\displaystyle \mathbb {Z} }
+Ordinal_number_109,{\displaystyle \mathbb {Q} }
+Ordinal_number_110,{\displaystyle \mathbb {A} }
+Ordinal_number_111,{\displaystyle \mathbb {R} }
+Ordinal_number_112,{\displaystyle \mathbb {C} }
+Ordinal_number_113,{\displaystyle \mathbb {H} }
+Ordinal_number_114,{\displaystyle \mathbb {O} }
+Ordinal_number_115,{\displaystyle \mathbb {R} }
+Ordinal_number_116,{\displaystyle \mathbb {C} }
+Ordinal_number_117,{\displaystyle \mathbb {S} }

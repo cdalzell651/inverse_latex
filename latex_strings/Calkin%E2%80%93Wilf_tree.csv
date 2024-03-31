@@ -1,0 +1,3 @@
+name,latex
+Calkin%E2%80%93Wilf_tree_0,{\displaystyle q_{i+1}={\frac {1}{2\lfloor q_{i}\rfloor -q_{i}+1}}}
+Calkin%E2%80%93Wilf_tree_1,"{\displaystyle {\begin{aligned}\operatorname {fusc} (2n)&=\operatorname {fusc} (n)\\\operatorname {fusc} (2n+1)&=\operatorname {fusc} (n)+\operatorname {fusc} (n+1),\end{aligned}}}"

@@ -1,0 +1,14 @@
+name,latex
+Geometric_topology_0,{\displaystyle \emptyset =M_{-1}\subset M_{0}\subset M_{1}\subset M_{2}\subset \dots \subset M_{m-1}\subset M_{m}=M}
+Geometric_topology_1,{\displaystyle M_{i}}
+Geometric_topology_2,{\displaystyle M_{i-1}}
+Geometric_topology_3,{\displaystyle i}
+Geometric_topology_4,"{\displaystyle x\in N,}"
+Geometric_topology_5,{\displaystyle U\subset M}
+Geometric_topology_6,"{\displaystyle (U,U\cap N)}"
+Geometric_topology_7,"{\displaystyle (\mathbb {R} ^{n},\mathbb {R} ^{d})}"
+Geometric_topology_8,{\displaystyle \mathbb {R} ^{d}}
+Geometric_topology_9,{\displaystyle \mathbb {R} ^{n}}
+Geometric_topology_10,{\displaystyle U\to R^{n}}
+Geometric_topology_11,{\displaystyle U\cap N}
+Geometric_topology_12,{\displaystyle \mathbb {R} ^{d}}

@@ -1,0 +1,24 @@
+name,latex
+Sophie_Germain%27s_identity_0,{\displaystyle {\begin{aligned}x^{4}+4y^{4}&={\bigl (}(x+y)^{2}+y^{2}{\bigr )}\cdot {\bigl (}(x-y)^{2}+y^{2}{\bigr )}\\&=(x^{2}+2xy+2y^{2})\cdot (x^{2}-2xy+2y^{2}).\end{aligned}}}
+Sophie_Germain%27s_identity_1,{\displaystyle x^{4}+4y^{4}}
+Sophie_Germain%27s_identity_2,{\displaystyle {\begin{aligned}x^{4}+y^{4}&=(x^{2}-y^{2})^{2}+2(xy)^{2}\\&=(x^{2}+y^{2})^{2}-2(xy)^{2}.\\\end{aligned}}}
+Sophie_Germain%27s_identity_3,{\displaystyle y}
+Sophie_Germain%27s_identity_4,{\displaystyle {\sqrt {2}}}
+Sophie_Germain%27s_identity_5,"{\displaystyle x^{4}+4y^{4}=(x^{2}+2y^{2})^{2}-4(xy)^{2},}"
+Sophie_Germain%27s_identity_6,{\displaystyle n^{4}+4^{n}}
+Sophie_Germain%27s_identity_7,{\displaystyle n>1}
+Sophie_Germain%27s_identity_8,{\displaystyle n=1}
+Sophie_Germain%27s_identity_9,{\displaystyle n}
+Sophie_Germain%27s_identity_10,{\displaystyle n}
+Sophie_Germain%27s_identity_11,{\displaystyle x=n}
+Sophie_Germain%27s_identity_12,{\displaystyle y=2^{(n-1)/2}}
+Sophie_Germain%27s_identity_13,{\displaystyle n=0}
+Sophie_Germain%27s_identity_14,{\displaystyle x=1}
+Sophie_Germain%27s_identity_15,{\displaystyle y=2^{k}}
+Sophie_Germain%27s_identity_16,"{\displaystyle {\begin{aligned}\Phi _{4}(2^{2k+1})&=2^{4k+2}+1\\&=(2^{2k+1}-2^{k+1}+1)\cdot (2^{2k+1}+2^{k+1}+1),\\\end{aligned}}}"
+Sophie_Germain%27s_identity_17,{\displaystyle \Phi _{4}(x)=x^{2}+1}
+Sophie_Germain%27s_identity_18,{\displaystyle \Phi _{4}}
+Sophie_Germain%27s_identity_19,{\displaystyle \Phi _{4}}
+Sophie_Germain%27s_identity_20,"{\displaystyle f(x)^{2}+4f(y)^{2}={\bigl (}f(x+y)+f(y){\bigr )}{\bigl (}f(x-y)+f(y){\bigr )},}"
+Sophie_Germain%27s_identity_21,{\displaystyle n}
+Sophie_Germain%27s_identity_22,{\displaystyle n^{4}+4}

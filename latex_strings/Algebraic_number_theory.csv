@@ -1,0 +1,67 @@
+name,latex
+Algebraic_number_theory_0,{\displaystyle \mathbb {Z} }
+Algebraic_number_theory_1,{\displaystyle 0=\mathbb {Z} /1\mathbb {Z} }
+Algebraic_number_theory_2,{\displaystyle \mathbb {Z} /1\mathbb {Z} }
+Algebraic_number_theory_3,{\displaystyle \mathbb {Z} /p^{n}\mathbb {Z} }
+Algebraic_number_theory_4,{\displaystyle \mathbb {Z} (p^{\infty })}
+Algebraic_number_theory_5,{\displaystyle \mathbb {T} }
+Algebraic_number_theory_6,{\displaystyle \mathbb {Z} }
+Algebraic_number_theory_7,{\displaystyle \mathbb {Z} [1/p]}
+Algebraic_number_theory_8,{\displaystyle \mathbb {R} }
+Algebraic_number_theory_9,{\displaystyle \mathbb {Z} _{p}}
+Algebraic_number_theory_10,{\displaystyle \mathbb {Q} _{p}}
+Algebraic_number_theory_11,{\displaystyle \mathbb {T} _{p}}
+Algebraic_number_theory_12,{\displaystyle A=x+y\ }
+Algebraic_number_theory_13,{\displaystyle B=x^{2}+y^{2}.\ }
+Algebraic_number_theory_14,{\displaystyle 6=2\cdot 3=(-2)\cdot (-3).}
+Algebraic_number_theory_15,"{\displaystyle 5=(1+2i)(1-2i)=(2+i)(2-i),}"
+Algebraic_number_theory_16,{\displaystyle 9=3^{2}=(2+{\sqrt {-5}})(2-{\sqrt {-5}}).}
+Algebraic_number_theory_17,"{\displaystyle I={\mathfrak {p}}_{1}^{e_{1}}\cdots {\mathfrak {p}}_{t}^{e_{t}},}"
+Algebraic_number_theory_18,{\displaystyle {\mathfrak {p}}_{i}}
+Algebraic_number_theory_19,{\displaystyle 2\mathbf {Z} [i]=(1+i)\mathbf {Z} [i]\cdot (1-i)\mathbf {Z} [i]=((1+i)\mathbf {Z} [i])^{2};}
+Algebraic_number_theory_20,{\displaystyle J^{-1}=(O:J)=\{x\in K:xJ\subseteq O\}.}
+Algebraic_number_theory_21,{\displaystyle (x)={\mathfrak {p}}_{1}^{e_{1}}\cdots {\mathfrak {p}}_{t}^{e_{t}}.}
+Algebraic_number_theory_22,{\displaystyle \operatorname {div} x=\sum _{i=1}^{t}e_{i}[{\mathfrak {p}}_{i}].}
+Algebraic_number_theory_23,{\displaystyle 1\to O^{\times }\to K^{\times }{\xrightarrow {\text{div}}}\operatorname {Div} K\to \operatorname {Cl} K\to 1.}
+Algebraic_number_theory_24,{\displaystyle M\colon K\to \mathbf {R} ^{r_{1}}\oplus \mathbf {C} ^{r_{2}}}
+Algebraic_number_theory_25,{\displaystyle M\colon K\to \mathbf {R} ^{r_{1}}\oplus \mathbf {R} ^{2r_{2}}.}
+Algebraic_number_theory_26,"{\displaystyle \langle x,y\rangle =\operatorname {Tr} (xy)}"
+Algebraic_number_theory_27,{\displaystyle {\sqrt {|\Delta |}}}
+Algebraic_number_theory_28,{\displaystyle {\mathfrak {p}}}
+Algebraic_number_theory_29,{\displaystyle {\mathfrak {p}}}
+Algebraic_number_theory_30,{\displaystyle v\mid \infty }
+Algebraic_number_theory_32,{\displaystyle k=\mathbb {F} _{q}}
+Algebraic_number_theory_33,{\displaystyle X/k}
+Algebraic_number_theory_34,{\displaystyle F=k(X)}
+Algebraic_number_theory_35,{\displaystyle X}
+Algebraic_number_theory_36,{\displaystyle {\hat {X}}\subset \mathbb {A} ^{n}}
+Algebraic_number_theory_37,{\displaystyle X-{\hat {X}}}
+Algebraic_number_theory_38,{\displaystyle F}
+Algebraic_number_theory_39,{\displaystyle p}
+Algebraic_number_theory_40,{\displaystyle X=\mathbb {P} ^{1}}
+Algebraic_number_theory_41,{\displaystyle k(t)}
+Algebraic_number_theory_42,{\displaystyle t}
+Algebraic_number_theory_43,{\displaystyle F}
+Algebraic_number_theory_44,{\displaystyle t}
+Algebraic_number_theory_45,{\displaystyle v_{p}}
+Algebraic_number_theory_46,{\displaystyle p\in X}
+Algebraic_number_theory_47,{\displaystyle p(x)/q(x)}
+Algebraic_number_theory_48,{\displaystyle p}
+Algebraic_number_theory_49,{\displaystyle p=[2:1]}
+Algebraic_number_theory_50,{\displaystyle x_{1}\neq 0}
+Algebraic_number_theory_51,{\displaystyle 2\in \mathbb {A} ^{1}}
+Algebraic_number_theory_52,{\displaystyle v_{2}}
+Algebraic_number_theory_53,{\displaystyle p(x)}
+Algebraic_number_theory_54,{\displaystyle q(x)}
+Algebraic_number_theory_55,{\displaystyle 2}
+Algebraic_number_theory_56,{\displaystyle v_{2}}
+Algebraic_number_theory_57,{\displaystyle k((t-2))}
+Algebraic_number_theory_58,{\displaystyle t-2}
+Algebraic_number_theory_59,{\displaystyle {\begin{aligned}&a_{-k}(t-2)^{-k}+\cdots +a_{-1}(t-2)^{-1}+a_{0}+a_{1}(t-2)+a_{2}(t-2)^{2}+\cdots \\&=\sum _{n=-k}^{\infty }a_{n}(t-2)^{n}\end{aligned}}}
+Algebraic_number_theory_60,{\displaystyle k\in \mathbb {N} }
+Algebraic_number_theory_61,{\displaystyle k((1/t))}
+Algebraic_number_theory_62,{\displaystyle \sum _{n=-k}^{\infty }a_{n}(1/t)^{n}}
+Algebraic_number_theory_63,{\displaystyle {\begin{cases}L:K^{\times }\to \mathbf {R} ^{r_{1}+r_{2}}\\L(x)=(\log |x|_{v})_{v}\end{cases}}}
+Algebraic_number_theory_64,{\displaystyle x_{1}+\cdots +x_{r_{1}+r_{2}}=0.}
+Algebraic_number_theory_65,{\displaystyle K_{w}/\mathbf {Q} _{p}:}
+Algebraic_number_theory_66,{\displaystyle \left({\frac {p}{q}}\right)\left({\frac {q}{p}}\right)=(-1)^{{\frac {p-1}{2}}{\frac {q-1}{2}}}.}

@@ -1,0 +1,29 @@
+name,latex
+Special_functions_0,{\displaystyle \sin }
+Special_functions_1,{\displaystyle \cos }
+Special_functions_2,{\displaystyle \exp }
+Special_functions_3,{\displaystyle \operatorname {erf} }
+Special_functions_4,{\displaystyle \operatorname {erfc} }
+Special_functions_5,{\displaystyle \ln }
+Special_functions_6,{\displaystyle \log }
+Special_functions_7,{\displaystyle \log _{e}}
+Special_functions_8,{\displaystyle \operatorname {Log} }
+Special_functions_9,{\displaystyle \tan }
+Special_functions_10,{\displaystyle \operatorname {Tan} }
+Special_functions_11,{\displaystyle \operatorname {tg} }
+Special_functions_12,{\displaystyle \operatorname {tg} }
+Special_functions_13,{\displaystyle \arctan }
+Special_functions_14,{\displaystyle \operatorname {atan} }
+Special_functions_15,{\displaystyle \operatorname {arctg} }
+Special_functions_16,{\displaystyle \tan ^{-1}}
+Special_functions_17,"{\displaystyle J_{n}(x),}"
+Special_functions_18,"{\displaystyle \operatorname {besselj} (n,x),}"
+Special_functions_19,"{\displaystyle {\rm {BesselJ}}[n,x].}"
+Special_functions_20,{\displaystyle \cos ^{3}(x)}
+Special_functions_21,{\displaystyle (\cos(x))^{3}}
+Special_functions_22,{\displaystyle \cos ^{2}(x)}
+Special_functions_23,{\displaystyle (\cos(x))^{2}}
+Special_functions_24,{\displaystyle \cos(\cos(x))}
+Special_functions_25,{\displaystyle \cos ^{-1}(x)}
+Special_functions_26,{\displaystyle \arccos(x)}
+Special_functions_27,{\displaystyle (\cos(x))^{-1}}

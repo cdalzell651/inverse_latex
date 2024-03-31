@@ -1,0 +1,145 @@
+name,latex
+Geometric_calculus_0,"{\displaystyle \int _{a}^{b}f'(t)\,dt=f(b)-f(a)}"
+Geometric_calculus_1,{\displaystyle a}
+Geometric_calculus_2,{\displaystyle b}
+Geometric_calculus_3,{\displaystyle F}
+Geometric_calculus_4,{\displaystyle F}
+Geometric_calculus_5,{\displaystyle b}
+Geometric_calculus_6,{\displaystyle a}
+Geometric_calculus_7,"{\displaystyle (\nabla _{b}F)(a)=\lim _{\epsilon \rightarrow 0}{\frac {F(a+\epsilon b)-F(a)}{\epsilon }},}"
+Geometric_calculus_8,{\displaystyle b}
+Geometric_calculus_9,{\displaystyle \epsilon }
+Geometric_calculus_10,{\displaystyle \{e_{i}\}}
+Geometric_calculus_11,{\displaystyle \partial _{i}}
+Geometric_calculus_12,{\displaystyle e_{i}}
+Geometric_calculus_13,{\displaystyle \partial _{i}:F\mapsto (x\mapsto (\nabla _{e_{i}}F)(x)).}
+Geometric_calculus_14,"{\displaystyle e^{i}\partial _{i},}"
+Geometric_calculus_15,"{\displaystyle F\mapsto e^{i}\partial _{i}F,}"
+Geometric_calculus_16,{\displaystyle F\mapsto (x\mapsto e^{i}(\nabla _{e_{i}}F)(x)).}
+Geometric_calculus_17,{\displaystyle \nabla =e^{i}\partial _{i}.}
+Geometric_calculus_18,{\displaystyle \nabla _{\alpha a+\beta b}=\alpha \nabla _{a}+\beta \nabla _{b}.}
+Geometric_calculus_19,{\displaystyle a}
+Geometric_calculus_20,{\displaystyle a=(a\cdot e^{i})e_{i}}
+Geometric_calculus_21,{\displaystyle \nabla _{a}=\nabla _{(a\cdot e^{i})e_{i}}=(a\cdot e^{i})\nabla _{e_{i}}=a\cdot (e^{i}\nabla _{e_{i}})=a\cdot \nabla .}
+Geometric_calculus_22,{\displaystyle \nabla _{a}F(x)}
+Geometric_calculus_23,{\displaystyle a\cdot \nabla F(x)}
+Geometric_calculus_24,{\displaystyle F}
+Geometric_calculus_25,{\displaystyle G}
+Geometric_calculus_26,{\displaystyle \nabla FG=(\nabla F)G.}
+Geometric_calculus_27,{\displaystyle F}
+Geometric_calculus_28,{\displaystyle G}
+Geometric_calculus_29,{\displaystyle {\begin{aligned}\nabla (FG)&=e^{i}\partial _{i}(FG)\\&=e^{i}((\partial _{i}F)G+F(\partial _{i}G))\\&=e^{i}(\partial _{i}F)G+e^{i}F(\partial _{i}G).\end{aligned}}}
+Geometric_calculus_30,{\displaystyle e^{i}F\neq Fe^{i}}
+Geometric_calculus_31,"{\displaystyle {\dot {\nabla }}F{\dot {G}}=e^{i}F(\partial _{i}G),}"
+Geometric_calculus_32,{\displaystyle \nabla (FG)=\nabla FG+{\dot {\nabla }}F{\dot {G}}.}
+Geometric_calculus_33,{\displaystyle F}
+Geometric_calculus_34,{\displaystyle r}
+Geometric_calculus_35,"{\displaystyle \nabla \cdot F=\langle \nabla F\rangle _{r-1}=e^{i}\cdot \partial _{i}F,}"
+Geometric_calculus_36,{\displaystyle \nabla \wedge F=\langle \nabla F\rangle _{r+1}=e^{i}\wedge \partial _{i}F.}
+Geometric_calculus_37,{\displaystyle F}
+Geometric_calculus_38,{\displaystyle \nabla F=\nabla \cdot F+\nabla \wedge F}
+Geometric_calculus_39,"{\displaystyle \nabla \cdot F=\operatorname {div} F,}"
+Geometric_calculus_40,"{\displaystyle \nabla \wedge F=I\,\operatorname {curl} F.}"
+Geometric_calculus_41,{\displaystyle F}
+Geometric_calculus_42,{\displaystyle F}
+Geometric_calculus_43,{\displaystyle X}
+Geometric_calculus_44,{\displaystyle A}
+Geometric_calculus_45,{\displaystyle X}
+Geometric_calculus_46,{\displaystyle A}
+Geometric_calculus_47,"{\displaystyle A*\partial _{X}F(X)=\lim _{\epsilon \to 0}{\frac {F(X+\epsilon A)-F(X)}{\epsilon }}\ ,}"
+Geometric_calculus_48,{\displaystyle A*B=\langle AB\rangle }
+Geometric_calculus_49,{\displaystyle \{e_{i}\}}
+Geometric_calculus_50,{\displaystyle \{e^{i}\}}
+Geometric_calculus_51,{\displaystyle {\frac {\partial }{\partial X}}=\partial _{X}=\sum _{i<\dots <j}e^{i}\wedge \cdots \wedge e^{j}(e_{j}\wedge \cdots \wedge e_{i})*\partial _{X}\ .}
+Geometric_calculus_52,{\displaystyle \partial _{X}}
+Geometric_calculus_53,"{\displaystyle \partial _{X}\langle XA\rangle =P_{X}(A)\ ,}"
+Geometric_calculus_54,{\displaystyle P_{X}(A)}
+Geometric_calculus_55,{\displaystyle A}
+Geometric_calculus_56,{\displaystyle X}
+Geometric_calculus_57,"{\displaystyle \{e_{1},\ldots ,e_{n}\}}"
+Geometric_calculus_58,{\displaystyle n}
+Geometric_calculus_59,{\displaystyle e_{1}\wedge e_{2}\wedge \cdots \wedge e_{n}}
+Geometric_calculus_60,{\displaystyle n}
+Geometric_calculus_61,{\displaystyle k}
+Geometric_calculus_62,{\displaystyle 1\leq k\leq n}
+Geometric_calculus_63,{\displaystyle k}
+Geometric_calculus_64,{\displaystyle n}
+Geometric_calculus_65,"{\displaystyle \{e_{i_{1}},\ldots ,e_{i_{k}}\}}"
+Geometric_calculus_66,{\displaystyle k}
+Geometric_calculus_67,{\displaystyle k}
+Geometric_calculus_68,{\displaystyle k}
+Geometric_calculus_69,{\displaystyle e_{i_{1}}\wedge e_{i_{2}}\wedge \cdots \wedge e_{i_{k}}}
+Geometric_calculus_70,"{\displaystyle \{x^{i_{1}}e_{i_{1}},\ldots ,x^{i_{k}}e_{i_{k}}\}}"
+Geometric_calculus_71,{\displaystyle k}
+Geometric_calculus_72,{\displaystyle \{x^{i_{j}}\}}
+Geometric_calculus_73,{\displaystyle k}
+Geometric_calculus_74,{\displaystyle {\begin{aligned}d^{k}X&=\left(dx^{i_{1}}e_{i_{1}}\right)\wedge \left(dx^{i_{2}}e_{i_{2}}\right)\wedge \cdots \wedge \left(dx^{i_{k}}e_{i_{k}}\right)\\&=\left(e_{i_{1}}\wedge e_{i_{2}}\wedge \cdots \wedge e_{i_{k}}\right)dx^{i_{1}}dx^{i_{2}}\cdots dx^{i_{k}}.\end{aligned}}}
+Geometric_calculus_75,{\displaystyle k}
+Geometric_calculus_76,"{\displaystyle \int _{V}F(x)\,d^{k}X=\int _{V}F(x)\left(e_{i_{1}}\wedge e_{i_{2}}\wedge \cdots \wedge e_{i_{k}}\right)dx^{i_{1}}dx^{i_{2}}\cdots dx^{i_{k}}.}"
+Geometric_calculus_77,{\displaystyle V}
+Geometric_calculus_78,{\displaystyle \{x_{i}\}}
+Geometric_calculus_79,{\displaystyle \Delta U_{i}(x)}
+Geometric_calculus_80,{\displaystyle F(x)}
+Geometric_calculus_81,{\displaystyle U(x)}
+Geometric_calculus_82,"{\displaystyle \int _{V}F\,dU=\lim _{n\rightarrow \infty }\sum _{i=1}^{n}F(x_{i})\,\Delta U_{i}(x_{i}).}"
+Geometric_calculus_83,{\displaystyle {\mathsf {L}}(A;x)}
+Geometric_calculus_84,{\displaystyle r}
+Geometric_calculus_85,{\displaystyle A}
+Geometric_calculus_86,{\displaystyle x}
+Geometric_calculus_87,{\displaystyle V}
+Geometric_calculus_88,{\displaystyle \int _{V}{\dot {\mathsf {L}}}\left({\dot {\nabla }}dX;x\right)=\oint _{\partial V}{\mathsf {L}}(dS;x).}
+Geometric_calculus_89,{\displaystyle {\mathsf {L}}(A;x)=\langle F(x)AI^{-1}\rangle }
+Geometric_calculus_90,{\displaystyle F(x)}
+Geometric_calculus_91,{\displaystyle n-1}
+Geometric_calculus_92,{\displaystyle A}
+Geometric_calculus_93,"{\displaystyle {\begin{aligned}\int _{V}{\dot {\mathsf {L}}}\left({\dot {\nabla }}dX;x\right)&=\int _{V}\langle {\dot {F}}(x){\dot {\nabla }}\,dX\,I^{-1}\rangle \\&=\int _{V}\langle {\dot {F}}(x){\dot {\nabla }}\,|dX|\rangle \\&=\int _{V}\nabla \cdot F(x)\,|dX|.\end{aligned}}}"
+Geometric_calculus_94,"{\displaystyle {\begin{aligned}\oint _{\partial V}{\mathsf {L}}(dS;x)&=\oint _{\partial V}\langle F(x)\,dS\,I^{-1}\rangle \\&=\oint _{\partial V}\langle F(x){\hat {n}}\,|dS|\rangle \\&=\oint _{\partial V}F(x)\cdot {\hat {n}}\,|dS|.\end{aligned}}}"
+Geometric_calculus_95,"{\displaystyle \int _{V}\nabla \cdot F(x)\,|dX|=\oint _{\partial V}F(x)\cdot {\hat {n}}\,|dS|.}"
+Geometric_calculus_96,{\displaystyle k}
+Geometric_calculus_97,{\displaystyle n}
+Geometric_calculus_98,{\displaystyle k}
+Geometric_calculus_99,{\displaystyle B}
+Geometric_calculus_100,{\displaystyle B}
+Geometric_calculus_101,{\displaystyle k}
+Geometric_calculus_102,{\displaystyle {\mathcal {P}}_{B}(A)=(A\cdot B^{-1})B.}
+Geometric_calculus_103,{\displaystyle \nabla }
+Geometric_calculus_104,{\displaystyle n}
+Geometric_calculus_105,{\displaystyle \partial }
+Geometric_calculus_106,{\displaystyle \partial F={\mathcal {P}}_{B}(\nabla )F.}
+Geometric_calculus_107,{\displaystyle {\mathcal {P}}_{B}(\nabla F)}
+Geometric_calculus_108,{\displaystyle a}
+Geometric_calculus_109,{\displaystyle a\cdot \partial F=a\cdot \nabla F.}
+Geometric_calculus_110,{\displaystyle \partial F}
+Geometric_calculus_111,{\displaystyle a\cdot DF={\mathcal {P}}_{B}(a\cdot \partial F)={\mathcal {P}}_{B}(a\cdot {\mathcal {P}}_{B}(\nabla )F).}
+Geometric_calculus_112,"{\displaystyle a\cdot \partial F={\mathcal {P}}_{B}(a\cdot \partial F)+{\mathcal {P}}_{B}^{\perp }(a\cdot \partial F),}"
+Geometric_calculus_113,{\displaystyle {\mathsf {S}}(a)}
+Geometric_calculus_114,"{\displaystyle F\times {\mathsf {S}}(a)={\mathcal {P}}_{B}^{\perp }(a\cdot \partial F),}"
+Geometric_calculus_115,{\displaystyle \times }
+Geometric_calculus_116,{\displaystyle \{e_{i}\}}
+Geometric_calculus_117,{\displaystyle {\mathsf {S}}(a)=e^{i}\wedge {\mathcal {P}}_{B}^{\perp }(a\cdot \partial e_{i}).}
+Geometric_calculus_118,"{\displaystyle [a\cdot D,\,b\cdot D]F=-({\mathsf {S}}(a)\times {\mathsf {S}}(b))\times F.}"
+Geometric_calculus_119,{\displaystyle {\mathsf {S}}(a)\times {\mathsf {S}}(b)}
+Geometric_calculus_120,{\displaystyle {\mathsf {R}}(a\wedge b)=-{\mathcal {P}}_{B}({\mathsf {S}}(a)\times {\mathsf {S}}(b)).}
+Geometric_calculus_121,{\displaystyle F}
+Geometric_calculus_122,{\displaystyle r}
+Geometric_calculus_123,"{\displaystyle D\cdot F=\langle DF\rangle _{r-1},}"
+Geometric_calculus_124,"{\displaystyle D\wedge F=\langle DF\rangle _{r+1},}"
+Geometric_calculus_125,{\displaystyle \{e_{i}\}}
+Geometric_calculus_126,"{\displaystyle g_{ij}=e_{i}\cdot e_{j},}"
+Geometric_calculus_127,"{\displaystyle \Gamma _{ij}^{k}=(e_{i}\cdot De_{j})\cdot e^{k},}"
+Geometric_calculus_128,{\displaystyle R_{ijkl}=({\mathsf {R}}(e_{i}\wedge e_{j})\cdot e_{k})\cdot e_{l}.}
+Geometric_calculus_129,"{\displaystyle x^{1},\ldots ,x^{n}}"
+Geometric_calculus_130,{\displaystyle dx^{1}}
+Geometric_calculus_131,{\displaystyle dx^{n}}
+Geometric_calculus_132,"{\displaystyle I=(i_{1},\ldots ,i_{k})}"
+Geometric_calculus_133,{\displaystyle 1\leq i_{p}\leq n}
+Geometric_calculus_134,{\displaystyle 1\leq p\leq k}
+Geometric_calculus_135,{\displaystyle k}
+Geometric_calculus_136,"{\displaystyle \omega =f_{I}\,dx^{I}=f_{i_{1}i_{2}\cdots i_{k}}\,dx^{i_{1}}\wedge dx^{i_{2}}\wedge \cdots \wedge dx^{i_{k}}.}"
+Geometric_calculus_137,{\displaystyle k}
+Geometric_calculus_138,{\displaystyle A}
+Geometric_calculus_139,{\displaystyle A=f_{i_{1}i_{2}\cdots i_{k}}e^{i_{1}}\wedge e^{i_{2}}\wedge \cdots \wedge e^{i_{k}}}
+Geometric_calculus_140,{\displaystyle {\begin{aligned}d^{k}X&=\left(dx^{i_{1}}e_{i_{1}}\right)\wedge \left(dx^{i_{2}}e_{i_{2}}\right)\wedge \cdots \wedge \left(dx^{i_{k}}e_{i_{k}}\right)\\&=\left(e_{i_{1}}\wedge e_{i_{2}}\wedge \cdots \wedge e_{i_{k}}\right)dx^{i_{1}}dx^{i_{2}}\cdots dx^{i_{k}}.\end{aligned}}}
+Geometric_calculus_141,"{\displaystyle \omega \cong A^{\dagger }\cdot d^{k}X=A\cdot \left(d^{k}X\right)^{\dagger },}"
+Geometric_calculus_142,"{\displaystyle d\omega \cong (D\wedge A)^{\dagger }\cdot d^{k+1}X=(D\wedge A)\cdot \left(d^{k+1}X\right)^{\dagger },}"
+Geometric_calculus_143,"{\displaystyle \star \omega \cong (I^{-1}A)^{\dagger }\cdot d^{k}X,}"

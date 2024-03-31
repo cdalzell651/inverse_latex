@@ -1,0 +1,68 @@
+name,latex
+Functional_analysis_0,"{\displaystyle \ell ^{\,2}(\aleph _{0})\,}"
+Functional_analysis_1,{\displaystyle L^{p}}
+Functional_analysis_2,{\displaystyle p\geq 1}
+Functional_analysis_3,{\displaystyle \mu }
+Functional_analysis_4,{\displaystyle X}
+Functional_analysis_5,{\displaystyle L^{p}(X)}
+Functional_analysis_6,"{\displaystyle L^{p}(X,\mu )}"
+Functional_analysis_7,{\displaystyle L^{p}(\mu )}
+Functional_analysis_8,"{\displaystyle [\,f\,]}"
+Functional_analysis_9,{\displaystyle p}
+Functional_analysis_10,{\displaystyle f}
+Functional_analysis_11,"{\displaystyle \int _{X}\left|f(x)\right|^{p}\,d\mu (x)<\infty .}"
+Functional_analysis_12,{\displaystyle \mu }
+Functional_analysis_13,{\displaystyle \sum _{x\in X}\left|f(x)\right|^{p}<\infty .}
+Functional_analysis_14,{\displaystyle \ell ^{p}(X)}
+Functional_analysis_15,{\displaystyle \ell ^{p}}
+Functional_analysis_16,{\displaystyle X}
+Functional_analysis_17,{\displaystyle X}
+Functional_analysis_18,{\displaystyle Y}
+Functional_analysis_19,{\displaystyle F}
+Functional_analysis_20,{\displaystyle X}
+Functional_analysis_21,{\displaystyle Y}
+Functional_analysis_22,{\displaystyle x}
+Functional_analysis_23,{\displaystyle X}
+Functional_analysis_24,"{\displaystyle \sup \nolimits _{T\in F}\|T(x)\|_{Y}<\infty ,}"
+Functional_analysis_25,"{\displaystyle \sup \nolimits _{T\in F}\|T\|_{B(X,Y)}<\infty .}"
+Functional_analysis_26,{\displaystyle A}
+Functional_analysis_27,{\displaystyle H}
+Functional_analysis_28,"{\displaystyle (X,\Sigma ,\mu )}"
+Functional_analysis_29,{\displaystyle f}
+Functional_analysis_30,{\displaystyle X}
+Functional_analysis_31,{\displaystyle U:H\to L_{\mu }^{2}(X)}
+Functional_analysis_32,{\displaystyle U^{*}TU=A}
+Functional_analysis_33,{\displaystyle [T\varphi ](x)=f(x)\varphi (x).}
+Functional_analysis_34,{\displaystyle \|T\|=\|f\|_{\infty }}
+Functional_analysis_35,{\displaystyle f}
+Functional_analysis_36,{\displaystyle p:V\to \mathbb {R} }
+Functional_analysis_37,{\displaystyle \varphi :U\to \mathbb {R} }
+Functional_analysis_38,{\displaystyle U\subseteq V}
+Functional_analysis_39,{\displaystyle p}
+Functional_analysis_40,{\displaystyle U}
+Functional_analysis_41,{\displaystyle \varphi (x)\leq p(x)\qquad \forall x\in U}
+Functional_analysis_42,{\displaystyle \psi :V\to \mathbb {R} }
+Functional_analysis_43,{\displaystyle \varphi }
+Functional_analysis_44,{\displaystyle V}
+Functional_analysis_45,{\displaystyle p}
+Functional_analysis_46,{\displaystyle V}
+Functional_analysis_47,{\displaystyle \psi }
+Functional_analysis_48,"{\displaystyle {\begin{aligned}\psi (x)&=\varphi (x)&\forall x\in U,\\\psi (x)&\leq p(x)&\forall x\in V.\end{aligned}}}"
+Functional_analysis_49,{\displaystyle X}
+Functional_analysis_50,{\displaystyle Y}
+Functional_analysis_51,{\displaystyle A:X\to Y}
+Functional_analysis_52,{\displaystyle A}
+Functional_analysis_53,{\displaystyle U}
+Functional_analysis_54,{\displaystyle X}
+Functional_analysis_55,{\displaystyle A(U)}
+Functional_analysis_56,{\displaystyle Y}
+Functional_analysis_57,{\displaystyle X}
+Functional_analysis_58,{\displaystyle Y}
+Functional_analysis_59,{\displaystyle X}
+Functional_analysis_60,{\displaystyle Y}
+Functional_analysis_61,{\displaystyle X}
+Functional_analysis_62,{\displaystyle Y}
+Functional_analysis_63,{\displaystyle T}
+Functional_analysis_64,{\displaystyle X}
+Functional_analysis_65,{\displaystyle Y}
+Functional_analysis_66,{\displaystyle T}

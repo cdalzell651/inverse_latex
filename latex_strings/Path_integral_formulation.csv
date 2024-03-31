@@ -1,0 +1,161 @@
+name,latex
+Path_integral_formulation_0,{\displaystyle i\hbar {\frac {d}{dt}}|\Psi \rangle ={\hat {H}}|\Psi \rangle }
+Path_integral_formulation_1,{\displaystyle \varepsilon H=p(t){\big (}q(t+\varepsilon )-q(t){\big )}-\varepsilon L}
+Path_integral_formulation_2,"{\displaystyle p={\frac {\partial L}{\partial {\dot {q}}}},}"
+Path_integral_formulation_3,{\displaystyle {\dot {q}}}
+Path_integral_formulation_4,"{\displaystyle \varepsilon L=\varepsilon p{\dot {q}}-\varepsilon H,}"
+Path_integral_formulation_5,"{\displaystyle {\dot {q}}={\frac {\partial H}{\partial p}},}"
+Path_integral_formulation_6,"{\displaystyle e^{i{\big [}p{\big (}q(t+\varepsilon )-q(t){\big )}-\varepsilon H(p,q){\big ]}}.}"
+Path_integral_formulation_7,"{\displaystyle e^{-ipq(t)},}"
+Path_integral_formulation_8,"{\displaystyle e^{-i\varepsilon H(p,q)},}"
+Path_integral_formulation_9,"{\displaystyle e^{ipq(t+\varepsilon )},}"
+Path_integral_formulation_10,"{\displaystyle e^{i\varepsilon S},}"
+Path_integral_formulation_11,{\displaystyle t_{a}=t_{0}<t_{1}<\cdots <t_{n-1}<t_{n}<t_{n+1}=t_{b}}
+Path_integral_formulation_12,{\displaystyle \varepsilon =\Delta t={\frac {t_{b}-t_{a}}{n+1}}.}
+Path_integral_formulation_13,"{\displaystyle \int \limits _{-\infty }^{+\infty }\cdots \int \limits _{-\infty }^{+\infty }\exp \left({\frac {i}{\hbar }}\int _{t_{a}}^{t_{b}}L{\big (}x(t),v(t){\big )}\,dt\right)\,dx_{0}\,\cdots \,dx_{n},}"
+Path_integral_formulation_14,"{\displaystyle L(x,{\dot {x}})=T-V={\frac {1}{2}}m|{\dot {x}}|^{2}-V(x)}"
+Path_integral_formulation_15,"{\displaystyle \exp \left({\frac {i}{\hbar }}\varepsilon \sum _{j=1}^{n+1}L\left({\tilde {x}}_{j},{\frac {x_{j}-x_{j-1}}{\varepsilon }},j\right)\right)}"
+Path_integral_formulation_16,"{\displaystyle \psi (x,t)={\frac {1}{Z}}\int _{\mathbf {x} (0)=x}{\mathcal {D}}\mathbf {x} \,e^{iS[\mathbf {x} ,{\dot {\mathbf {x} }}]}\psi _{0}(\mathbf {x} (t))\,}"
+Path_integral_formulation_17,{\displaystyle {\mathcal {D}}\mathbf {x} }
+Path_integral_formulation_18,{\displaystyle \mathbf {x} }
+Path_integral_formulation_19,{\displaystyle \mathbf {x} (0)=x}
+Path_integral_formulation_20,{\displaystyle Z}
+Path_integral_formulation_21,{\displaystyle S}
+Path_integral_formulation_22,"{\displaystyle S[\mathbf {x} ,{\dot {\mathbf {x} }}]=\int dt\,L(\mathbf {x} (t),{\dot {\mathbf {x} }}(t))}"
+Path_integral_formulation_23,"{\displaystyle S=\int {\frac {{\dot {x}}^{2}}{2}}\,dt,}"
+Path_integral_formulation_24,"{\displaystyle K(x-y;T)=\int _{x(0)=x}^{x(T)=y}\exp \left(-\int _{0}^{T}{\frac {{\dot {x}}^{2}}{2}}\,dt\right)\,{\mathcal {D}}x.}"
+Path_integral_formulation_25,"{\displaystyle K(x,y;T)=\int _{x(0)=x}^{x(T)=y}\prod _{t}\exp \left(-{\tfrac {1}{2}}\left({\frac {x(t+\varepsilon )-x(t)}{\varepsilon }}\right)^{2}\varepsilon \right)\,{\mathcal {D}}x,}"
+Path_integral_formulation_26,"{\displaystyle K(x-y;T)=G_{\varepsilon }*G_{\varepsilon }*\cdots *G_{\varepsilon },}"
+Path_integral_formulation_27,{\displaystyle {\tilde {K}}(p;T)={\tilde {G}}_{\varepsilon }(p)^{T/\varepsilon }.}
+Path_integral_formulation_28,"{\displaystyle {\tilde {G}}_{\varepsilon }(p)=e^{-{\frac {\varepsilon p^{2}}{2}}},}"
+Path_integral_formulation_29,{\displaystyle {\tilde {K}}(p;T)=e^{-{\frac {Tp^{2}}{2}}}.}
+Path_integral_formulation_30,{\displaystyle K(x-y;T)\propto e^{-{\frac {(x-y)^{2}}{2T}}}.}
+Path_integral_formulation_31,"{\displaystyle \int K(x-y;T)\,dy=1.}"
+Path_integral_formulation_32,{\displaystyle {\frac {d}{dt}}K(x;T)={\frac {\nabla ^{2}}{2}}K.}
+Path_integral_formulation_33,"{\displaystyle K(x-y;T)\propto e^{\frac {i(x-y)^{2}}{2T}},}"
+Path_integral_formulation_34,{\displaystyle {\frac {d}{dt}}K(x;T)=i{\frac {\nabla ^{2}}{2}}K.}
+Path_integral_formulation_35,"{\displaystyle \psi _{t}(y)=\int \psi _{0}(x)K(x-y;t)\,dx=\int \psi _{0}(x)\int _{x(0)=x}^{x(t)=y}e^{iS}\,{\mathcal {D}}x,}"
+Path_integral_formulation_36,{\displaystyle i{\frac {\partial }{\partial t}}\psi _{t}=-{\frac {\nabla ^{2}}{2}}\psi _{t}.}
+Path_integral_formulation_37,{\displaystyle {\mathcal {L}}={\tfrac {1}{2}}m{\dot {x}}^{2}-{\tfrac {1}{2}}m\omega ^{2}x^{2}.}
+Path_integral_formulation_38,{\displaystyle x_{\text{c}}(t)=x_{i}{\frac {\sin \omega (t_{f}-t)}{\sin \omega (t_{f}-t_{i})}}+x_{f}{\frac {\sin \omega (t-t_{i})}{\sin \omega (t_{f}-t_{i})}}.}
+Path_integral_formulation_39,"{\displaystyle {\begin{aligned}S_{\text{c}}&=\int _{t_{i}}^{t_{f}}{\mathcal {L}}\,dt=\int _{t_{i}}^{t_{f}}\left({\tfrac {1}{2}}m{\dot {x}}^{2}-{\tfrac {1}{2}}m\omega ^{2}x^{2}\right)\,dt\\[6pt]&={\frac {1}{2}}m\omega \left({\frac {(x_{i}^{2}+x_{f}^{2})\cos \omega (t_{f}-t_{i})-2x_{i}x_{f}}{\sin \omega (t_{f}-t_{i})}}\right)~.\end{aligned}}}"
+Path_integral_formulation_40,{\displaystyle S=S_{\text{c}}+\sum _{n=1}^{\infty }{\tfrac {1}{2}}a_{n}^{2}{\frac {m}{2}}\left({\frac {(n\pi )^{2}}{t_{f}-t_{i}}}-\omega ^{2}(t_{f}-t_{i})\right).}
+Path_integral_formulation_41,"{\displaystyle {\begin{aligned}K(x_{f},t_{f};x_{i},t_{i})&=Qe^{\frac {iS_{\text{c}}}{\hbar }}\prod _{j=1}^{\infty }{\frac {j\pi }{\sqrt {2}}}\int da_{j}\exp {\left({\frac {i}{2\hbar }}a_{j}^{2}{\frac {m}{2}}\left({\frac {(j\pi )^{2}}{t_{f}-t_{i}}}-\omega ^{2}(t_{f}-t_{i})\right)\right)}\\[6pt]&=e^{\frac {iS_{\text{c}}}{\hbar }}Q\prod _{j=1}^{\infty }\left(1-\left({\frac {\omega (t_{f}-t_{i})}{j\pi }}\right)^{2}\right)^{-{\frac {1}{2}}}\end{aligned}}}"
+Path_integral_formulation_42,{\displaystyle Q={\sqrt {\frac {m}{2\pi i\hbar (t_{f}-t_{i})}}}~.}
+Path_integral_formulation_43,"{\displaystyle \prod _{j=1}^{\infty }\left(1-{\frac {x^{2}}{j^{2}}}\right)={\frac {\sin \pi x}{\pi x}},}"
+Path_integral_formulation_44,"{\displaystyle K(x_{f},t_{f};x_{i},t_{i})=Qe^{\frac {iS_{\text{c}}}{\hbar }}{\sqrt {\frac {\omega (t_{f}-t_{i})}{\sin \omega (t_{f}-t_{i})}}}=e^{\frac {iS_{c}}{\hbar }}{\sqrt {\frac {m\omega }{2\pi i\hbar \sin \omega (t_{f}-t_{i})}}}.}"
+Path_integral_formulation_45,"{\displaystyle {\begin{aligned}K(x_{f},t_{f};x_{i},t_{i})&=\left({\frac {m\omega }{2\pi i\hbar \sin \omega T}}\right)^{\frac {1}{2}}\exp {\left({\frac {i}{\hbar }}{\tfrac {1}{2}}m\omega {\frac {(x_{i}^{2}+x_{f}^{2})\cos \omega T-2x_{i}x_{f}}{\sin \omega T}}\right)}\\[6pt]&=\sum _{n=0}^{\infty }\exp {\left(-{\frac {iE_{n}T}{\hbar }}\right)}\psi _{n}(x_{f})\psi _{n}(x_{i})^{*}~.\end{aligned}}}"
+Path_integral_formulation_46,"{\displaystyle K(x_{f},t_{f};x_{i},t_{i})=\left({\frac {m\omega }{\pi \hbar }}\right)^{\frac {1}{2}}e^{\frac {-i\omega T}{2}}\left(1-e^{-2i\omega T}\right)^{-{\frac {1}{2}}}\exp {\left(-{\frac {m\omega }{2\hbar }}\left(\left(x_{i}^{2}+x_{f}^{2}\right){\frac {1+e^{-2i\omega T}}{1-e^{-2i\omega T}}}-{\frac {4x_{i}x_{f}e^{-i\omega T}}{1-e^{-2i\omega T}}}\right)\right)}.}"
+Path_integral_formulation_47,"{\displaystyle K(x_{f},t_{f};x_{i},t_{i})=\left({\frac {m\omega }{\pi \hbar }}\right)^{\frac {1}{2}}e^{\frac {-i\omega T}{2}}\cdot R(T).}"
+Path_integral_formulation_48,"{\displaystyle e^{\frac {-i\omega T}{2}}e^{-in\omega T}=e^{-i\omega T\left({\frac {1}{2}}+n\right)}\quad {\text{for }}n=0,1,2,\ldots .}"
+Path_integral_formulation_49,{\displaystyle E_{n}=\left(n+{\tfrac {1}{2}}\right)\hbar \omega ~.}
+Path_integral_formulation_50,{\displaystyle s=\int {\frac {dt}{r(t)}}}
+Path_integral_formulation_51,"{\displaystyle \psi (y;t+\varepsilon )=\int _{-\infty }^{\infty }\psi (x;t)\int _{x(t)=x}^{x(t+\varepsilon )=y}e^{i\int _{t}^{t+\varepsilon }{\bigl (}{\frac {1}{2}}{\dot {x}}^{2}-V(x){\bigr )}dt}Dx(t)\,dx\qquad (1)}"
+Path_integral_formulation_52,{\displaystyle e^{-i\varepsilon V(x)}e^{i{\frac {{\dot {x}}^{2}}{2}}\varepsilon }}
+Path_integral_formulation_53,"{\displaystyle \psi (y;t+\varepsilon )\approx \int \psi (x;t)e^{-i\varepsilon V(x)}e^{\frac {i(x-y)^{2}}{2\varepsilon }}\,dx\,.}"
+Path_integral_formulation_54,"{\displaystyle {\frac {\partial \psi }{\partial t}}=i\cdot \left({\tfrac {1}{2}}\nabla ^{2}-V(x)\right)\psi \,}"
+Path_integral_formulation_55,"{\displaystyle \int \psi _{0}(x)\int _{x(0)=x}e^{iS(x,{\dot {x}})}\,Dx\,}"
+Path_integral_formulation_56,"{\displaystyle \int \psi _{0}(x)\int _{u(0)=x}e^{iS(u+\varepsilon ,{\dot {u}}+{\dot {\varepsilon }})}\,Du\,}"
+Path_integral_formulation_57,"{\displaystyle \int \psi _{0}(x)\int _{u(0)=x}\left(\int {\frac {\partial S}{\partial u}}\varepsilon +{\frac {\partial S}{\partial {\dot {u}}}}{\dot {\varepsilon }}\,dt\right)e^{iS}\,Du\,}"
+Path_integral_formulation_58,"{\displaystyle \int \psi _{0}(x)\int _{u(0)=x}-\left(\int \left({\frac {d}{dt}}{\frac {\partial S}{\partial {\dot {u}}}}-{\frac {\partial S}{\partial u}}\right)\varepsilon (t)\,dt\right)e^{iS}\,Du\,}"
+Path_integral_formulation_59,{\displaystyle \left\langle \psi _{0}\left|{\frac {\delta S}{\delta x}}(t)\right|\psi _{0}\right\rangle =0}
+Path_integral_formulation_60,"{\displaystyle S=\int \left({\frac {dx}{dt}}\right)^{2}\,dt}"
+Path_integral_formulation_61,{\displaystyle {\frac {dx}{dt}}={\frac {x(t+\varepsilon )-x(t)}{\varepsilon }}}
+Path_integral_formulation_62,{\displaystyle x(t+\varepsilon )-x(t)\approx {\sqrt {\varepsilon }}}
+Path_integral_formulation_63,{\displaystyle [1]=x{\frac {dx}{dt}}=x(t){\frac {x(t+\varepsilon )-x(t)}{\varepsilon }}}
+Path_integral_formulation_64,{\displaystyle [2]=x{\frac {dx}{dt}}=x(t+\varepsilon ){\frac {x(t+\varepsilon )-x(t)}{\varepsilon }}}
+Path_integral_formulation_65,{\displaystyle [2]-[1]={\frac {{\big (}x(t+\varepsilon )-x(t){\big )}^{2}}{\varepsilon }}\approx {\frac {\varepsilon }{\varepsilon }}}
+Path_integral_formulation_66,{\displaystyle f(t)={\frac {{\big (}x(t+\varepsilon )-x(t){\big )}^{2}}{\varepsilon }}}
+Path_integral_formulation_67,"{\displaystyle {\mathcal {L}}=(f(t)-1)^{2}\,,}"
+Path_integral_formulation_68,"{\displaystyle [x,{\dot {x}}]=x{\frac {dx}{dt}}-{\frac {dx}{dt}}x=1}"
+Path_integral_formulation_69,"{\displaystyle \left[x,{\frac {\partial S}{\partial {\dot {x}}}}\right]=1}"
+Path_integral_formulation_70,"{\displaystyle [x,p]=i}"
+Path_integral_formulation_71,"{\displaystyle \int \mu [x]e^{iS[x]}\,{\mathcal {D}}x.}"
+Path_integral_formulation_72,"{\displaystyle S=\int \left({\frac {m}{2}}g_{ij}{\dot {x}}^{i}{\dot {x}}^{j}-V(x)\right)\,dt,}"
+Path_integral_formulation_73,{\displaystyle \langle x_{f}|e^{-{\frac {i}{\hbar }}{\hat {H}}(t-t')}F({\hat {x}})e^{-{\frac {i}{\hbar }}{\hat {H}}(t')}|x_{i}\rangle }
+Path_integral_formulation_74,"{\displaystyle \int _{x(0)=x_{i}}^{x(t)=x_{f}}{\mathcal {D}}[x]F(x(t'))e^{{\frac {i}{\hbar }}\int dtL(x(t),{\dot {x}}(t))}}"
+Path_integral_formulation_75,"{\displaystyle \langle x_{f}|e^{-{\frac {i}{\hbar }}{\hat {H}}(t-t_{1})}F_{1}({\hat {x}})e^{-{\frac {i}{\hbar }}{\hat {H}}(t_{1}-t_{2})}F_{2}({\hat {x}})e^{-{\frac {i}{\hbar }}{\hat {H}}(t_{2})}|x_{i}\rangle =\int _{x(0)=x_{i}}^{x(t)=x_{f}}{\mathcal {D}}[x]F_{1}(x(t_{1}))F_{2}(x(t_{2}))e^{{\frac {i}{\hbar }}\int dtL(x(t),{\dot {x}}(t))}}"
+Path_integral_formulation_76,{\displaystyle \langle F\rangle ={\frac {\int {\mathcal {D}}[\phi ]F(\phi )e^{{\frac {i}{\hbar }}S[\phi ]}}{\int {\mathcal {D}}[\phi ]e^{{\frac {i}{\hbar }}S[\phi ]}}}}
+Path_integral_formulation_77,{\displaystyle t}
+Path_integral_formulation_78,{\displaystyle -it}
+Path_integral_formulation_79,{\displaystyle e^{-it{\hat {H}}/\hbar }}
+Path_integral_formulation_80,{\displaystyle e^{-t{\hat {H}}/\hbar }}
+Path_integral_formulation_81,"{\displaystyle \psi (x,t)={\frac {1}{Z}}\int _{\mathbf {x} (0)=x}e^{-S_{\mathrm {Euclidean} }(\mathbf {x} ,{\dot {\mathbf {x} }})/\hbar }\psi _{0}(\mathbf {x} (t))\,{\mathcal {D}}\mathbf {x} \,}"
+Path_integral_formulation_82,{\displaystyle S_{\mathrm {Euclidean} }}
+Path_integral_formulation_83,"{\displaystyle S_{\mathrm {Euclidean} }(\mathbf {x} ,{\dot {\mathbf {x} }})=\int \left[{\frac {m}{2}}|{\dot {\mathbf {x} }}(t)|^{2}+V(\mathbf {x} (t))\right]\,dt}"
+Path_integral_formulation_84,"{\displaystyle {\frac {1}{Z}}\int _{\mathbf {x} (0)=x}f(\mathbf {x} )e^{-{\frac {m}{2}}\int |{\dot {\mathbf {x} }}|^{2}dt}\,{\mathcal {D}}\mathbf {x} \,}"
+Path_integral_formulation_85,{\displaystyle f(\mathbf {x} )}
+Path_integral_formulation_86,{\displaystyle \mu _{x}}
+Path_integral_formulation_87,{\displaystyle x}
+Path_integral_formulation_88,{\displaystyle \mu _{x}}
+Path_integral_formulation_89,{\displaystyle \mathbf {x} }
+Path_integral_formulation_90,{\displaystyle \mathbf {x} (0)=x}
+Path_integral_formulation_91,"{\displaystyle \psi (x,t)=\int e^{-\int V(\mathbf {x} (t))\,dt/\hbar }\,\psi _{0}(\mathbf {x} (t))\,d\mu _{x}(\mathbf {x} )}"
+Path_integral_formulation_92,"{\displaystyle \psi (x,t)}"
+Path_integral_formulation_93,"{\displaystyle \hbar {\frac {\partial }{\partial t}}\psi (x,t)=-{\hat {H}}\psi (x,t)}"
+Path_integral_formulation_94,{\displaystyle {\hat {H}}}
+Path_integral_formulation_95,"{\displaystyle Z=\int e^{\frac {i{\mathcal {S}}[\mathbf {x} ]}{\hbar }}\,{\mathcal {D}}\mathbf {x} \quad {\text{where }}{\mathcal {S}}[\mathbf {x} ]=\int _{0}^{t_{f}}L[\mathbf {x} (t),{\dot {\mathbf {x} }}(t)]\,dt}"
+Path_integral_formulation_96,{\displaystyle {\mathcal {D}}\mathbf {x} }
+Path_integral_formulation_97,{\displaystyle {\mathcal {S}}[\mathbf {x} ]\gg \hbar }
+Path_integral_formulation_98,{\displaystyle |\alpha ;t\rangle =e^{-{\frac {iHt}{\hbar }}}|\alpha ;0\rangle }
+Path_integral_formulation_99,{\displaystyle Z=\operatorname {Tr} \left[e^{-H\beta }\right]}
+Path_integral_formulation_100,"{\displaystyle [\varphi (x),\partial _{t}\varphi (y)]=i\delta ^{3}(x-y)}"
+Path_integral_formulation_101,"{\displaystyle K(x,y;T)=\langle y;T\mid x;0\rangle =\int _{x(0)=x}^{x(T)=y}e^{iS[x]}\,Dx.}"
+Path_integral_formulation_102,"{\displaystyle \psi _{T}(y)=\int _{x}\psi _{0}(x)K(x,y;T)\,dx=\int ^{x(T)=y}\psi _{0}(x(0))e^{iS[x]}\,Dx.}"
+Path_integral_formulation_103,{\displaystyle \psi _{T}=\psi _{0}*K(;T).}
+Path_integral_formulation_104,"{\displaystyle K(x,y;T)\propto e^{\frac {im(x-y)^{2}}{2T}}.}"
+Path_integral_formulation_105,"{\displaystyle K(p;T)=e^{\frac {iTp^{2}}{2m}},}"
+Path_integral_formulation_106,"{\displaystyle G_{\text{F}}(p,E)={\frac {-i}{E-{\frac {{\vec {p}}^{2}}{2m}}+i\varepsilon }},}"
+Path_integral_formulation_107,"{\displaystyle G_{\text{B}}(p,E)={\frac {-i}{-E-{\frac {i{\vec {p}}^{2}}{2m}}+i\varepsilon }}.}"
+Path_integral_formulation_108,"{\displaystyle K(x-y,\mathrm {T} )=\int _{x(0)=x}^{x(\mathrm {T} )=y}e^{i\int _{0}^{\mathrm {T} }{\sqrt {{\dot {x}}^{2}}}-\alpha \,d\tau }.}"
+Path_integral_formulation_109,"{\displaystyle K(x-y,\mathrm {T} )=e^{-\alpha \mathrm {T} }\int _{x(0)=x}^{x(\mathrm {T} )=y}e^{-L}.}"
+Path_integral_formulation_110,"{\displaystyle K(x-y,\mathrm {T} )=e^{-\alpha \mathrm {T} }e^{-{\frac {(x-y)^{2}}{\mathrm {T} }}}.}"
+Path_integral_formulation_111,"{\displaystyle K(x-y)=\int _{0}^{\infty }K(x-y,\mathrm {T} )W(\mathrm {T} )\,d\mathrm {T} ,}"
+Path_integral_formulation_112,"{\displaystyle K(x-y)=\int _{0}^{\infty }e^{-{\frac {(x-y)^{2}}{\mathrm {T} }}-\alpha \mathrm {T} }\,d\mathrm {T} .}"
+Path_integral_formulation_113,"{\displaystyle K(p)=\int _{0}^{\infty }e^{-\mathrm {T} p^{2}-\mathrm {T} \alpha }\,d\mathrm {T} ={\frac {1}{p^{2}+\alpha }},}"
+Path_integral_formulation_114,{\displaystyle K(p)={\frac {i}{p_{0}^{2}-{\vec {p}}^{2}-m^{2}}}.}
+Path_integral_formulation_115,{\displaystyle 2p_{0}K(p)={\frac {i}{p_{0}-{\sqrt {{\vec {p}}^{2}+m^{2}}}}}+{\frac {i}{p_{0}+{\sqrt {{\vec {p}}^{2}+m^{2}}}}}.}
+Path_integral_formulation_116,{\displaystyle 2mK_{\text{NR}}(p)={\frac {i}{(p_{0}-m)-{\frac {{\vec {p}}^{2}}{2m}}}}.}
+Path_integral_formulation_117,{\displaystyle K(p)={\frac {i}{p_{0}-{\sqrt {{\vec {p}}^{2}+m^{2}}}+i\varepsilon }}+{\frac {i}{p_{0}-{\sqrt {{\vec {p}}^{2}+m^{2}}}-i\varepsilon }}.}
+Path_integral_formulation_118,"{\displaystyle K(p)={\frac {i}{p^{2}-m^{2}+i\varepsilon }},}"
+Path_integral_formulation_119,{\displaystyle \langle F\rangle ={\frac {\int {\mathcal {D}}\varphi F[\varphi ]e^{i{\mathcal {S}}[\varphi ]}}{\int {\mathcal {D}}\varphi e^{i{\mathcal {S}}[\varphi ]}}}.}
+Path_integral_formulation_120,"{\displaystyle \operatorname {P} (B\mid A)={\frac {\sum _{F\subset A\cap B}\left|\int {\mathcal {D}}\varphi O_{\text{in}}[\varphi ]e^{i{\mathcal {S}}[\varphi ]}F[\varphi ]\right|^{2}}{\sum _{F\subset A}\left|\int {\mathcal {D}}\varphi O_{\text{in}}[\varphi ]e^{i{\mathcal {S}}[\varphi ]}F[\varphi ]\right|^{2}}},}"
+Path_integral_formulation_121,{\displaystyle {\frac {\delta {\mathcal {S}}[\varphi ]}{\delta \varphi }}=0}
+Path_integral_formulation_122,"{\displaystyle e^{i{\mathcal {S}}[\varphi ]},}"
+Path_integral_formulation_123,{\displaystyle e^{-H[\varphi ]}}
+Path_integral_formulation_124,{\displaystyle \left\langle {\frac {\delta F[\varphi ]}{\delta \varphi }}\right\rangle =-i\left\langle F[\varphi ]{\frac {\delta {\mathcal {S}}[\varphi ]}{\delta \varphi }}\right\rangle }
+Path_integral_formulation_125,"{\displaystyle \left\langle F_{,i}\right\rangle =-i\left\langle F{\mathcal {S}}_{,i}\right\rangle .}"
+Path_integral_formulation_126,"{\displaystyle Z[J]=\int {\mathcal {D}}\varphi e^{i\left({\mathcal {S}}[\varphi ]+\langle J,\varphi \rangle \right)}.}"
+Path_integral_formulation_127,"{\displaystyle {\frac {\delta ^{n}Z}{\delta J(x_{1})\cdots \delta J(x_{n})}}[J]=i^{n}\,Z[J]\,\left\langle \varphi (x_{1})\cdots \varphi (x_{n})\right\rangle _{J},}"
+Path_integral_formulation_128,"{\displaystyle Z^{,i_{1}\cdots i_{n}}[J]=i^{n}Z[J]\left\langle \varphi ^{i_{1}}\cdots \varphi ^{i_{n}}\right\rangle _{J},}"
+Path_integral_formulation_129,"{\displaystyle \langle F\rangle _{J}={\frac {\int {\mathcal {D}}\varphi F[\varphi ]e^{i\left({\mathcal {S}}[\varphi ]+\langle J,\varphi \rangle \right)}}{\int {\mathcal {D}}\varphi e^{i\left({\mathcal {S}}[\varphi ]+\langle J,\varphi \rangle \right)}}}.}"
+Path_integral_formulation_130,"{\displaystyle F[\varphi ]={\frac {\partial ^{k_{1}}}{\partial x_{1}^{k_{1}}}}\varphi (x_{1})\cdots {\frac {\partial ^{k_{n}}}{\partial x_{n}^{k_{n}}}}\varphi (x_{n}),}"
+Path_integral_formulation_131,{\displaystyle F\left[-i{\frac {\delta }{\delta J}}\right]G[J]=(-i)^{n}{\frac {\partial ^{k_{1}}}{\partial x_{1}^{k_{1}}}}{\frac {\delta }{\delta J(x_{1})}}\cdots {\frac {\partial ^{k_{n}}}{\partial x_{n}^{k_{n}}}}{\frac {\delta }{\delta J(x_{n})}}G[J].}
+Path_integral_formulation_132,{\displaystyle \left\langle {\frac {\delta {\mathcal {S}}}{\delta \varphi (x)}}[\varphi ]+J(x)\right\rangle _{J}=0}
+Path_integral_formulation_133,"{\displaystyle {\frac {\delta {\mathcal {S}}}{\delta \varphi (x)}}\left[-i{\frac {\delta }{\delta J}}\right]Z[J]+J(x)Z[J]=0,}"
+Path_integral_formulation_134,"{\displaystyle {\mathcal {S}}_{,i}[-i\partial ]Z+J_{i}Z=0.}"
+Path_integral_formulation_135,{\displaystyle {\hat {\mathcal {S}}}={\mathcal {S}}-i\ln M.}
+Path_integral_formulation_136,{\displaystyle Q[{\mathcal {L}}(x)]=\partial _{\mu }f^{\mu }(x)}
+Path_integral_formulation_137,"{\displaystyle \int {\mathcal {D}}\varphi \,Q[F][\varphi ]=0}"
+Path_integral_formulation_138,"{\displaystyle \int {\mathcal {D}}\varphi \,Q\left[Fe^{iS}\right][\varphi ]=0,}"
+Path_integral_formulation_139,"{\displaystyle \langle Q[F]\rangle +i\left\langle F\int _{\partial V}f^{\mu }\,ds_{\mu }\right\rangle =0}"
+Path_integral_formulation_140,"{\displaystyle Q=\int d^{d}x\,q(x)}"
+Path_integral_formulation_141,"{\displaystyle q(x)[\varphi (y)]=\delta ^{(d)}(X-y)Q[\varphi (y)]\,}"
+Path_integral_formulation_142,"{\displaystyle q(x)[S]=\partial _{\mu }j^{\mu }(x)\,}"
+Path_integral_formulation_143,"{\displaystyle j^{\mu }(x)=f^{\mu }(x)-{\frac {\partial }{\partial (\partial _{\mu }\varphi )}}{\mathcal {L}}(x)Q[\varphi ]\,}"
+Path_integral_formulation_144,"{\displaystyle \int {\mathcal {D}}\varphi \,q(x)[F][\varphi ]=0.}"
+Path_integral_formulation_145,{\displaystyle \langle q(x)[F]\rangle +i\langle Fq(x)[S]\rangle =\langle q(x)[F]\rangle +i\left\langle F\partial _{\mu }j^{\mu }(x)\right\rangle =0.}
+Path_integral_formulation_146,{\displaystyle q(x)[S]\left[-i{\frac {\delta }{\delta J}}\right]Z[J]+J(x)Q[\varphi (x)]\left[-i{\frac {\delta }{\delta J}}\right]Z[J]=\partial _{\mu }j^{\mu }(x)\left[-i{\frac {\delta }{\delta J}}\right]Z[J]+J(x)Q[\varphi (x)]\left[-i{\frac {\delta }{\delta J}}\right]Z[J]=0.}
+Path_integral_formulation_147,{\displaystyle \left\langle Q[F]\right\rangle =0.}
+Path_integral_formulation_148,"{\displaystyle \int d^{d}x\,J(x)Q[\varphi (x)]\left[-i{\frac {\delta }{\delta J}}\right]Z[J]=0.}"
+Path_integral_formulation_149,{\displaystyle {\frac {1}{2}}({\hat {q}}{\hat {p}}+{\hat {p}}{\hat {q}})}
+Path_integral_formulation_150,{\displaystyle qp-{\frac {i\hbar }{2}}}
+Path_integral_formulation_151,{\displaystyle qp+{\frac {i\hbar }{2}}}
+Path_integral_formulation_152,{\displaystyle qp}
+Path_integral_formulation_153,{\displaystyle {\hat {q}}{\hat {p}}}
+Path_integral_formulation_154,{\displaystyle {\hat {p}}{\hat {q}}}
+Path_integral_formulation_155,{\displaystyle qp}
+Path_integral_formulation_156,{\displaystyle {\hat {q}}{\hat {p}}}
+Path_integral_formulation_157,{\displaystyle {\hat {p}}{\hat {q}}}
+Path_integral_formulation_158,{\displaystyle {\frac {1}{2}}({\hat {q}}{\hat {p}}+{\hat {p}}{\hat {q}})}
+Path_integral_formulation_159,{\displaystyle \Gamma =A_{\mathrm {o} }\exp \left(-{\frac {S_{\mathrm {eff} }}{\hbar }}\right)}

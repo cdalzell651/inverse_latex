@@ -1,0 +1,89 @@
+name,latex
+Graph_coloring_0,{\displaystyle \mathbb {Z} ^{d}}
+Graph_coloring_1,{\displaystyle 1\leq \chi (G)\leq n.}
+Graph_coloring_2,{\displaystyle K_{n}}
+Graph_coloring_3,{\displaystyle \chi (K_{n})=n}
+Graph_coloring_4,{\displaystyle \chi (G)(\chi (G)-1)\leq 2m.}
+Graph_coloring_5,{\displaystyle {\mathcal {F}}}
+Graph_coloring_6,{\displaystyle \chi }
+Graph_coloring_7,{\displaystyle c}
+Graph_coloring_8,{\displaystyle G}
+Graph_coloring_9,{\displaystyle {\mathcal {F}}}
+Graph_coloring_10,{\displaystyle c(\omega (G))}
+Graph_coloring_11,{\displaystyle c(\omega (G))=\omega (G)}
+Graph_coloring_12,{\displaystyle \chi (G)\leq \Delta (G)+1.}
+Graph_coloring_13,{\displaystyle \chi (G)=n}
+Graph_coloring_14,{\displaystyle \Delta (G)=n-1}
+Graph_coloring_15,{\displaystyle \chi (G)=3}
+Graph_coloring_16,{\displaystyle \Delta (G)=2}
+Graph_coloring_17,{\displaystyle \chi (G)\leq \Delta (G)}
+Graph_coloring_18,{\displaystyle \chi (G)\geq \omega (G).}
+Graph_coloring_19,{\displaystyle W}
+Graph_coloring_20,"{\displaystyle W_{i,j}=0}"
+Graph_coloring_21,"{\displaystyle (i,j)}"
+Graph_coloring_22,{\displaystyle G}
+Graph_coloring_23,{\displaystyle \chi _{W}(G)=1-{\tfrac {\lambda _{\max }(W)}{\lambda _{\min }(W)}}}
+Graph_coloring_24,"{\displaystyle \lambda _{\max }(W),\lambda _{\min }(W)}"
+Graph_coloring_25,{\displaystyle W}
+Graph_coloring_27,{\displaystyle W}
+Graph_coloring_28,{\displaystyle \chi _{H}(G)\leq \chi (G).}
+Graph_coloring_29,{\displaystyle W}
+Graph_coloring_30,"{\displaystyle W_{i,j}\leq -{\tfrac {1}{k-1}}}"
+Graph_coloring_31,"{\displaystyle (i,j)}"
+Graph_coloring_32,{\displaystyle G}
+Graph_coloring_33,{\displaystyle \chi _{V}(G)}
+Graph_coloring_34,{\displaystyle W}
+Graph_coloring_35,{\displaystyle \chi _{V}(G)\leq \chi (G).}
+Graph_coloring_36,{\displaystyle \vartheta ({\bar {G}})\leq \chi (G).}
+Graph_coloring_37,{\displaystyle \chi _{f}(G)\leq \chi (G).}
+Graph_coloring_38,{\displaystyle \chi _{H}(G)\leq \chi _{V}(G)\leq \vartheta ({\bar {G}})\leq \chi _{f}(G)\leq \chi (G).}
+Graph_coloring_39,{\displaystyle \mathbb {R} ^{3}}
+Graph_coloring_40,{\displaystyle \mathbb {R} ^{3}}
+Graph_coloring_41,{\displaystyle \mathbb {R} ^{2}}
+Graph_coloring_42,{\displaystyle L(G)}
+Graph_coloring_43,{\displaystyle \chi '(G)=\chi (L(G)).}
+Graph_coloring_44,{\displaystyle \Delta (G)}
+Graph_coloring_45,{\displaystyle \chi '(G)\geq \Delta (G).}
+Graph_coloring_46,{\displaystyle \chi '(G)=\Delta (G)}
+Graph_coloring_47,{\displaystyle \Delta }
+Graph_coloring_48,{\displaystyle \Delta }
+Graph_coloring_49,{\displaystyle \Delta +1}
+Graph_coloring_50,{\displaystyle \omega (G)\leq \chi (G)\leq \Delta (G)+1.}
+Graph_coloring_51,{\displaystyle \chi (G)\leq \left\lceil {\frac {\omega (G)+\Delta (G)+1}{2}}\right\rceil .}
+Graph_coloring_52,"{\displaystyle P(G,t)}"
+Graph_coloring_53,"{\displaystyle [4,\infty )}"
+Graph_coloring_54,"{\displaystyle [5,\infty )}"
+Graph_coloring_55,"{\displaystyle P(G,4)\neq 0}"
+Graph_coloring_56,{\displaystyle k^{n}}
+Graph_coloring_57,"{\displaystyle k=1,\ldots ,n-1}"
+Graph_coloring_58,{\displaystyle O(2.4423^{n})}
+Graph_coloring_59,{\displaystyle O(2^{n}n)}
+Graph_coloring_60,{\displaystyle O(1.3289^{n})}
+Graph_coloring_61,{\displaystyle O(1.7272^{n})}
+Graph_coloring_62,{\displaystyle G/uv}
+Graph_coloring_63,"{\displaystyle \chi (G)={\text{min}}\{\chi (G+uv),\chi (G/uv)\}}"
+Graph_coloring_64,{\displaystyle G+uv}
+Graph_coloring_65,"{\displaystyle P(G-uv,k)=P(G/uv,k)+P(G,k)}"
+Graph_coloring_66,{\displaystyle G-uv}
+Graph_coloring_67,"{\displaystyle P(G-uv,k)}"
+Graph_coloring_68,{\displaystyle \left({\tfrac {1+{\sqrt {5}}}{2}}\right)^{n+m}=O(1.6180^{n+m})}
+Graph_coloring_69,{\displaystyle t(G)}
+Graph_coloring_70,{\displaystyle n/2}
+Graph_coloring_71,{\displaystyle v_{1}}
+Graph_coloring_72,{\displaystyle v_{n}}
+Graph_coloring_73,{\displaystyle v_{i}}
+Graph_coloring_74,{\displaystyle v_{i}}
+Graph_coloring_75,{\displaystyle v_{1}}
+Graph_coloring_76,{\displaystyle v_{i-1}}
+Graph_coloring_77,{\displaystyle \chi (G)}
+Graph_coloring_78,{\displaystyle n/2}
+Graph_coloring_79,"{\displaystyle {\text{max}}_{i}{\text{ min}}\{d(x_{i})+1,i\}}"
+Graph_coloring_80,{\displaystyle O(n^{2})}
+Graph_coloring_81,{\displaystyle n}
+Graph_coloring_82,{\displaystyle O((n+m)\log n)}
+Graph_coloring_83,{\displaystyle m}
+Graph_coloring_84,{\displaystyle O(mn)}
+Graph_coloring_85,{\displaystyle 2^{O\left({\sqrt {\log n}}\right)}}
+Graph_coloring_86,{\displaystyle \textstyle {\binom {k}{\lfloor k/2\rfloor }}-1}
+Graph_coloring_87,"{\displaystyle \chi (G,k)}"
+Graph_coloring_88,{\displaystyle K_{6}}

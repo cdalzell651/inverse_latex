@@ -1,0 +1,4 @@
+name,latex
+Polyhedral_graph_0,{\displaystyle \alpha <1}
+Polyhedral_graph_1,{\displaystyle n}
+Polyhedral_graph_2,{\displaystyle O(n^{\alpha })}

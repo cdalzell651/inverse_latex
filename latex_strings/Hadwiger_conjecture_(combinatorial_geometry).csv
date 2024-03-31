@@ -1,0 +1,10 @@
+name,latex
+Hadwiger_conjecture_(combinatorial_geometry)_0,{\displaystyle n}
+Hadwiger_conjecture_(combinatorial_geometry)_1,{\displaystyle 2^{n}}
+Hadwiger_conjecture_(combinatorial_geometry)_2,{\displaystyle K\subseteq \bigcup _{i=1}^{2^{n}}s_{i}K+v_{i}.}
+Hadwiger_conjecture_(combinatorial_geometry)_3,{\displaystyle \displaystyle 4^{n}\exp \left({\frac {-cn}{\log(n)}}\right)}
+Hadwiger_conjecture_(combinatorial_geometry)_4,{\displaystyle c}
+Hadwiger_conjecture_(combinatorial_geometry)_5,{\displaystyle n}
+Hadwiger_conjecture_(combinatorial_geometry)_6,{\displaystyle (n+1)n^{n-1}-(n-1)(n-2)^{n-1}}
+Hadwiger_conjecture_(combinatorial_geometry)_7,{\displaystyle (3/4)2^{n}}
+Hadwiger_conjecture_(combinatorial_geometry)_8,{\displaystyle n+1}

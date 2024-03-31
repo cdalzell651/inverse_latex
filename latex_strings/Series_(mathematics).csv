@@ -1,0 +1,267 @@
+name,latex
+Series_(mathematics)_0,"{\displaystyle \int _{a}^{b}f'(t)\,dt=f(b)-f(a)}"
+Series_(mathematics)_1,"{\displaystyle (a_{1},a_{2},a_{3},\ldots )}"
+Series_(mathematics)_2,"{\displaystyle a_{1}+a_{2}+a_{3}+\cdots ,}"
+Series_(mathematics)_3,{\displaystyle \sum _{i=1}^{\infty }a_{i}.}
+Series_(mathematics)_4,{\displaystyle \sum _{i=1}^{\infty }a_{i}=\lim _{n\to \infty }\sum _{i=1}^{n}a_{i}.}
+Series_(mathematics)_5,"{\displaystyle (a_{1},a_{2},a_{3},\ldots )}"
+Series_(mathematics)_7,{\displaystyle a+b}
+Series_(mathematics)_8,{\displaystyle \mathbb {R} }
+Series_(mathematics)_9,{\displaystyle \mathbb {C} }
+Series_(mathematics)_10,"{\displaystyle a_{0}+a_{1}+a_{2}+\cdots ,}"
+Series_(mathematics)_11,{\displaystyle (a_{n})}
+Series_(mathematics)_12,"{\displaystyle a_{0},a_{1},\dots }"
+Series_(mathematics)_13,{\displaystyle \sum _{n=0}^{\infty }a_{n}.}
+Series_(mathematics)_15,{\displaystyle s_{k}=\sum _{n=0}^{k}a_{n}=a_{0}+a_{1}+\cdots +a_{k}.}
+Series_(mathematics)_17,{\displaystyle L=\sum _{n=0}^{\infty }a_{n}.}
+Series_(mathematics)_18,{\displaystyle \sum _{n=0}^{\infty }a_{n}=\lim _{k\to \infty }s_{k}=\lim _{k\to \infty }\sum _{n=0}^{k}a_{n}.}
+Series_(mathematics)_19,{\displaystyle 1+{\frac {1}{2}}+{\frac {1}{4}}+{\frac {1}{8}}+\cdots +{\frac {1}{2^{n}}}+\cdots .}
+Series_(mathematics)_20,{\displaystyle S/2={\frac {1+{\frac {1}{2}}+{\frac {1}{4}}+{\frac {1}{8}}+\cdots }{2}}={\frac {1}{2}}+{\frac {1}{4}}+{\frac {1}{8}}+{\frac {1}{16}}+\cdots .}
+Series_(mathematics)_21,{\displaystyle S-S/2=1\Rightarrow S=2.}
+Series_(mathematics)_22,"{\displaystyle x=0.111\dots ,}"
+Series_(mathematics)_23,{\displaystyle \sum _{n=1}^{\infty }{\frac {1}{10^{n}}}.}
+Series_(mathematics)_24,{\displaystyle 1+{1 \over 2}+{1 \over 4}+{1 \over 8}+{1 \over 16}+\cdots =\sum _{n=0}^{\infty }{1 \over 2^{n}}=2.}
+Series_(mathematics)_25,{\displaystyle \sum _{n=0}^{\infty }z^{n}}
+Series_(mathematics)_28,{\displaystyle 1+{1 \over 2}+{1 \over 3}+{1 \over 4}+{1 \over 5}+\cdots =\sum _{n=1}^{\infty }{1 \over n}.}
+Series_(mathematics)_29,{\displaystyle 1-{1 \over 2}+{1 \over 3}-{1 \over 4}+{1 \over 5}-\cdots =\sum _{n=1}^{\infty }{\left(-1\right)^{n-1} \over n}=\ln(2)\quad }
+Series_(mathematics)_30,{\displaystyle -1+{\frac {1}{3}}-{\frac {1}{5}}+{\frac {1}{7}}-{\frac {1}{9}}+\cdots =\sum _{n=1}^{\infty }{\frac {\left(-1\right)^{n}}{2n-1}}=-{\frac {\pi }{4}}}
+Series_(mathematics)_31,{\displaystyle \sum _{n=1}^{\infty }(b_{n}-b_{n+1})}
+Series_(mathematics)_32,{\displaystyle 3+{5 \over 2}+{7 \over 4}+{9 \over 8}+{11 \over 16}+\cdots =\sum _{n=0}^{\infty }{(3+2n) \over 2^{n}}.}
+Series_(mathematics)_33,{\displaystyle \sum _{n=1}^{\infty }{\frac {1}{n^{p}}}}
+Series_(mathematics)_34,"{\displaystyle _{r}F_{s}\left[{\begin{matrix}a_{1},a_{2},\dotsc ,a_{r}\\b_{1},b_{2},\dotsc ,b_{s}\end{matrix}};z\right]:=\sum _{n=0}^{\infty }{\frac {(a_{1})_{n}(a_{2})_{n}\dotsb (a_{r})_{n}}{(b_{1})_{n}(b_{2})_{n}\dotsb (b_{s})_{n}\;n!}}z^{n}}"
+Series_(mathematics)_35,{\displaystyle \sum _{n=1}^{\infty }{\frac {1}{n^{3}\sin ^{2}n}}}
+Series_(mathematics)_36,{\displaystyle \pi }
+Series_(mathematics)_37,{\displaystyle \pi }
+Series_(mathematics)_38,{\displaystyle m\pi }
+Series_(mathematics)_39,{\displaystyle \sin n}
+Series_(mathematics)_40,{\displaystyle \sin m\pi =0}
+Series_(mathematics)_41,{\displaystyle \sum _{i=1}^{\infty }{\frac {1}{i^{2}}}={\frac {1}{1^{2}}}+{\frac {1}{2^{2}}}+{\frac {1}{3^{2}}}+{\frac {1}{4^{2}}}+\cdots ={\frac {\pi ^{2}}{6}}}
+Series_(mathematics)_42,{\displaystyle \sum _{i=1}^{\infty }{\frac {(-1)^{i+1}(4)}{2i-1}}={\frac {4}{1}}-{\frac {4}{3}}+{\frac {4}{5}}-{\frac {4}{7}}+{\frac {4}{9}}-{\frac {4}{11}}+{\frac {4}{13}}-\cdots =\pi }
+Series_(mathematics)_43,{\displaystyle \sum _{i=1}^{\infty }{\frac {(-1)^{i+1}}{i}}=\ln 2}
+Series_(mathematics)_44,{\displaystyle \sum _{i=0}^{\infty }{\frac {1}{(2i+1)(2i+2)}}=\ln 2}
+Series_(mathematics)_45,{\displaystyle \sum _{i=0}^{\infty }{\frac {(-1)^{i}}{(i+1)(i+2)}}=2\ln(2)-1}
+Series_(mathematics)_46,{\displaystyle \sum _{i=1}^{\infty }{\frac {1}{i\left(4i^{2}-1\right)}}=2\ln(2)-1}
+Series_(mathematics)_47,{\displaystyle \sum _{i=1}^{\infty }{\frac {1}{2^{i}i}}=\ln 2}
+Series_(mathematics)_48,{\displaystyle \sum _{i=1}^{\infty }\left({\frac {1}{3^{i}}}+{\frac {1}{4^{i}}}\right){\frac {1}{i}}=\ln 2}
+Series_(mathematics)_49,{\displaystyle \sum _{i=1}^{\infty }{\frac {1}{2i(2i-1)}}=\ln 2}
+Series_(mathematics)_50,{\displaystyle \sum _{i=0}^{\infty }{\frac {(-1)^{i}}{i!}}=1-{\frac {1}{1!}}+{\frac {1}{2!}}-{\frac {1}{3!}}+\cdots ={\frac {1}{e}}}
+Series_(mathematics)_51,{\displaystyle \sum _{i=0}^{\infty }{\frac {1}{i!}}={\frac {1}{0!}}+{\frac {1}{1!}}+{\frac {1}{2!}}+{\frac {1}{3!}}+{\frac {1}{4!}}+\cdots =e}
+Series_(mathematics)_53,{\displaystyle \sum _{n=1}^{\infty }{\frac {1}{n^{2}}}}
+Series_(mathematics)_54,"{\displaystyle {\frac {1}{n^{2}}}\leq {\frac {1}{n-1}}-{\frac {1}{n}},\quad n\geq 2,}"
+Series_(mathematics)_55,{\displaystyle \sum _{n=0}^{\infty }a_{n}}
+Series_(mathematics)_56,{\displaystyle \sum _{n=0}^{\infty }\left|a_{n}\right|}
+Series_(mathematics)_57,"{\displaystyle \sum \limits _{n=1}^{\infty }{(-1)^{n+1} \over n}=1-{1 \over 2}+{1 \over 3}-{1 \over 4}+{1 \over 5}-\cdots ,}"
+Series_(mathematics)_58,{\displaystyle \ln 2}
+Series_(mathematics)_59,{\displaystyle a_{n}}
+Series_(mathematics)_60,{\displaystyle S}
+Series_(mathematics)_61,{\displaystyle S}
+Series_(mathematics)_62,{\displaystyle \sum a_{n}=\sum \lambda _{n}b_{n}}
+Series_(mathematics)_63,{\displaystyle B_{n}=b_{0}+\cdots +b_{n}}
+Series_(mathematics)_64,{\displaystyle \lambda _{n}}
+Series_(mathematics)_65,{\displaystyle \lim \lambda _{n}b_{n}}
+Series_(mathematics)_66,"{\displaystyle \sup _{N}\left|\sum _{n=0}^{N}b_{n}\right|<\infty ,\ \ \sum \left|\lambda _{n+1}-\lambda _{n}\right|<\infty \ {\text{and}}\ \lambda _{n}B_{n}\ {\text{converges,}}}"
+Series_(mathematics)_68,{\displaystyle \sum _{n=2}^{\infty }{\frac {\sin(nx)}{\ln n}}}
+Series_(mathematics)_69,{\displaystyle 0<x<2\pi }
+Series_(mathematics)_70,{\displaystyle b_{n+1}=B_{n+1}-B_{n}}
+Series_(mathematics)_72,"{\displaystyle \sum (\lambda _{n}-\lambda _{n+1})\,B_{n}.}"
+Series_(mathematics)_74,{\displaystyle s_{n}}
+Series_(mathematics)_76,{\displaystyle S}
+Series_(mathematics)_77,{\displaystyle |S-s_{n}|\leq u_{n+1}.}
+Series_(mathematics)_78,"{\displaystyle \exp(X):=\sum _{k=0}^{\infty }{\frac {1}{k!}}X^{k},\quad X\in \mathbb {C} ^{n\times n},}"
+Series_(mathematics)_79,"{\displaystyle T_{r,s}(X):=\left[\sum _{j=0}^{r}{\frac {1}{j!}}(X/s)^{j}\right]^{s},\quad \|\exp(X)-T_{r,s}(X)\|\leq {\frac {\|X\|^{r+1}}{s^{r}(r+1)!}}\exp(\|X\|).}"
+Series_(mathematics)_83,{\displaystyle \left\vert a_{n}\right\vert \leq C\left\vert b_{n}\right\vert }
+Series_(mathematics)_84,{\displaystyle C}
+Series_(mathematics)_85,{\displaystyle n}
+Series_(mathematics)_88,{\displaystyle \left\vert a_{n}\right\vert \geq \left\vert b_{n}\right\vert }
+Series_(mathematics)_89,{\displaystyle n}
+Series_(mathematics)_91,{\displaystyle a_{n}}
+Series_(mathematics)_93,{\displaystyle \left\vert {\frac {a_{n+1}}{a_{n}}}\right\vert \leq \left\vert {\frac {b_{n+1}}{b_{n}}}\right\vert }
+Series_(mathematics)_94,{\displaystyle n}
+Series_(mathematics)_97,{\displaystyle \left\vert {\frac {a_{n+1}}{a_{n}}}\right\vert \geq \left\vert {\frac {b_{n+1}}{b_{n}}}\right\vert }
+Series_(mathematics)_98,{\displaystyle n}
+Series_(mathematics)_100,{\displaystyle a_{n}}
+Series_(mathematics)_101,{\displaystyle C<1}
+Series_(mathematics)_102,{\displaystyle \left\vert {\frac {a_{n+1}}{a_{n}}}\right\vert <C}
+Series_(mathematics)_103,{\displaystyle n}
+Series_(mathematics)_105,{\displaystyle 1}
+Series_(mathematics)_106,{\displaystyle 1}
+Series_(mathematics)_107,{\displaystyle C<1}
+Series_(mathematics)_108,{\displaystyle \left\vert a_{n}\right\vert ^{\frac {1}{n}}\leq C}
+Series_(mathematics)_109,{\displaystyle n}
+Series_(mathematics)_111,{\displaystyle f(x)}
+Series_(mathematics)_112,"{\displaystyle [1,\infty )}"
+Series_(mathematics)_113,{\displaystyle f(n)=a_{n}}
+Series_(mathematics)_114,{\displaystyle n}
+Series_(mathematics)_117,{\displaystyle a_{n}}
+Series_(mathematics)_121,{\displaystyle a_{n}>0}
+Series_(mathematics)_122,{\displaystyle a_{n}}
+Series_(mathematics)_123,{\displaystyle 0}
+Series_(mathematics)_124,{\displaystyle \sum _{n=0}^{\infty }f_{n}(x)}
+Series_(mathematics)_125,{\displaystyle s_{N}(x)=\sum _{n=0}^{N}f_{n}(x)}
+Series_(mathematics)_126,{\displaystyle |s_{N}(x)-f(x)|}
+Series_(mathematics)_127,"{\displaystyle \int _{E}\left|s_{N}(x)-f(x)\right|^{2}\,dx\to 0}"
+Series_(mathematics)_128,{\displaystyle \sum _{n=0}^{\infty }a_{n}(x-c)^{n}.}
+Series_(mathematics)_129,{\displaystyle \sum _{n=0}^{\infty }{\frac {x^{n}}{n!}}}
+Series_(mathematics)_130,{\displaystyle e^{x}}
+Series_(mathematics)_131,{\displaystyle \sum _{n=-\infty }^{\infty }a_{n}x^{n}.}
+Series_(mathematics)_132,"{\displaystyle \sum _{n=1}^{\infty }{a_{n} \over n^{s}},}"
+Series_(mathematics)_133,{\displaystyle \zeta (s)=\sum _{n=1}^{\infty }{\frac {1}{n^{s}}}.}
+Series_(mathematics)_134,{\displaystyle \mathbb {C} \setminus \{1\}}
+Series_(mathematics)_135,{\displaystyle {\frac {1}{2}}A_{0}+\sum _{n=1}^{\infty }\left(A_{n}\cos nx+B_{n}\sin nx\right).}
+Series_(mathematics)_136,{\displaystyle 1+{\frac {\alpha \beta }{1\cdot \gamma }}x+{\frac {\alpha (\alpha +1)\beta (\beta +1)}{1\cdot 2\cdot \gamma (\gamma +1)}}x^{2}+\cdots }
+Series_(mathematics)_137,{\displaystyle 1+{\frac {m}{1!}}x+{\frac {m(m-1)}{2!}}x^{2}+\cdots }
+Series_(mathematics)_138,{\displaystyle m}
+Series_(mathematics)_139,{\displaystyle x}
+Series_(mathematics)_140,{\displaystyle F(x)=1^{n}+2^{n}+\cdots +(x-1)^{n}.}
+Series_(mathematics)_141,{\displaystyle I.}
+Series_(mathematics)_142,{\displaystyle I}
+Series_(mathematics)_143,{\displaystyle I}
+Series_(mathematics)_144,{\displaystyle a:I\mapsto G}
+Series_(mathematics)_145,{\displaystyle I}
+Series_(mathematics)_146,"{\displaystyle G,}"
+Series_(mathematics)_147,{\displaystyle a}
+Series_(mathematics)_148,{\displaystyle a(x)\in G}
+Series_(mathematics)_149,{\displaystyle x\in I}
+Series_(mathematics)_150,{\displaystyle \sum _{x\in I}a(x).}
+Series_(mathematics)_151,"{\displaystyle I=\mathbb {N} ,}"
+Series_(mathematics)_152,{\displaystyle a:\mathbb {N} \mapsto G}
+Series_(mathematics)_153,{\displaystyle a(n)=a_{n}.}
+Series_(mathematics)_156,{\displaystyle \sum _{n=0}^{\infty }a_{n}=a_{0}+a_{1}+a_{2}+\cdots .}
+Series_(mathematics)_157,{\displaystyle \left\{a_{i}:i\in I\right\}}
+Series_(mathematics)_158,"{\displaystyle \sum _{i\in I}a_{i}=\sup \left\{\sum _{i\in A}a_{i}\,:A\subseteq I,A{\text{ finite}}\right\}\in [0,+\infty ].}"
+Series_(mathematics)_159,{\displaystyle i\in I}
+Series_(mathematics)_160,{\displaystyle a_{i}>0}
+Series_(mathematics)_161,"{\displaystyle n\geq 1,}"
+Series_(mathematics)_162,{\displaystyle \left|A_{n}\right|}
+Series_(mathematics)_163,{\displaystyle A_{n}=\left\{i\in I:a_{i}>1/n\right\}}
+Series_(mathematics)_164,"{\displaystyle {\frac {1}{n}}\,\left|A_{n}\right|=\sum _{i\in A_{n}}{\frac {1}{n}}\leq \sum _{i\in A_{n}}a_{i}\leq \sum _{i\in I}a_{i}<\infty .}"
+Series_(mathematics)_165,{\displaystyle I}
+Series_(mathematics)_166,"{\displaystyle I=\left\{i_{0},i_{1},\ldots \right\}}"
+Series_(mathematics)_167,"{\displaystyle \sum _{i\in I}a_{i}=\sum _{k=0}^{+\infty }a_{i_{k}},}"
+Series_(mathematics)_168,{\displaystyle \infty }
+Series_(mathematics)_169,{\displaystyle a:I\to X}
+Series_(mathematics)_170,"{\displaystyle \left(a_{i}\right)_{i\in I},}"
+Series_(mathematics)_171,{\displaystyle I}
+Series_(mathematics)_172,{\displaystyle X.}
+Series_(mathematics)_173,{\displaystyle \operatorname {Finite} (I)}
+Series_(mathematics)_174,"{\displaystyle I,}"
+Series_(mathematics)_175,{\displaystyle \operatorname {Finite} (I)}
+Series_(mathematics)_176,"{\displaystyle \,\subseteq \,}"
+Series_(mathematics)_177,"{\displaystyle \left(a_{i}\right)_{i\in I},}"
+Series_(mathematics)_178,{\displaystyle \sum _{i\in I}a_{i}}
+Series_(mathematics)_179,"{\displaystyle \left(a_{i}\right)_{i\in I},}"
+Series_(mathematics)_180,{\displaystyle X:}
+Series_(mathematics)_181,"{\displaystyle \sum _{i\in I}a_{i}:=\lim _{A\in \operatorname {Finite} (I)}\ \sum _{i\in A}a_{i}=\lim \left\{\sum _{i\in A}a_{i}\,:A\subseteq I,A{\text{ finite }}\right\}}"
+Series_(mathematics)_182,{\displaystyle S:=\sum _{i\in I}a_{i}}
+Series_(mathematics)_183,{\displaystyle V}
+Series_(mathematics)_184,"{\displaystyle X,}"
+Series_(mathematics)_185,{\displaystyle A_{0}}
+Series_(mathematics)_186,{\displaystyle I}
+Series_(mathematics)_187,{\displaystyle S-\sum _{i\in A}a_{i}\in V\qquad {\text{ for every finite superset}}\;A\supseteq A_{0}.}
+Series_(mathematics)_188,{\displaystyle \operatorname {Finite} (I)}
+Series_(mathematics)_189,{\displaystyle W}
+Series_(mathematics)_190,"{\displaystyle X,}"
+Series_(mathematics)_191,{\displaystyle V}
+Series_(mathematics)_192,{\displaystyle V-V\subseteq W.}
+Series_(mathematics)_193,"{\displaystyle \left(a_{i}\right)_{i\in I},}"
+Series_(mathematics)_194,{\displaystyle W}
+Series_(mathematics)_195,"{\displaystyle X,}"
+Series_(mathematics)_196,{\displaystyle A_{0}}
+Series_(mathematics)_197,{\displaystyle I}
+Series_(mathematics)_198,"{\displaystyle \sum _{i\in A_{1}}a_{i}-\sum _{i\in A_{2}}a_{i}\in W\qquad {\text{ for all finite supersets }}\;A_{1},A_{2}\supseteq A_{0},}"
+Series_(mathematics)_199,{\displaystyle a_{i}\in W}
+Series_(mathematics)_200,{\displaystyle i\in I\setminus A_{0}}
+Series_(mathematics)_201,{\displaystyle A_{1}:=A_{0}\cup \{i\}}
+Series_(mathematics)_202,{\displaystyle A_{2}:=A_{0}}
+Series_(mathematics)_203,{\displaystyle X}
+Series_(mathematics)_204,{\displaystyle \left(a_{i}\right)_{i\in I}}
+Series_(mathematics)_205,{\displaystyle X}
+Series_(mathematics)_206,{\displaystyle X}
+Series_(mathematics)_207,"{\displaystyle \left(a_{i}\right)_{i\in I},}"
+Series_(mathematics)_208,"{\displaystyle X,}"
+Series_(mathematics)_209,"{\displaystyle J\subseteq I,}"
+Series_(mathematics)_210,"{\displaystyle \left(a_{j}\right)_{j\in J},}"
+Series_(mathematics)_211,{\displaystyle X.}
+Series_(mathematics)_212,{\displaystyle X=\mathbb {R} .}
+Series_(mathematics)_213,{\displaystyle \left(a_{i}\right)_{i\in I}}
+Series_(mathematics)_214,{\displaystyle X}
+Series_(mathematics)_215,{\displaystyle W}
+Series_(mathematics)_216,"{\displaystyle X,}"
+Series_(mathematics)_217,{\displaystyle A_{0}\subseteq I}
+Series_(mathematics)_218,{\displaystyle a_{i}\in W}
+Series_(mathematics)_219,{\displaystyle i}
+Series_(mathematics)_220,{\displaystyle A_{0}.}
+Series_(mathematics)_221,{\displaystyle X}
+Series_(mathematics)_222,{\displaystyle i\in I}
+Series_(mathematics)_223,{\displaystyle a_{i}\neq 0}
+Series_(mathematics)_224,{\displaystyle I=\mathbb {N} .}
+Series_(mathematics)_225,"{\displaystyle a_{n},n\in \mathbb {N} ,}"
+Series_(mathematics)_226,"{\displaystyle X,}"
+Series_(mathematics)_227,{\displaystyle \sum _{n=0}^{\infty }a_{n}=\sum _{n\in \mathbb {N} }a_{n}.}
+Series_(mathematics)_228,{\displaystyle \sum a_{n}}
+Series_(mathematics)_229,{\displaystyle \sigma :\mathbb {N} \to \mathbb {N} }
+Series_(mathematics)_230,{\displaystyle \mathbb {N} }
+Series_(mathematics)_231,{\displaystyle \sum _{n=0}^{\infty }a_{\sigma (n)}=\sum _{n=0}^{\infty }a_{n}.}
+Series_(mathematics)_232,{\displaystyle \sum a_{n}}
+Series_(mathematics)_233,{\displaystyle X}
+Series_(mathematics)_234,{\displaystyle X}
+Series_(mathematics)_235,{\displaystyle \varepsilon _{n}=\pm 1}
+Series_(mathematics)_236,{\displaystyle \sum _{n=0}^{\infty }\varepsilon _{n}a_{n}}
+Series_(mathematics)_237,{\displaystyle X.}
+Series_(mathematics)_238,{\displaystyle X}
+Series_(mathematics)_239,{\displaystyle \left(x_{i}\right)_{i\in I}}
+Series_(mathematics)_240,{\displaystyle X}
+Series_(mathematics)_241,{\displaystyle \lim _{A\in \operatorname {Finite} (I)}x_{A}}
+Series_(mathematics)_242,{\displaystyle \left(x_{A}\right)_{A\in \operatorname {Finite} (I)}}
+Series_(mathematics)_243,"{\displaystyle X,}"
+Series_(mathematics)_244,{\displaystyle \operatorname {Finite} (I)}
+Series_(mathematics)_245,{\displaystyle I}
+Series_(mathematics)_246,"{\displaystyle \,\subseteq \,}"
+Series_(mathematics)_248,{\displaystyle p}
+Series_(mathematics)_249,"{\displaystyle X,}"
+Series_(mathematics)_250,{\displaystyle \left(p\left(x_{i}\right)\right)_{i\in I}}
+Series_(mathematics)_251,{\displaystyle X}
+Series_(mathematics)_252,{\displaystyle \left(x_{i}\right)_{i\in I}}
+Series_(mathematics)_253,"{\displaystyle X,}"
+Series_(mathematics)_254,{\displaystyle x_{i}}
+Series_(mathematics)_255,{\displaystyle x_{n}}
+Series_(mathematics)_256,{\displaystyle X}
+Series_(mathematics)_257,{\displaystyle x\in X}
+Series_(mathematics)_258,{\displaystyle \sum x_{n}}
+Series_(mathematics)_259,{\displaystyle x}
+Series_(mathematics)_260,{\displaystyle X}
+Series_(mathematics)_262,{\displaystyle x}
+Series_(mathematics)_263,{\displaystyle X}
+Series_(mathematics)_264,{\displaystyle \left\|x-\sum _{n=0}^{N}x_{n}\right\|\to 0\quad {\text{ as }}N\to \infty .}
+Series_(mathematics)_265,{\displaystyle \sum x_{n}}
+Series_(mathematics)_266,{\displaystyle x}
+Series_(mathematics)_267,{\displaystyle x.}
+Series_(mathematics)_268,"{\displaystyle (X,|\cdot |)}"
+Series_(mathematics)_270,{\displaystyle X}
+Series_(mathematics)_271,{\displaystyle \sum _{i\in I}\left|x_{i}\right|<+\infty }
+Series_(mathematics)_272,{\displaystyle \left|x_{i}\right|}
+Series_(mathematics)_273,{\displaystyle I}
+Series_(mathematics)_274,{\displaystyle \alpha _{0}.}
+Series_(mathematics)_275,{\displaystyle \sum _{\beta <\alpha +1}a_{\beta }=a_{\alpha }+\sum _{\beta <\alpha }a_{\beta }}
+Series_(mathematics)_276,"{\displaystyle \alpha ,}"
+Series_(mathematics)_277,{\displaystyle \sum _{\beta <\alpha }a_{\beta }=\lim _{\gamma \to \alpha }\sum _{\beta <\gamma }a_{\beta }}
+Series_(mathematics)_278,"{\displaystyle \alpha _{0},}"
+Series_(mathematics)_279,{\displaystyle f:X\to Y}
+Series_(mathematics)_280,"{\displaystyle Y,}"
+Series_(mathematics)_281,"{\displaystyle a\in X,}"
+Series_(mathematics)_282,"{\displaystyle f_{a}(x)={\begin{cases}0&x\neq a,\\f(a)&x=a,\\\end{cases}}}"
+Series_(mathematics)_283,{\displaystyle \{a\}.}
+Series_(mathematics)_284,{\displaystyle f=\sum _{a\in X}f_{a}}
+Series_(mathematics)_285,{\displaystyle Y^{X}}
+Series_(mathematics)_286,"{\displaystyle I,}"
+Series_(mathematics)_287,{\displaystyle \sum _{i\in I}\varphi _{i}(x)=1.}
+Series_(mathematics)_288,"{\displaystyle x,}"
+Series_(mathematics)_289,{\displaystyle x}
+Series_(mathematics)_290,{\displaystyle x}
+Series_(mathematics)_291,"{\displaystyle \varphi _{i},}"
+Series_(mathematics)_292,{\displaystyle \omega _{1}}
+Series_(mathematics)_293,"{\displaystyle f:\left[0,\omega _{1}\right)\to \left[0,\omega _{1}\right]}"
+Series_(mathematics)_294,{\displaystyle f(\alpha )=1}
+Series_(mathematics)_295,"{\displaystyle \sum _{\alpha \in [0,\omega _{1})}f(\alpha )=\omega _{1}}"
+Series_(mathematics)_296,{\displaystyle \omega _{1}}
+Series_(mathematics)_297,{\displaystyle \omega _{1}}

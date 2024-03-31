@@ -1,0 +1,17 @@
+name,latex
+Chain_(algebraic_topology)_0,{\displaystyle X}
+Chain_(algebraic_topology)_1,{\displaystyle C_{n}(X)}
+Chain_(algebraic_topology)_2,{\displaystyle n}
+Chain_(algebraic_topology)_3,{\displaystyle X}
+Chain_(algebraic_topology)_4,{\displaystyle C_{n}(X)=\left\{\sum \limits _{i}m_{i}\sigma _{i}|m_{i}\in \mathbb {Z} \right\}}
+Chain_(algebraic_topology)_5,{\displaystyle \sigma _{i}}
+Chain_(algebraic_topology)_6,{\displaystyle n}
+Chain_(algebraic_topology)_7,{\displaystyle X}
+Chain_(algebraic_topology)_8,{\displaystyle C_{n}(X)}
+Chain_(algebraic_topology)_9,"{\displaystyle c=t_{1}+t_{2}+t_{3}\,}"
+Chain_(algebraic_topology)_10,"{\displaystyle v_{1}\,}"
+Chain_(algebraic_topology)_11,"{\displaystyle v_{4}\,}"
+Chain_(algebraic_topology)_12,"{\displaystyle t_{1}=[v_{1},v_{2}]\,}"
+Chain_(algebraic_topology)_13,"{\displaystyle t_{2}=[v_{2},v_{3}]\,}"
+Chain_(algebraic_topology)_14,"{\displaystyle t_{3}=[v_{3},v_{4}]\,}"
+Chain_(algebraic_topology)_15,"{\displaystyle {\begin{aligned}\partial _{1}c&=\partial _{1}(t_{1}+t_{2}+t_{3})\\&=\partial _{1}(t_{1})+\partial _{1}(t_{2})+\partial _{1}(t_{3})\\&=\partial _{1}([v_{1},v_{2}])+\partial _{1}([v_{2},v_{3}])+\partial _{1}([v_{3},v_{4}])\\&=([v_{2}]-[v_{1}])+([v_{3}]-[v_{2}])+([v_{4}]-[v_{3}])\\&=[v_{4}]-[v_{1}].\end{aligned}}}"

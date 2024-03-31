@@ -1,0 +1,32 @@
+name,latex
+Abstract_algebra_0,{\displaystyle a-b}
+Abstract_algebra_1,{\displaystyle a\geq b}
+Abstract_algebra_2,{\displaystyle (-a)(-b)=ab}
+Abstract_algebra_3,"{\displaystyle a=0,c=0}"
+Abstract_algebra_4,{\displaystyle (a-b)(c-d)=ac+bd-ad-bc}
+Abstract_algebra_5,{\displaystyle {\sqrt {a}}{\sqrt {b}}={\sqrt {ab}}}
+Abstract_algebra_6,{\displaystyle b\neq c\to a\cdot b\neq a\cdot c}
+Abstract_algebra_7,{\displaystyle \mathbb {R} }
+Abstract_algebra_8,{\displaystyle \mathbb {R} }
+Abstract_algebra_9,{\displaystyle \mathbb {C} }
+Abstract_algebra_10,{\displaystyle \mathbb {Q} (\zeta _{23}))}
+Abstract_algebra_11,"{\displaystyle \mathbb {R} [x,y]}"
+Abstract_algebra_12,{\displaystyle p^{n}}
+Abstract_algebra_13,{\displaystyle G}
+Abstract_algebra_14,{\displaystyle \cdot :G\times G\rightarrow G}
+Abstract_algebra_15,{\displaystyle e}
+Abstract_algebra_16,{\displaystyle a}
+Abstract_algebra_17,{\displaystyle G}
+Abstract_algebra_18,{\displaystyle e\cdot a=a\cdot e=a}
+Abstract_algebra_19,{\displaystyle a}
+Abstract_algebra_20,{\displaystyle G}
+Abstract_algebra_21,{\displaystyle b}
+Abstract_algebra_22,{\displaystyle a\cdot b=b\cdot a=e}
+Abstract_algebra_23,"{\displaystyle a,b,c}"
+Abstract_algebra_24,{\displaystyle G}
+Abstract_algebra_25,{\displaystyle (a\cdot b)\cdot c=a\cdot (b\cdot c)}
+Abstract_algebra_26,{\displaystyle R}
+Abstract_algebra_27,"{\displaystyle (x,y)\mapsto x+y,}"
+Abstract_algebra_28,"{\displaystyle (x,y)\mapsto xy}"
+Abstract_algebra_29,{\displaystyle R}
+Abstract_algebra_30,{\displaystyle R}

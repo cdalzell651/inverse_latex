@@ -1,0 +1,13 @@
+name,latex
+Edge_(graph_theory)_0,{\displaystyle A}
+Edge_(graph_theory)_1,{\displaystyle G}
+Edge_(graph_theory)_2,{\displaystyle v\in G\setminus A}
+Edge_(graph_theory)_3,{\displaystyle v}
+Edge_(graph_theory)_4,{\displaystyle A}
+Edge_(graph_theory)_5,{\displaystyle x\leq y}
+Edge_(graph_theory)_6,{\displaystyle b_{i}}
+Edge_(graph_theory)_7,{\displaystyle B_{i}}
+Edge_(graph_theory)_8,{\displaystyle {\bar {G}}}
+Edge_(graph_theory)_9,{\displaystyle 2{\sqrt {d-1}}}
+Edge_(graph_theory)_10,"{\displaystyle K_{3,3}}"
+Edge_(graph_theory)_11,"{\displaystyle K_{3,3}}"

@@ -1,0 +1,22 @@
+name,latex
+Common_logarithm_0,{\displaystyle \log _{10}(120)=\log _{10}\left(10^{2}\times 1.2\right)=2+\log _{10}(1.2)\approx 2+0.07918.}
+Common_logarithm_1,{\displaystyle \log _{10}(0.012)=\log _{10}\left(10^{-2}\times 1.2\right)=-2+\log _{10}(1.2)\approx -2+0.07918=-1.92082.}
+Common_logarithm_2,{\displaystyle \log _{10}(0.012)\approx {\bar {2}}+0.07918=-1.92082.}
+Common_logarithm_3,{\displaystyle {\bar {n}}}
+Common_logarithm_4,{\displaystyle {\bar {2}}.07918}
+Common_logarithm_5,"{\displaystyle \log _{10}(0.012)\approx 8.07918{\bmod {1}}0,}"
+Common_logarithm_6,"{\displaystyle {\begin{array}{rll}{\text{As found above,}}&\log _{10}(0.012)\approx {\bar {2}}.07918\\{\text{Since}}\;\;\log _{10}(0.85)&=\log _{10}\left(10^{-1}\times 8.5\right)=-1+\log _{10}(8.5)&\approx -1+0.92942={\bar {1}}.92942\\\log _{10}(0.012\times 0.85)&=\log _{10}(0.012)+\log _{10}(0.85)&\approx {\bar {2}}.07918+{\bar {1}}.92942\\&=(-2+0.07918)+(-1+0.92942)&=-(2+1)+(0.07918+0.92942)\\&=-3+1.00860&=-2+0.00860\;^{*}\\&\approx \log _{10}\left(10^{-2}\right)+\log _{10}(1.02)&=\log _{10}(0.01\times 1.02)\\&=\log _{10}(0.0102).\end{array}}}"
+Common_logarithm_7,{\displaystyle x}
+Common_logarithm_8,{\displaystyle \log _{10}\left(x\times 10^{i}\right)=\log _{10}(x)+\log _{10}\left(10^{i}\right)=\log _{10}(x)+i.}
+Common_logarithm_9,{\displaystyle \log _{10}(x)}
+Common_logarithm_10,{\displaystyle x}
+Common_logarithm_11,{\displaystyle \log _{10}(x)={\frac {\ln(x)}{\ln(10)}}\quad }
+Common_logarithm_12,{\displaystyle \quad \log _{10}(x)={\frac {\log _{2}(x)}{\log _{2}(10)}}\quad }
+Common_logarithm_13,{\displaystyle \quad \log _{10}(x)={\frac {\log _{B}(x)}{\log _{B}(10)}}\quad }
+Common_logarithm_14,"{\displaystyle \,B~.}"
+Common_logarithm_15,{\displaystyle {d \over dx}\log _{b}(x)={1 \over x\ln(b)}}
+Common_logarithm_16,{\displaystyle {d \over dx}\log _{10}(x)={1 \over x\ln(10)}}
+Common_logarithm_17,{\displaystyle \log b=6.51335464}
+Common_logarithm_18,{\displaystyle \log e=8.9054355}
+Common_logarithm_19,{\displaystyle b=10^{6.51335464}}
+Common_logarithm_20,{\displaystyle e=10^{8.9054355-10}}

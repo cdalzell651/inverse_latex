@@ -1,0 +1,41 @@
+name,latex
+Partial_differential_equation_0,{\displaystyle {\frac {\partial ^{2}u}{\partial x^{2}}}+{\frac {\partial ^{2}u}{\partial y^{2}}}+{\frac {\partial ^{2}u}{\partial z^{2}}}=0.}
+Partial_differential_equation_1,"{\displaystyle u(x,y,z)={\frac {1}{\sqrt {x^{2}-2x+y^{2}+z^{2}+1}}}}"
+Partial_differential_equation_2,"{\displaystyle u(x,y,z)=2x^{2}-y^{2}-z^{2}}"
+Partial_differential_equation_3,"{\displaystyle u(x,y,z)=\sin(xy)+z}"
+Partial_differential_equation_4,{\displaystyle {\frac {\partial ^{2}v}{\partial x\partial y}}=0.}
+Partial_differential_equation_5,{\displaystyle {\frac {\partial ^{2}u}{\partial x^{2}}}+{\frac {\partial ^{2}u}{\partial y^{2}}}=0}
+Partial_differential_equation_6,{\displaystyle {\frac {\partial ^{2}u}{\partial x^{2}}}-{\frac {\partial ^{2}u}{\partial y^{2}}}=0}
+Partial_differential_equation_7,"{\displaystyle {\frac {\partial }{\partial x}}{\frac {\frac {\partial u}{\partial x}}{\sqrt {1+\left({\frac {\partial u}{\partial x}}\right)^{2}+\left({\frac {\partial u}{\partial y}}\right)^{2}}}}+{\frac {\partial }{\partial y}}{\frac {\frac {\partial u}{\partial y}}{\sqrt {1+\left({\frac {\partial u}{\partial x}}\right)^{2}+\left({\frac {\partial u}{\partial y}}\right)^{2}}}}=0,}"
+Partial_differential_equation_8,"{\displaystyle {\frac {\partial u}{\partial t}}+\alpha {\frac {\partial u}{\partial x}}=0,\quad x\in [a,b],t>0,}"
+Partial_differential_equation_9,{\displaystyle \alpha \neq 0}
+Partial_differential_equation_10,"{\displaystyle u(x,t)}"
+Partial_differential_equation_11,"{\displaystyle u(x,0)=f(x)}"
+Partial_differential_equation_12,{\displaystyle u}
+Partial_differential_equation_13,{\displaystyle \int _{a}^{b}u{\frac {\partial u}{\partial t}}\mathrm {d} x+\alpha \int _{a}^{b}u{\frac {\partial u}{\partial x}}\mathrm {d} x=0.}
+Partial_differential_equation_14,"{\displaystyle \int _{a}^{b}u{\frac {\partial u}{\partial t}}\mathrm {d} x={\frac {1}{2}}{\frac {\partial }{\partial t}}\|u\|^{2}\quad {\text{and}}\quad \int _{a}^{b}u{\frac {\partial u}{\partial x}}\mathrm {d} x={\frac {1}{2}}u(b,t)^{2}-{\frac {1}{2}}u(a,t)^{2},}"
+Partial_differential_equation_15,"{\displaystyle {\frac {\partial }{\partial t}}\|u\|^{2}+\alpha u(b,t)^{2}-\alpha u(a,t)^{2}=0.}"
+Partial_differential_equation_16,{\displaystyle \|\cdot \|}
+Partial_differential_equation_17,{\displaystyle L^{2}}
+Partial_differential_equation_19,{\displaystyle u}
+Partial_differential_equation_20,{\displaystyle x=a}
+Partial_differential_equation_21,{\displaystyle \alpha >0}
+Partial_differential_equation_22,{\displaystyle x=b}
+Partial_differential_equation_23,{\displaystyle \alpha <0}
+Partial_differential_equation_25,"{\displaystyle u_{x}={\frac {\partial u}{\partial x}},\quad u_{xx}={\frac {\partial ^{2}u}{\partial x^{2}}},\quad u_{xy}={\frac {\partial ^{2}u}{\partial y\,\partial x}}={\frac {\partial }{\partial y}}\left({\frac {\partial u}{\partial x}}\right).}"
+Partial_differential_equation_26,{\displaystyle \Delta u=u_{11}+u_{22}+\cdots +u_{nn}.}
+Partial_differential_equation_27,"{\displaystyle a_{1}(x,y)u_{xx}+a_{2}(x,y)u_{xy}+a_{3}(x,y)u_{yx}+a_{4}(x,y)u_{yy}+a_{5}(x,y)u_{x}+a_{6}(x,y)u_{y}+a_{7}(x,y)u=f(x,y)}"
+Partial_differential_equation_28,"{\displaystyle a_{1}(x,y)u_{xx}+a_{2}(x,y)u_{xy}+a_{3}(x,y)u_{yx}+a_{4}(x,y)u_{yy}+f(u_{x},u_{y},u,x,y)=0}"
+Partial_differential_equation_29,"{\displaystyle a_{1}(u_{x},u_{y},u,x,y)u_{xx}+a_{2}(u_{x},u_{y},u,x,y)u_{xy}+a_{3}(u_{x},u_{y},u,x,y)u_{yx}+a_{4}(u_{x},u_{y},u,x,y)u_{yy}+f(u_{x},u_{y},u,x,y)=0}"
+Partial_differential_equation_30,"{\displaystyle Au_{xx}+2Bu_{xy}+Cu_{yy}+\cdots {\mbox{(lower order terms)}}=0,}"
+Partial_differential_equation_31,{\displaystyle Ax^{2}+2Bxy+Cy^{2}+\cdots =0.}
+Partial_differential_equation_32,{\displaystyle u_{xx}+u_{yy}+\cdots =0.}
+Partial_differential_equation_33,{\displaystyle u_{xx}+\cdots =0.}
+Partial_differential_equation_35,{\displaystyle u_{xx}-u_{yy}+\cdots =0.}
+Partial_differential_equation_36,"{\displaystyle Lu=\sum _{i=1}^{n}\sum _{j=1}^{n}a_{i,j}{\frac {\partial ^{2}u}{\partial x_{i}\partial x_{j}}}\quad +{\text{lower-order terms}}=0.}"
+Partial_differential_equation_37,"{\displaystyle Lu=\sum _{\nu =1}^{n}A_{\nu }{\frac {\partial u}{\partial x_{\nu }}}+B=0,}"
+Partial_differential_equation_38,"{\displaystyle \varphi (x_{1},x_{2},\ldots ,x_{n})=0,}"
+Partial_differential_equation_39,"{\displaystyle Q\left({\frac {\partial \varphi }{\partial x_{1}}},\ldots ,{\frac {\partial \varphi }{\partial x_{n}}}\right)=\det \left[\sum _{\nu =1}^{n}A_{\nu }{\frac {\partial \varphi }{\partial x_{\nu }}}\right]=0.}"
+Partial_differential_equation_40,{\displaystyle {\frac {\partial V}{\partial t}}+{\tfrac {1}{2}}\sigma ^{2}S^{2}{\frac {\partial ^{2}V}{\partial S^{2}}}+rS{\frac {\partial V}{\partial S}}-rV=0}
+Partial_differential_equation_41,{\displaystyle {\frac {\partial u}{\partial \tau }}={\frac {\partial ^{2}u}{\partial x^{2}}}}
+Partial_differential_equation_42,"{\displaystyle {\begin{aligned}V(S,t)&=v(x,\tau ),\\[5px]x&=\ln \left(S\right),\\[5px]\tau &={\tfrac {1}{2}}\sigma ^{2}(T-t),\\[5px]v(x,\tau )&=e^{-\alpha x-\beta \tau }u(x,\tau ).\end{aligned}}}"

@@ -1,0 +1,5 @@
+name,latex
+Archimedes_1,{\displaystyle \sum _{n=0}^{\infty }4^{-n}=1+4^{-1}+4^{-2}+4^{-3}+\cdots ={4 \over 3}.\;}
+Archimedes_2,"{\displaystyle \,r=a+b\theta }"
+Archimedes_3,{\displaystyle k={\sqrt {s(s-a)(s-b)(s-c)}}}
+Archimedes_4,{\displaystyle s}

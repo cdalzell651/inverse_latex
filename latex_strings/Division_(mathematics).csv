@@ -1,0 +1,39 @@
+name,latex
+Division_(mathematics)_0,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{term}}\,+\,{\text{term}}\\\scriptstyle {\text{summand}}\,+\,{\text{summand}}\\\scriptstyle {\text{addend}}\,+\,{\text{addend}}\\\scriptstyle {\text{augend}}\,+\,{\text{addend}}\end{matrix}}\right\}\,=\,}"
+Division_(mathematics)_1,{\displaystyle \scriptstyle {\text{sum}}}
+Division_(mathematics)_2,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{term}}\,-\,{\text{term}}\\\scriptstyle {\text{minuend}}\,-\,{\text{subtrahend}}\end{matrix}}\right\}\,=\,}"
+Division_(mathematics)_3,{\displaystyle \scriptstyle {\text{difference}}}
+Division_(mathematics)_4,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{factor}}\,\times \,{\text{factor}}\\\scriptstyle {\text{multiplier}}\,\times \,{\text{multiplicand}}\end{matrix}}\right\}\,=\,}"
+Division_(mathematics)_5,{\displaystyle \scriptstyle {\text{product}}}
+Division_(mathematics)_6,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\frac {\scriptstyle {\text{dividend}}}{\scriptstyle {\text{divisor}}}}\\[1ex]\scriptstyle {\frac {\scriptstyle {\text{numerator}}}{\scriptstyle {\text{denominator}}}}\end{matrix}}\right\}\,=\,}"
+Division_(mathematics)_7,{\displaystyle \scriptstyle \left\{{\begin{matrix}\scriptstyle {\text{fraction}}\\\scriptstyle {\text{quotient}}\\\scriptstyle {\text{ratio}}\end{matrix}}\right.}
+Division_(mathematics)_8,"{\displaystyle \scriptstyle {\text{base}}^{\text{exponent}}\,=\,}"
+Division_(mathematics)_9,{\displaystyle \scriptstyle {\text{power}}}
+Division_(mathematics)_10,"{\displaystyle \scriptstyle {\sqrt[{\text{degree}}]{\scriptstyle {\text{radicand}}}}\,=\,}"
+Division_(mathematics)_11,{\displaystyle \scriptstyle {\text{root}}}
+Division_(mathematics)_12,"{\displaystyle \scriptstyle \log _{\text{base}}({\text{anti-logarithm}})\,=\,}"
+Division_(mathematics)_13,{\displaystyle \scriptstyle {\text{logarithm}}}
+Division_(mathematics)_14,{\displaystyle a/b/c=(a/b)/c=a/(b\times c)\;\neq \;a/(b/c)=(a\times c)/b.}
+Division_(mathematics)_15,{\displaystyle {\frac {a\pm b}{c}}=(a\pm b)/c=(a/c)\pm (b/c)={\frac {a}{c}}\pm {\frac {b}{c}}.}
+Division_(mathematics)_16,{\displaystyle (a+b)\times c=a\times c+b\times c}
+Division_(mathematics)_17,{\displaystyle {\frac {a}{b+c}}=a/(b+c)\;\neq \;(a/b)+(a/c)={\frac {ac+ab}{bc}}.}
+Division_(mathematics)_18,"{\displaystyle {\frac {12}{2+4}}={\frac {12}{6}}=2,}"
+Division_(mathematics)_19,{\displaystyle {\frac {12}{2}}+{\frac {12}{4}}=6+3=9.}
+Division_(mathematics)_20,{\displaystyle {\frac {a}{b}}}
+Division_(mathematics)_21,{\displaystyle a/b}
+Division_(mathematics)_22,{\displaystyle b\backslash a}
+Division_(mathematics)_23,{\displaystyle {}^{a}\!/{}_{b}}
+Division_(mathematics)_24,{\displaystyle a\div b}
+Division_(mathematics)_25,{\displaystyle a:b}
+Division_(mathematics)_26,{\displaystyle b)a}
+Division_(mathematics)_27,{\displaystyle b{\overline {)a}}}
+Division_(mathematics)_28,{\displaystyle {\tfrac {26}{11}}}
+Division_(mathematics)_29,{\displaystyle {\tfrac {26}{11}}=2{\tfrac {4}{11}}.}
+Division_(mathematics)_30,{\displaystyle {\tfrac {26}{11}}}
+Division_(mathematics)_31,{\displaystyle {\tfrac {26}{11}}=2{\mbox{ remainder }}4.}
+Division_(mathematics)_32,{\displaystyle {\tfrac {26}{11}}=2.}
+Division_(mathematics)_33,{\displaystyle {p/q \over r/s}={p \over q}\times {s \over r}={ps \over qr}.}
+Division_(mathematics)_34,{\displaystyle {p+iq \over r+is}={(p+iq)(r-is) \over (r+is)(r-is)}={pr+qs+i(qr-ps) \over r^{2}+s^{2}}={pr+qs \over r^{2}+s^{2}}+i{qr-ps \over r^{2}+s^{2}}.}
+Division_(mathematics)_35,{\displaystyle r-is}
+Division_(mathematics)_36,{\displaystyle {pe^{iq} \over re^{is}}={pe^{iq}e^{-is} \over re^{is}e^{-is}}={p \over r}e^{i(q-s)}.}
+Division_(mathematics)_37,{\displaystyle {\left({\frac {f}{g}}\right)}'={\frac {f'g-fg'}{g^{2}}}.}

@@ -1,0 +1,177 @@
+name,latex
+Countability_0,{\displaystyle S}
+Countability_1,{\displaystyle |S|}
+Countability_2,{\displaystyle \aleph _{0}}
+Countability_3,{\displaystyle \mathbb {N} }
+Countability_4,{\displaystyle S}
+Countability_5,{\displaystyle \mathbb {N} }
+Countability_6,{\displaystyle S}
+Countability_7,{\displaystyle \mathbb {N} }
+Countability_8,{\displaystyle S}
+Countability_9,{\displaystyle S}
+Countability_10,{\displaystyle \mathbb {N} }
+Countability_11,{\displaystyle S}
+Countability_12,{\displaystyle |S|<\aleph _{0}}
+Countability_13,{\displaystyle S}
+Countability_14,{\displaystyle |S|}
+Countability_15,{\displaystyle \aleph _{0}}
+Countability_16,{\displaystyle S}
+Countability_17,{\displaystyle \mathbb {N} }
+Countability_18,{\displaystyle S}
+Countability_19,{\displaystyle \mathbb {N} }
+Countability_20,{\displaystyle S}
+Countability_21,"{\displaystyle a_{0},a_{1},a_{2},\ldots }"
+Countability_22,{\displaystyle a_{i}}
+Countability_23,{\displaystyle a_{j}}
+Countability_24,{\displaystyle i\neq j}
+Countability_25,{\displaystyle S}
+Countability_26,{\displaystyle \aleph _{0}}
+Countability_27,"{\displaystyle \{3,4,5\}}"
+Countability_28,"{\displaystyle \{1,2,3,\dots ,100\}}"
+Countability_29,{\displaystyle n}
+Countability_30,{\displaystyle n}
+Countability_31,{\displaystyle n}
+Countability_32,{\displaystyle n}
+Countability_33,{\displaystyle n}
+Countability_34,{\displaystyle n=10^{1000}}
+Countability_35,{\displaystyle n}
+Countability_36,"{\displaystyle \{0,1,2,3,4,5,\dots \}}"
+Countability_37,"{\displaystyle \ldots \,-\!2\!\rightarrow \!-\!4,\,-\!1\!\rightarrow \!-\!2,\,0\!\rightarrow \!0,\,1\!\rightarrow \!2,\,2\!\rightarrow \!4\,\cdots }"
+Countability_38,{\displaystyle n\rightarrow 2n}
+Countability_39,{\displaystyle \aleph _{0}}
+Countability_40,{\displaystyle S}
+Countability_41,{\displaystyle S}
+Countability_42,"{\displaystyle \mathbb {N} =\{0,1,2,\dots \}}"
+Countability_43,"{\displaystyle a\leftrightarrow 1,\ b\leftrightarrow 2,\ c\leftrightarrow 3}"
+Countability_44,"{\displaystyle S=\{a,b,c\}}"
+Countability_45,"{\displaystyle \{1,2,3\}}"
+Countability_46,{\displaystyle S}
+Countability_47,{\displaystyle S}
+Countability_48,{\displaystyle S}
+Countability_49,{\displaystyle \mathbb {N} }
+Countability_50,"{\displaystyle A=\{1,2,3,\dots \}}"
+Countability_51,"{\displaystyle B=\{0,2,4,6,\dots \}}"
+Countability_52,{\displaystyle n\leftrightarrow n+1}
+Countability_53,{\displaystyle n\leftrightarrow 2n}
+Countability_54,"{\displaystyle {\begin{matrix}0\leftrightarrow 1,&1\leftrightarrow 2,&2\leftrightarrow 3,&3\leftrightarrow 4,&4\leftrightarrow 5,&\ldots \\[6pt]0\leftrightarrow 0,&1\leftrightarrow 2,&2\leftrightarrow 4,&3\leftrightarrow 6,&4\leftrightarrow 8,&\ldots \end{matrix}}}"
+Countability_55,{\displaystyle \mathbb {N} \times \mathbb {N} }
+Countability_56,"{\displaystyle 0\leftrightarrow (0,0),1\leftrightarrow (1,0),2\leftrightarrow (0,1),3\leftrightarrow (2,0),4\leftrightarrow (1,1),5\leftrightarrow (0,2),6\leftrightarrow (3,0),\ldots }"
+Countability_57,{\displaystyle n}
+Countability_58,"{\displaystyle (a_{1},a_{2},a_{3},\dots ,a_{n})}"
+Countability_59,{\displaystyle a_{i}}
+Countability_60,{\displaystyle n}
+Countability_61,{\displaystyle n}
+Countability_62,"{\displaystyle (0,2,3)}"
+Countability_63,"{\displaystyle ((0,2),3)}"
+Countability_64,"{\displaystyle (0,2)}"
+Countability_65,"{\displaystyle ((0,2),3)}"
+Countability_66,"{\displaystyle (5,3)}"
+Countability_67,"{\displaystyle (5,3)}"
+Countability_68,"{\displaystyle (a,b)}"
+Countability_69,{\displaystyle n}
+Countability_70,{\displaystyle \mathbb {N} }
+Countability_71,{\displaystyle n}
+Countability_72,{\displaystyle \mathbb {Z} }
+Countability_73,{\displaystyle \mathbb {Q} }
+Countability_74,{\displaystyle \mathbb {N} }
+Countability_75,{\displaystyle a/b}
+Countability_76,{\displaystyle a}
+Countability_77,{\displaystyle b\neq 0}
+Countability_78,{\displaystyle n}
+Countability_79,{\displaystyle n/1}
+Countability_80,{\displaystyle \mathbb {Z} }
+Countability_81,{\displaystyle \mathbb {Q} }
+Countability_82,{\displaystyle A}
+Countability_83,{\displaystyle B}
+Countability_84,{\displaystyle A}
+Countability_85,{\displaystyle B}
+Countability_86,{\displaystyle p/q}
+Countability_87,"{\displaystyle (p,q)}"
+Countability_88,"{\displaystyle {\textbf {a}},{\textbf {b}},{\textbf {c}},\dots }"
+Countability_89,"{\displaystyle {\begin{array}{c|c|c }{\text{Index}}&{\text{Tuple}}&{\text{Element}}\\\hline 0&(0,0)&{\textbf {a}}_{0}\\1&(0,1)&{\textbf {a}}_{1}\\2&(1,0)&{\textbf {b}}_{0}\\3&(0,2)&{\textbf {a}}_{2}\\4&(1,1)&{\textbf {b}}_{1}\\5&(2,0)&{\textbf {c}}_{0}\\6&(0,3)&{\textbf {a}}_{3}\\7&(1,2)&{\textbf {b}}_{2}\\8&(2,1)&{\textbf {c}}_{1}\\9&(3,0)&{\textbf {d}}_{0}\\10&(0,4)&{\textbf {a}}_{4}\\\vdots &&\end{array}}}"
+Countability_90,"{\displaystyle {\textbf {a}},{\textbf {b}},{\textbf {c}},\dots }"
+Countability_91,{\displaystyle S}
+Countability_92,{\displaystyle T}
+Countability_93,{\displaystyle f:S\to T}
+Countability_94,{\displaystyle T}
+Countability_95,{\displaystyle S}
+Countability_96,{\displaystyle g:S\to T}
+Countability_97,{\displaystyle S}
+Countability_98,{\displaystyle T}
+Countability_99,{\displaystyle A}
+Countability_100,{\displaystyle {\mathcal {P}}(A)}
+Countability_101,{\displaystyle A}
+Countability_102,{\displaystyle A}
+Countability_103,{\displaystyle {\mathcal {P}}(A)}
+Countability_104,{\displaystyle {\mathcal {P}}(\mathbb {N} )}
+Countability_105,{\displaystyle \mathbb {N} }
+Countability_106,"{\displaystyle \mathbb {N} ^{*}=\{1,2,3,\dots \}}"
+Countability_107,{\displaystyle \mathbb {N} \times \mathbb {N} }
+Countability_108,{\displaystyle f:\mathbb {N} \times \mathbb {N} \to \mathbb {N} }
+Countability_109,"{\displaystyle f(m,n)=2^{m}\cdot 3^{n}}"
+Countability_110,{\displaystyle A}
+Countability_111,{\displaystyle B}
+Countability_112,{\displaystyle f:\mathbb {N} \to A}
+Countability_113,{\displaystyle g:\mathbb {N} \to B}
+Countability_114,{\displaystyle f\times g:\mathbb {N} \times \mathbb {N} \to A\times B}
+Countability_115,{\displaystyle \mathbb {N} \times \mathbb {N} }
+Countability_116,{\displaystyle A\times B}
+Countability_117,{\displaystyle A\times B}
+Countability_118,{\displaystyle \mathbb {Z} }
+Countability_119,{\displaystyle f:\mathbb {Z} \to \mathbb {N} }
+Countability_120,{\displaystyle f(n)=2^{n}}
+Countability_121,{\displaystyle n}
+Countability_122,{\displaystyle f(n)=3^{-n}}
+Countability_123,{\displaystyle n}
+Countability_124,{\displaystyle \mathbb {Q} }
+Countability_125,{\displaystyle g:\mathbb {Z} \times \mathbb {N} \to \mathbb {Q} }
+Countability_126,"{\displaystyle g(m,n)=m/(n+1)}"
+Countability_127,{\displaystyle \mathbb {Z} \times \mathbb {N} }
+Countability_128,{\displaystyle \mathbb {Q} }
+Countability_129,{\displaystyle \alpha }
+Countability_130,{\displaystyle a_{0}x^{0}+a_{1}x^{1}+a_{2}x^{2}+\cdots +a_{n}x^{n}}
+Countability_131,{\displaystyle \alpha }
+Countability_132,{\displaystyle k}
+Countability_133,{\displaystyle f:\mathbb {A} \to \mathbb {Q} }
+Countability_134,{\displaystyle f(\alpha )=2^{k-1}\cdot 3^{a_{0}}\cdot 5^{a_{1}}\cdot 7^{a_{2}}\cdots {p_{n+2}}^{a_{n}}}
+Countability_135,{\displaystyle p_{n}}
+Countability_136,{\displaystyle n}
+Countability_137,{\displaystyle A_{i}}
+Countability_138,{\displaystyle i}
+Countability_139,"{\displaystyle I=\{1,\dots ,n\}}"
+Countability_140,{\displaystyle n}
+Countability_141,{\displaystyle g_{i}:\mathbb {N} \to A_{i}}
+Countability_142,"{\displaystyle G:I\times \mathbf {N} \to \bigcup _{i\in I}A_{i},}"
+Countability_143,"{\displaystyle G(i,m)=g_{i}(m)}"
+Countability_144,{\displaystyle I\times \mathbb {N} }
+Countability_146,{\displaystyle I=\mathbb {N} }
+Countability_147,{\displaystyle i}
+Countability_148,{\displaystyle \mathbb {N} }
+Countability_149,{\displaystyle g_{i}}
+Countability_150,{\displaystyle \mathbb {N} }
+Countability_151,{\displaystyle A_{i}}
+Countability_152,{\displaystyle G:\mathbf {N} \times \mathbf {N} \to \bigcup _{i\in I}A_{i}}
+Countability_153,{\displaystyle T}
+Countability_154,{\displaystyle h:T\to \mathbb {N} }
+Countability_155,{\displaystyle f:S\to T}
+Countability_156,{\displaystyle h\circ f:S\to \mathbb {N} }
+Countability_157,{\displaystyle S}
+Countability_158,{\displaystyle S}
+Countability_159,{\displaystyle S}
+Countability_160,{\displaystyle h:\mathbb {N} \to S}
+Countability_161,{\displaystyle g:S\to T}
+Countability_162,{\displaystyle S}
+Countability_163,{\displaystyle T}
+Countability_164,{\displaystyle g\circ h:\mathbb {N} \to T}
+Countability_165,{\displaystyle T}
+Countability_166,{\displaystyle \mathbb {N} }
+Countability_167,{\displaystyle \mathbb {Z} }
+Countability_168,{\displaystyle \mathbb {Q} }
+Countability_169,{\displaystyle \mathbb {A} }
+Countability_170,{\displaystyle \mathbb {R} }
+Countability_171,{\displaystyle \mathbb {C} }
+Countability_172,{\displaystyle \mathbb {H} }
+Countability_173,{\displaystyle \mathbb {O} }
+Countability_174,{\displaystyle \mathbb {R} }
+Countability_175,{\displaystyle \mathbb {C} }
+Countability_176,{\displaystyle \mathbb {S} }

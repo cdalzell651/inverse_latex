@@ -1,0 +1,10 @@
+name,latex
+Positive_number_0,{\displaystyle \operatorname {sgn} }
+Positive_number_1,{\displaystyle e^{i\pi }=-1.}
+Positive_number_2,"{\displaystyle \{-1,\;0,\;1\}.}"
+Positive_number_3,"{\displaystyle {\begin{aligned}\operatorname {sgn} :{}&\mathbb {R} \to \{-1,0,1\}\\&x\mapsto \operatorname {sgn}(x)={\begin{cases}-1&{\text{if }}x<0,\\~~\,0&{\text{if }}x=0,\\~~\,1&{\text{if }}x>0.\end{cases}}\end{aligned}}}"
+Positive_number_4,"{\displaystyle \operatorname {sgn}(x)={\frac {x}{|x|}}={\frac {|x|}{x}},}"
+Positive_number_5,{\displaystyle |z|={\sqrt {z{\bar {z}}}}={\sqrt {x^{2}+y^{2}}}.}
+Positive_number_6,{\displaystyle \{z\in \mathbb {C} :|z|=1\}\cup \{0\}.}
+Positive_number_7,{\displaystyle \operatorname {sgn}(z)={\begin{cases}0&{\text{for }}z=0\\{\dfrac {z}{|z|}}=e^{i\varphi }&{\text{otherwise}}.\end{cases}}}
+Positive_number_8,{\displaystyle \Delta x=x_{\text{final}}-x_{\text{initial}}.}

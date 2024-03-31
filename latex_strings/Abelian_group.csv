@@ -1,0 +1,223 @@
+name,latex
+Abelian_group_0,{\displaystyle \mathbb {Z} }
+Abelian_group_1,{\displaystyle \mathbb {Z} }
+Abelian_group_2,{\displaystyle \mathbb {Z} }
+Abelian_group_3,{\displaystyle A}
+Abelian_group_4,{\displaystyle \cdot }
+Abelian_group_5,{\displaystyle a}
+Abelian_group_6,{\displaystyle b}
+Abelian_group_7,{\displaystyle A}
+Abelian_group_8,"{\displaystyle A,}"
+Abelian_group_9,{\displaystyle a\cdot b}
+Abelian_group_10,{\displaystyle \cdot }
+Abelian_group_11,"{\displaystyle (A,\cdot )}"
+Abelian_group_12,{\displaystyle a}
+Abelian_group_13,{\displaystyle b}
+Abelian_group_14,{\displaystyle c}
+Abelian_group_15,{\displaystyle A}
+Abelian_group_16,{\displaystyle (a\cdot b)\cdot c=a\cdot (b\cdot c)}
+Abelian_group_17,{\displaystyle e}
+Abelian_group_18,{\displaystyle A}
+Abelian_group_19,{\displaystyle a}
+Abelian_group_20,{\displaystyle A}
+Abelian_group_21,{\displaystyle e\cdot a=a\cdot e=a}
+Abelian_group_22,{\displaystyle a}
+Abelian_group_23,{\displaystyle A}
+Abelian_group_24,{\displaystyle b}
+Abelian_group_25,{\displaystyle A}
+Abelian_group_26,{\displaystyle a\cdot b=b\cdot a=e}
+Abelian_group_27,{\displaystyle e}
+Abelian_group_28,{\displaystyle a}
+Abelian_group_29,{\displaystyle b}
+Abelian_group_30,{\displaystyle A}
+Abelian_group_31,{\displaystyle a\cdot b=b\cdot a}
+Abelian_group_32,{\displaystyle x+y}
+Abelian_group_33,{\displaystyle nx}
+Abelian_group_34,{\displaystyle -x}
+Abelian_group_35,{\displaystyle x\cdot y}
+Abelian_group_36,{\displaystyle xy}
+Abelian_group_37,{\displaystyle x^{n}}
+Abelian_group_38,{\displaystyle x^{-1}}
+Abelian_group_39,"{\displaystyle G=\{g_{1}=e,g_{2},\dots ,g_{n}\}}"
+Abelian_group_40,{\displaystyle \cdot }
+Abelian_group_41,"{\displaystyle (i,j)}"
+Abelian_group_42,{\displaystyle g_{i}\cdot g_{j}}
+Abelian_group_43,{\displaystyle g_{i}\cdot g_{j}=g_{j}\cdot g_{i}}
+Abelian_group_44,"{\displaystyle i,j=1,...,n}"
+Abelian_group_45,"{\displaystyle (i,j)}"
+Abelian_group_46,"{\displaystyle (j,i)}"
+Abelian_group_47,"{\displaystyle i,j=1,...,n}"
+Abelian_group_48,{\displaystyle +}
+Abelian_group_49,"{\displaystyle (\mathbb {Z} ,+)}"
+Abelian_group_50,{\displaystyle n}
+Abelian_group_51,{\displaystyle -n}
+Abelian_group_52,{\displaystyle n+m=m+n}
+Abelian_group_53,{\displaystyle m}
+Abelian_group_54,{\displaystyle n}
+Abelian_group_55,{\displaystyle G}
+Abelian_group_56,{\displaystyle x}
+Abelian_group_57,{\displaystyle y}
+Abelian_group_58,{\displaystyle G}
+Abelian_group_59,{\displaystyle xy=a^{m}a^{n}=a^{m+n}=a^{n}a^{m}=yx}
+Abelian_group_60,{\displaystyle \mathbb {Z} }
+Abelian_group_61,{\displaystyle n}
+Abelian_group_62,{\displaystyle \mathbb {Z} /n\mathbb {Z} }
+Abelian_group_63,{\displaystyle \mathbb {Z} }
+Abelian_group_64,{\displaystyle \mathbb {Z} }
+Abelian_group_65,{\displaystyle \mathbb {Z} }
+Abelian_group_66,{\displaystyle 2\times 2}
+Abelian_group_67,{\displaystyle n}
+Abelian_group_68,{\displaystyle x}
+Abelian_group_69,{\displaystyle G}
+Abelian_group_70,{\displaystyle nx}
+Abelian_group_71,{\displaystyle x+x+\cdots +x}
+Abelian_group_72,{\displaystyle n}
+Abelian_group_73,{\displaystyle (-n)x=-(nx)}
+Abelian_group_74,{\displaystyle G}
+Abelian_group_75,{\displaystyle \mathbb {Z} }
+Abelian_group_76,{\displaystyle \mathbb {Z} }
+Abelian_group_77,{\displaystyle \mathbb {Z} }
+Abelian_group_78,{\displaystyle \mathbb {Z} /p^{k}\mathbb {Z} }
+Abelian_group_79,{\displaystyle p}
+Abelian_group_80,{\displaystyle \mathbb {Z} }
+Abelian_group_81,"{\displaystyle f,g:G\to H}"
+Abelian_group_82,{\displaystyle f+g}
+Abelian_group_83,{\displaystyle (f+g)(x)=f(x)+g(x)}
+Abelian_group_84,{\displaystyle H}
+Abelian_group_85,"{\displaystyle {\text{Hom}}(G,H)}"
+Abelian_group_86,{\displaystyle G}
+Abelian_group_87,{\displaystyle H}
+Abelian_group_88,{\displaystyle Z(G)}
+Abelian_group_89,{\displaystyle G}
+Abelian_group_90,{\displaystyle G}
+Abelian_group_91,{\displaystyle G}
+Abelian_group_92,{\displaystyle Z(G)}
+Abelian_group_93,{\displaystyle G}
+Abelian_group_94,{\displaystyle G}
+Abelian_group_95,{\displaystyle G/Z(G)}
+Abelian_group_96,{\displaystyle G}
+Abelian_group_97,{\displaystyle n}
+Abelian_group_98,{\displaystyle \mathbb {Z} /n\mathbb {Z} }
+Abelian_group_99,{\displaystyle p}
+Abelian_group_100,{\displaystyle p^{2}}
+Abelian_group_101,{\displaystyle \mathbb {Z} _{p^{2}}}
+Abelian_group_102,{\displaystyle \mathbb {Z} _{p}\times \mathbb {Z} _{p}}
+Abelian_group_103,{\displaystyle G}
+Abelian_group_104,{\displaystyle \mathbb {Z} _{mn}}
+Abelian_group_105,{\displaystyle mn}
+Abelian_group_106,{\displaystyle \mathbb {Z} _{m}}
+Abelian_group_107,{\displaystyle \mathbb {Z} _{n}}
+Abelian_group_108,{\displaystyle m}
+Abelian_group_109,{\displaystyle n}
+Abelian_group_110,{\displaystyle G}
+Abelian_group_111,{\displaystyle \bigoplus _{i=1}^{u}\ \mathbb {Z} _{k_{i}}}
+Abelian_group_112,"{\displaystyle k_{1},k_{2},\dots ,k_{u}}"
+Abelian_group_113,{\displaystyle k_{1}}
+Abelian_group_114,{\displaystyle k_{2}}
+Abelian_group_115,{\displaystyle k_{3}}
+Abelian_group_116,{\displaystyle k_{u}}
+Abelian_group_117,{\displaystyle \mathbb {Z} _{15}}
+Abelian_group_118,"{\displaystyle \mathbb {Z} _{15}\cong \{0,5,10\}\oplus \{0,3,6,9,12\}}"
+Abelian_group_119,{\displaystyle \mathbb {Z} _{8}}
+Abelian_group_120,{\displaystyle \mathbb {Z} _{4}\oplus \mathbb {Z} _{2}}
+Abelian_group_121,{\displaystyle \mathbb {Z} _{2}\oplus \mathbb {Z} _{2}\oplus \mathbb {Z} _{2}}
+Abelian_group_122,{\displaystyle G}
+Abelian_group_123,{\displaystyle G}
+Abelian_group_124,{\displaystyle H\oplus K}
+Abelian_group_125,{\displaystyle \operatorname {Aut} (H\oplus K)\cong \operatorname {Aut} (H)\oplus \operatorname {Aut} (K).}
+Abelian_group_126,{\displaystyle G}
+Abelian_group_127,{\displaystyle p}
+Abelian_group_128,{\displaystyle p}
+Abelian_group_129,{\displaystyle p}
+Abelian_group_130,{\displaystyle e_{i}}
+Abelian_group_131,{\displaystyle p}
+Abelian_group_132,{\displaystyle e_{1}\leq e_{2}\leq \cdots \leq e_{n}}
+Abelian_group_133,{\displaystyle n>0}
+Abelian_group_134,{\displaystyle \mathbf {Z} _{p^{e_{1}}}\oplus \cdots \oplus \mathbf {Z} _{p^{e_{n}}}.}
+Abelian_group_135,{\displaystyle n=1}
+Abelian_group_136,{\displaystyle p}
+Abelian_group_137,{\displaystyle P}
+Abelian_group_138,{\displaystyle n}
+Abelian_group_139,{\displaystyle e_{i}=1}
+Abelian_group_140,{\displaystyle 1\leq i\leq n}
+Abelian_group_141,{\displaystyle P}
+Abelian_group_142,"{\displaystyle \mathbf {Z} _{p}\oplus \cdots \oplus \mathbf {Z} _{p},}"
+Abelian_group_143,{\displaystyle n}
+Abelian_group_144,{\displaystyle p}
+Abelian_group_145,{\displaystyle \mathbb {F} _{p}}
+Abelian_group_146,"{\displaystyle \operatorname {Aut} (P)\cong \mathrm {GL} (n,\mathbf {F} _{p}),}"
+Abelian_group_147,{\displaystyle \mathrm {GL} }
+Abelian_group_148,{\displaystyle \left|\operatorname {Aut} (P)\right|=(p^{n}-1)\cdots (p^{n}-p^{n-1}).}
+Abelian_group_149,{\displaystyle e_{i}}
+Abelian_group_150,{\displaystyle n}
+Abelian_group_151,{\displaystyle d_{k}=\max\{r\mid e_{r}=e_{k}\}}
+Abelian_group_152,{\displaystyle c_{k}=\min\{r\mid e_{r}=e_{k}\}}
+Abelian_group_153,{\displaystyle k\leq d_{k}}
+Abelian_group_154,{\displaystyle c_{k}\leq k}
+Abelian_group_155,{\displaystyle \left|\operatorname {Aut} (P)\right|=\prod _{k=1}^{n}(p^{d_{k}}-p^{k-1})\prod _{j=1}^{n}(p^{e_{j}})^{n-d_{j}}\prod _{i=1}^{n}(p^{e_{i}-1})^{n-c_{i}+1}.}
+Abelian_group_156,"{\displaystyle G=\{x_{1},\ldots ,x_{n}\}}"
+Abelian_group_157,"{\displaystyle B=\{b_{1},\ldots ,b_{n}\}.}"
+Abelian_group_158,"{\displaystyle p\colon L\to A,}"
+Abelian_group_159,"{\displaystyle p(b_{i})=x_{i}\quad {\text{for }}i=1,\ldots ,n.}"
+Abelian_group_160,"{\displaystyle S=UMV,}"
+Abelian_group_161,"{\displaystyle d_{1,1},\ldots ,d_{k,k}}"
+Abelian_group_162,"{\displaystyle d_{j,j}}"
+Abelian_group_163,"{\displaystyle d_{i,i}}"
+Abelian_group_164,"{\displaystyle \mathbb {Z} ^{r}\oplus \mathbb {Z} /d_{1,1}\mathbb {Z} \oplus \cdots \oplus \mathbb {Z} /d_{k,k}\mathbb {Z} ,}"
+Abelian_group_165,{\displaystyle \mathbb {Z} }
+Abelian_group_166,{\displaystyle A}
+Abelian_group_167,{\displaystyle r}
+Abelian_group_168,{\displaystyle \mathbb {Z} }
+Abelian_group_169,{\displaystyle r}
+Abelian_group_170,{\displaystyle A}
+Abelian_group_171,{\displaystyle A}
+Abelian_group_172,{\displaystyle nx=a}
+Abelian_group_173,{\displaystyle x\in A}
+Abelian_group_174,{\displaystyle n}
+Abelian_group_175,{\displaystyle a}
+Abelian_group_176,{\displaystyle A}
+Abelian_group_177,{\displaystyle \mathbb {Q} }
+Abelian_group_178,{\displaystyle \mathbb {Q} _{p}/Z_{p}}
+Abelian_group_179,{\displaystyle p}
+Abelian_group_180,{\displaystyle A}
+Abelian_group_181,{\displaystyle G}
+Abelian_group_182,{\displaystyle A}
+Abelian_group_183,{\displaystyle C}
+Abelian_group_184,{\displaystyle G}
+Abelian_group_185,{\displaystyle G=A\oplus C}
+Abelian_group_186,{\displaystyle \mathbb {Q} /\mathbb {Z} }
+Abelian_group_187,{\displaystyle \mathbb {Q} }
+Abelian_group_188,{\displaystyle A}
+Abelian_group_189,{\displaystyle nA=0}
+Abelian_group_190,{\displaystyle n}
+Abelian_group_191,{\displaystyle p}
+Abelian_group_192,{\displaystyle A}
+Abelian_group_193,{\displaystyle p}
+Abelian_group_194,{\displaystyle A}
+Abelian_group_195,{\displaystyle \mathbb {Z} /p^{m}\mathbb {Z} }
+Abelian_group_196,{\displaystyle A}
+Abelian_group_197,{\displaystyle p}
+Abelian_group_198,{\displaystyle \mathbb {Z} }
+Abelian_group_199,{\displaystyle p}
+Abelian_group_200,{\displaystyle A}
+Abelian_group_201,{\displaystyle T(A)}
+Abelian_group_202,{\displaystyle A/T(A)}
+Abelian_group_203,{\displaystyle A}
+Abelian_group_204,{\displaystyle A}
+Abelian_group_205,{\displaystyle T(A)\oplus A/T(A)}
+Abelian_group_206,{\displaystyle \mathbb {Z} }
+Abelian_group_207,{\displaystyle \mathbb {Z} }
+Abelian_group_208,{\displaystyle A}
+Abelian_group_209,{\displaystyle A}
+Abelian_group_210,{\displaystyle \mathbb {Q} }
+Abelian_group_211,{\displaystyle r}
+Abelian_group_212,{\displaystyle \mathbb {Q} _{r}}
+Abelian_group_213,{\displaystyle p}
+Abelian_group_214,{\displaystyle \mathbb {Z} _{p}}
+Abelian_group_215,{\displaystyle \mathbb {Z} }
+Abelian_group_216,{\displaystyle \mathbb {Z} _{p}^{n}}
+Abelian_group_217,{\displaystyle n}
+Abelian_group_218,{\displaystyle {\textbf {Ab}}}
+Abelian_group_219,{\displaystyle \mathbb {Q} /\mathbb {Z} \cong \sum _{p}\mathbb {Q} _{p}/\mathbb {Z} _{p}}
+Abelian_group_220,{\displaystyle \mathbb {Z} /p^{m}\mathbb {Z} }
+Abelian_group_221,{\displaystyle m}

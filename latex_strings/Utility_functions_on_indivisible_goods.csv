@@ -1,0 +1,95 @@
+name,latex
+Utility_functions_on_indivisible_goods_0,{\displaystyle \succ }
+Utility_functions_on_indivisible_goods_1,{\displaystyle A}
+Utility_functions_on_indivisible_goods_2,{\displaystyle B}
+Utility_functions_on_indivisible_goods_3,{\displaystyle A\succ B}
+Utility_functions_on_indivisible_goods_4,{\displaystyle A}
+Utility_functions_on_indivisible_goods_5,{\displaystyle A}
+Utility_functions_on_indivisible_goods_6,{\displaystyle A}
+Utility_functions_on_indivisible_goods_7,{\displaystyle B}
+Utility_functions_on_indivisible_goods_8,{\displaystyle A\succeq B}
+Utility_functions_on_indivisible_goods_9,{\displaystyle u}
+Utility_functions_on_indivisible_goods_10,{\displaystyle A}
+Utility_functions_on_indivisible_goods_11,{\displaystyle u(A)}
+Utility_functions_on_indivisible_goods_12,{\displaystyle u(\emptyset )=0}
+Utility_functions_on_indivisible_goods_13,{\displaystyle \emptyset }
+Utility_functions_on_indivisible_goods_14,{\displaystyle u(A)>u(B)}
+Utility_functions_on_indivisible_goods_15,{\displaystyle A\succ B}
+Utility_functions_on_indivisible_goods_16,{\displaystyle u(A)\geq u(B)}
+Utility_functions_on_indivisible_goods_17,{\displaystyle A\succeq B}
+Utility_functions_on_indivisible_goods_18,{\displaystyle A\supseteq B}
+Utility_functions_on_indivisible_goods_19,{\displaystyle A\succeq B}
+Utility_functions_on_indivisible_goods_20,{\displaystyle A\supseteq B}
+Utility_functions_on_indivisible_goods_21,{\displaystyle u(A)\geq u(B)}
+Utility_functions_on_indivisible_goods_22,{\displaystyle A}
+Utility_functions_on_indivisible_goods_23,{\displaystyle u(A)}
+Utility_functions_on_indivisible_goods_24,{\displaystyle \emptyset }
+Utility_functions_on_indivisible_goods_25,{\displaystyle A}
+Utility_functions_on_indivisible_goods_26,{\displaystyle u(A)=\sum _{x\in A}u({x})}
+Utility_functions_on_indivisible_goods_27,{\displaystyle u(\emptyset )=0}
+Utility_functions_on_indivisible_goods_28,{\displaystyle u}
+Utility_functions_on_indivisible_goods_29,{\displaystyle A}
+Utility_functions_on_indivisible_goods_30,{\displaystyle B}
+Utility_functions_on_indivisible_goods_31,{\displaystyle u(A)+u(B)=u(A\cup B)+u(A\cap B).}
+Utility_functions_on_indivisible_goods_32,{\displaystyle A}
+Utility_functions_on_indivisible_goods_33,{\displaystyle u(A)}
+Utility_functions_on_indivisible_goods_34,{\displaystyle \emptyset }
+Utility_functions_on_indivisible_goods_35,{\displaystyle A}
+Utility_functions_on_indivisible_goods_36,{\displaystyle B}
+Utility_functions_on_indivisible_goods_37,{\displaystyle u(A)+u(B)\geq u(A\cup B)+u(A\cap B)}
+Utility_functions_on_indivisible_goods_38,{\displaystyle u}
+Utility_functions_on_indivisible_goods_39,{\displaystyle A}
+Utility_functions_on_indivisible_goods_40,{\displaystyle B}
+Utility_functions_on_indivisible_goods_41,{\displaystyle A\subseteq B}
+Utility_functions_on_indivisible_goods_42,{\displaystyle x\notin B}
+Utility_functions_on_indivisible_goods_43,{\displaystyle u(A\cup \{x\})-u(A)\geq u(B\cup \{x\})-u(B)}
+Utility_functions_on_indivisible_goods_44,{\displaystyle A}
+Utility_functions_on_indivisible_goods_45,{\displaystyle u(A)}
+Utility_functions_on_indivisible_goods_46,{\displaystyle \emptyset }
+Utility_functions_on_indivisible_goods_47,{\displaystyle A}
+Utility_functions_on_indivisible_goods_48,{\displaystyle B}
+Utility_functions_on_indivisible_goods_49,{\displaystyle u(A)+u(B)\leq u(A\cup B)+u(A\cap B)}
+Utility_functions_on_indivisible_goods_50,{\displaystyle u}
+Utility_functions_on_indivisible_goods_51,{\displaystyle A}
+Utility_functions_on_indivisible_goods_52,{\displaystyle B}
+Utility_functions_on_indivisible_goods_53,{\displaystyle A\subseteq B}
+Utility_functions_on_indivisible_goods_54,{\displaystyle x\notin B}
+Utility_functions_on_indivisible_goods_55,{\displaystyle u(B\cup \{x\})-u(B)\geq u(A\cup \{x\})-u(A)}
+Utility_functions_on_indivisible_goods_56,{\displaystyle A}
+Utility_functions_on_indivisible_goods_57,{\displaystyle u(A)}
+Utility_functions_on_indivisible_goods_58,{\displaystyle \emptyset }
+Utility_functions_on_indivisible_goods_59,"{\displaystyle A,B}"
+Utility_functions_on_indivisible_goods_60,{\displaystyle u(A\cup B)\leq u(A)+u(B)}
+Utility_functions_on_indivisible_goods_61,{\displaystyle u}
+Utility_functions_on_indivisible_goods_62,{\displaystyle u(\emptyset )}
+Utility_functions_on_indivisible_goods_63,"{\displaystyle X,Y}"
+Utility_functions_on_indivisible_goods_64,"{\displaystyle u(\{X,Y\})+u(\{Y,Z\})<u(\{X,Y\}\cup \{Y,Z\})+u(\{X,Y\}\cap \{Y,Z\}).}"
+Utility_functions_on_indivisible_goods_65,{\displaystyle A}
+Utility_functions_on_indivisible_goods_66,{\displaystyle u(A)}
+Utility_functions_on_indivisible_goods_67,{\displaystyle \emptyset }
+Utility_functions_on_indivisible_goods_68,"{\displaystyle A,B}"
+Utility_functions_on_indivisible_goods_69,{\displaystyle u(A\cup B)\geq u(A)+u(B)}
+Utility_functions_on_indivisible_goods_70,{\displaystyle u}
+Utility_functions_on_indivisible_goods_71,{\displaystyle u(\emptyset )}
+Utility_functions_on_indivisible_goods_72,"{\displaystyle X,Y}"
+Utility_functions_on_indivisible_goods_73,"{\displaystyle u(\{X,Y\})+u(\{Y,Z\})<u(\{X,Y\}\cup \{Y,Z\})+u(\{X,Y\}\cap \{Y,Z\}).}"
+Utility_functions_on_indivisible_goods_74,{\displaystyle u(\emptyset )=0}
+Utility_functions_on_indivisible_goods_75,{\displaystyle u(\emptyset )=0}
+Utility_functions_on_indivisible_goods_76,{\displaystyle u(\emptyset )}
+Utility_functions_on_indivisible_goods_77,"{\displaystyle X,Y}"
+Utility_functions_on_indivisible_goods_78,{\displaystyle u(\emptyset )=-1}
+Utility_functions_on_indivisible_goods_79,{\displaystyle u(\{X\})=u(\{Y\})=1}
+Utility_functions_on_indivisible_goods_80,"{\displaystyle u(\{X,Y\})=3}"
+Utility_functions_on_indivisible_goods_81,"{\displaystyle u(\{X,Y\})>u(\{X\})+u(\{Y\}).}"
+Utility_functions_on_indivisible_goods_82,{\displaystyle u(\emptyset )}
+Utility_functions_on_indivisible_goods_83,"{\displaystyle u(\emptyset )=u(\{X\})=u(\{Y\})=u(\{X,Y\})=1}"
+Utility_functions_on_indivisible_goods_84,"{\displaystyle u(\{X,Y\})<u(\{X\})+u(\{Y\}).}"
+Utility_functions_on_indivisible_goods_85,{\displaystyle A}
+Utility_functions_on_indivisible_goods_86,{\displaystyle u(A)}
+Utility_functions_on_indivisible_goods_87,{\displaystyle \emptyset }
+Utility_functions_on_indivisible_goods_88,{\displaystyle B}
+Utility_functions_on_indivisible_goods_89,{\displaystyle A\subseteq B}
+Utility_functions_on_indivisible_goods_90,{\displaystyle |A|=1}
+Utility_functions_on_indivisible_goods_91,{\displaystyle A\succeq B}
+Utility_functions_on_indivisible_goods_92,{\displaystyle A}
+Utility_functions_on_indivisible_goods_93,{\displaystyle u(A)=\max _{x\in A}u({x})}

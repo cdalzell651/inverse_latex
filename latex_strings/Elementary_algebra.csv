@@ -1,0 +1,189 @@
+name,latex
+Elementary_algebra_0,{\displaystyle {\overset {}{\underset {}{x={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}}}}}
+Elementary_algebra_1,{\displaystyle ax^{2}+bx+c=0}
+Elementary_algebra_2,{\displaystyle a\neq 0}
+Elementary_algebra_3,{\displaystyle y=x^{2}-x-2}
+Elementary_algebra_4,{\displaystyle 3x^{2}-2xy+c}
+Elementary_algebra_5,"{\displaystyle a,b,c}"
+Elementary_algebra_6,"{\displaystyle x,y}"
+Elementary_algebra_7,{\displaystyle 3\times x^{2}}
+Elementary_algebra_8,{\displaystyle 3x^{2}}
+Elementary_algebra_9,{\displaystyle 2\times x\times y}
+Elementary_algebra_10,{\displaystyle 2xy}
+Elementary_algebra_11,{\displaystyle x^{2}}
+Elementary_algebra_12,{\displaystyle 1x^{2}}
+Elementary_algebra_13,{\displaystyle x^{2}}
+Elementary_algebra_14,{\displaystyle 3x^{1}}
+Elementary_algebra_15,{\displaystyle 3x}
+Elementary_algebra_16,{\displaystyle x^{0}}
+Elementary_algebra_17,{\displaystyle 0^{0}}
+Elementary_algebra_18,{\displaystyle x^{2}}
+Elementary_algebra_19,{\displaystyle x^{2}}
+Elementary_algebra_20,{\displaystyle x^{2}}
+Elementary_algebra_21,{\displaystyle 3x}
+Elementary_algebra_22,{\displaystyle \pi }
+Elementary_algebra_23,{\displaystyle C=P+20}
+Elementary_algebra_24,{\displaystyle 60\times 5=300}
+Elementary_algebra_25,{\displaystyle s=60\times m}
+Elementary_algebra_26,{\displaystyle \pi =c/d}
+Elementary_algebra_27,{\displaystyle (a+b)=(b+a)}
+Elementary_algebra_28,{\displaystyle x+x+x}
+Elementary_algebra_29,{\displaystyle 3x}
+Elementary_algebra_30,{\displaystyle x\times x\times x}
+Elementary_algebra_31,{\displaystyle x^{3}}
+Elementary_algebra_32,{\displaystyle 2x^{2}+3ab-x^{2}+ab}
+Elementary_algebra_33,{\displaystyle x^{2}+4ab}
+Elementary_algebra_34,{\displaystyle x^{2}}
+Elementary_algebra_35,{\displaystyle ab}
+Elementary_algebra_36,{\displaystyle x(2x+3)}
+Elementary_algebra_37,{\displaystyle (x\times 2x)+(x\times 3)}
+Elementary_algebra_38,{\displaystyle 2x^{2}+3x}
+Elementary_algebra_39,{\displaystyle 6x^{5}+3x^{2}}
+Elementary_algebra_40,{\displaystyle 3x^{2}}
+Elementary_algebra_41,{\displaystyle 3x^{2}(2x^{3}+1)}
+Elementary_algebra_42,{\displaystyle c^{2}=a^{2}+b^{2}}
+Elementary_algebra_43,{\displaystyle c^{2}}
+Elementary_algebra_44,{\displaystyle a+b=b+a}
+Elementary_algebra_45,{\displaystyle x^{2}-1=8}
+Elementary_algebra_46,{\displaystyle x=3}
+Elementary_algebra_47,{\displaystyle x=-3}
+Elementary_algebra_48,{\displaystyle a>b}
+Elementary_algebra_49,{\displaystyle >}
+Elementary_algebra_50,{\displaystyle a<b}
+Elementary_algebra_51,{\displaystyle <}
+Elementary_algebra_52,{\displaystyle b=b}
+Elementary_algebra_53,{\displaystyle a=b}
+Elementary_algebra_54,{\displaystyle b=a}
+Elementary_algebra_55,{\displaystyle a=b}
+Elementary_algebra_56,{\displaystyle b=c}
+Elementary_algebra_57,{\displaystyle a=c}
+Elementary_algebra_58,{\displaystyle a=b}
+Elementary_algebra_59,{\displaystyle c=d}
+Elementary_algebra_60,{\displaystyle a+c=b+d}
+Elementary_algebra_61,{\displaystyle ac=bd}
+Elementary_algebra_62,{\displaystyle a=b}
+Elementary_algebra_63,{\displaystyle a+c=b+c}
+Elementary_algebra_64,{\displaystyle ac=bc}
+Elementary_algebra_65,{\displaystyle a=b}
+Elementary_algebra_66,{\displaystyle f(a)=f(b)}
+Elementary_algebra_67,{\displaystyle <}
+Elementary_algebra_68,{\displaystyle >}
+Elementary_algebra_69,{\displaystyle a<b}
+Elementary_algebra_70,{\displaystyle b<c}
+Elementary_algebra_71,{\displaystyle a<c}
+Elementary_algebra_72,{\displaystyle a<b}
+Elementary_algebra_73,{\displaystyle c<d}
+Elementary_algebra_74,{\displaystyle a+c<b+d}
+Elementary_algebra_75,{\displaystyle a<b}
+Elementary_algebra_76,{\displaystyle c>0}
+Elementary_algebra_77,{\displaystyle ac<bc}
+Elementary_algebra_78,{\displaystyle a<b}
+Elementary_algebra_79,{\displaystyle c<0}
+Elementary_algebra_80,{\displaystyle bc<ac}
+Elementary_algebra_81,{\displaystyle <}
+Elementary_algebra_82,{\displaystyle >}
+Elementary_algebra_83,{\displaystyle a<b}
+Elementary_algebra_84,{\displaystyle b>a}
+Elementary_algebra_85,{\displaystyle a^{2}:=a\times a}
+Elementary_algebra_86,"{\displaystyle a^{2},}"
+Elementary_algebra_87,{\displaystyle 3^{2}}
+Elementary_algebra_88,{\displaystyle 2x+4=12}
+Elementary_algebra_89,{\displaystyle 2x+4=12}
+Elementary_algebra_90,{\displaystyle 2x+4-4=12-4}
+Elementary_algebra_91,{\displaystyle 2x=8}
+Elementary_algebra_92,{\displaystyle {\frac {2x}{2}}={\frac {8}{2}}}
+Elementary_algebra_93,{\displaystyle x=4}
+Elementary_algebra_94,{\displaystyle ax+b=c}
+Elementary_algebra_95,{\displaystyle x={\frac {c-b}{a}}}
+Elementary_algebra_96,{\displaystyle y=x+22}
+Elementary_algebra_97,{\displaystyle {\begin{aligned}y+10&=2\times (x+10)\\y&=2\times (x+10)-10&&{\text{Subtract 10 from both sides}}\\y&=2x+20-10&&{\text{Multiple out brackets}}\\y&=2x+10&&{\text{Simplify}}\end{aligned}}}
+Elementary_algebra_98,{\displaystyle {\begin{cases}y=x+22&{\text{First equation}}\\y=2x+10&{\text{Second equation}}\end{cases}}}
+Elementary_algebra_99,{\displaystyle {\begin{aligned}&&&{\text{Subtract the first equation from}}\\(y-y)&=(2x-x)+10-22&&{\text{the second in order to remove }}y\\0&=x-12&&{\text{Simplify}}\\12&=x&&{\text{Add 12 to both sides}}\\x&=12&&{\text{Rearrange}}\end{aligned}}}
+Elementary_algebra_100,{\displaystyle y=x^{2}+3x-10}
+Elementary_algebra_101,{\displaystyle x=-5}
+Elementary_algebra_102,{\displaystyle x=2}
+Elementary_algebra_103,{\displaystyle y=(x+5)(x-2)}
+Elementary_algebra_104,{\displaystyle x^{2}}
+Elementary_algebra_105,{\displaystyle ax^{2}+bx+c=0}
+Elementary_algebra_106,{\displaystyle ax^{2}}
+Elementary_algebra_107,{\displaystyle a\neq 0}
+Elementary_algebra_108,{\displaystyle x^{2}+px+q=0}
+Elementary_algebra_109,{\displaystyle p={\frac {b}{a}}}
+Elementary_algebra_110,{\displaystyle q={\frac {c}{a}}}
+Elementary_algebra_111,"{\displaystyle x={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}},}"
+Elementary_algebra_112,{\displaystyle x={\frac {-b+{\sqrt {b^{2}-4ac}}}{2a}}\quad {\text{and}}\quad x={\frac {-b-{\sqrt {b^{2}-4ac}}}{2a}}}
+Elementary_algebra_113,"{\displaystyle x^{2}+3x-10=0,}"
+Elementary_algebra_114,{\displaystyle (x+5)(x-2)=0.}
+Elementary_algebra_115,{\displaystyle x=2}
+Elementary_algebra_116,{\displaystyle x=-5}
+Elementary_algebra_117,{\displaystyle x^{2}+1=0}
+Elementary_algebra_118,{\displaystyle (x+1)^{2}=0.}
+Elementary_algebra_119,{\displaystyle [x-(-1)][x-(-1)]=0.}
+Elementary_algebra_120,{\displaystyle x^{2}+x+1=0}
+Elementary_algebra_121,{\displaystyle x={\frac {-1+{\sqrt {-3}}}{2}}\quad \quad {\text{and}}\quad \quad x={\frac {-1-{\sqrt {-3}}}{2}}.}
+Elementary_algebra_122,{\displaystyle {\sqrt {-3}}}
+Elementary_algebra_123,{\displaystyle a^{x}=b}
+Elementary_algebra_124,{\displaystyle a>0}
+Elementary_algebra_125,{\displaystyle X=\log _{a}b={\frac {\ln b}{\ln a}}}
+Elementary_algebra_126,{\displaystyle b>0}
+Elementary_algebra_127,{\displaystyle 3\cdot 2^{x-1}+1=10}
+Elementary_algebra_128,{\displaystyle 2^{x-1}=3}
+Elementary_algebra_129,{\displaystyle x-1=\log _{2}3}
+Elementary_algebra_130,{\displaystyle x=\log _{2}3+1.}
+Elementary_algebra_131,{\displaystyle log_{a}(x)=b}
+Elementary_algebra_132,{\displaystyle a>0}
+Elementary_algebra_133,{\displaystyle X=a^{b}.}
+Elementary_algebra_134,{\displaystyle 4\log _{5}(x-3)-2=6}
+Elementary_algebra_135,{\displaystyle \log _{5}(x-3)=2}
+Elementary_algebra_136,{\displaystyle x-3=5^{2}=25}
+Elementary_algebra_137,{\displaystyle x=28.}
+Elementary_algebra_138,{\displaystyle {\overset {}{\underset {}{{\sqrt[{2}]{x^{3}}}\equiv x^{\frac {3}{2}}}}}}
+Elementary_algebra_139,"{\displaystyle {\sqrt {x}},}"
+Elementary_algebra_140,{\displaystyle {\sqrt[{3}]{x}}}
+Elementary_algebra_141,{\displaystyle {\sqrt[{n}]{x}}}
+Elementary_algebra_142,{\displaystyle {\sqrt[{n}]{x}}}
+Elementary_algebra_143,{\displaystyle x^{\frac {1}{n}}}
+Elementary_algebra_144,{\displaystyle {\sqrt[{2}]{x^{3}}}}
+Elementary_algebra_145,{\displaystyle x^{\frac {3}{2}}}
+Elementary_algebra_146,{\displaystyle {\sqrt[{n}]{x^{m}}}=a}
+Elementary_algebra_147,{\displaystyle x^{\frac {m}{n}}=a}
+Elementary_algebra_148,{\displaystyle a\geq 0}
+Elementary_algebra_149,{\displaystyle a<0}
+Elementary_algebra_150,{\displaystyle a<0}
+Elementary_algebra_151,{\displaystyle x={\sqrt[{n}]{a^{m}}}}
+Elementary_algebra_152,{\displaystyle x=\left({\sqrt[{n}]{a}}\right)^{m}}
+Elementary_algebra_153,{\displaystyle x=\pm {\sqrt[{n}]{a^{m}}}}
+Elementary_algebra_154,{\displaystyle x=\pm \left({\sqrt[{n}]{a}}\right)^{m}}
+Elementary_algebra_155,{\displaystyle x=\pm {\sqrt[{n}]{a^{m}}}}
+Elementary_algebra_156,{\displaystyle (x+5)^{2/3}=4}
+Elementary_algebra_157,"{\displaystyle {\begin{aligned}x+5&=\pm ({\sqrt {4}})^{3},\\x+5&=\pm 8,\\x&=-5\pm 8,\end{aligned}}}"
+Elementary_algebra_158,{\displaystyle x=3\quad {\text{or}}\quad x=-13}
+Elementary_algebra_159,{\displaystyle x-y=-1}
+Elementary_algebra_160,{\displaystyle 3x+y=9}
+Elementary_algebra_161,{\displaystyle {\begin{cases}4x+2y&=14\\2x-y&=1.\end{cases}}}
+Elementary_algebra_162,{\displaystyle 4x+2y=14}
+Elementary_algebra_163,{\displaystyle 4x-2y=2.}
+Elementary_algebra_164,{\displaystyle 8x=16}
+Elementary_algebra_165,{\displaystyle x=2.}
+Elementary_algebra_166,{\displaystyle x=2}
+Elementary_algebra_167,{\displaystyle y=3}
+Elementary_algebra_168,{\displaystyle {\begin{cases}x=2\\y=3.\end{cases}}}
+Elementary_algebra_169,{\displaystyle {\begin{cases}4x+2y&=14\\2x-y&=1.\end{cases}}}
+Elementary_algebra_170,{\displaystyle 2x-y=1}
+Elementary_algebra_171,{\displaystyle 2x}
+Elementary_algebra_172,{\displaystyle {\begin{aligned}2x-2x-y&=1-2x\\-y&=1-2x\end{aligned}}}
+Elementary_algebra_173,{\displaystyle y=2x-1.}
+Elementary_algebra_174,{\displaystyle {\begin{aligned}4x+2(2x-1)&=14\\4x+4x-2&=14\\8x-2&=14\end{aligned}}}
+Elementary_algebra_175,{\displaystyle {\begin{aligned}8x-2+2&=14+2\\8x&=16\end{aligned}}}
+Elementary_algebra_176,{\displaystyle x=2}
+Elementary_algebra_177,{\displaystyle {\begin{cases}x=2\\y=3.\end{cases}}}
+Elementary_algebra_178,{\displaystyle 3x+2y=6}
+Elementary_algebra_179,{\displaystyle 3x+2y=12}
+Elementary_algebra_180,"{\displaystyle {\begin{cases}{\begin{aligned}x+y&=1\\0x+0y&=2\,.\end{aligned}}\end{cases}}}"
+Elementary_algebra_181,"{\displaystyle {\begin{cases}{\begin{aligned}4x+2y&=12\\-2x-y&=-4\,.\end{aligned}}\end{cases}}}"
+Elementary_algebra_182,"{\displaystyle 0x+0y=4\,,}"
+Elementary_algebra_183,{\displaystyle {\begin{cases}{\begin{aligned}4x+2y&=12\\-2x-y&=-6\end{aligned}}\end{cases}}}
+Elementary_algebra_184,{\displaystyle y=-2x+6}
+Elementary_algebra_185,{\displaystyle {\begin{aligned}4x+2(-2x+6)=12\\4x-4x+12=12\\12=12\end{aligned}}}
+Elementary_algebra_186,{\displaystyle y=-2x+6}
+Elementary_algebra_187,{\displaystyle {\begin{cases}{\begin{aligned}x+2y&=10\\y-z&=2.\end{aligned}}\end{cases}}}

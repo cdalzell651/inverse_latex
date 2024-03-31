@@ -1,0 +1,271 @@
+name,latex
+Measure_theory_0,{\displaystyle A}
+Measure_theory_1,"{\displaystyle B,}"
+Measure_theory_2,{\displaystyle A}
+Measure_theory_3,{\displaystyle B.}
+Measure_theory_4,{\displaystyle \mu }
+Measure_theory_5,{\displaystyle X}
+Measure_theory_6,{\displaystyle \Sigma }
+Measure_theory_7,{\displaystyle \sigma }
+Measure_theory_8,{\displaystyle X.}
+Measure_theory_9,{\displaystyle \mu }
+Measure_theory_10,{\displaystyle \Sigma }
+Measure_theory_11,"{\displaystyle E\in \Sigma ,\ \ \mu (E)\geq 0.}"
+Measure_theory_13,{\displaystyle \sigma }
+Measure_theory_14,{\displaystyle \{E_{k}\}_{k=1}^{\infty }}
+Measure_theory_15,{\displaystyle \mu \left(\bigcup _{k=1}^{\infty }E_{k}\right)=\sum _{k=1}^{\infty }\mu (E_{k}).}
+Measure_theory_16,{\displaystyle E}
+Measure_theory_20,{\displaystyle \mu }
+Measure_theory_21,"{\displaystyle \pm \infty ,}"
+Measure_theory_22,{\displaystyle \mu }
+Measure_theory_23,"{\displaystyle (X,\Sigma )}"
+Measure_theory_24,{\displaystyle \Sigma }
+Measure_theory_25,"{\displaystyle (X,\Sigma ,\mu )}"
+Measure_theory_26,{\displaystyle \mu (X)=1.}
+Measure_theory_27,{\displaystyle \mu (S)}
+Measure_theory_28,{\displaystyle S.}
+Measure_theory_29,{\displaystyle \mathbb {R} }
+Measure_theory_30,{\displaystyle \mathbb {R} }
+Measure_theory_31,"{\displaystyle \mu ([0,1])=1}"
+Measure_theory_32,{\displaystyle S.}
+Measure_theory_33,{\displaystyle a}
+Measure_theory_34,{\displaystyle \mu }
+Measure_theory_35,{\displaystyle E_{1}}
+Measure_theory_36,{\displaystyle E_{2}}
+Measure_theory_37,{\displaystyle E_{1}\subseteq E_{2}}
+Measure_theory_38,{\displaystyle \mu (E_{1})\leq \mu (E_{2}).}
+Measure_theory_39,"{\displaystyle E_{1},E_{2},E_{3},\ldots }"
+Measure_theory_40,{\displaystyle E_{n}}
+Measure_theory_41,{\displaystyle \Sigma :}
+Measure_theory_42,{\displaystyle \mu \left(\bigcup _{i=1}^{\infty }E_{i}\right)\leq \sum _{i=1}^{\infty }\mu (E_{i}).}
+Measure_theory_43,"{\displaystyle E_{1},E_{2},E_{3},\ldots }"
+Measure_theory_44,{\displaystyle E_{1}\subseteq E_{2}\subseteq E_{3}\subseteq \ldots }
+Measure_theory_45,{\displaystyle E_{n}}
+Measure_theory_46,{\displaystyle \mu \left(\bigcup _{i=1}^{\infty }E_{i}\right)~=~\lim _{i\to \infty }\mu (E_{i})=\sup _{i\geq 1}\mu (E_{i}).}
+Measure_theory_47,"{\displaystyle E_{1},E_{2},E_{3},\ldots }"
+Measure_theory_48,{\displaystyle E_{1}\supseteq E_{2}\supseteq E_{3}\supseteq \ldots }
+Measure_theory_49,{\displaystyle E_{n}}
+Measure_theory_50,{\displaystyle E_{n}}
+Measure_theory_51,{\displaystyle \mu \left(\bigcap _{i=1}^{\infty }E_{i}\right)=\lim _{i\to \infty }\mu (E_{i})=\inf _{i\geq 1}\mu (E_{i}).}
+Measure_theory_52,{\displaystyle E_{n}}
+Measure_theory_53,"{\displaystyle n\in \mathbb {N} ,}"
+Measure_theory_54,"{\displaystyle E_{n}=[n,\infty )\subseteq \mathbb {R} ,}"
+Measure_theory_55,{\displaystyle X}
+Measure_theory_56,{\displaystyle \mu (X)=0.}
+Measure_theory_57,{\displaystyle Y}
+Measure_theory_58,"{\displaystyle X,}"
+Measure_theory_59,{\displaystyle X}
+Measure_theory_60,{\displaystyle Y}
+Measure_theory_61,{\displaystyle \mu (Y)}
+Measure_theory_62,{\displaystyle \mu (X).}
+Measure_theory_63,"{\displaystyle f:X\to [0,+\infty ]}"
+Measure_theory_64,"{\displaystyle (\Sigma ,{\cal {B}}([0,+\infty ]))}"
+Measure_theory_65,{\displaystyle \mu \{x\in X:f(x)\geq t\}=\mu \{x\in X:f(x)>t\}}
+Measure_theory_66,"{\displaystyle t\in [-\infty ,\infty ].}"
+Measure_theory_67,{\displaystyle F(t):=\mu \{x\in X:f(x)>t\}}
+Measure_theory_68,{\displaystyle G(t):=\mu \{x\in X:f(x)\geq t\}}
+Measure_theory_69,"{\displaystyle t,}"
+Measure_theory_70,{\displaystyle t<0}
+Measure_theory_71,"{\displaystyle \{x\in X:f(x)\geq t\}=X=\{x\in X:f(x)>t\},}"
+Measure_theory_72,"{\displaystyle F(t)=G(t),}"
+Measure_theory_73,{\displaystyle t}
+Measure_theory_74,{\displaystyle \mu \{x\in X:f(x)>t\}=+\infty }
+Measure_theory_75,"{\displaystyle \mu \{x\in X:f(x)\geq t\}=+\infty ,}"
+Measure_theory_76,"{\displaystyle F(t)=G(t),}"
+Measure_theory_77,{\displaystyle \mu \{x\in X:f(x)>t\}=+\infty }
+Measure_theory_78,{\displaystyle t}
+Measure_theory_79,"{\displaystyle t_{0}\in \{-\infty \}\cup [0,+\infty )}"
+Measure_theory_80,{\displaystyle F}
+Measure_theory_81,{\displaystyle t}
+Measure_theory_82,{\displaystyle t_{0}\geq 0}
+Measure_theory_83,{\displaystyle \mu \{x\in X:f(x)\geq t\}=+\infty }
+Measure_theory_84,{\displaystyle t<t_{0}.}
+Measure_theory_85,{\displaystyle t_{0}\geq 0}
+Measure_theory_86,{\displaystyle F\left(t_{0}\right)=+\infty }
+Measure_theory_87,{\displaystyle F\left(t_{0}\right)=G\left(t_{0}\right).}
+Measure_theory_88,"{\displaystyle t>t_{0},}"
+Measure_theory_89,{\displaystyle t_{n}}
+Measure_theory_90,{\displaystyle t.}
+Measure_theory_91,{\displaystyle \{x\in X:f(x)>t_{n}\}}
+Measure_theory_92,{\displaystyle \Sigma }
+Measure_theory_93,{\displaystyle \mu }
+Measure_theory_94,{\displaystyle \{x\in X:f(x)\geq t\}=\bigcap _{n}\{x\in X:f(x)>t_{n}\}.}
+Measure_theory_95,{\displaystyle \mu \{x\in X:f(x)\geq t\}=\lim _{t_{n}\uparrow t}\mu \{x\in X:f(x)>t_{n}\}.}
+Measure_theory_96,{\displaystyle \lim _{t_{n}\uparrow t}F\left(t_{n}\right)}
+Measure_theory_97,{\displaystyle F(t)=\mu \{x\in X:f(x)>t\}}
+Measure_theory_98,{\displaystyle t}
+Measure_theory_99,{\displaystyle F.}
+Measure_theory_100,{\displaystyle F}
+Measure_theory_101,{\displaystyle I}
+Measure_theory_102,"{\displaystyle r_{i},i\in I}"
+Measure_theory_103,"{\displaystyle \sum _{i\in I}r_{i}=\sup \left\lbrace \sum _{i\in J}r_{i}:|J|<\infty ,J\subseteq I\right\rbrace .}"
+Measure_theory_104,{\displaystyle r_{i}}
+Measure_theory_105,{\displaystyle \mu }
+Measure_theory_106,{\displaystyle \Sigma }
+Measure_theory_107,{\displaystyle \kappa }
+Measure_theory_108,{\displaystyle \lambda <\kappa }
+Measure_theory_109,"{\displaystyle X_{\alpha },\alpha <\lambda }"
+Measure_theory_110,{\displaystyle \bigcup _{\alpha \in \lambda }X_{\alpha }\in \Sigma }
+Measure_theory_111,{\displaystyle \mu \left(\bigcup _{\alpha \in \lambda }X_{\alpha }\right)=\sum _{\alpha \in \lambda }\mu \left(X_{\alpha }\right).}
+Measure_theory_112,{\displaystyle \kappa }
+Measure_theory_113,"{\displaystyle (X,\Sigma ,\mu )}"
+Measure_theory_114,{\displaystyle \mu (X)}
+Measure_theory_115,{\displaystyle \infty }
+Measure_theory_116,{\displaystyle \mu }
+Measure_theory_117,{\displaystyle {\frac {1}{\mu (X)}}\mu .}
+Measure_theory_118,{\displaystyle \mu }
+Measure_theory_119,{\displaystyle X}
+Measure_theory_120,"{\displaystyle [k,k+1]}"
+Measure_theory_121,{\displaystyle k;}
+Measure_theory_122,{\displaystyle X}
+Measure_theory_123,{\displaystyle {\cal {A}}}
+Measure_theory_124,"{\displaystyle X,}"
+Measure_theory_125,{\displaystyle \mu }
+Measure_theory_126,{\displaystyle {\cal {A}}.}
+Measure_theory_127,{\displaystyle \mu }
+Measure_theory_128,"{\displaystyle A\in \mu ^{\text{pre}}\{+\infty \},}"
+Measure_theory_129,{\displaystyle {\cal {P}}(A)\cap \mu ^{\text{pre}}(\mathbb {R} _{>0})\neq \emptyset .}
+Measure_theory_130,"{\displaystyle {\cal {A}}={\cal {P}}(X),}"
+Measure_theory_131,"{\displaystyle f:X\to [0,+\infty ],}"
+Measure_theory_132,{\displaystyle \mu (A)=\sum _{a\in A}f(a)}
+Measure_theory_133,{\displaystyle A\subseteq X.}
+Measure_theory_134,{\displaystyle \mu }
+Measure_theory_135,{\displaystyle f(x)<+\infty }
+Measure_theory_136,{\displaystyle x\in X}
+Measure_theory_137,{\displaystyle f^{\text{pre}}(\mathbb {R} _{>0})}
+Measure_theory_138,{\displaystyle \mu }
+Measure_theory_139,{\displaystyle f(x)<+\infty }
+Measure_theory_140,{\displaystyle x\in X.}
+Measure_theory_141,{\displaystyle f=X\times \{1\}}
+Measure_theory_142,{\displaystyle \mu }
+Measure_theory_143,{\displaystyle {\cal {P}}(X)}
+Measure_theory_144,{\displaystyle {\cal {P}}(X)}
+Measure_theory_145,{\displaystyle X}
+Measure_theory_146,{\displaystyle X}
+Measure_theory_147,{\displaystyle {\cal {P}}(X)}
+Measure_theory_148,"{\displaystyle X,}"
+Measure_theory_149,{\displaystyle d}
+Measure_theory_150,"{\displaystyle X,}"
+Measure_theory_151,{\displaystyle {\cal {B}}}
+Measure_theory_152,"{\displaystyle d,}"
+Measure_theory_153,{\displaystyle s\in \mathbb {R} _{>0}.}
+Measure_theory_154,{\displaystyle {\cal {H}}^{s}|{\cal {B}}}
+Measure_theory_155,{\displaystyle d}
+Measure_theory_156,"{\displaystyle X,}"
+Measure_theory_157,{\displaystyle {\cal {B}}}
+Measure_theory_158,"{\displaystyle d,}"
+Measure_theory_159,{\displaystyle s\in \mathbb {R} _{>0}.}
+Measure_theory_160,{\displaystyle {\cal {H}}^{s}|{\cal {B}}}
+Measure_theory_161,{\displaystyle \mu .}
+Measure_theory_162,{\displaystyle \mu }
+Measure_theory_163,"{\displaystyle {\cal {A}},}"
+Measure_theory_164,{\displaystyle {\cal {A}}}
+Measure_theory_165,"{\displaystyle \mu ,}"
+Measure_theory_166,{\displaystyle \mu _{\text{sf}}.}
+Measure_theory_167,{\displaystyle \mu }
+Measure_theory_168,{\displaystyle \mu _{\text{sf}}}
+Measure_theory_169,{\displaystyle \mu _{\text{sf}}=(\sup\{\mu (B):B\in {\cal {P}}(A)\cap \mu ^{\text{pre}}(\mathbb {R} _{\geq 0})\})_{A\in {\cal {A}}}.}
+Measure_theory_170,{\displaystyle \mu _{\text{sf}}=(\sup\{\mu (A\cap B):B\in \mu ^{\text{pre}}(\mathbb {R} _{\geq 0})\})_{A\in {\cal {A}}}\}.}
+Measure_theory_171,{\displaystyle \mu _{\text{sf}}=\mu |_{\mu ^{\text{pre}}(\mathbb {R} _{>0})}\cup \{A\in {\cal {A}}:\sup\{\mu (B):B\in {\cal {P}}(A)\}=+\infty \}\times \{+\infty \}\cup \{A\in {\cal {A}}:\sup\{\mu (B):B\in {\cal {P}}(A)\}<+\infty \}\times \{0\}.}
+Measure_theory_172,{\displaystyle \mu _{\text{sf}}}
+Measure_theory_173,{\displaystyle \mu =\mu _{\text{sf}}}
+Measure_theory_174,{\displaystyle \mu }
+Measure_theory_175,{\displaystyle \mu }
+Measure_theory_176,{\displaystyle \mu =\mu _{\text{sf}}.}
+Measure_theory_177,{\displaystyle 0-\infty }
+Measure_theory_178,{\displaystyle 0-\infty }
+Measure_theory_179,"{\displaystyle \{0,+\infty \}}"
+Measure_theory_180,"{\displaystyle (\forall A\in {\cal {A}})(\mu (A)\in \{0,+\infty \}).}"
+Measure_theory_181,{\displaystyle 0-\infty }
+Measure_theory_182,{\displaystyle X}
+Measure_theory_183,{\displaystyle {\cal {A}}}
+Measure_theory_184,{\displaystyle \sigma }
+Measure_theory_185,"{\displaystyle X,}"
+Measure_theory_186,"{\displaystyle f:X\to \{0,+\infty \}}"
+Measure_theory_187,{\displaystyle \mu =(\sum _{x\in A}f(x))_{A\in {\cal {A}}}.}
+Measure_theory_188,{\displaystyle \mu }
+Measure_theory_189,"{\displaystyle \mu =\{(\emptyset ,0)\}\cup ({\cal {A}}\setminus \{\emptyset \})\times \{+\infty \}.}"
+Measure_theory_190,"{\displaystyle X=\{0\},}"
+Measure_theory_191,"{\displaystyle {\cal {A}}=\{\emptyset ,X\},}"
+Measure_theory_192,"{\displaystyle \mu =\{(\emptyset ,0),(X,+\infty )\}.}"
+Measure_theory_193,{\displaystyle X}
+Measure_theory_194,{\displaystyle {\cal {A}}}
+Measure_theory_195,{\displaystyle \sigma }
+Measure_theory_196,"{\displaystyle X,}"
+Measure_theory_197,{\displaystyle {\cal {C}}=\{A\in {\cal {A}}:A{\text{ is countable}}\}}
+Measure_theory_198,"{\displaystyle {\cal {A}},}"
+Measure_theory_199,{\displaystyle \mu ={\cal {C}}\times \{0\}\cup ({\cal {A}}\setminus {\cal {C}})\times \{+\infty \}.}
+Measure_theory_200,{\displaystyle \mu }
+Measure_theory_201,{\displaystyle 0-\infty }
+Measure_theory_202,{\displaystyle \mu }
+Measure_theory_203,"{\displaystyle {\cal {A}},}"
+Measure_theory_204,{\displaystyle 0-\infty }
+Measure_theory_205,{\displaystyle \xi }
+Measure_theory_206,{\displaystyle {\cal {A}}}
+Measure_theory_207,{\displaystyle \mu =\nu +\xi }
+Measure_theory_208,{\displaystyle \nu }
+Measure_theory_209,{\displaystyle {\cal {A}}.}
+Measure_theory_210,"{\displaystyle \xi ,}"
+Measure_theory_211,{\displaystyle \mu _{0-\infty }.}
+Measure_theory_212,{\displaystyle \mu =\mu _{\text{sf}}+\mu _{0-\infty }.}
+Measure_theory_213,{\displaystyle \mathbf {0-\infty } }
+Measure_theory_214,{\displaystyle \mu }
+Measure_theory_215,{\displaystyle \mu _{0-\infty }}
+Measure_theory_216,{\displaystyle \mu _{0-\infty }}
+Measure_theory_217,{\displaystyle \mu _{0-\infty }=(\sup\{\mu (B)-\mu _{\text{sf}}(B):B\in {\cal {P}}(A)\cap \mu _{\text{sf}}^{\text{pre}}(\mathbb {R} _{\geq 0})\})_{A\in {\cal {A}}}.}
+Measure_theory_218,{\displaystyle \mathbb {F} }
+Measure_theory_219,{\displaystyle \mathbb {R} }
+Measure_theory_220,"{\displaystyle \mathbb {C} ,}"
+Measure_theory_221,{\displaystyle T:L_{\mathbb {F} }^{\infty }(\mu )\to \left(L_{\mathbb {F} }^{1}(\mu )\right)^{*}:g\mapsto T_{g}=\left(\int fgd\mu \right)_{f\in L_{\mathbb {F} }^{1}(\mu )}.}
+Measure_theory_222,{\displaystyle \mu }
+Measure_theory_223,{\displaystyle T}
+Measure_theory_224,{\displaystyle L^{1}=L_{\mathbb {F} }^{1}(\mu )}
+Measure_theory_225,{\displaystyle \mathbb {F} }
+Measure_theory_226,{\displaystyle \mathbb {R} }
+Measure_theory_227,"{\displaystyle \mathbb {C} ,}"
+Measure_theory_228,{\displaystyle {\cal {T}}}
+Measure_theory_229,{\displaystyle L_{\mathbb {F} }^{0}(\mu ).}
+Measure_theory_230,{\displaystyle \mu }
+Measure_theory_231,{\displaystyle {\cal {T}}}
+Measure_theory_232,{\displaystyle X}
+Measure_theory_233,{\displaystyle {\cal {A}}}
+Measure_theory_234,"{\displaystyle X,}"
+Measure_theory_235,{\displaystyle \mu }
+Measure_theory_236,"{\displaystyle {\cal {A}},}"
+Measure_theory_237,{\displaystyle Y}
+Measure_theory_238,{\displaystyle {\cal {B}}}
+Measure_theory_239,"{\displaystyle Y,}"
+Measure_theory_240,{\displaystyle \nu }
+Measure_theory_241,{\displaystyle {\cal {B}}.}
+Measure_theory_242,"{\displaystyle \mu ,\nu }"
+Measure_theory_243,{\displaystyle 0-\infty }
+Measure_theory_244,{\displaystyle \mu }
+Measure_theory_245,{\displaystyle \nu }
+Measure_theory_246,{\displaystyle (\mu \times _{\text{cld}}\nu )}
+Measure_theory_247,{\displaystyle (A\times B)=\mu (A)\nu (B)}
+Measure_theory_248,{\displaystyle A\in {\cal {A}}}
+Measure_theory_249,{\displaystyle B\in {\cal {B}}.}
+Measure_theory_250,{\displaystyle \mu \times _{\text{cld}}\nu }
+Measure_theory_251,{\displaystyle X}
+Measure_theory_252,{\displaystyle {\cal {A}}}
+Measure_theory_253,"{\displaystyle X,}"
+Measure_theory_254,{\displaystyle \mu }
+Measure_theory_255,{\displaystyle {\cal {A}}.}
+Measure_theory_256,{\displaystyle \mathbb {F} }
+Measure_theory_257,{\displaystyle \mathbb {R} }
+Measure_theory_258,"{\displaystyle \mathbb {C} ,}"
+Measure_theory_259,{\displaystyle T:L_{\mathbb {F} }^{\infty }(\mu )\to \left(L_{\mathbb {F} }^{1}(\mu )\right)^{*}:g\mapsto T_{g}=\left(\int fgd\mu \right)_{f\in L_{\mathbb {F} }^{1}(\mu )}.}
+Measure_theory_260,{\displaystyle \mu }
+Measure_theory_261,{\displaystyle T}
+Measure_theory_262,{\displaystyle L_{\mathbb {F} }^{\infty }(\mu )}
+Measure_theory_263,{\displaystyle L_{\mathbb {F} }^{1}(\mu )^{*}}
+Measure_theory_264,{\displaystyle L^{\infty }}
+Measure_theory_265,{\displaystyle \mu }
+Measure_theory_266,{\displaystyle (\forall A\in \mu ^{\text{pre}}\{+\infty \})(\exists B\subseteq A)(0<\mu (B)<+\infty ).}
+Measure_theory_267,{\displaystyle \mu }
+Measure_theory_268,"{\displaystyle (\exists A\in \mu ^{\text{pre}}\{+\infty \})(\forall B\subseteq A)(\mu (B)\in \{0,+\infty \}).}"
+Measure_theory_269,"{\displaystyle A,}"
+Measure_theory_270,"{\displaystyle A,}"
+Measure_theory_271,{\displaystyle \mu }
+Measure_theory_272,{\displaystyle 0-\infty }
+Measure_theory_273,{\displaystyle L^{\infty }}

@@ -1,0 +1,41 @@
+name,latex
+Dynamical_systems_0,{\displaystyle \Phi :U\subseteq (T\times X)\to X}
+Dynamical_systems_1,{\displaystyle \mathrm {proj} _{2}(U)=X}
+Dynamical_systems_2,{\displaystyle \mathrm {proj} _{2}}
+Dynamical_systems_3,"{\displaystyle \Phi (0,x)=x}"
+Dynamical_systems_4,"{\displaystyle \Phi (t_{2},\Phi (t_{1},x))=\Phi (t_{2}+t_{1},x),}"
+Dynamical_systems_5,"{\displaystyle \,t_{1},\,t_{2}+t_{1}\in I(x)}"
+Dynamical_systems_6,"{\displaystyle \ t_{2}\in I(\Phi (t_{1},x))}"
+Dynamical_systems_7,"{\displaystyle I(x):=\{t\in T:(t,x)\in U\}}"
+Dynamical_systems_8,{\displaystyle U=T\times X}
+Dynamical_systems_9,{\displaystyle I(x)=T}
+Dynamical_systems_10,"{\displaystyle \Phi _{x}(t)\equiv \Phi (t,x)}"
+Dynamical_systems_11,"{\displaystyle \Phi ^{t}(x)\equiv \Phi (t,x)}"
+Dynamical_systems_12,{\displaystyle \Phi _{x}:I(x)\to X}
+Dynamical_systems_13,"{\displaystyle \gamma _{x}\equiv \{\Phi (t,x):t\in I(x)\}}"
+Dynamical_systems_14,"{\displaystyle \Phi (t,x)\in S.}"
+Dynamical_systems_15,{\displaystyle I(x)=T}
+Dynamical_systems_16,"{\displaystyle \langle {\mathcal {T}},{\mathcal {M}},f\rangle }"
+Dynamical_systems_17,{\displaystyle {\mathcal {T}}}
+Dynamical_systems_18,{\displaystyle {\mathcal {M}}}
+Dynamical_systems_19,{\displaystyle t\in {\mathcal {T}}}
+Dynamical_systems_20,{\displaystyle {\mathcal {T}}}
+Dynamical_systems_21,{\displaystyle {\mathcal {T}}}
+Dynamical_systems_22,{\displaystyle \Phi ^{-1}\sigma \in \Sigma }
+Dynamical_systems_23,{\displaystyle \mu (\Phi ^{-1}\sigma )=\mu (\sigma )}
+Dynamical_systems_24,{\displaystyle \Phi ^{n}=\Phi \circ \Phi \circ \dots \circ \Phi }
+Dynamical_systems_25,"{\displaystyle {\dot {\boldsymbol {x}}}={\boldsymbol {v}}(t,{\boldsymbol {x}})}"
+Dynamical_systems_26,{\displaystyle {\boldsymbol {x}}|_{t=0}={\boldsymbol {x}}_{0}}
+Dynamical_systems_27,{\displaystyle {\dot {\boldsymbol {x}}}}
+Dynamical_systems_28,"{\displaystyle {\boldsymbol {x}}(t)=\Phi (t,{\boldsymbol {x}}_{0})}"
+Dynamical_systems_29,"{\displaystyle {\dot {\boldsymbol {x}}}-{\boldsymbol {v}}(t,{\boldsymbol {x}})=0\qquad \Leftrightarrow \qquad {\mathfrak {G}}\left(t,\Phi (t,{\boldsymbol {x}}_{0})\right)=0}"
+Dynamical_systems_30,{\displaystyle {\mathfrak {G}}:{{(T\times M)}^{M}}\to \mathbf {C} }
+Dynamical_systems_31,"{\displaystyle {\dot {x}}=v(x)=Ax+b,}"
+Dynamical_systems_32,{\displaystyle \Phi ^{t}(x_{1})=x_{1}+bt.}
+Dynamical_systems_33,{\displaystyle \Phi ^{t}(x_{0})=e^{tA}x_{0}.}
+Dynamical_systems_34,"{\displaystyle x_{n+1}=Ax_{n}+b,}"
+Dynamical_systems_35,{\displaystyle h^{-1}\circ F\circ h(x)=J\cdot x.}
+Dynamical_systems_36,{\displaystyle \mathrm {vol} (A)=\mathrm {vol} (\Phi ^{t}(A)).}
+Dynamical_systems_37,{\displaystyle (U^{t}a)(x)=a(\Phi ^{-t}(x)).}
+Dynamical_systems_38,"{\displaystyle y'=-{\text{sgn}}(y){\sqrt {|y|}},\,\,y(0)=1}"
+Dynamical_systems_39,{\displaystyle y(x)={\frac {1}{4}}\left(1-{\frac {x}{2}}+\left|1-{\frac {x}{2}}\right|\right)^{2}}

@@ -1,0 +1,206 @@
+name,latex
+Noether%27s_theorem_0,"{\displaystyle \int _{a}^{b}f'(t)\,dt=f(b)-f(a)}"
+Noether%27s_theorem_1,{\displaystyle q}
+Noether%27s_theorem_2,{\displaystyle \varphi :q\mapsto q+\delta q}
+Noether%27s_theorem_3,{\displaystyle q(t)}
+Noether%27s_theorem_4,{\displaystyle S}
+Noether%27s_theorem_5,{\displaystyle \varphi }
+Noether%27s_theorem_6,{\displaystyle \tau }
+Noether%27s_theorem_7,{\displaystyle S}
+Noether%27s_theorem_8,"{\displaystyle [t_{0},t_{1}]}"
+Noether%27s_theorem_9,{\displaystyle \Delta S}
+Noether%27s_theorem_10,{\displaystyle \varphi }
+Noether%27s_theorem_11,{\displaystyle L}
+Noether%27s_theorem_13,{\displaystyle q}
+Noether%27s_theorem_14,{\displaystyle {\dot {q}}}
+Noether%27s_theorem_15,{\displaystyle {\dot {q}}}
+Noether%27s_theorem_16,{\displaystyle \delta q/\tau }
+Noether%27s_theorem_17,{\displaystyle \delta q}
+Noether%27s_theorem_18,{\displaystyle \tau }
+Noether%27s_theorem_19,{\displaystyle \delta q/\tau \gg \delta q}
+Noether%27s_theorem_20,{\displaystyle {\dot {q}}\rightarrow {\dot {q}}\pm \delta q/\tau }
+Noether%27s_theorem_21,{\displaystyle \Delta L\approx {\bigl (}\partial L/\partial {\dot {q}}{\bigr )}\Delta {\dot {q}}}
+Noether%27s_theorem_22,{\displaystyle \Delta S=\int \Delta L\approx \int {\frac {\partial L}{\partial {\dot {q}}}}\Delta {\dot {q}}\approx \int {\frac {\partial L}{\partial {\dot {q}}}}\left(\pm {\frac {\delta q}{\tau }}\right)\approx \ \pm {\frac {\partial L}{\partial {\dot {q}}}}\delta q=\pm {\frac {\partial L}{\partial {\dot {q}}}}\varphi .}
+Noether%27s_theorem_23,{\displaystyle t_{0}}
+Noether%27s_theorem_24,{\displaystyle t_{1}}
+Noether%27s_theorem_25,{\displaystyle \Delta S}
+Noether%27s_theorem_26,"{\displaystyle \left({\frac {\partial L}{\partial {\dot {q}}}}\varphi \right)(t_{0})=\left({\frac {\partial L}{\partial {\dot {q}}}}\varphi \right)(t_{1}),}"
+Noether%27s_theorem_27,{\displaystyle \left(\partial L/\partial {\dot {q}}\right)\varphi }
+Noether%27s_theorem_28,{\displaystyle q}
+Noether%27s_theorem_29,{\displaystyle \left(\partial L/\partial {\dot {q}}\right)=p}
+Noether%27s_theorem_30,{\displaystyle q_{r}}
+Noether%27s_theorem_31,{\displaystyle q_{r}\mapsto q_{r}+\varphi _{r}}
+Noether%27s_theorem_33,{\displaystyle t\mapsto t+T}
+Noether%27s_theorem_34,{\displaystyle \Delta S}
+Noether%27s_theorem_35,"{\displaystyle \Delta S\approx \pm \left(TL+\int {\frac {\partial L}{\partial {\dot {q}}_{r}}}\Delta {\dot {q}}_{r}\right)\approx \pm T\left(L-{\frac {\partial L}{\partial {\dot {q}}_{r}}}{\dot {q}}_{r}\right),}"
+Noether%27s_theorem_37,{\displaystyle q(t)}
+Noether%27s_theorem_38,"{\displaystyle \psi (q_{r},t)}"
+Noether%27s_theorem_39,"{\displaystyle [t_{0},t_{1}]}"
+Noether%27s_theorem_40,{\displaystyle U}
+Noether%27s_theorem_41,"{\displaystyle (q_{r},t)}"
+Noether%27s_theorem_42,{\displaystyle t_{0}}
+Noether%27s_theorem_43,{\displaystyle t_{1}}
+Noether%27s_theorem_44,{\displaystyle \partial U}
+Noether%27s_theorem_45,{\displaystyle \Delta S}
+Noether%27s_theorem_46,{\displaystyle j_{r}}
+Noether%27s_theorem_47,{\displaystyle \partial U}
+Noether%27s_theorem_48,{\displaystyle \Delta S}
+Noether%27s_theorem_49,{\displaystyle j_{r}}
+Noether%27s_theorem_50,{\displaystyle \partial U}
+Noether%27s_theorem_51,{\displaystyle {\frac {dX}{dt}}={\dot {X}}=0~.}
+Noether%27s_theorem_52,"{\displaystyle I=\int L(\mathbf {q} ,{\dot {\mathbf {q} }},t)\,dt~,}"
+Noether%27s_theorem_53,{\displaystyle {\dot {\mathbf {q} }}={\frac {d\mathbf {q} }{dt}}~.}
+Noether%27s_theorem_54,{\displaystyle {\frac {d}{dt}}\left({\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}\right)={\frac {\partial L}{\partial \mathbf {q} }}~.}
+Noether%27s_theorem_55,"{\displaystyle {\frac {d}{dt}}\left({\frac {\partial L}{\partial {\dot {q}}_{k}}}\right)={\frac {dp_{k}}{dt}}=0~,}"
+Noether%27s_theorem_56,{\displaystyle p_{k}={\frac {\partial L}{\partial {\dot {q}}_{k}}}}
+Noether%27s_theorem_57,"{\displaystyle {\begin{aligned}t&\rightarrow t^{\prime }=t+\delta t\\\mathbf {q} &\rightarrow \mathbf {q} ^{\prime }=\mathbf {q} +\delta \mathbf {q} ~,\end{aligned}}}"
+Noether%27s_theorem_58,"{\displaystyle {\begin{aligned}\delta t&=\sum _{r}\varepsilon _{r}T_{r}\\\delta \mathbf {q} &=\sum _{r}\varepsilon _{r}\mathbf {Q} _{r}~,\end{aligned}}}"
+Noether%27s_theorem_59,{\displaystyle \left({\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}\cdot {\dot {\mathbf {q} }}-L\right)T_{r}-{\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}\cdot \mathbf {Q} _{r}}
+Noether%27s_theorem_60,{\displaystyle H={\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}\cdot {\dot {\mathbf {q} }}-L.}
+Noether%27s_theorem_61,{\displaystyle p_{k}={\frac {\partial L}{\partial {\dot {q_{k}}}}}.}
+Noether%27s_theorem_62,"{\displaystyle \mathbf {r} \rightarrow \mathbf {r} +\delta \theta \,\mathbf {n} \times \mathbf {r} .}"
+Noether%27s_theorem_63,{\displaystyle \mathbf {Q} =\mathbf {n} \times \mathbf {r} .}
+Noether%27s_theorem_64,{\displaystyle {\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}\cdot \mathbf {Q} =\mathbf {p} \cdot \left(\mathbf {n} \times \mathbf {r} \right)=\mathbf {n} \cdot \left(\mathbf {r} \times \mathbf {p} \right)=\mathbf {n} \cdot \mathbf {L} .}
+Noether%27s_theorem_65,{\displaystyle \varphi }
+Noether%27s_theorem_66,"{\displaystyle T(\mathbf {x} ,t)}"
+Noether%27s_theorem_67,"{\displaystyle {\mathcal {S}}=\int {\mathcal {L}}\left(\varphi ,\partial _{\mu }\varphi ,x^{\mu }\right)\,d^{4}x}"
+Noether%27s_theorem_68,{\displaystyle \varphi }
+Noether%27s_theorem_69,"{\displaystyle \varphi \mapsto \varphi +\varepsilon \Psi ,}"
+Noether%27s_theorem_70,{\displaystyle \Psi }
+Noether%27s_theorem_71,{\displaystyle x^{\mu }}
+Noether%27s_theorem_72,{\displaystyle \varphi }
+Noether%27s_theorem_73,{\displaystyle \Psi }
+Noether%27s_theorem_74,{\displaystyle {\mathcal {S}}}
+Noether%27s_theorem_75,{\displaystyle {\mathcal {L}}}
+Noether%27s_theorem_76,"{\displaystyle {\mathcal {L}}\mapsto {\mathcal {L}}+\varepsilon \partial _{\mu }\Lambda ^{\mu },}"
+Noether%27s_theorem_77,"{\displaystyle r=1,2,\ldots ,N,}"
+Noether%27s_theorem_78,"{\displaystyle \varphi \mapsto \varphi +\varepsilon _{r}\Psi _{r},}"
+Noether%27s_theorem_79,{\displaystyle {\mathcal {L}}\mapsto {\mathcal {L}}+\varepsilon _{r}\partial _{\mu }\Lambda _{r}^{\mu }.}
+Noether%27s_theorem_80,{\displaystyle N}
+Noether%27s_theorem_81,"{\displaystyle j_{r}^{\nu }=\Lambda _{r}^{\nu }-{\frac {\partial {\mathcal {L}}}{\partial \varphi _{,\nu }}}\cdot \Psi _{r}}"
+Noether%27s_theorem_82,{\displaystyle \nu }
+Noether%27s_theorem_83,{\displaystyle r}
+Noether%27s_theorem_84,"{\displaystyle \partial _{\nu }j^{\nu }=0,}"
+Noether%27s_theorem_85,"{\displaystyle L\left({\boldsymbol {\varphi }},\partial _{\mu }{\boldsymbol {\varphi }},x^{\mu }\right)}"
+Noether%27s_theorem_86,{\displaystyle x^{\mu }\mapsto x^{\mu }+\varepsilon _{r}\delta _{r}^{\mu }}
+Noether%27s_theorem_87,{\displaystyle \delta }
+Noether%27s_theorem_88,{\displaystyle \varphi (x^{\mu })\mapsto \varphi \left(x^{\mu }-\varepsilon _{r}\delta _{r}^{\mu }\right)}
+Noether%27s_theorem_89,{\displaystyle x^{\mu }}
+Noether%27s_theorem_90,{\displaystyle x^{\mu }-\varepsilon X^{\mu }}
+Noether%27s_theorem_91,{\displaystyle x^{\mu }}
+Noether%27s_theorem_92,{\displaystyle \Psi _{r}=-\delta _{r}^{\mu }\partial _{\mu }\varphi .}
+Noether%27s_theorem_93,{\displaystyle {\mathcal {L}}\left(x^{\mu }\right)\mapsto {\mathcal {L}}\left(x^{\mu }-\varepsilon _{r}\delta _{r}^{\mu }\right)}
+Noether%27s_theorem_94,{\displaystyle \Lambda _{r}^{\mu }=-\delta _{r}^{\mu }{\mathcal {L}}}
+Noether%27s_theorem_95,{\displaystyle \mu }
+Noether%27s_theorem_96,{\displaystyle r}
+Noether%27s_theorem_97,{\displaystyle \mu }
+Noether%27s_theorem_98,{\displaystyle T}
+Noether%27s_theorem_99,"{\displaystyle T_{\mu }{}^{\nu }=-\delta _{\mu }^{\nu }{\mathcal {L}}+\delta _{\mu }^{\sigma }\partial _{\sigma }\varphi {\frac {\partial {\mathcal {L}}}{\partial \varphi _{,\nu }}}=\left({\frac {\partial {\mathcal {L}}}{\partial \varphi _{,\nu }}}\right)\cdot \varphi _{,\mu }-\delta _{\mu }^{\nu }{\mathcal {L}}}"
+Noether%27s_theorem_100,"{\displaystyle T_{\mu }{}^{\nu }{}_{,\nu }=0}"
+Noether%27s_theorem_101,{\displaystyle \mu }
+Noether%27s_theorem_102,{\displaystyle \sigma }
+Noether%27s_theorem_103,{\displaystyle T}
+Noether%27s_theorem_104,"{\displaystyle \psi \rightarrow e^{i\theta }\psi \ ,\ \psi ^{*}\rightarrow e^{-i\theta }\psi ^{*}~,}"
+Noether%27s_theorem_105,{\displaystyle L=\partial _{\nu }\psi \partial _{\mu }\psi ^{*}\eta ^{\nu \mu }+m^{2}\psi \psi ^{*}.}
+Noether%27s_theorem_106,"{\displaystyle j^{\nu }=i\left({\frac {\partial \psi }{\partial x^{\mu }}}\psi ^{*}-{\frac {\partial \psi ^{*}}{\partial x^{\mu }}}\psi \right)\eta ^{\nu \mu }~,}"
+Noether%27s_theorem_107,"{\displaystyle I=\int _{t_{1}}^{t_{2}}L[\mathbf {q} [t],{\dot {\mathbf {q} }}[t],t]\,dt}"
+Noether%27s_theorem_108,{\displaystyle {\frac {d}{dt}}{\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}[t]={\frac {\partial L}{\partial \mathbf {q} }}[t].}
+Noether%27s_theorem_109,"{\displaystyle {\begin{aligned}t&\rightarrow t'=t+\varepsilon T\\\mathbf {q} [t]&\rightarrow \mathbf {q} '[t']=\varphi [\mathbf {q} [t],\varepsilon ]=\varphi [\mathbf {q} [t'-\varepsilon T],\varepsilon ]\end{aligned}}}"
+Noether%27s_theorem_110,"{\displaystyle {\dot {\mathbf {q} }}[t]\rightarrow {\dot {\mathbf {q} }}'[t']={\frac {d}{dt}}\varphi [\mathbf {q} [t],\varepsilon ]={\frac {\partial \varphi }{\partial \mathbf {q} }}[\mathbf {q} [t'-\varepsilon T],\varepsilon ]{\dot {\mathbf {q} }}[t'-\varepsilon T].}"
+Noether%27s_theorem_111,"{\displaystyle {\begin{aligned}I'[\varepsilon ]&=\int _{t_{1}+\varepsilon T}^{t_{2}+\varepsilon T}L[\mathbf {q} '[t'],{\dot {\mathbf {q} }}'[t'],t']\,dt'\\[6pt]&=\int _{t_{1}+\varepsilon T}^{t_{2}+\varepsilon T}L[\varphi [\mathbf {q} [t'-\varepsilon T],\varepsilon ],{\frac {\partial \varphi }{\partial \mathbf {q} }}[\mathbf {q} [t'-\varepsilon T],\varepsilon ]{\dot {\mathbf {q} }}[t'-\varepsilon T],t']\,dt'\end{aligned}}}"
+Noether%27s_theorem_112,"{\displaystyle {\begin{aligned}0={\frac {dI'}{d\varepsilon }}[0]={}&L[\mathbf {q} [t_{2}],{\dot {\mathbf {q} }}[t_{2}],t_{2}]T-L[\mathbf {q} [t_{1}],{\dot {\mathbf {q} }}[t_{1}],t_{1}]T\\[6pt]&{}+\int _{t_{1}}^{t_{2}}{\frac {\partial L}{\partial \mathbf {q} }}\left(-{\frac {\partial \varphi }{\partial \mathbf {q} }}{\dot {\mathbf {q} }}T+{\frac {\partial \varphi }{\partial \varepsilon }}\right)+{\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}\left(-{\frac {\partial ^{2}\varphi }{(\partial \mathbf {q} )^{2}}}{\dot {\mathbf {q} }}^{2}T+{\frac {\partial ^{2}\varphi }{\partial \varepsilon \partial \mathbf {q} }}{\dot {\mathbf {q} }}-{\frac {\partial \varphi }{\partial \mathbf {q} }}{\ddot {\mathbf {q} }}T\right)\,dt.\end{aligned}}}"
+Noether%27s_theorem_113,"{\displaystyle {\begin{aligned}{\frac {d}{dt}}\left({\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}{\frac {\partial \varphi }{\partial \mathbf {q} }}{\dot {\mathbf {q} }}T\right)&=\left({\frac {d}{dt}}{\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}\right){\frac {\partial \varphi }{\partial \mathbf {q} }}{\dot {\mathbf {q} }}T+{\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}\left({\frac {d}{dt}}{\frac {\partial \varphi }{\partial \mathbf {q} }}\right){\dot {\mathbf {q} }}T+{\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}{\frac {\partial \varphi }{\partial \mathbf {q} }}{\ddot {\mathbf {q} }}\,T\\[6pt]&={\frac {\partial L}{\partial \mathbf {q} }}{\frac {\partial \varphi }{\partial \mathbf {q} }}{\dot {\mathbf {q} }}T+{\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}\left({\frac {\partial ^{2}\varphi }{(\partial \mathbf {q} )^{2}}}{\dot {\mathbf {q} }}\right){\dot {\mathbf {q} }}T+{\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}{\frac {\partial \varphi }{\partial \mathbf {q} }}{\ddot {\mathbf {q} }}\,T.\end{aligned}}}"
+Noether%27s_theorem_114,"{\displaystyle {\begin{aligned}0={\frac {dI'}{d\varepsilon }}[0]={}&L[\mathbf {q} [t_{2}],{\dot {\mathbf {q} }}[t_{2}],t_{2}]T-L[\mathbf {q} [t_{1}],{\dot {\mathbf {q} }}[t_{1}],t_{1}]T-{\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}{\frac {\partial \varphi }{\partial \mathbf {q} }}{\dot {\mathbf {q} }}[t_{2}]T+{\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}{\frac {\partial \varphi }{\partial \mathbf {q} }}{\dot {\mathbf {q} }}[t_{1}]T\\[6pt]&{}+\int _{t_{1}}^{t_{2}}{\frac {\partial L}{\partial \mathbf {q} }}{\frac {\partial \varphi }{\partial \varepsilon }}+{\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}{\frac {\partial ^{2}\varphi }{\partial \varepsilon \partial \mathbf {q} }}{\dot {\mathbf {q} }}\,dt.\end{aligned}}}"
+Noether%27s_theorem_115,{\displaystyle {\frac {d}{dt}}\left({\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}{\frac {\partial \varphi }{\partial \varepsilon }}\right)=\left({\frac {d}{dt}}{\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}\right){\frac {\partial \varphi }{\partial \varepsilon }}+{\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}{\frac {\partial ^{2}\varphi }{\partial \varepsilon \partial \mathbf {q} }}{\dot {\mathbf {q} }}={\frac {\partial L}{\partial \mathbf {q} }}{\frac {\partial \varphi }{\partial \varepsilon }}+{\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}{\frac {\partial ^{2}\varphi }{\partial \varepsilon \partial \mathbf {q} }}{\dot {\mathbf {q} }}.}
+Noether%27s_theorem_116,"{\displaystyle {\begin{aligned}0={}&L[\mathbf {q} [t_{2}],{\dot {\mathbf {q} }}[t_{2}],t_{2}]T-L[\mathbf {q} [t_{1}],{\dot {\mathbf {q} }}[t_{1}],t_{1}]T-{\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}{\frac {\partial \varphi }{\partial \mathbf {q} }}{\dot {\mathbf {q} }}[t_{2}]T+{\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}{\frac {\partial \varphi }{\partial \mathbf {q} }}{\dot {\mathbf {q} }}[t_{1}]T\\[6pt]&{}+{\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}{\frac {\partial \varphi }{\partial \varepsilon }}[t_{2}]-{\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}{\frac {\partial \varphi }{\partial \varepsilon }}[t_{1}].\end{aligned}}}"
+Noether%27s_theorem_117,{\displaystyle \left({\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}{\frac {\partial \varphi }{\partial \mathbf {q} }}{\dot {\mathbf {q} }}-L\right)T-{\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}{\frac {\partial \varphi }{\partial \varepsilon }}}
+Noether%27s_theorem_118,{\displaystyle {\frac {\partial \varphi }{\partial \mathbf {q} }}=1}
+Noether%27s_theorem_119,{\displaystyle \left({\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}{\dot {\mathbf {q} }}-L\right)T-{\frac {\partial L}{\partial {\dot {\mathbf {q} }}}}{\frac {\partial \varphi }{\partial \varepsilon }}.}
+Noether%27s_theorem_120,{\displaystyle \varphi ^{A}}
+Noether%27s_theorem_121,{\displaystyle x^{\mu }\rightarrow \xi ^{\mu }=x^{\mu }+\delta x^{\mu }}
+Noether%27s_theorem_122,"{\displaystyle \varphi ^{A}\rightarrow \alpha ^{A}\left(\xi ^{\mu }\right)=\varphi ^{A}\left(x^{\mu }\right)+\delta \varphi ^{A}\left(x^{\mu }\right)\,.}"
+Noether%27s_theorem_123,{\displaystyle \delta \varphi ^{A}}
+Noether%27s_theorem_124,"{\displaystyle \alpha ^{A}\left(x^{\mu }\right)=\varphi ^{A}\left(x^{\mu }\right)+{\bar {\delta }}\varphi ^{A}\left(x^{\mu }\right)\,.}"
+Noether%27s_theorem_125,"{\displaystyle \int _{\Omega ^{\prime }}L\left(\alpha ^{A},{\alpha ^{A}}_{,\nu },\xi ^{\mu }\right)d^{4}\xi -\int _{\Omega }L\left(\varphi ^{A},{\varphi ^{A}}_{,\nu },x^{\mu }\right)d^{4}x=0}"
+Noether%27s_theorem_126,"{\displaystyle {\varphi ^{A}}_{,\sigma }={\frac {\partial \varphi ^{A}}{\partial x^{\sigma }}}\,.}"
+Noether%27s_theorem_127,"{\displaystyle \int _{\Omega }\left\{\left[L\left(\alpha ^{A},{\alpha ^{A}}_{,\nu },x^{\mu }\right)-L\left(\varphi ^{A},{\varphi ^{A}}_{,\nu },x^{\mu }\right)\right]+{\frac {\partial }{\partial x^{\sigma }}}\left[L\left(\varphi ^{A},{\varphi ^{A}}_{,\nu },x^{\mu }\right)\delta x^{\sigma }\right]\right\}d^{4}x=0\,.}"
+Noether%27s_theorem_128,"{\displaystyle \left[L\left(\alpha ^{A},{\alpha ^{A}}_{,\nu },x^{\mu }\right)-L\left(\varphi ^{A},{\varphi ^{A}}_{,\nu },x^{\mu }\right)\right]={\frac {\partial L}{\partial \varphi ^{A}}}{\bar {\delta }}\varphi ^{A}+{\frac {\partial L}{\partial {\varphi ^{A}}_{,\sigma }}}{\bar {\delta }}{\varphi ^{A}}_{,\sigma }\,.}"
+Noether%27s_theorem_129,"{\displaystyle {\bar {\delta }}{\varphi ^{A}}_{,\sigma }={\bar {\delta }}{\frac {\partial \varphi ^{A}}{\partial x^{\sigma }}}={\frac {\partial }{\partial x^{\sigma }}}\left({\bar {\delta }}\varphi ^{A}\right)\,.}"
+Noether%27s_theorem_130,"{\displaystyle {\frac {\partial }{\partial x^{\sigma }}}\left({\frac {\partial L}{\partial {\varphi ^{A}}_{,\sigma }}}\right)={\frac {\partial L}{\partial \varphi ^{A}}}}"
+Noether%27s_theorem_131,"{\displaystyle {\begin{aligned}&\left[L\left(\alpha ^{A},{\alpha ^{A}}_{,\nu },x^{\mu }\right)-L\left(\varphi ^{A},{\varphi ^{A}}_{,\nu },x^{\mu }\right)\right]\\[4pt]={}&{\frac {\partial }{\partial x^{\sigma }}}\left({\frac {\partial L}{\partial {\varphi ^{A}}_{,\sigma }}}\right){\bar {\delta }}\varphi ^{A}+{\frac {\partial L}{\partial {\varphi ^{A}}_{,\sigma }}}{\bar {\delta }}{\varphi ^{A}}_{,\sigma }={\frac {\partial }{\partial x^{\sigma }}}\left({\frac {\partial L}{\partial {\varphi ^{A}}_{,\sigma }}}{\bar {\delta }}\varphi ^{A}\right).\end{aligned}}}"
+Noether%27s_theorem_132,"{\displaystyle \int _{\Omega }{\frac {\partial }{\partial x^{\sigma }}}\left\{{\frac {\partial L}{\partial {\varphi ^{A}}_{,\sigma }}}{\bar {\delta }}\varphi ^{A}+L\left(\varphi ^{A},{\varphi ^{A}}_{,\nu },x^{\mu }\right)\delta x^{\sigma }\right\}d^{4}x=0\,.}"
+Noether%27s_theorem_133,"{\displaystyle {\frac {\partial }{\partial x^{\sigma }}}\left\{{\frac {\partial L}{\partial {\varphi ^{A}}_{,\sigma }}}{\bar {\delta }}\varphi ^{A}+L\left(\varphi ^{A},{\varphi ^{A}}_{,\nu },x^{\mu }\right)\delta x^{\sigma }\right\}=0\,.}"
+Noether%27s_theorem_134,{\displaystyle {\begin{aligned}\delta x^{\mu }&=\varepsilon X^{\mu }\\\delta \varphi ^{A}&=\varepsilon \Psi ^{A}={\bar {\delta }}\varphi ^{A}+\varepsilon {\mathcal {L}}_{X}\varphi ^{A}\end{aligned}}}
+Noether%27s_theorem_135,{\displaystyle {\mathcal {L}}_{X}\varphi ^{A}}
+Noether%27s_theorem_136,{\displaystyle \varphi ^{A}}
+Noether%27s_theorem_137,{\displaystyle \varphi ^{A}}
+Noether%27s_theorem_138,"{\displaystyle {X^{\mu }}_{,\nu }=0}"
+Noether%27s_theorem_139,"{\displaystyle {\mathcal {L}}_{X}\varphi ^{A}={\frac {\partial \varphi ^{A}}{\partial x^{\mu }}}X^{\mu }\,.}"
+Noether%27s_theorem_140,"{\displaystyle {\bar {\delta }}\varphi ^{A}=\varepsilon \Psi ^{A}-\varepsilon {\mathcal {L}}_{X}\varphi ^{A}\,.}"
+Noether%27s_theorem_141,{\displaystyle {\frac {\partial }{\partial x^{\sigma }}}j^{\sigma }=0}
+Noether%27s_theorem_142,"{\displaystyle j^{\sigma }=\left[{\frac {\partial L}{\partial {\varphi ^{A}}_{,\sigma }}}{\mathcal {L}}_{X}\varphi ^{A}-L\,X^{\sigma }\right]-\left({\frac {\partial L}{\partial {\varphi ^{A}}_{,\sigma }}}\right)\Psi ^{A}\,.}"
+Noether%27s_theorem_143,{\displaystyle {\mathcal {C}}}
+Noether%27s_theorem_144,{\displaystyle \mathbb {R} }
+Noether%27s_theorem_145,"{\displaystyle \varphi _{1},\ldots ,\varphi _{m}}"
+Noether%27s_theorem_146,{\displaystyle \mathbb {R} ^{m}}
+Noether%27s_theorem_147,{\displaystyle \mathbb {R} ^{3}}
+Noether%27s_theorem_148,"{\displaystyle {\mathcal {S}}:{\mathcal {C}}\rightarrow \mathbb {R} ,}"
+Noether%27s_theorem_149,{\displaystyle \mathbb {R} }
+Noether%27s_theorem_150,{\displaystyle \mathbb {C} }
+Noether%27s_theorem_151,{\displaystyle {\mathcal {S}}[\varphi ]}
+Noether%27s_theorem_152,"{\displaystyle {\mathcal {L}}(\varphi ,\partial _{\mu }\varphi ,x)}"
+Noether%27s_theorem_153,{\displaystyle \varphi }
+Noether%27s_theorem_154,{\displaystyle \varphi }
+Noether%27s_theorem_155,{\displaystyle {\mathcal {C}}}
+Noether%27s_theorem_156,"{\displaystyle {\mathcal {S}}[\varphi ]\,=\,\int _{M}{\mathcal {L}}[\varphi (x),\partial _{\mu }\varphi (x),x]\,d^{n}x.}"
+Noether%27s_theorem_157,{\displaystyle \varphi }
+Noether%27s_theorem_158,{\displaystyle \varphi }
+Noether%27s_theorem_159,{\displaystyle {\mathcal {C}}}
+Noether%27s_theorem_160,{\displaystyle \varphi }
+Noether%27s_theorem_161,{\displaystyle {\mathcal {S}}}
+Noether%27s_theorem_162,{\displaystyle \varphi }
+Noether%27s_theorem_163,{\displaystyle {\frac {\delta {\mathcal {S}}[\varphi ]}{\delta \varphi (x)}}\approx 0}
+Noether%27s_theorem_164,{\displaystyle \varphi }
+Noether%27s_theorem_165,{\displaystyle {\mathcal {C}}}
+Noether%27s_theorem_166,"{\displaystyle Q\left[\int _{N}{\mathcal {L}}\,\mathrm {d} ^{n}x\right]\approx \int _{\partial N}f^{\mu }[\varphi (x),\partial \varphi ,\partial \partial \varphi ,\ldots ]\,ds_{\mu }}"
+Noether%27s_theorem_167,{\displaystyle Q[{\mathcal {L}}(x)]\approx \partial _{\mu }f^{\mu }(x)}
+Noether%27s_theorem_168,"{\displaystyle {\mathcal {L}}(x)={\mathcal {L}}[\varphi (x),\partial _{\mu }\varphi (x),x].}"
+Noether%27s_theorem_169,"{\displaystyle {\begin{aligned}Q\left[\int _{N}{\mathcal {L}}\,\mathrm {d} ^{n}x\right]&=\int _{N}\left[{\frac {\partial {\mathcal {L}}}{\partial \varphi }}-\partial _{\mu }{\frac {\partial {\mathcal {L}}}{\partial (\partial _{\mu }\varphi )}}\right]Q[\varphi ]\,\mathrm {d} ^{n}x+\int _{\partial N}{\frac {\partial {\mathcal {L}}}{\partial (\partial _{\mu }\varphi )}}Q[\varphi ]\,\mathrm {d} s_{\mu }\\&\approx \int _{\partial N}f^{\mu }\,\mathrm {d} s_{\mu }.\end{aligned}}}"
+Noether%27s_theorem_170,{\displaystyle \partial _{\mu }\left[{\frac {\partial {\mathcal {L}}}{\partial (\partial _{\mu }\varphi )}}Q[\varphi ]-f^{\mu }\right]\approx 0.}
+Noether%27s_theorem_171,{\displaystyle J^{\mu }}
+Noether%27s_theorem_172,"{\displaystyle J^{\mu }\,=\,{\frac {\partial {\mathcal {L}}}{\partial (\partial _{\mu }\varphi )}}Q[\varphi ]-f^{\mu },}"
+Noether%27s_theorem_173,{\displaystyle \int _{\partial N}J^{\mu }ds_{\mu }\approx 0.}
+Noether%27s_theorem_175,{\displaystyle Q_{1}[{\mathcal {L}}]\approx \partial _{\mu }f_{1}^{\mu }}
+Noether%27s_theorem_176,{\displaystyle Q_{2}[{\mathcal {L}}]\approx \partial _{\mu }f_{2}^{\mu }}
+Noether%27s_theorem_177,"{\displaystyle [Q_{1},Q_{2}][{\mathcal {L}}]=Q_{1}[Q_{2}[{\mathcal {L}}]]-Q_{2}[Q_{1}[{\mathcal {L}}]]\approx \partial _{\mu }f_{12}^{\mu }}"
+Noether%27s_theorem_178,{\displaystyle j_{12}^{\mu }=\left({\frac {\partial }{\partial (\partial _{\mu }\varphi )}}{\mathcal {L}}\right)(Q_{1}[Q_{2}[\varphi ]]-Q_{2}[Q_{1}[\varphi ]])-f_{12}^{\mu }.}
+Noether%27s_theorem_179,{\displaystyle \varphi }
+Noether%27s_theorem_180,{\displaystyle Q[{\mathcal {L}}]\approx \partial _{\mu }f^{\mu }}
+Noether%27s_theorem_181,"{\displaystyle {\begin{aligned}q[\varepsilon ][{\mathcal {S}}]&=\int q[\varepsilon ][{\mathcal {L}}]d^{n}x\\[6pt]&=\int \left\{\left({\frac {\partial }{\partial \varphi }}{\mathcal {L}}\right)\varepsilon Q[\varphi ]+\left[{\frac {\partial }{\partial (\partial _{\mu }\varphi )}}{\mathcal {L}}\right]\partial _{\mu }(\varepsilon Q[\varphi ])\right\}d^{n}x\\[6pt]&=\int \left\{\varepsilon Q[{\mathcal {L}}]+\partial _{\mu }\varepsilon \left[{\frac {\partial }{\partial \left(\partial _{\mu }\varphi \right)}}{\mathcal {L}}\right]Q[\varphi ]\right\}\,d^{n}x\\[6pt]&\approx \int \varepsilon \partial _{\mu }\left\{f^{\mu }-\left[{\frac {\partial }{\partial (\partial _{\mu }\varphi )}}{\mathcal {L}}\right]Q[\varphi ]\right\}\,d^{n}x\end{aligned}}}"
+Noether%27s_theorem_182,{\displaystyle \varepsilon }
+Noether%27s_theorem_183,"{\displaystyle \partial _{\mu }\left[f^{\mu }-\left[{\frac {\partial }{\partial (\partial _{\mu }\varphi )}}{\mathcal {L}}\right]Q[\varphi ]-2\left[{\frac {\partial }{\partial (\partial _{\mu }\partial _{\nu }\varphi )}}{\mathcal {L}}\right]\partial _{\nu }Q[\varphi ]+\partial _{\nu }\left[\left[{\frac {\partial }{\partial (\partial _{\mu }\partial _{\nu }\varphi )}}{\mathcal {L}}\right]Q[\varphi ]\right]-\,\dotsm \right]\approx 0.}"
+Noether%27s_theorem_184,"{\displaystyle {\begin{aligned}{\mathcal {S}}[x]&=\int L\left[x(t),{\dot {x}}(t)\right]\,dt\\&=\int \left({\frac {m}{2}}\sum _{i=1}^{3}{\dot {x}}_{i}^{2}-V(x(t))\right)\,dt.\end{aligned}}}"
+Noether%27s_theorem_185,{\displaystyle Q[x(t)]={\dot {x}}(t)}
+Noether%27s_theorem_186,{\displaystyle Q[L]={\frac {d}{dt}}\left[{\frac {m}{2}}\sum _{i}{\dot {x}}_{i}^{2}-V(x)\right]=m\sum _{i}{\dot {x}}_{i}{\ddot {x}}_{i}-\sum _{i}{\frac {\partial V(x)}{\partial x_{i}}}{\dot {x}}_{i}}
+Noether%27s_theorem_187,{\displaystyle L={\frac {m}{2}}\sum _{i}{\dot {x}}_{i}^{2}-V(x).}
+Noether%27s_theorem_188,{\displaystyle {\begin{aligned}j&=\sum _{i=1}^{3}{\frac {\partial L}{\partial {\dot {x}}_{i}}}Q[x_{i}]-L\\&=m\sum _{i}{\dot {x}}_{i}^{2}-\left[{\frac {m}{2}}\sum _{i}{\dot {x}}_{i}^{2}-V(x)\right]\\[3pt]&={\frac {m}{2}}\sum _{i}{\dot {x}}_{i}^{2}+V(x).\end{aligned}}}
+Noether%27s_theorem_189,{\displaystyle dj/dt=0}
+Noether%27s_theorem_190,{\displaystyle \sum _{i=1}^{3}{\frac {\partial L}{\partial {\dot {x}}_{i}}}{\dot {x_{i}}}-L}
+Noether%27s_theorem_191,"{\displaystyle {\begin{aligned}{\mathcal {S}}\left[{\vec {x}}\right]&=\int {\mathcal {L}}\left[{\vec {x}}(t),{\dot {\vec {x}}}(t)\right]dt\\[3pt]&=\int \left[\sum _{\alpha =1}^{N}{\frac {m_{\alpha }}{2}}\left({\dot {\vec {x}}}_{\alpha }\right)^{2}-\sum _{\alpha <\beta }V_{\alpha \beta }\left({\vec {x}}_{\beta }-{\vec {x}}_{\alpha }\right)\right]dt,\end{aligned}}}"
+Noether%27s_theorem_192,{\displaystyle N}
+Noether%27s_theorem_193,{\displaystyle {\vec {Q}}}
+Noether%27s_theorem_194,{\displaystyle Q_{i}\left[x_{\alpha }^{j}(t)\right]=t\delta _{i}^{j}.}
+Noether%27s_theorem_195,{\displaystyle {\begin{aligned}Q_{i}[{\mathcal {L}}]&=\sum _{\alpha }m_{\alpha }{\dot {x}}_{\alpha }^{i}-\sum _{\alpha <\beta }t\partial _{i}V_{\alpha \beta }\left({\vec {x}}_{\beta }-{\vec {x}}_{\alpha }\right)\\&=\sum _{\alpha }m_{\alpha }{\dot {x}}_{\alpha }^{i}.\end{aligned}}}
+Noether%27s_theorem_197,{\displaystyle {\vec {f}}=\sum _{\alpha }m_{\alpha }{\vec {x}}_{\alpha }.}
+Noether%27s_theorem_198,{\displaystyle {\begin{aligned}{\vec {j}}&=\sum _{\alpha }\left({\frac {\partial }{\partial {\dot {\vec {x}}}_{\alpha }}}{\mathcal {L}}\right)\cdot {\vec {Q}}\left[{\vec {x}}_{\alpha }\right]-{\vec {f}}\\[6pt]&=\sum _{\alpha }\left(m_{\alpha }{\dot {\vec {x}}}_{\alpha }t-m_{\alpha }{\vec {x}}_{\alpha }\right)\\[3pt]&={\vec {P}}t-M{\vec {x}}_{CM}\end{aligned}}}
+Noether%27s_theorem_199,{\displaystyle {\vec {P}}}
+Noether%27s_theorem_200,{\displaystyle {\vec {x}}_{CM}}
+Noether%27s_theorem_201,{\displaystyle {\frac {d{\vec {j}}}{dt}}=0\Rightarrow {\vec {P}}-M{\dot {\vec {x}}}_{CM}=0.}
+Noether%27s_theorem_202,"{\displaystyle {\begin{aligned}{\mathcal {S}}[\varphi ]&=\int {\mathcal {L}}\left[\varphi (x),\partial _{\mu }\varphi (x)\right]d^{4}x\\[3pt]&=\int \left({\frac {1}{2}}\partial ^{\mu }\varphi \partial _{\mu }\varphi -\lambda \varphi ^{4}\right)d^{4}x\end{aligned}}}"
+Noether%27s_theorem_203,{\displaystyle Q[\varphi (x)]=x^{\mu }\partial _{\mu }\varphi (x)+\varphi (x).}
+Noether%27s_theorem_204,{\displaystyle \varphi }
+Noether%27s_theorem_205,{\displaystyle Q[{\mathcal {L}}]=\partial ^{\mu }\varphi \left(\partial _{\mu }\varphi +x^{\nu }\partial _{\mu }\partial _{\nu }\varphi +\partial _{\mu }\varphi \right)-4\lambda \varphi ^{3}\left(x^{\mu }\partial _{\mu }\varphi +\varphi \right).}
+Noether%27s_theorem_206,{\displaystyle \partial _{\mu }\left[{\frac {1}{2}}x^{\mu }\partial ^{\nu }\varphi \partial _{\nu }\varphi -\lambda x^{\mu }\varphi ^{4}\right]=\partial _{\mu }\left(x^{\mu }{\mathcal {L}}\right)}
+Noether%27s_theorem_207,{\displaystyle f^{\mu }=x^{\mu }{\mathcal {L}}.}
+Noether%27s_theorem_208,{\displaystyle {\begin{aligned}j^{\mu }&=\left[{\frac {\partial }{\partial (\partial _{\mu }\varphi )}}{\mathcal {L}}\right]Q[\varphi ]-f^{\mu }\\&=\partial ^{\mu }\varphi \left(x^{\nu }\partial _{\nu }\varphi +\varphi \right)-x^{\mu }\left({\frac {1}{2}}\partial ^{\nu }\varphi \partial _{\nu }\varphi -\lambda \varphi ^{4}\right).\end{aligned}}}
+Noether%27s_theorem_209,{\displaystyle \partial _{\mu }j^{\mu }=0}

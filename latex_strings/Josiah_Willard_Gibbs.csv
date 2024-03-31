@@ -1,0 +1,14 @@
+name,latex
+Josiah_Willard_Gibbs_0,{\displaystyle \mu }
+Josiah_Willard_Gibbs_1,"{\displaystyle \mathrm {d} U=T\mathrm {d} S-p\,\mathrm {d} V+\sum _{i}\mu _{i}\,\mathrm {d} N_{i}\,}"
+Josiah_Willard_Gibbs_2,"{\displaystyle G_{(p,T)}=H-TS}"
+Josiah_Willard_Gibbs_3,"{\displaystyle A_{(v,T)}=U-TS\,}"
+Josiah_Willard_Gibbs_4,{\displaystyle \Delta G^{\ominus }=-RT\ln K^{\ominus }}
+Josiah_Willard_Gibbs_5,"{\displaystyle \mu _{i}=\left({\frac {\partial G}{\partial N_{i}}}\right)_{T,P,N_{j\neq i}}}"
+Josiah_Willard_Gibbs_6,"{\displaystyle \mathrm {d} U=T\mathrm {d} S-p\,\mathrm {d} V+{\mathcal {E}}\mathrm {d} Q}"
+Josiah_Willard_Gibbs_7,{\displaystyle F\;=\;C\;-\;P\;+\;2}
+Josiah_Willard_Gibbs_8,{\displaystyle S}
+Josiah_Willard_Gibbs_9,"{\displaystyle S=-k_{\text{B}}\,\sum _{i}p_{i}\ln \,p_{i}}"
+Josiah_Willard_Gibbs_10,{\displaystyle k_{\text{B}}}
+Josiah_Willard_Gibbs_11,{\displaystyle i}
+Josiah_Willard_Gibbs_12,{\displaystyle p_{i}}

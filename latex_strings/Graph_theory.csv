@@ -1,0 +1,74 @@
+name,latex
+Graph_theory_0,"{\displaystyle G=(V,E)}"
+Graph_theory_1,{\displaystyle V}
+Graph_theory_2,"{\displaystyle E\subseteq \{\{x,y\}\mid x,y\in V\;{\textrm {and}}\;x\neq y\}}"
+Graph_theory_3,"{\displaystyle \{x,y\}}"
+Graph_theory_4,{\displaystyle x}
+Graph_theory_5,{\displaystyle y}
+Graph_theory_6,{\displaystyle x}
+Graph_theory_7,{\displaystyle y}
+Graph_theory_8,{\displaystyle x}
+Graph_theory_9,{\displaystyle y}
+Graph_theory_10,"{\displaystyle G=(V,E,\phi )}"
+Graph_theory_11,{\displaystyle V}
+Graph_theory_12,{\displaystyle E}
+Graph_theory_13,"{\displaystyle \phi :E\to \{\{x,y\}\mid x,y\in V\;{\textrm {and}}\;x\neq y\}}"
+Graph_theory_14,{\displaystyle x}
+Graph_theory_15,"{\displaystyle \{x,x\}=\{x\}}"
+Graph_theory_16,"{\displaystyle \{\{x,y\}\mid x,y\in V\;{\textrm {and}}\;x\neq y\}}"
+Graph_theory_17,{\displaystyle E}
+Graph_theory_18,"{\displaystyle E\subseteq \{\{x,y\}\mid x,y\in V\}}"
+Graph_theory_19,{\displaystyle \phi }
+Graph_theory_20,"{\displaystyle \phi :E\to \{\{x,y\}\mid x,y\in V\}}"
+Graph_theory_21,{\displaystyle V}
+Graph_theory_22,{\displaystyle E}
+Graph_theory_23,{\displaystyle V}
+Graph_theory_24,{\displaystyle E}
+Graph_theory_25,{\displaystyle |V|}
+Graph_theory_26,{\displaystyle |E|}
+Graph_theory_27,{\displaystyle G}
+Graph_theory_28,{\displaystyle \sim }
+Graph_theory_29,{\displaystyle G}
+Graph_theory_30,{\displaystyle G}
+Graph_theory_31,"{\displaystyle (x,y)}"
+Graph_theory_32,{\displaystyle x}
+Graph_theory_33,{\displaystyle y}
+Graph_theory_34,{\displaystyle x\sim y}
+Graph_theory_35,"{\displaystyle G=(V,E)}"
+Graph_theory_36,{\displaystyle V}
+Graph_theory_37,"{\displaystyle E\subseteq \left\{(x,y)\mid (x,y)\in V^{2}\;{\textrm {and}}\;x\neq y\right\}}"
+Graph_theory_38,{\displaystyle V^{n}}
+Graph_theory_39,"{\displaystyle V,}"
+Graph_theory_40,{\displaystyle n}
+Graph_theory_41,"{\displaystyle (x,y)}"
+Graph_theory_42,{\displaystyle x}
+Graph_theory_43,{\displaystyle y}
+Graph_theory_44,{\displaystyle x}
+Graph_theory_45,{\displaystyle y}
+Graph_theory_46,{\displaystyle x}
+Graph_theory_47,{\displaystyle y}
+Graph_theory_48,{\displaystyle x}
+Graph_theory_49,{\displaystyle y}
+Graph_theory_50,{\displaystyle x}
+Graph_theory_51,{\displaystyle y}
+Graph_theory_52,"{\displaystyle (y,x)}"
+Graph_theory_53,"{\displaystyle (x,y)}"
+Graph_theory_54,"{\displaystyle G=(V,E,\phi )}"
+Graph_theory_55,{\displaystyle V}
+Graph_theory_56,{\displaystyle E}
+Graph_theory_57,"{\displaystyle \phi :E\to \left\{(x,y)\mid (x,y)\in V^{2}\;{\textrm {and}}\;x\neq y\right\}}"
+Graph_theory_58,{\displaystyle x}
+Graph_theory_59,"{\displaystyle (x,x)}"
+Graph_theory_60,"{\displaystyle \left\{(x,y)\mid (x,y)\in V^{2}\;{\textrm {and}}\;x\neq y\right\}}"
+Graph_theory_61,{\displaystyle E}
+Graph_theory_62,"{\displaystyle E\subseteq \left\{(x,y)\mid (x,y)\in V^{2}\right\}}"
+Graph_theory_63,{\displaystyle \phi }
+Graph_theory_64,"{\displaystyle \phi :E\to \left\{(x,y)\mid (x,y)\in V^{2}\right\}}"
+Graph_theory_65,{\displaystyle G}
+Graph_theory_66,{\displaystyle G}
+Graph_theory_67,{\displaystyle G}
+Graph_theory_68,"{\displaystyle (x,y)}"
+Graph_theory_69,{\displaystyle x}
+Graph_theory_70,{\displaystyle y}
+Graph_theory_71,{\displaystyle x}
+Graph_theory_72,{\displaystyle y}

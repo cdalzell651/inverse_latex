@@ -1,0 +1,15 @@
+name,latex
+1_%E2%88%92_2_%2B_3_%E2%88%92_4_%2B_%E2%8B%AF_0,{\displaystyle \sum _{n=1}^{m}n(-1)^{n-1}.}
+1_%E2%88%92_2_%2B_3_%E2%88%92_4_%2B_%E2%8B%AF_1,{\displaystyle 1-2+3-4+\cdots ={\frac {1}{4}}.}
+1_%E2%88%92_2_%2B_3_%E2%88%92_4_%2B_%E2%8B%AF_2,{\displaystyle \mathbb {Z} }
+1_%E2%88%92_2_%2B_3_%E2%88%92_4_%2B_%E2%8B%AF_3,{\displaystyle {\begin{alignedat}{5}4s&=&&(1-2+3-\cdots )\ \ &&{}+(1-2+3-4+\cdots )&&{}+(1-2+3-4+\cdots )&&{}+(1-2+3-4+\cdots )\\&=&&(1-2+3-\cdots )&&+1{}+(-2+3-4+\cdots )\ \ &&{}+1+(-2+3-4+\cdots )\ \ &&{}+1-2+(3-4+\cdots )\\&=\ 1+{}&&(1-2+3-\cdots )&&{}+(-2+3-4+\cdots )&&{}+(-2+3-4+\cdots )&&{}+(3-4+5-\cdots )\\&=\ 1+{}[\ &&(1-2-2+3)&&{}+(-2+3+3-4)&&{}+(3-4-4+5)&&{}+\cdots \ ]\\&=\ 1+{}[\ &&0+0+0+\cdots \ ]\\4s&=\ 1\end{alignedat}}}
+1_%E2%88%92_2_%2B_3_%E2%88%92_4_%2B_%E2%8B%AF_4,{\displaystyle s={\frac {1}{4}}}
+1_%E2%88%92_2_%2B_3_%E2%88%92_4_%2B_%E2%8B%AF_5,{\displaystyle {\begin{alignedat}{5}2s&=&&(1-2+3-4+\cdots )\ \ &&{}+(1-2+3-4+5-\cdots )\\&=&&1{}+(-2+3-4+\cdots )\ \ &&{}+1-2+(3-4+5-\cdots )\\&=\ 0+{}&&(-2+3-4+\cdots )&&{}+(3-4+5-\cdots )\\&=\ 0+{}[\ &&(-2+3)\quad {}+(3-4)&&{}+(-4+5)\quad +\cdots \ ]\\2s&=\ &&1-1+1-1+\cdots \end{alignedat}}}
+1_%E2%88%92_2_%2B_3_%E2%88%92_4_%2B_%E2%8B%AF_6,{\displaystyle {\begin{aligned}c_{n}&=\sum _{k=0}^{n}a_{k}b_{n-k}=\sum _{k=0}^{n}(-1)^{k}(-1)^{n-k}\\&=\sum _{k=0}^{n}(-1)^{n}=(-1)^{n}(n+1).\end{aligned}}}
+1_%E2%88%92_2_%2B_3_%E2%88%92_4_%2B_%E2%8B%AF_7,{\displaystyle \sum _{n=0}^{\infty }(-1)^{n}(n+1)=1-2+3-4+\cdots .}
+1_%E2%88%92_2_%2B_3_%E2%88%92_4_%2B_%E2%8B%AF_8,{\displaystyle 1-2x+3x^{2}-4x^{3}+\cdots ={\frac {1}{(1+x)^{2}}}.}
+1_%E2%88%92_2_%2B_3_%E2%88%92_4_%2B_%E2%8B%AF_9,{\displaystyle \lim _{x\rightarrow 1^{-}}\sum _{n=1}^{\infty }n(-x)^{n-1}=\lim _{x\rightarrow 1^{-}}{\frac {1}{(1+x)^{2}}}={\frac {1}{4}}.}
+1_%E2%88%92_2_%2B_3_%E2%88%92_4_%2B_%E2%8B%AF_10,{\displaystyle {\frac {1}{2}}a_{0}-{\frac {1}{4}}\Delta a_{0}+{\frac {1}{8}}\Delta ^{2}a_{0}-\cdots ={\frac {1}{2}}-{\frac {1}{4}}.}
+1_%E2%88%92_2_%2B_3_%E2%88%92_4_%2B_%E2%8B%AF_11,{\displaystyle \lim _{\delta \rightarrow 0}\sum _{m=0}^{\infty }(-1)^{m}(m+1)\varphi (\delta m)={\frac {1}{4}}.}
+1_%E2%88%92_2_%2B_3_%E2%88%92_4_%2B_%E2%8B%AF_12,{\displaystyle 1-2^{n}+3^{n}-\cdots ={\frac {2^{n+1}-1}{n+1}}B_{n+1}}
+1_%E2%88%92_2_%2B_3_%E2%88%92_4_%2B_%E2%8B%AF_13,"{\displaystyle 1-2^{2k}+3^{2k}-\cdots =0,}"

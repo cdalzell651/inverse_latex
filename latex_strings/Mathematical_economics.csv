@@ -1,0 +1,30 @@
+name,latex
+Mathematical_economics_0,{\displaystyle f(x)}
+Mathematical_economics_1,{\displaystyle g_{i}(x)\leq 0}
+Mathematical_economics_2,{\displaystyle h_{j}(x)=0}
+Mathematical_economics_3,{\displaystyle f(\cdot )}
+Mathematical_economics_4,{\displaystyle g_{i}(\cdot )}
+Mathematical_economics_5,{\displaystyle m}
+Mathematical_economics_6,"{\displaystyle i=1,\dots ,m}"
+Mathematical_economics_7,{\displaystyle h_{j}(\cdot )}
+Mathematical_economics_8,{\displaystyle l}
+Mathematical_economics_9,"{\displaystyle j=1,\dots ,l}"
+Mathematical_economics_14,"{\displaystyle Y=F(K,L)=f(k)L,\quad k=K/L}"
+Mathematical_economics_19,"{\displaystyle Y=AK^{\alpha }L^{1-\alpha }=Ak^{\alpha }L,\quad \alpha \in [0,1]}"
+Mathematical_economics_21,"{\displaystyle J=\max _{K,L}\;(1-\tau )\left[F(K,L)-wL\right]-rK\equiv \max _{K,L}\;(1-\tau )\left[f(k)-w\right]L-rK}"
+Mathematical_economics_25,{\displaystyle {\begin{aligned}{\frac {\partial J}{\partial K}}&=(1-\tau )f'(k)-r\\{\frac {\partial J}{\partial L}}&=(1-\tau )\left[f(k)-f'(k)k-w\right]\end{aligned}}}
+Mathematical_economics_26,"{\displaystyle r=(1-\tau )f'(k),\quad w=f(k)-f'(k)k}"
+Mathematical_economics_29,{\displaystyle x=\tau [f(k)-w]=\tau f'(k)k}
+Mathematical_economics_30,{\displaystyle {dx \over {d\tau }}=\underbrace {f'(k)k} _{\text{Static}}+\underbrace {\tau \left[f'(k)+f''(k)k\right]{dk \over {d\tau }}} _{\text{Dynamic}}}
+Mathematical_economics_31,{\displaystyle {\frac {dw}{d\tau }}=\left[f'(k)-f'(k)-f''(k)k\right]{\frac {dk}{d\tau }}=-f''(k)k{\frac {dk}{d\tau }}}
+Mathematical_economics_34,{\displaystyle {dk \over {d\tau }}={f'(k) \over {(1-\tau )f''(k)}}}
+Mathematical_economics_36,{\displaystyle {dw \over {d\tau }}=-{\frac {f'(k)k}{1-\tau }}=-{1 \over {1-\tau }}{\frac {dx}{d\tau }}}
+Mathematical_economics_37,{\displaystyle {dw \over {dx}}=-{1 \over {1-\tau }}}
+Mathematical_economics_38,{\displaystyle {\begin{aligned}{dx \over {d\tau }}&=f'(k)k+\tau \left[f'(k)+f''(k)k\right]{dk \over {d\tau }}\\&=f'(k)k+{\tau  \over {1-\tau }}{[f'(k)]^{2}+f'(k)f''(k)k \over {f''(k)}}\\&={\tau  \over {1-\tau }}{f'(k)^{2} \over {f''(k)}}+{1 \over {1-\tau }}f'(k)k\\&={f'(k) \over {1-\tau }}\left[\tau {f'(k) \over {f''(k)}}+k\right]\end{aligned}}}
+Mathematical_economics_40,{\displaystyle {\frac {dw}{dx}}=-{{\frac {f'(k)k}{1-\tau }} \over {{\frac {f'(k)}{1-\tau }}\left[\tau {\frac {f'(k)}{f''(k)}}+k\right]}}=-{\frac {1}{\tau {\frac {f'(k)}{kf''(k)}}+1}}}
+Mathematical_economics_41,{\displaystyle {f'(k) \over {kf''(k)}}=-{1 \over {1-\alpha }}}
+Mathematical_economics_42,{\displaystyle {dw \over {dx}}=-{1-\alpha  \over {1-\tau -\alpha }}}
+Mathematical_economics_44,{\displaystyle f(k)=A\left[\alpha k^{\rho }+(1-\alpha )\right]^{1/\rho }}
+Mathematical_economics_48,{\displaystyle {f' \over {kf''}}=-{1 \over {1-\rho -{\alpha (1-\rho ) \over {\alpha +(1-\alpha )k^{-\rho }}}}}}
+Mathematical_economics_49,{\displaystyle {\begin{aligned}1+\tau {f' \over {kf''}}&=1-{\tau [\alpha +(1-\alpha )k^{-\rho }] \over {(1-\rho )[\alpha +(1-\alpha )k^{-\rho }]-\alpha (1-\rho )}}\\[6pt]&={(1-\rho -\tau )[\alpha +(1-\alpha )k^{-\rho }]-\alpha (1-\rho ) \over {(1-\rho )[\alpha +(1-\alpha )k^{-\rho }]-\alpha (1-\rho )}}\end{aligned}}}
+Mathematical_economics_50,{\displaystyle {dw \over {dx}}=-{(1-\rho )[\alpha +(1-\alpha )k^{-\rho }]-\alpha (1-\rho ) \over {(1-\rho -\tau )[\alpha +(1-\alpha )k^{-\rho }]-\alpha (1-\rho )}}}

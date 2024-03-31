@@ -1,0 +1,29 @@
+name,latex
+Newton%27s_law_of_universal_gravitation_0,{\displaystyle {\textbf {F}}={\frac {d}{dt}}(m{\textbf {v}})}
+Newton%27s_law_of_universal_gravitation_1,"{\displaystyle F=G{\frac {m_{1}m_{2}}{r^{2}}},}"
+Newton%27s_law_of_universal_gravitation_2,"{\displaystyle {\rm {Force\,of\,gravity}}\propto {\frac {\rm {mass\,of\,object\,1\,\times \,mass\,of\,object\,2}}{\rm {distance\,from\,centers^{2}}}}}"
+Newton%27s_law_of_universal_gravitation_3,{\displaystyle \propto }
+Newton%27s_law_of_universal_gravitation_4,{\displaystyle F=G{\frac {m_{1}m_{2}}{r^{2}}}\ }
+Newton%27s_law_of_universal_gravitation_5,{\displaystyle \mathbf {F} _{21}=-G{m_{1}m_{2} \over {|\mathbf {r} _{21}|}^{2}}{\hat {\mathbf {r} }}_{21}=-G{m_{1}m_{2} \over {|\mathbf {r} _{21}|}^{3}}\mathbf {r} _{21}}
+Newton%27s_law_of_universal_gravitation_6,{\displaystyle {\hat {\mathbf {r} }}_{21}\ {\stackrel {\mathrm {def} }{=}}\ {\frac {\mathbf {r_{2}-r_{1}} }{|\mathbf {r_{2}-r_{1}} |}}}
+Newton%27s_law_of_universal_gravitation_7,"{\displaystyle \mathbf {g} (\mathbf {r} )=-G{m_{1} \over {{\vert \mathbf {r} \vert }^{2}}}\,\mathbf {\hat {r}} }"
+Newton%27s_law_of_universal_gravitation_8,{\displaystyle \mathbf {F} (\mathbf {r} )=m\mathbf {g} (\mathbf {r} ).}
+Newton%27s_law_of_universal_gravitation_9,{\displaystyle \mathbf {g} (\mathbf {r} )=-\nabla V(\mathbf {r} ).}
+Newton%27s_law_of_universal_gravitation_10,{\displaystyle V(r)=-G{\frac {m_{1}}{r}}.}
+Newton%27s_law_of_universal_gravitation_11,{\displaystyle \partial V}
+Newton%27s_law_of_universal_gravitation_12,"{\displaystyle \mathbf {g(r)} \cdot d\mathbf {A} =-4\pi GM_{\text{enc}},}"
+Newton%27s_law_of_universal_gravitation_13,{\displaystyle \partial V}
+Newton%27s_law_of_universal_gravitation_14,{\displaystyle M_{\text{enc}}}
+Newton%27s_law_of_universal_gravitation_15,{\displaystyle R}
+Newton%27s_law_of_universal_gravitation_16,{\displaystyle M}
+Newton%27s_law_of_universal_gravitation_17,"{\displaystyle |\mathbf {g(r)} |={\begin{cases}0,&{\text{if }}r<R\\\\{\dfrac {GM}{r^{2}}},&{\text{if }}r\geq R\end{cases}}}"
+Newton%27s_law_of_universal_gravitation_18,{\displaystyle R}
+Newton%27s_law_of_universal_gravitation_19,{\displaystyle M}
+Newton%27s_law_of_universal_gravitation_20,"{\displaystyle |\mathbf {g(r)} |={\begin{cases}{\dfrac {GMr}{R^{3}}},&{\text{if }}r<R\\\\{\dfrac {GM}{r^{2}}},&{\text{if }}r\geq R\end{cases}}}"
+Newton%27s_law_of_universal_gravitation_21,{\displaystyle \phi /c^{2}}
+Newton%27s_law_of_universal_gravitation_22,{\displaystyle (v/c)^{2}}
+Newton%27s_law_of_universal_gravitation_23,{\displaystyle \phi }
+Newton%27s_law_of_universal_gravitation_24,{\displaystyle v}
+Newton%27s_law_of_universal_gravitation_25,{\displaystyle c}
+Newton%27s_law_of_universal_gravitation_26,"{\displaystyle {\frac {\phi }{c^{2}}}={\frac {GM_{\mathrm {sun} }}{r_{\mathrm {orbit} }c^{2}}}\sim 10^{-8},\quad \left({\frac {v_{\mathrm {Earth} }}{c}}\right)^{2}=\left({\frac {2\pi r_{\mathrm {orbit} }}{(1\ \mathrm {yr} )c}}\right)^{2}\sim 10^{-8},}"
+Newton%27s_law_of_universal_gravitation_27,{\displaystyle r_{\text{orbit}}}

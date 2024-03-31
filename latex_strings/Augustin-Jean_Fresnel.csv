@@ -1,0 +1,42 @@
+name,latex
+Augustin-Jean_Fresnel_0,"{\displaystyle C(x)=\!\int _{0}^{x}\!\cos {\big (}{\tfrac {1}{2}}\pi z^{2}{\big )}\,dz}"
+Augustin-Jean_Fresnel_1,"{\displaystyle S(x)=\!\int _{0}^{x}\!\sin {\big (}{\tfrac {1}{2}}\pi z^{2}{\big )}\,dz\,.}"
+Augustin-Jean_Fresnel_2,"{\displaystyle I_{o}=\cos ^{2}i\,\cos ^{2}(i{-}s)+\sin ^{2}i\,\sin ^{2}(i{-}s)+{\tfrac {1}{2}}\sin 2i\,\sin 2(i{-}s)\cos \phi \,,}"
+Augustin-Jean_Fresnel_3,"{\displaystyle I_{e}=\cos ^{2}i\,\sin ^{2}(i{-}s)+\sin ^{2}i\,\cos ^{2}(i{-}s)-{\tfrac {1}{2}}\sin 2i\,\sin 2(i{-}s)\cos \phi \,,}"
+Augustin-Jean_Fresnel_4,{\displaystyle i}
+Augustin-Jean_Fresnel_5,{\displaystyle s}
+Augustin-Jean_Fresnel_6,{\displaystyle \phi }
+Augustin-Jean_Fresnel_7,{\displaystyle \phi }
+Augustin-Jean_Fresnel_8,{\displaystyle \cos \phi }
+Augustin-Jean_Fresnel_9,"{\displaystyle \,I_{o}+I_{e}=1\,}"
+Augustin-Jean_Fresnel_10,"{\displaystyle \phi ,}"
+Augustin-Jean_Fresnel_11,{\displaystyle \phi }
+Augustin-Jean_Fresnel_12,{\displaystyle U=\cos ^{2}{\tfrac {\phi }{2}}}
+Augustin-Jean_Fresnel_13,"{\displaystyle A=\sin ^{2}{\tfrac {\phi }{2}}\,,}"
+Augustin-Jean_Fresnel_14,"{\displaystyle \!I_{o}=U\cos ^{2}s+A\cos ^{2}(2i-s)\,,}"
+Augustin-Jean_Fresnel_15,"{\displaystyle I_{e}=U\sin ^{2}s+A\sin ^{2}(2i-s)\,,}"
+Augustin-Jean_Fresnel_16,{\displaystyle U}
+Augustin-Jean_Fresnel_17,{\displaystyle A}
+Augustin-Jean_Fresnel_18,{\displaystyle U}
+Augustin-Jean_Fresnel_19,"{\displaystyle A,}"
+Augustin-Jean_Fresnel_20,{\displaystyle I_{o}}
+Augustin-Jean_Fresnel_21,"{\displaystyle I_{e},}"
+Augustin-Jean_Fresnel_22,{\displaystyle r_{s}=-{\frac {\sin(i-r)}{\sin(i+r)}}}
+Augustin-Jean_Fresnel_23,"{\displaystyle r_{p}={\frac {\tan(i-r)}{\tan(i+r)}}\,,}"
+Augustin-Jean_Fresnel_24,{\displaystyle i}
+Augustin-Jean_Fresnel_25,{\displaystyle r}
+Augustin-Jean_Fresnel_26,"{\displaystyle v_{o}^{2\!}-v_{e}^{2}=k\sin ^{2}\theta \,,}"
+Augustin-Jean_Fresnel_27,{\displaystyle v_{o}}
+Augustin-Jean_Fresnel_28,{\displaystyle v_{e}}
+Augustin-Jean_Fresnel_29,{\displaystyle \theta }
+Augustin-Jean_Fresnel_30,"{\displaystyle r^{2}{\big (}a^{2}x^{2\!}+b^{2}y^{2\!}+c^{2}z^{2}{\big )}-a^{2}{\big (}b^{2\!}+c^{2}{\big )}x^{2}-b^{2}{\big (}c^{2\!}+a^{2}{\big )}y^{2}-c^{2}{\big (}a^{2\!}+b^{2}{\big )}z^{2}+a^{2}b^{2}c^{2}=\,0\,,}"
+Augustin-Jean_Fresnel_31,"{\displaystyle \,r^{2}=x^{2\!}+y^{2\!}+z^{2},\,}"
+Augustin-Jean_Fresnel_32,"{\displaystyle \,a,b,c\,}"
+Augustin-Jean_Fresnel_33,"{\displaystyle {\frac {x^{2}}{r^{2}-a^{2}}}+{\frac {y^{2}}{r^{2}-b^{2}}}+{\frac {z^{2}}{r^{2}-c^{2}}}\,=\,1\,.}"
+Augustin-Jean_Fresnel_34,{\displaystyle n}
+Augustin-Jean_Fresnel_35,{\displaystyle v}
+Augustin-Jean_Fresnel_36,"{\displaystyle \,v(1-1/n^{2})}"
+Augustin-Jean_Fresnel_37,{\displaystyle n^{2}}
+Augustin-Jean_Fresnel_38,"{\displaystyle \,n^{2}{-}1\,}"
+Augustin-Jean_Fresnel_39,{\displaystyle v}
+Augustin-Jean_Fresnel_40,"{\displaystyle \,v(1-1/n^{2})}"

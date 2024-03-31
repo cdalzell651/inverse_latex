@@ -1,0 +1,44 @@
+name,latex
+Linear_algebra_0,"{\displaystyle a_{1}x_{1}+\cdots +a_{n}x_{n}=b,}"
+Linear_algebra_1,"{\displaystyle (x_{1},\ldots ,x_{n})\mapsto a_{1}x_{1}+\cdots +a_{n}x_{n},}"
+Linear_algebra_2,{\displaystyle \mathbb {C} }
+Linear_algebra_3,{\displaystyle \mathbb {H} }
+Linear_algebra_4,{\displaystyle T:V\to W}
+Linear_algebra_5,"{\displaystyle T(\mathbf {u} +\mathbf {v} )=T(\mathbf {u} )+T(\mathbf {v} ),\quad T(a\mathbf {v} )=aT(\mathbf {v} )}"
+Linear_algebra_6,{\displaystyle T(a\mathbf {u} +b\mathbf {v} )=T(a\mathbf {u} )+T(b\mathbf {v} )=aT(\mathbf {u} )+bT(\mathbf {v} )}
+Linear_algebra_7,"{\displaystyle a_{1}\mathbf {v} _{1}+a_{2}\mathbf {v} _{2}+\cdots +a_{k}\mathbf {v} _{k},}"
+Linear_algebra_8,"{\displaystyle \dim(U_{1}+U_{2})=\dim U_{1}+\dim U_{2}-\dim(U_{1}\cap U_{2}),}"
+Linear_algebra_9,"{\displaystyle {\begin{aligned}(a_{1},\ldots ,a_{m})&\mapsto a_{1}\mathbf {v} _{1}+\cdots a_{m}\mathbf {v} _{m}\\F^{m}&\to V\end{aligned}}}"
+Linear_algebra_10,{\displaystyle {\begin{bmatrix}a_{1}\\\vdots \\a_{m}\end{bmatrix}}.}
+Linear_algebra_11,"{\displaystyle f(w_{j})=a_{1,j}v_{1}+\cdots +a_{m,j}v_{m},}"
+Linear_algebra_12,"{\displaystyle {\begin{bmatrix}a_{1,1}&\cdots &a_{1,n}\\\vdots &\ddots &\vdots \\a_{m,1}&\cdots &a_{m,n}\end{bmatrix}},}"
+Linear_algebra_13,{\displaystyle {\begin{alignedat}{7}2x&&\;+\;&&y&&\;-\;&&z&&\;=\;&&8\\-3x&&\;-\;&&y&&\;+\;&&2z&&\;=\;&&-11\\-2x&&\;+\;&&y&&\;+\;&&2z&&\;=\;&&-3\end{alignedat}}}
+Linear_algebra_14,{\displaystyle M=\left[{\begin{array}{rrr}2&1&-1\\-3&-1&2\\-2&1&2\end{array}}\right].}
+Linear_algebra_15,{\displaystyle \mathbf {v} ={\begin{bmatrix}8\\-11\\-3\end{bmatrix}}.}
+Linear_algebra_16,{\displaystyle \mathbf {X} ={\begin{bmatrix}x\\y\\z\end{bmatrix}}}
+Linear_algebra_17,"{\displaystyle T(\mathbf {X} )=\mathbf {v} ,}"
+Linear_algebra_18,{\displaystyle {\begin{alignedat}{7}2x&&\;+\;&&y&&\;-\;&&z&&\;=\;&&0\\-3x&&\;-\;&&y&&\;+\;&&2z&&\;=\;&&0\\-2x&&\;+\;&&y&&\;+\;&&2z&&\;=\;&&0\end{alignedat}}}
+Linear_algebra_19,{\displaystyle \left[\!{\begin{array}{c|c}M&\mathbf {v} \end{array}}\!\right]=\left[{\begin{array}{rrr|r}2&1&-1&8\\-3&-1&2&-11\\-2&1&2&-3\end{array}}\right]}
+Linear_algebra_20,"{\displaystyle \left[\!{\begin{array}{c|c}M&\mathbf {v} \end{array}}\!\right]=\left[{\begin{array}{rrr|r}1&0&0&2\\0&1&0&3\\0&0&1&-1\end{array}}\right],}"
+Linear_algebra_21,{\displaystyle {\begin{aligned}x&=2\\y&=3\\z&=-1.\end{aligned}}}
+Linear_algebra_22,"{\displaystyle \sum _{\sigma \in S_{n}}(-1)^{\sigma }a_{1\sigma (1)}\cdots a_{n\sigma (n)},}"
+Linear_algebra_23,{\displaystyle Mz=az.}
+Linear_algebra_24,{\displaystyle (M-aI)z=0.}
+Linear_algebra_25,{\displaystyle \det(xI-M).}
+Linear_algebra_26,{\displaystyle {\begin{bmatrix}0&1\\0&0\end{bmatrix}}}
+Linear_algebra_27,{\displaystyle f\to f(\mathbf {v} )}
+Linear_algebra_28,"{\displaystyle \langle f,\mathbf {x} \rangle }"
+Linear_algebra_29,{\displaystyle f:V\to W}
+Linear_algebra_30,{\displaystyle f^{*}:W^{*}\to V^{*}}
+Linear_algebra_31,"{\displaystyle \langle h^{\mathsf {T}},M\mathbf {v} \rangle =\langle h^{\mathsf {T}}M,\mathbf {v} \rangle .}"
+Linear_algebra_32,{\displaystyle \langle h^{\mathsf {T}}\mid M\mid \mathbf {v} \rangle .}
+Linear_algebra_33,"{\displaystyle \langle \cdot ,\cdot \rangle :V\times V\to F}"
+Linear_algebra_34,"{\displaystyle \langle \mathbf {u} ,\mathbf {v} \rangle ={\overline {\langle \mathbf {v} ,\mathbf {u} \rangle }}.}"
+Linear_algebra_35,{\displaystyle \mathbb {R} }
+Linear_algebra_36,"{\displaystyle {\begin{aligned}\langle a\mathbf {u} ,\mathbf {v} \rangle &=a\langle \mathbf {u} ,\mathbf {v} \rangle .\\\langle \mathbf {u} +\mathbf {v} ,\mathbf {w} \rangle &=\langle \mathbf {u} ,\mathbf {w} \rangle +\langle \mathbf {v} ,\mathbf {w} \rangle .\end{aligned}}}"
+Linear_algebra_37,"{\displaystyle \langle \mathbf {v} ,\mathbf {v} \rangle \geq 0}"
+Linear_algebra_38,"{\displaystyle \|\mathbf {v} \|^{2}=\langle \mathbf {v} ,\mathbf {v} \rangle ,}"
+Linear_algebra_39,"{\displaystyle |\langle \mathbf {u} ,\mathbf {v} \rangle |\leq \|\mathbf {u} \|\cdot \|\mathbf {v} \|.}"
+Linear_algebra_40,"{\displaystyle {\frac {|\langle \mathbf {u} ,\mathbf {v} \rangle |}{\|\mathbf {u} \|\cdot \|\mathbf {v} \|}}\leq 1,}"
+Linear_algebra_41,"{\displaystyle a_{i}=\langle \mathbf {v} ,\mathbf {v} _{i}\rangle .}"
+Linear_algebra_42,"{\displaystyle \langle T\mathbf {u} ,\mathbf {v} \rangle =\langle \mathbf {u} ,T^{*}\mathbf {v} \rangle .}"

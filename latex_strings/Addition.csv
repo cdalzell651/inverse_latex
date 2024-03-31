@@ -1,0 +1,40 @@
+name,latex
+Addition_0,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{term}}\,+\,{\text{term}}\\\scriptstyle {\text{summand}}\,+\,{\text{summand}}\\\scriptstyle {\text{addend}}\,+\,{\text{addend}}\\\scriptstyle {\text{augend}}\,+\,{\text{addend}}\end{matrix}}\right\}\,=\,}"
+Addition_1,{\displaystyle \scriptstyle {\text{sum}}}
+Addition_2,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{term}}\,-\,{\text{term}}\\\scriptstyle {\text{minuend}}\,-\,{\text{subtrahend}}\end{matrix}}\right\}\,=\,}"
+Addition_3,{\displaystyle \scriptstyle {\text{difference}}}
+Addition_4,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{factor}}\,\times \,{\text{factor}}\\\scriptstyle {\text{multiplier}}\,\times \,{\text{multiplicand}}\end{matrix}}\right\}\,=\,}"
+Addition_5,{\displaystyle \scriptstyle {\text{product}}}
+Addition_6,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\frac {\scriptstyle {\text{dividend}}}{\scriptstyle {\text{divisor}}}}\\[1ex]\scriptstyle {\frac {\scriptstyle {\text{numerator}}}{\scriptstyle {\text{denominator}}}}\end{matrix}}\right\}\,=\,}"
+Addition_7,{\displaystyle \scriptstyle \left\{{\begin{matrix}\scriptstyle {\text{fraction}}\\\scriptstyle {\text{quotient}}\\\scriptstyle {\text{ratio}}\end{matrix}}\right.}
+Addition_8,"{\displaystyle \scriptstyle {\text{base}}^{\text{exponent}}\,=\,}"
+Addition_9,{\displaystyle \scriptstyle {\text{power}}}
+Addition_10,"{\displaystyle \scriptstyle {\sqrt[{\text{degree}}]{\scriptstyle {\text{radicand}}}}\,=\,}"
+Addition_11,{\displaystyle \scriptstyle {\text{root}}}
+Addition_12,"{\displaystyle \scriptstyle \log _{\text{base}}({\text{anti-logarithm}})\,=\,}"
+Addition_13,{\displaystyle \scriptstyle {\text{logarithm}}}
+Addition_14,{\displaystyle 1+2=3}
+Addition_15,{\displaystyle 5+4+2=11}
+Addition_16,{\displaystyle 3+3+3+3=12}
+Addition_17,{\displaystyle 3{\frac {1}{2}}=3+{\frac {1}{2}}=3.5.}
+Addition_18,{\displaystyle \sum _{k=1}^{5}k^{2}=1^{2}+2^{2}+3^{2}+4^{2}+5^{2}=55.}
+Addition_19,{\displaystyle x=a\times 10^{b}}
+Addition_20,{\displaystyle a}
+Addition_21,{\displaystyle 10^{b}}
+Addition_22,{\displaystyle 2.34\times 10^{-5}+5.67\times 10^{-6}=2.34\times 10^{-5}+0.567\times 10^{-5}=2.907\times 10^{-5}}
+Addition_23,{\displaystyle N(A\cup B)}
+Addition_24,"{\displaystyle (a,b)+(c,d)=(a+c,b+d).}"
+Addition_25,{\displaystyle {\frac {a}{b}}+{\frac {c}{d}}={\frac {ad+bc}{bd}}.}
+Addition_26,{\displaystyle {\frac {3}{4}}+{\frac {1}{8}}={\frac {3\times 8+4\times 1}{4\times 8}}={\frac {24+4}{32}}={\frac {28}{32}}={\frac {7}{8}}}
+Addition_27,{\displaystyle {\frac {a}{c}}+{\frac {b}{c}}={\frac {a+b}{c}}}
+Addition_28,{\displaystyle {\frac {1}{4}}+{\frac {2}{4}}={\frac {1+2}{4}}={\frac {3}{4}}}
+Addition_29,"{\displaystyle a+b=\{q+r\mid q\in a,r\in b\}.}"
+Addition_30,{\displaystyle \lim _{n}a_{n}+\lim _{n}b_{n}=\lim _{n}(a_{n}+b_{n}).}
+Addition_31,{\displaystyle (a+bi)+(c+di)=(a+c)+(b+d)i.}
+Addition_32,"{\displaystyle (a,b)+(c,d)=(a+c,b+d).}"
+Addition_33,{\displaystyle {\begin{aligned}\mathbf {A} +\mathbf {B} &={\begin{bmatrix}a_{11}&a_{12}&\cdots &a_{1n}\\a_{21}&a_{22}&\cdots &a_{2n}\\\vdots &\vdots &\ddots &\vdots \\a_{m1}&a_{m2}&\cdots &a_{mn}\\\end{bmatrix}}+{\begin{bmatrix}b_{11}&b_{12}&\cdots &b_{1n}\\b_{21}&b_{22}&\cdots &b_{2n}\\\vdots &\vdots &\ddots &\vdots \\b_{m1}&b_{m2}&\cdots &b_{mn}\\\end{bmatrix}}\\&={\begin{bmatrix}a_{11}+b_{11}&a_{12}+b_{12}&\cdots &a_{1n}+b_{1n}\\a_{21}+b_{21}&a_{22}+b_{22}&\cdots &a_{2n}+b_{2n}\\\vdots &\vdots &\ddots &\vdots \\a_{m1}+b_{m1}&a_{m2}+b_{m2}&\cdots &a_{mn}+b_{mn}\\\end{bmatrix}}\\\end{aligned}}}
+Addition_34,{\displaystyle {\begin{bmatrix}1&3\\1&0\\1&2\end{bmatrix}}+{\begin{bmatrix}0&0\\7&5\\2&1\end{bmatrix}}={\begin{bmatrix}1+0&3+0\\1+7&0+5\\1+2&2+1\end{bmatrix}}={\begin{bmatrix}1&3\\8&5\\3&3\end{bmatrix}}}
+Addition_35,{\displaystyle e^{a+b}=e^{a}e^{b}.}
+Addition_36,"{\displaystyle a+\max(b,c)=\max(a+b,a+c).}"
+Addition_37,"{\displaystyle \log(a+b)\approx \max(\log a,\log b),}"
+Addition_38,"{\displaystyle \max(a,b)=\lim _{h\to 0}h\log(e^{a/h}+e^{b/h}).}"

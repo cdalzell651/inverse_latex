@@ -1,0 +1,66 @@
+name,latex
+Free_module_0,{\displaystyle R}
+Free_module_1,{\displaystyle R}
+Free_module_2,{\displaystyle M}
+Free_module_3,{\displaystyle E\subseteq M}
+Free_module_4,{\displaystyle M}
+Free_module_5,{\displaystyle E}
+Free_module_6,{\displaystyle M}
+Free_module_7,{\displaystyle M}
+Free_module_8,{\displaystyle E}
+Free_module_9,{\displaystyle R}
+Free_module_10,{\displaystyle E}
+Free_module_11,"{\displaystyle \{e_{1},\dots ,e_{n}\}\subset E}"
+Free_module_12,{\displaystyle r_{1}e_{1}+r_{2}e_{2}+\cdots +r_{n}e_{n}=0_{M}}
+Free_module_13,{\displaystyle r_{1}=r_{2}=\cdots =r_{n}=0_{R}}
+Free_module_14,{\displaystyle 0_{M}}
+Free_module_15,{\displaystyle M}
+Free_module_16,{\displaystyle 0_{R}}
+Free_module_17,{\displaystyle R}
+Free_module_18,{\displaystyle R}
+Free_module_19,{\displaystyle M}
+Free_module_20,{\displaystyle \mathbb {Z} }
+Free_module_21,{\displaystyle R[X]}
+Free_module_22,{\displaystyle A[t]}
+Free_module_23,{\displaystyle B=A[t]/(f)}
+Free_module_24,{\displaystyle \xi }
+Free_module_25,"{\displaystyle 1,\xi ,\dots ,\xi ^{d-1}}"
+Free_module_26,{\displaystyle R^{n}=R\times \cdots \times R}
+Free_module_27,{\displaystyle R^{(E)}=\bigoplus _{e\in E}R}
+Free_module_29,"{\displaystyle \sum _{e\in E}c_{e}e,}"
+Free_module_30,{\displaystyle c_{e}}
+Free_module_31,{\displaystyle R^{(E)}=\{f:E\to R\mid f(x)=0{\text{ for all but finitely many }}x\in E\}.}
+Free_module_32,{\displaystyle (f+g)(x)=f(x)+g(x)}
+Free_module_33,{\displaystyle (rf)(x)=r(f(x))}
+Free_module_34,{\displaystyle R^{(E)}}
+Free_module_35,{\displaystyle f=\sum _{e\in E}c_{e}\delta _{e}}
+Free_module_36,{\displaystyle c_{e}}
+Free_module_37,{\displaystyle \delta _{e}}
+Free_module_38,{\displaystyle \delta _{e}(x)={\begin{cases}1_{R}\quad {\mbox{if }}x=e\\0_{R}\quad {\mbox{if }}x\neq e\end{cases}}}
+Free_module_39,{\displaystyle \{\delta _{e}\mid e\in E\}}
+Free_module_40,{\displaystyle R^{(E)}}
+Free_module_41,{\displaystyle R^{(E)}}
+Free_module_42,{\displaystyle e\mapsto \delta _{e}}
+Free_module_43,{\displaystyle R^{(E)}}
+Free_module_44,{\displaystyle \iota :E\to R^{(E)}}
+Free_module_45,{\displaystyle f:E\to N}
+Free_module_46,{\displaystyle {\overline {f}}:R^{(E)}\to N}
+Free_module_47,{\displaystyle f={\overline {f}}\circ \iota }
+Free_module_48,{\displaystyle {\overline {f}}}
+Free_module_49,{\displaystyle {\overline {f}}\left(\sum _{e\in E}r_{e}e\right)=\sum _{e\in E}r_{e}f(e)}
+Free_module_50,{\displaystyle {\overline {f}}}
+Free_module_51,{\displaystyle f}
+Free_module_52,{\displaystyle R^{(E)}\to N}
+Free_module_53,{\displaystyle \iota :E\to R^{(E)}}
+Free_module_54,"{\displaystyle R^{(-)}:{\textbf {Set}}\to R{\text{-}}{\mathsf {Mod}},\,E\mapsto R^{(E)}}"
+Free_module_55,"{\displaystyle \operatorname {Hom} _{\textbf {Set}}(E,U(N))\simeq \operatorname {Hom} _{R}(R^{(E)},N),\,f\mapsto {\overline {f}}}"
+Free_module_56,{\displaystyle U:R{\text{-}}{\mathsf {Mod}}\to {\textbf {Set}}}
+Free_module_57,{\displaystyle R^{(-)}}
+Free_module_58,{\displaystyle I}
+Free_module_59,{\displaystyle \{x_{j}|j\}}
+Free_module_60,{\displaystyle j\neq k}
+Free_module_61,{\displaystyle x_{j}x_{k}}
+Free_module_62,{\displaystyle x_{j}}
+Free_module_63,{\displaystyle x_{k}}
+Free_module_64,{\displaystyle I\neq 0}
+Free_module_65,{\displaystyle \square }

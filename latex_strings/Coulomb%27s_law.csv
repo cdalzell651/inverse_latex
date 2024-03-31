@@ -1,0 +1,96 @@
+name,latex
+Coulomb%27s_law_0,{\displaystyle |F|=k_{\text{e}}{\frac {|q_{1}||q_{2}|}{r^{2}}}}
+Coulomb%27s_law_1,"{\displaystyle |\mathbf {F} |={\frac {|q_{1}q_{2}|}{4\pi \varepsilon _{0}r^{2}}},}"
+Coulomb%27s_law_3,{\displaystyle q_{1}}
+Coulomb%27s_law_4,{\displaystyle \mathbf {r} _{1}}
+Coulomb%27s_law_5,{\displaystyle q_{2}}
+Coulomb%27s_law_6,{\displaystyle \mathbf {r} _{2}}
+Coulomb%27s_law_7,{\displaystyle \mathbf {F} _{1}={\frac {q_{1}q_{2}}{4\pi \varepsilon _{0}}}{{\hat {\mathbf {r} }}_{12} \over {|\mathbf {r} _{12}|}^{2}}={\frac {q_{1}q_{2}}{4\pi \varepsilon _{0}}}{\mathbf {r} _{12} \over {|\mathbf {r} _{12}|}^{3}}}
+Coulomb%27s_law_12,{\displaystyle \varepsilon _{0}}
+Coulomb%27s_law_15,{\displaystyle q_{2}}
+Coulomb%27s_law_16,{\displaystyle q_{1}}
+Coulomb%27s_law_17,{\displaystyle q_{1}q_{2}}
+Coulomb%27s_law_18,{\displaystyle q_{1}}
+Coulomb%27s_law_20,{\displaystyle q_{1}q_{2}}
+Coulomb%27s_law_21,{\displaystyle q_{1}}
+Coulomb%27s_law_24,{\displaystyle q_{2}}
+Coulomb%27s_law_27,{\displaystyle q}
+Coulomb%27s_law_30,"{\displaystyle \mathbf {F} (\mathbf {r} )={q \over 4\pi \varepsilon _{0}}\sum _{i=1}^{n}q_{i}{{\hat {\mathbf {r} }}_{i} \over {|\mathbf {r} _{i}|}^{2}}={q \over 4\pi \varepsilon _{0}}\sum _{i=1}^{n}q_{i}{\mathbf {r} _{i} \over {|\mathbf {r} _{i}|}^{3}},}"
+Coulomb%27s_law_31,{\displaystyle q_{i}}
+Coulomb%27s_law_35,{\displaystyle q_{i}}
+Coulomb%27s_law_36,{\displaystyle q}
+Coulomb%27s_law_37,{\displaystyle dq}
+Coulomb%27s_law_38,{\displaystyle \lambda (\mathbf {r} ')}
+Coulomb%27s_law_39,{\displaystyle \mathbf {r} '}
+Coulomb%27s_law_40,{\displaystyle d\ell '}
+Coulomb%27s_law_41,"{\displaystyle dq'=\lambda (\mathbf {r'} )\,d\ell '.}"
+Coulomb%27s_law_42,{\displaystyle \sigma (\mathbf {r} ')}
+Coulomb%27s_law_43,{\displaystyle \mathbf {r} '}
+Coulomb%27s_law_44,{\displaystyle dA'}
+Coulomb%27s_law_45,"{\displaystyle dq'=\sigma (\mathbf {r'} )\,dA'.}"
+Coulomb%27s_law_46,{\displaystyle \rho (\mathbf {r} ')}
+Coulomb%27s_law_47,{\displaystyle \mathbf {r} '}
+Coulomb%27s_law_48,{\displaystyle dV'}
+Coulomb%27s_law_49,"{\displaystyle dq'=\rho ({\boldsymbol {r'}})\,dV'.}"
+Coulomb%27s_law_50,{\displaystyle q}
+Coulomb%27s_law_51,{\displaystyle {\boldsymbol {r}}}
+Coulomb%27s_law_52,{\displaystyle \mathbf {F} (\mathbf {r} )={\frac {q}{4\pi \varepsilon _{0}}}\int dq'{\frac {\mathbf {r} -\mathbf {r'} }{|\mathbf {r} -\mathbf {r'} |^{3}}}.}
+Coulomb%27s_law_53,{\displaystyle |\mathbf {r} -\mathbf {r'} |=0}
+Coulomb%27s_law_54,{\displaystyle |\mathbf {r} -\mathbf {r'} |=0}
+Coulomb%27s_law_55,{\displaystyle k_{\text{e}}}
+Coulomb%27s_law_57,{\displaystyle \varepsilon _{0}}
+Coulomb%27s_law_58,{\displaystyle \varepsilon _{r}}
+Coulomb%27s_law_59,{\displaystyle \varepsilon _{a}=\varepsilon _{0}\varepsilon _{r}}
+Coulomb%27s_law_60,"{\displaystyle k_{\text{e}}=8.987\,551\,792\,3\,(14)\times 10^{9}\ \mathrm {N{\cdot }m^{2}{\cdot }C^{-2}} .}"
+Coulomb%27s_law_67,{\displaystyle |\mathbf {E} |=k_{\text{e}}{\frac {|q|}{r^{2}}}}
+Coulomb%27s_law_68,{\displaystyle q_{i}}
+Coulomb%27s_law_70,{\displaystyle \mathbf {E} (\mathbf {r} )={1 \over 4\pi \varepsilon _{0}}\sum _{i=1}^{n}q_{i}{{\hat {\mathbf {r} }}_{i} \over {|\mathbf {r} _{i}|}^{2}}={1 \over 4\pi \varepsilon _{0}}\sum _{i=1}^{n}q_{i}{\mathbf {r} _{i} \over {|\mathbf {r} _{i}|}^{3}}}
+Coulomb%27s_law_71,"{\displaystyle \mathbf {E} (\mathbf {r} )={\frac {q}{4\pi \varepsilon _{0}}}{\frac {\mathbf {e} _{r}}{r^{2}}},}"
+Coulomb%27s_law_72,"{\displaystyle \mathbf {E} (\mathbf {r} )={\frac {1}{4\pi \varepsilon _{0}}}\int {\frac {\rho (\mathbf {s} )(\mathbf {r} -\mathbf {s} )}{|\mathbf {r} -\mathbf {s} |^{3}}}\,d^{3}\mathbf {s} }"
+Coulomb%27s_law_73,{\displaystyle \nabla \cdot {\frac {\mathbf {r} }{|\mathbf {r} |^{3}}}=-\nabla ^{2}{\frac {1}{|\mathbf {r} |}}=4\pi \delta (\mathbf {r} )}
+Coulomb%27s_law_74,"{\displaystyle \nabla \cdot \mathbf {E} (\mathbf {r} )={\frac {1}{\varepsilon _{0}}}\int \rho (\mathbf {s} )\,\delta (\mathbf {r} -\mathbf {s} )\,d^{3}\mathbf {s} }"
+Coulomb%27s_law_75,"{\displaystyle \nabla \cdot \mathbf {E} (\mathbf {r} )={\frac {\rho (\mathbf {r} )}{\varepsilon _{0}}},}"
+Coulomb%27s_law_76,{\displaystyle \oint _{S}\mathbf {E} \cdot d\mathbf {A} ={\frac {Q}{\varepsilon _{0}}}}
+Coulomb%27s_law_77,{\displaystyle 4\pi r^{2}{\hat {\mathbf {r} }}\cdot \mathbf {E} (\mathbf {r} )={\frac {Q}{\varepsilon _{0}}}}
+Coulomb%27s_law_78,{\displaystyle \mathbf {E} (\mathbf {r} )={\frac {Q}{4\pi \varepsilon _{0}}}{\frac {\hat {\mathbf {r} }}{r^{2}}}}
+Coulomb%27s_law_79,{\displaystyle \mathbf {E} ={\frac {q}{4\pi \epsilon _{0}r^{3}}}{\frac {1-\beta ^{2}}{(1-\beta ^{2}\sin ^{2}\theta )^{3/2}}}\mathbf {r} }
+Coulomb%27s_law_80,{\displaystyle \mathbf {B} ={\frac {q}{4\pi \epsilon _{0}r^{3}}}{\frac {1-\beta ^{2}}{(1-\beta ^{2}\sin ^{2}\theta )^{3/2}}}{\frac {\mathbf {v} \times \mathbf {r} }{c^{2}}}={\frac {\mathbf {v} \times \mathbf {E} }{c^{2}}}}
+Coulomb%27s_law_81,{\displaystyle q}
+Coulomb%27s_law_82,{\displaystyle \mathbf {r} }
+Coulomb%27s_law_83,{\displaystyle \mathbf {v} }
+Coulomb%27s_law_84,{\displaystyle \beta }
+Coulomb%27s_law_85,{\displaystyle \theta }
+Coulomb%27s_law_86,{\displaystyle \mathbf {r} }
+Coulomb%27s_law_87,{\displaystyle \mathbf {v} }
+Coulomb%27s_law_88,{\displaystyle \beta \ll 1}
+Coulomb%27s_law_90,"{\displaystyle {\mathcal {A}}(|\mathbf {p} \rangle \to |\mathbf {p} '\rangle )-1=2\pi \delta (E_{p}-E_{p'})(-i)\int d^{3}\mathbf {r} \,V(\mathbf {r} )e^{-i(\mathbf {p} -\mathbf {p} ')\mathbf {r} }}"
+Coulomb%27s_law_91,"{\displaystyle \int {\frac {d^{3}k}{(2\pi )^{3}}}e^{ikr_{0}}\langle p',k|S|p,k\rangle }"
+Coulomb%27s_law_92,{\displaystyle m_{0}\gg |\mathbf {p} |}
+Coulomb%27s_law_93,"{\displaystyle \langle p',k|S|p,k\rangle |_{conn}=-i{\frac {e^{2}}{|\mathbf {p} -\mathbf {p} '|^{2}-i\varepsilon }}(2m)^{2}\delta (E_{p,k}-E_{p',k})(2\pi )^{4}\delta (\mathbf {p} -\mathbf {p} ')}"
+Coulomb%27s_law_94,{\displaystyle (2m)^{2}}
+Coulomb%27s_law_95,{\displaystyle \int V(\mathbf {r} )e^{-i(\mathbf {p} -\mathbf {p} ')\mathbf {r} }d^{3}\mathbf {r} ={\frac {e^{2}}{|\mathbf {p} -\mathbf {p} '|^{2}-i\varepsilon }}}
+Coulomb%27s_law_96,{\displaystyle \varepsilon \to 0}
+Coulomb%27s_law_97,{\displaystyle V(r)={\frac {e^{2}}{4\pi r}}}
+Coulomb%27s_law_98,{\displaystyle m}
+Coulomb%27s_law_99,{\displaystyle q}
+Coulomb%27s_law_100,{\displaystyle l}
+Coulomb%27s_law_101,{\displaystyle mg}
+Coulomb%27s_law_102,{\displaystyle \mathbf {T} }
+Coulomb%27s_law_103,{\displaystyle \mathbf {F} }
+Coulomb%27s_law_104,{\displaystyle \mathbf {T} \sin \theta _{1}=\mathbf {F} _{1}}
+Coulomb%27s_law_105,{\displaystyle \mathbf {T} \cos \theta _{1}=mg}
+Coulomb%27s_law_106,{\displaystyle {\frac {\sin \theta _{1}}{\cos \theta _{1}}}={\frac {F_{1}}{mg}}\Rightarrow F_{1}=mg\tan \theta _{1}}
+Coulomb%27s_law_107,{\displaystyle \mathbf {L} _{1}}
+Coulomb%27s_law_108,{\displaystyle \mathbf {F} _{1}}
+Coulomb%27s_law_109,{\displaystyle F_{1}={\frac {q^{2}}{4\pi \varepsilon _{0}L_{1}^{2}}}}
+Coulomb%27s_law_110,{\displaystyle {\frac {q^{2}}{4\pi \varepsilon _{0}L_{1}^{2}}}=mg\tan \theta _{1}}
+Coulomb%27s_law_113,{\displaystyle F_{2}={\frac {{({\frac {q}{2}})}^{2}}{4\pi \varepsilon _{0}L_{2}^{2}}}={\frac {\frac {q^{2}}{4}}{4\pi \varepsilon _{0}L_{2}^{2}}}}
+Coulomb%27s_law_114,{\displaystyle \mathbf {F} _{2}=mg\tan \theta _{2}}
+Coulomb%27s_law_115,{\displaystyle {\frac {\frac {q^{2}}{4}}{4\pi \varepsilon _{0}L_{2}^{2}}}=mg\tan \theta _{2}}
+Coulomb%27s_law_116,{\displaystyle {\frac {\left({\cfrac {q^{2}}{4\pi \varepsilon _{0}L_{1}^{2}}}\right)}{\left({\cfrac {\frac {q^{2}}{4}}{4\pi \varepsilon _{0}L_{2}^{2}}}\right)}}={\frac {mg\tan \theta _{1}}{mg\tan \theta _{2}}}\Rightarrow 4{\left({\frac {L_{2}}{L_{1}}}\right)}^{2}={\frac {\tan \theta _{1}}{\tan \theta _{2}}}}
+Coulomb%27s_law_117,{\displaystyle \theta _{1}}
+Coulomb%27s_law_118,{\displaystyle \theta _{2}}
+Coulomb%27s_law_119,{\displaystyle \mathbf {L} _{1}}
+Coulomb%27s_law_120,{\displaystyle \mathbf {L} _{2}}
+Coulomb%27s_law_121,{\displaystyle \tan \theta \approx \sin \theta ={\frac {\frac {L}{2}}{\ell }}={\frac {L}{2\ell }}\Rightarrow {\frac {\tan \theta _{1}}{\tan \theta _{2}}}\approx {\frac {\frac {L_{1}}{2\ell }}{\frac {L_{2}}{2\ell }}}}
+Coulomb%27s_law_122,{\displaystyle {\frac {\frac {L_{1}}{2\ell }}{\frac {L_{2}}{2\ell }}}\approx 4{\left({\frac {L_{2}}{L_{1}}}\right)}^{2}\Rightarrow {\frac {L_{1}}{L_{2}}}\approx 4{\left({\frac {L_{2}}{L_{1}}}\right)}^{2}\Rightarrow {\frac {L_{1}}{L_{2}}}\approx {\sqrt[{3}]{4}}}

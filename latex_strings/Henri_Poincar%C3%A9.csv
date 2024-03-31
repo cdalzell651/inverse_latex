@@ -1,0 +1,10 @@
+name,latex
+Henri_Poincar%C3%A9_0,"{\displaystyle t^{\prime }=t-vx/c^{2}\,}"
+Henri_Poincar%C3%A9_1,{\displaystyle x^{2}+y^{2}-z^{2}=-1}
+Henri_Poincar%C3%A9_2,"{\displaystyle x^{\prime }=k\ell \left(x+\varepsilon t\right)\!,\;t^{\prime }=k\ell \left(t+\varepsilon x\right)\!,\;y^{\prime }=\ell y,\;z^{\prime }=\ell z,\;k=1/{\sqrt {1-\varepsilon ^{2}}}.}"
+Henri_Poincar%C3%A9_3,{\displaystyle \ell \left(\varepsilon \right)}
+Henri_Poincar%C3%A9_4,{\displaystyle \varepsilon }
+Henri_Poincar%C3%A9_5,{\displaystyle \ell =1}
+Henri_Poincar%C3%A9_6,{\displaystyle x^{2}+y^{2}+z^{2}-c^{2}t^{2}}
+Henri_Poincar%C3%A9_7,{\displaystyle ct{\sqrt {-1}}}
+Henri_Poincar%C3%A9_8,{\displaystyle \gamma m}

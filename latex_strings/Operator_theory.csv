@@ -1,0 +1,11 @@
+name,latex
+Operator_theory_0,{\displaystyle A=UDU^{*}}
+Operator_theory_1,"{\displaystyle A^{*}A=(A^{*}A)^{\frac {1}{2}}(A^{*}A)^{\frac {1}{2}},}"
+Operator_theory_2,{\displaystyle A=U(A^{*}A)^{\frac {1}{2}}}
+Operator_theory_3,{\displaystyle x^{**}=(x^{*})^{*}=x}
+Operator_theory_4,{\displaystyle (x+y)^{*}=x^{*}+y^{*}}
+Operator_theory_5,{\displaystyle (xy)^{*}=y^{*}x^{*}}
+Operator_theory_6,{\displaystyle (\lambda x)^{*}={\overline {\lambda }}x^{*}.}
+Operator_theory_7,{\displaystyle \|x^{*}x\|=\left\|x\right\|\left\|x^{*}\right\|.}
+Operator_theory_8,"{\displaystyle \|xx^{*}\|=\|x\|^{2},}"
+Operator_theory_9,"{\displaystyle \|x\|^{2}=\|x^{*}x\|=\sup\{|\lambda |:x^{*}x-\lambda \,1{\text{ is not invertible}}\}.}"

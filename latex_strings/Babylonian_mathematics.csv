@@ -1,0 +1,14 @@
+name,latex
+Babylonian_mathematics_0,{\displaystyle {\sqrt {2}}}
+Babylonian_mathematics_1,{\displaystyle ab={\frac {(a+b)^{2}-a^{2}-b^{2}}{2}}}
+Babylonian_mathematics_2,{\displaystyle ab={\frac {(a+b)^{2}-(a-b)^{2}}{4}}}
+Babylonian_mathematics_3,{\displaystyle {\frac {a}{b}}=a\times {\frac {1}{b}}}
+Babylonian_mathematics_4,{\displaystyle {\frac {1}{13}}={\frac {7}{91}}=7\times {\frac {1}{91}}\approx 7\times {\frac {1}{90}}=7\times {\frac {40}{3600}}={\frac {280}{3600}}={\frac {4}{60}}+{\frac {40}{3600}}.}
+Babylonian_mathematics_5,{\displaystyle 1+{\frac {24}{60}}+{\frac {51}{60^{2}}}+{\frac {10}{60^{3}}}={\frac {30547}{21600}}=1.41421{\overline {296}}.}
+Babylonian_mathematics_6,{\displaystyle \ x^{2}+bx=c}
+Babylonian_mathematics_7,{\displaystyle x=-{\frac {b}{2}}+{\sqrt {\left({\frac {b}{2}}\right)^{2}+c}}}
+Babylonian_mathematics_8,{\displaystyle \ ax^{3}+bx^{2}=c.}
+Babylonian_mathematics_9,{\displaystyle \left({\frac {ax}{b}}\right)^{3}+\left({\frac {ax}{b}}\right)^{2}={\frac {ca^{2}}{b^{3}}}.}
+Babylonian_mathematics_10,{\displaystyle y^{3}+y^{2}={\frac {ca^{2}}{b^{3}}}}
+Babylonian_mathematics_11,"{\displaystyle (a,b,c)}"
+Babylonian_mathematics_12,{\displaystyle a^{2}+b^{2}=c^{2}}

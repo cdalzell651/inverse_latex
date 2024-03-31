@@ -1,0 +1,50 @@
+name,latex
+Complex_analysis_0,{\displaystyle z}
+Complex_analysis_1,{\displaystyle f(z)}
+Complex_analysis_2,"{\displaystyle z=x+iy\quad {\text{ and }}\quad f(z)=f(x+iy)=u(x,y)+iv(x,y),}"
+Complex_analysis_3,"{\displaystyle x,y,u(x,y),v(x,y)}"
+Complex_analysis_4,{\displaystyle f:\mathbb {C} \to \mathbb {C} }
+Complex_analysis_5,{\displaystyle u:\mathbb {R} ^{2}\to \mathbb {R} \quad }
+Complex_analysis_6,"{\displaystyle \quad v:\mathbb {R} ^{2}\to \mathbb {R} ,}"
+Complex_analysis_7,{\displaystyle u}
+Complex_analysis_8,{\displaystyle v}
+Complex_analysis_9,{\displaystyle x}
+Complex_analysis_10,{\displaystyle y}
+Complex_analysis_11,{\displaystyle \mathbb {R} ^{2}.}
+Complex_analysis_12,{\displaystyle \Omega }
+Complex_analysis_13,{\displaystyle \Omega }
+Complex_analysis_14,{\displaystyle f}
+Complex_analysis_15,{\displaystyle z_{0}}
+Complex_analysis_16,{\displaystyle f'(z_{0})=\lim _{z\to z_{0}}{\frac {f(z)-f(z_{0})}{z-z_{0}}}.}
+Complex_analysis_17,{\displaystyle z_{0}}
+Complex_analysis_18,{\displaystyle \Omega }
+Complex_analysis_19,{\displaystyle \Omega }
+Complex_analysis_20,{\displaystyle \mathbb {C} \to \mathbb {C} }
+Complex_analysis_21,{\displaystyle p/q}
+Complex_analysis_22,{\displaystyle z\mapsto \Re (z)}
+Complex_analysis_23,{\displaystyle z\mapsto |z|}
+Complex_analysis_24,{\displaystyle z\mapsto {\bar {z}}}
+Complex_analysis_25,{\displaystyle f:\mathbb {C} \to \mathbb {C} }
+Complex_analysis_26,"{\displaystyle f(z)=f(x+iy)=u(x,y)+iv(x,y)}"
+Complex_analysis_27,"{\displaystyle x,y,u(x,y),v(x,y)\in \mathbb {R} }"
+Complex_analysis_28,{\displaystyle \Omega }
+Complex_analysis_29,{\displaystyle z_{0}\in \Omega }
+Complex_analysis_30,"{\displaystyle {\frac {\partial f}{\partial {\bar {z}}}}(z_{0})=0,\ {\text{where }}{\frac {\partial }{\partial {\bar {z}}}}\mathrel {:=} {\frac {1}{2}}\left({\frac {\partial }{\partial x}}+i{\frac {\partial }{\partial y}}\right).}"
+Complex_analysis_31,{\displaystyle u_{x}=v_{y}}
+Complex_analysis_32,{\displaystyle u_{y}=-v_{x}}
+Complex_analysis_33,{\displaystyle \mathbb {C} }
+Complex_analysis_34,{\displaystyle \mathbb {C} \setminus \{z_{0}\}}
+Complex_analysis_35,{\displaystyle \{z_{0}\}}
+Complex_analysis_36,{\displaystyle z_{0}\in \mathbb {C} }
+Complex_analysis_37,{\displaystyle z}
+Complex_analysis_38,{\displaystyle w}
+Complex_analysis_39,{\displaystyle f}
+Complex_analysis_40,{\displaystyle f}
+Complex_analysis_41,{\displaystyle f}
+Complex_analysis_42,{\displaystyle f}
+Complex_analysis_43,{\displaystyle U}
+Complex_analysis_44,{\displaystyle V}
+Complex_analysis_45,{\displaystyle \mathbb {R} ^{n}}
+Complex_analysis_46,{\displaystyle f:U\to V}
+Complex_analysis_47,{\displaystyle u_{0}\in U}
+Complex_analysis_48,{\displaystyle u_{0}}

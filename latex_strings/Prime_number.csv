@@ -1,0 +1,278 @@
+name,latex
+Prime_number_0,{\displaystyle n}
+Prime_number_1,{\displaystyle n}
+Prime_number_2,{\displaystyle {\sqrt {n}}}
+Prime_number_3,{\displaystyle n}
+Prime_number_4,{\displaystyle n}
+Prime_number_5,{\displaystyle n}
+Prime_number_6,{\displaystyle n}
+Prime_number_7,{\displaystyle n}
+Prime_number_8,{\displaystyle n}
+Prime_number_9,"{\displaystyle 2,3,\dots ,n-1}"
+Prime_number_10,{\displaystyle n}
+Prime_number_11,{\displaystyle n}
+Prime_number_12,{\displaystyle 2\times n/2}
+Prime_number_13,{\displaystyle \mathbf {P} }
+Prime_number_14,{\displaystyle \mathbb {P} }
+Prime_number_15,{\displaystyle n}
+Prime_number_16,{\displaystyle (n-1)!+1}
+Prime_number_17,{\displaystyle 2^{2^{n}}+1}
+Prime_number_18,{\displaystyle 2^{p}-1}
+Prime_number_19,{\displaystyle p}
+Prime_number_20,{\displaystyle {\tfrac {1}{2}}+{\tfrac {1}{3}}+{\tfrac {1}{5}}+{\tfrac {1}{7}}+{\tfrac {1}{11}}+\cdots }
+Prime_number_21,{\displaystyle x}
+Prime_number_22,{\displaystyle x}
+Prime_number_23,{\displaystyle x/\log x}
+Prime_number_24,{\displaystyle \log x}
+Prime_number_25,{\displaystyle x}
+Prime_number_26,{\displaystyle n>1}
+Prime_number_27,{\displaystyle n}
+Prime_number_28,{\displaystyle 2n}
+Prime_number_29,{\displaystyle {\begin{aligned}34866&=2\times 3\times 3\times 13\times 149\\&=2\times 3^{2}\times 13\times 149.\end{aligned}}}
+Prime_number_30,{\displaystyle 3.}
+Prime_number_31,{\displaystyle 3^{2}}
+Prime_number_32,{\displaystyle 3.}
+Prime_number_33,{\displaystyle p}
+Prime_number_34,{\displaystyle p}
+Prime_number_35,{\displaystyle ab}
+Prime_number_36,{\displaystyle a}
+Prime_number_37,"{\displaystyle b,}"
+Prime_number_38,{\displaystyle p}
+Prime_number_39,{\displaystyle a}
+Prime_number_40,{\displaystyle p}
+Prime_number_41,{\displaystyle b}
+Prime_number_42,{\displaystyle p}
+Prime_number_43,{\displaystyle p}
+Prime_number_44,{\displaystyle 1.}
+Prime_number_45,"{\displaystyle p_{1},p_{2},\ldots ,p_{n},}"
+Prime_number_46,{\displaystyle N=1+p_{1}\cdot p_{2}\cdots p_{n}.}
+Prime_number_47,{\displaystyle N}
+Prime_number_48,{\displaystyle N=p'_{1}\cdot p'_{2}\cdots p'_{m}}
+Prime_number_49,{\displaystyle N}
+Prime_number_50,{\displaystyle N}
+Prime_number_51,{\displaystyle N}
+Prime_number_52,"{\displaystyle 1+{\big (}2\cdot 3\cdot 5\cdot 7\cdot 11\cdot 13{\big )}=30031=59\cdot 509,}"
+Prime_number_53,{\displaystyle A>1}
+Prime_number_54,{\displaystyle \mu }
+Prime_number_55,{\displaystyle \left\lfloor A^{3^{n}}\right\rfloor {\text{ and }}\left\lfloor 2^{\cdots ^{2^{2^{\mu }}}}\right\rfloor }
+Prime_number_56,{\displaystyle n}
+Prime_number_57,{\displaystyle \lfloor {}\cdot {}\rfloor }
+Prime_number_58,{\displaystyle A}
+Prime_number_59,{\displaystyle \mu .}
+Prime_number_60,{\displaystyle n}
+Prime_number_61,{\displaystyle n=4\cdot 10^{18}.}
+Prime_number_62,"{\displaystyle n!+2,n!+3,\dots ,n!+n}"
+Prime_number_63,{\displaystyle n-1}
+Prime_number_64,{\displaystyle n.}
+Prime_number_65,{\displaystyle 8!=40320.}
+Prime_number_66,"{\displaystyle k,}"
+Prime_number_67,{\displaystyle 2k.}
+Prime_number_68,{\displaystyle 1}
+Prime_number_69,{\displaystyle n}
+Prime_number_70,"{\displaystyle {\sqrt {n}},}"
+Prime_number_71,{\displaystyle O((\log n)^{2}).}
+Prime_number_72,{\displaystyle k}
+Prime_number_73,"{\displaystyle 1+{\tfrac {1}{4}}+{\tfrac {1}{9}}+{\tfrac {1}{16}}+\dots ,}"
+Prime_number_74,{\displaystyle \zeta (2)}
+Prime_number_75,{\displaystyle \zeta (2)=\pi ^{2}/6}
+Prime_number_76,{\displaystyle 6/\pi ^{2}}
+Prime_number_77,{\displaystyle n}
+Prime_number_78,{\displaystyle p(n)=a+bn}
+Prime_number_79,{\displaystyle a}
+Prime_number_80,{\displaystyle b}
+Prime_number_81,{\displaystyle b}
+Prime_number_82,{\displaystyle {\frac {1}{2}}+{\frac {1}{3}}+{\frac {1}{5}}+{\frac {1}{7}}+\cdots +{\frac {1}{p}}.}
+Prime_number_83,{\displaystyle x}
+Prime_number_84,{\displaystyle p}
+Prime_number_85,{\displaystyle x}
+Prime_number_86,{\displaystyle x}
+Prime_number_87,{\displaystyle {\frac {1}{1^{2}}}+{\frac {1}{2^{2}}}+{\frac {1}{3^{2}}}+\cdots +{\frac {1}{n^{2}}}}
+Prime_number_88,{\displaystyle n}
+Prime_number_89,"{\displaystyle \left({{\frac {1}{3}}+{\frac {1}{5}}}\right)+\left({{\frac {1}{5}}+{\frac {1}{7}}}\right)+\left({{\frac {1}{11}}+{\frac {1}{13}}}\right)+\cdots ,}"
+Prime_number_90,{\displaystyle {\tfrac {n}{\log n}}}
+Prime_number_91,{\displaystyle \operatorname {Li} (n)}
+Prime_number_92,{\displaystyle n}
+Prime_number_93,{\displaystyle \pi (n)}
+Prime_number_94,{\displaystyle n}
+Prime_number_95,{\displaystyle \pi (11)=5}
+Prime_number_96,{\displaystyle \pi (n)}
+Prime_number_97,{\displaystyle n}
+Prime_number_98,{\displaystyle \pi (n)}
+Prime_number_99,{\displaystyle n/\log n}
+Prime_number_100,"{\displaystyle \pi (n)\sim {\frac {n}{\log n}},}"
+Prime_number_101,{\displaystyle \pi (n)}
+Prime_number_102,{\displaystyle n}
+Prime_number_103,{\displaystyle n}
+Prime_number_104,{\displaystyle n}
+Prime_number_105,{\displaystyle n}
+Prime_number_106,{\displaystyle n\log n}
+Prime_number_107,{\displaystyle \log n}
+Prime_number_108,{\displaystyle \pi (n)}
+Prime_number_109,{\displaystyle \pi (n)\sim \operatorname {Li} (n)=\int _{2}^{n}{\frac {dt}{\log t}}.}
+Prime_number_110,"{\displaystyle a,a+q,a+2q,a+3q,\dots }"
+Prime_number_111,{\displaystyle a}
+Prime_number_112,{\displaystyle q}
+Prime_number_113,{\displaystyle 4n^{2}-2n+41}
+Prime_number_114,{\displaystyle n^{2}-n+41}
+Prime_number_115,{\displaystyle 1\leq n\leq 40}
+Prime_number_116,{\displaystyle \zeta (s)}
+Prime_number_117,{\displaystyle s}
+Prime_number_118,{\displaystyle \zeta (s)=\sum _{n=1}^{\infty }{\frac {1}{n^{s}}}=\prod _{p{\text{ prime}}}{\frac {1}{1-p^{-s}}}.}
+Prime_number_119,{\displaystyle s=1}
+Prime_number_120,{\displaystyle 1+{\tfrac {1}{2}}+{\tfrac {1}{3}}+\dots }
+Prime_number_121,{\displaystyle x}
+Prime_number_122,{\displaystyle x}
+Prime_number_123,"{\displaystyle \{0,1,2,\dots ,n-1\}}"
+Prime_number_124,{\displaystyle n}
+Prime_number_125,{\displaystyle n}
+Prime_number_126,{\displaystyle x}
+Prime_number_127,{\displaystyle y}
+Prime_number_128,{\displaystyle x\equiv y}
+Prime_number_129,{\displaystyle n}
+Prime_number_130,{\displaystyle n}
+Prime_number_131,{\displaystyle 7}
+Prime_number_132,{\displaystyle 3}
+Prime_number_133,{\displaystyle 2/3\equiv 3{\bmod {7}}}
+Prime_number_134,{\displaystyle 3}
+Prime_number_135,{\displaystyle 2\equiv 9{\bmod {7}}}
+Prime_number_136,{\displaystyle 6}
+Prime_number_137,{\displaystyle 3}
+Prime_number_138,{\displaystyle 2/3\equiv x{\bmod {6}}}
+Prime_number_139,{\displaystyle 3}
+Prime_number_140,{\displaystyle 2}
+Prime_number_141,{\displaystyle 0}
+Prime_number_142,{\displaystyle 3}
+Prime_number_143,{\displaystyle a\not \equiv 0}
+Prime_number_144,{\displaystyle p}
+Prime_number_145,{\displaystyle a^{p-1}\equiv 1}
+Prime_number_146,{\displaystyle p}
+Prime_number_147,{\displaystyle a}
+Prime_number_148,"{\displaystyle \sum _{a=1}^{p-1}a^{p-1}\equiv (p-1)\cdot 1\equiv -1{\pmod {p}},}"
+Prime_number_149,{\displaystyle p}
+Prime_number_150,{\displaystyle p}
+Prime_number_151,{\displaystyle p>1}
+Prime_number_152,{\displaystyle (p-1)!}
+Prime_number_153,{\displaystyle -1}
+Prime_number_154,{\displaystyle p}
+Prime_number_155,{\displaystyle \;n=r\cdot s\;}
+Prime_number_156,{\displaystyle (n-1)!}
+Prime_number_157,{\displaystyle (n-1)!\equiv -1{\pmod {n}}}
+Prime_number_158,{\displaystyle p}
+Prime_number_159,{\displaystyle \nu _{p}(n)}
+Prime_number_160,{\displaystyle n}
+Prime_number_161,{\displaystyle p}
+Prime_number_162,{\displaystyle n}
+Prime_number_163,{\displaystyle p}
+Prime_number_164,{\displaystyle m/n}
+Prime_number_165,{\displaystyle \nu _{p}(m)-\nu _{p}(n)}
+Prime_number_166,{\displaystyle p}
+Prime_number_167,{\displaystyle |q|_{p}}
+Prime_number_168,{\displaystyle q}
+Prime_number_169,{\displaystyle |q|_{p}=p^{-\nu _{p}(q)}}
+Prime_number_170,{\displaystyle p}
+Prime_number_171,{\displaystyle p}
+Prime_number_172,{\displaystyle p}
+Prime_number_173,{\displaystyle p}
+Prime_number_174,{\displaystyle p}
+Prime_number_175,{\displaystyle p}
+Prime_number_176,{\displaystyle p}
+Prime_number_177,{\displaystyle p}
+Prime_number_178,{\displaystyle p}
+Prime_number_179,{\displaystyle R}
+Prime_number_180,{\displaystyle p}
+Prime_number_181,{\displaystyle xy}
+Prime_number_182,{\displaystyle R}
+Prime_number_183,{\displaystyle x}
+Prime_number_184,{\displaystyle y}
+Prime_number_185,"{\displaystyle \{\dots ,-11,-7,-5,-3,-2,2,3,5,7,11,\dots \}\,.}"
+Prime_number_186,{\displaystyle \mathbb {Z} [i]}
+Prime_number_187,{\displaystyle a+bi}
+Prime_number_188,{\displaystyle i}
+Prime_number_189,{\displaystyle a}
+Prime_number_190,{\displaystyle b}
+Prime_number_191,{\displaystyle 1+i}
+Prime_number_192,{\displaystyle 1-i}
+Prime_number_193,{\displaystyle p}
+Prime_number_194,{\displaystyle p=x^{2}+y^{2}}
+Prime_number_195,{\displaystyle p=(x+iy)(x-iy)}
+Prime_number_196,{\displaystyle p}
+Prime_number_197,{\displaystyle a+b{\sqrt {-5}}}
+Prime_number_198,{\displaystyle a}
+Prime_number_199,{\displaystyle b}
+Prime_number_200,{\displaystyle 21}
+Prime_number_201,{\displaystyle 21=3\cdot 7=(1+2{\sqrt {-5}})(1-2{\sqrt {-5}})}
+Prime_number_202,{\displaystyle p^{n}}
+Prime_number_203,{\displaystyle p^{n}}
+Prime_number_204,{\displaystyle n}
+Prime_number_205,{\displaystyle n}
+Prime_number_206,{\displaystyle n}
+Prime_number_207,{\displaystyle n}
+Prime_number_208,{\displaystyle n}
+Prime_number_209,{\displaystyle n=a\cdot b}
+Prime_number_210,{\displaystyle a}
+Prime_number_211,{\displaystyle b}
+Prime_number_212,{\displaystyle n}
+Prime_number_213,{\displaystyle {\sqrt {37}}}
+Prime_number_214,{\displaystyle n}
+Prime_number_215,{\displaystyle p}
+Prime_number_216,{\displaystyle a}
+Prime_number_217,{\displaystyle 2}
+Prime_number_218,{\displaystyle p-2}
+Prime_number_219,{\displaystyle a^{(p-1)/2}\pm 1}
+Prime_number_220,{\displaystyle p}
+Prime_number_221,{\displaystyle p}
+Prime_number_222,{\displaystyle p}
+Prime_number_223,{\displaystyle n}
+Prime_number_224,{\displaystyle 1/2^{n}}
+Prime_number_225,{\displaystyle n}
+Prime_number_226,{\displaystyle k}
+Prime_number_227,{\displaystyle \varepsilon }
+Prime_number_228,{\displaystyle n}
+Prime_number_229,{\displaystyle k}
+Prime_number_230,{\displaystyle O((\log n)^{6+\varepsilon })}
+Prime_number_231,{\displaystyle O((\log n)^{4+\varepsilon })}
+Prime_number_232,{\displaystyle O((\log n)^{2+\varepsilon })}
+Prime_number_233,{\displaystyle O(k(\log n)^{2+\varepsilon })}
+Prime_number_234,{\displaystyle 4^{-k}}
+Prime_number_235,{\displaystyle O(k(\log n)^{2+\varepsilon })}
+Prime_number_236,{\displaystyle 2^{-k}}
+Prime_number_237,{\displaystyle n}
+Prime_number_238,{\displaystyle n}
+Prime_number_239,{\displaystyle n}
+Prime_number_240,{\displaystyle n}
+Prime_number_241,{\displaystyle x}
+Prime_number_242,{\displaystyle y}
+Prime_number_243,{\displaystyle x}
+Prime_number_244,{\displaystyle y}
+Prime_number_245,{\displaystyle xy}
+Prime_number_246,{\displaystyle a^{b}{\bmod {c}}}
+Prime_number_247,{\displaystyle k}
+Prime_number_248,{\displaystyle 2^{16}}
+Prime_number_249,"{\displaystyle F_{k}=2^{2^{k}}+1,}"
+Prime_number_250,{\displaystyle k}
+Prime_number_251,{\displaystyle F_{5}}
+Prime_number_252,{\displaystyle n}
+Prime_number_253,{\displaystyle n}
+Prime_number_254,{\displaystyle n}
+Prime_number_255,{\displaystyle n}
+Prime_number_256,{\displaystyle 2^{a}3^{b}+1}
+Prime_number_257,{\displaystyle n}
+Prime_number_258,{\displaystyle n}
+Prime_number_259,{\displaystyle n}
+Prime_number_260,{\displaystyle \pm 1}
+Prime_number_261,{\displaystyle a}
+Prime_number_262,{\displaystyle p}
+Prime_number_263,{\displaystyle p}
+Prime_number_264,{\displaystyle \pm 1}
+Prime_number_265,{\displaystyle n}
+Prime_number_266,{\displaystyle n\#}
+Prime_number_267,{\displaystyle n}
+Prime_number_268,{\displaystyle n\#\pm 1}
+Prime_number_269,{\displaystyle 4\cdot 10^{18}}
+Prime_number_270,{\displaystyle k}
+Prime_number_271,{\displaystyle n=1}
+Prime_number_272,{\displaystyle n=0}
+Prime_number_273,{\displaystyle \operatorname {Spec} A}
+Prime_number_274,{\displaystyle k\cdot 2^{n}+1}
+Prime_number_275,{\displaystyle k}
+Prime_number_276,{\displaystyle 2^{0}+1=2}

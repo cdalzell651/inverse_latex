@@ -1,0 +1,80 @@
+name,latex
+2_(number)_0,{\displaystyle (1+i)(1-i)}
+2_(number)_1,{\displaystyle d(n)}
+2_(number)_2,{\displaystyle n}
+2_(number)_3,"{\displaystyle \liminf _{n\to \infty }d(n)=2,}"
+2_(number)_4,{\displaystyle \liminf }
+2_(number)_5,{\displaystyle n}
+2_(number)_6,{\displaystyle \sigma (n)}
+2_(number)_7,{\displaystyle 2n}
+2_(number)_8,{\displaystyle r}
+2_(number)_9,{\displaystyle 2}
+2_(number)_12,{\displaystyle \log _{2}}
+2_(number)_13,{\displaystyle n}
+2_(number)_14,{\displaystyle n}
+2_(number)_15,{\displaystyle 2^{\mathbb {N} }}
+2_(number)_16,"{\displaystyle \{0,1\}}"
+2_(number)_17,"{\displaystyle [0,1]}"
+2_(number)_18,{\displaystyle x_{n+1}=rx_{n}(1-x_{n})}
+2_(number)_19,{\displaystyle r=4.}
+2_(number)_20,{\displaystyle r\approx 3.45}
+2_(number)_21,{\displaystyle 3.57}
+2_(number)_22,"{\displaystyle 8,16,...,2^{n},\ldots ,2^{\infty }}"
+2_(number)_23,{\displaystyle 2}
+2_(number)_24,{\displaystyle \sum _{n=0}^{\infty }{\frac {1}{2^{n}}}=1+{\frac {1}{2}}+{\frac {1}{4}}+{\frac {1}{8}}+{\frac {1}{16}}+\cdots =2.}
+2_(number)_25,{\displaystyle 2+2=2\times 2=2^{2}=2\uparrow \uparrow 2=2\uparrow \uparrow \uparrow 2={\text{ }}...}
+2_(number)_26,{\displaystyle 4.}
+2_(number)_27,{\displaystyle 2^{n}.}
+2_(number)_28,{\displaystyle 2^{2}}
+2_(number)_29,"{\displaystyle (3,5)}"
+2_(number)_30,"{\displaystyle (q,q+2)}"
+2_(number)_31,"{\displaystyle (11,13,17,19)}"
+2_(number)_32,"{\displaystyle (d-4,d-2,d+2,d+4)}"
+2_(number)_33,{\displaystyle d}
+2_(number)_34,{\displaystyle 2}
+2_(number)_35,{\displaystyle 6}
+2_(number)_36,{\displaystyle 1}
+2_(number)_37,{\displaystyle 2}
+2_(number)_38,{\displaystyle 2\times 2}
+2_(number)_39,{\displaystyle n}
+2_(number)_40,{\displaystyle n}
+2_(number)_41,{\displaystyle 12=(2^{2})\times (2^{2}-1)}
+2_(number)_42,{\displaystyle 6\;086\;\ldots \;264=(2^{126})\times (2^{61}-1)\times (2^{31}-1)\times (2^{19}-1)\times (2^{7}-1)\times (2^{5}-1)\times (2^{3}-1)}
+2_(number)_43,{\displaystyle B_{2k}}
+2_(number)_44,{\displaystyle 2}
+2_(number)_45,{\displaystyle -1.}
+2_(number)_46,{\displaystyle T}
+2_(number)_47,{\displaystyle \{0\}}
+2_(number)_48,{\displaystyle 2}
+2_(number)_49,{\displaystyle ww.}
+2_(number)_50,{\displaystyle c}
+2_(number)_51,{\displaystyle 1}
+2_(number)_52,{\displaystyle 0}
+2_(number)_53,{\displaystyle T}
+2_(number)_54,{\displaystyle 2}
+2_(number)_55,{\displaystyle c=\{210201210120\ldots \}}
+2_(number)_56,{\displaystyle 2}
+2_(number)_57,{\displaystyle T}
+2_(number)_58,{\displaystyle 2+{\tfrac {\sqrt {2}}{2}}.}
+2_(number)_59,{\displaystyle e}
+2_(number)_60,{\displaystyle e=\sum \limits _{n=0}^{\infty }{\frac {1}{n!}}=2+{\frac {1}{1\cdot 2}}+{\frac {1}{1\cdot 2\cdot 3}}+\cdots }
+2_(number)_61,"{\displaystyle e=[2;1,2,1,1,4,1,1,8,...]}"
+2_(number)_62,"{\displaystyle \{1,2n,1\}}"
+2_(number)_63,{\displaystyle R}
+2_(number)_64,{\displaystyle r}
+2_(number)_65,{\displaystyle {\tfrac {R}{r}}=2.}
+2_(number)_66,{\displaystyle \delta _{s}}
+2_(number)_67,"{\displaystyle [2;2,2,...]=2.414\;235\dots }"
+2_(number)_68,{\displaystyle {\sqrt {2}}}
+2_(number)_69,{\displaystyle \chi =V-E+F=2}
+2_(number)_70,{\displaystyle V}
+2_(number)_71,{\displaystyle E}
+2_(number)_72,{\displaystyle F}
+2_(number)_73,{\displaystyle -2}
+2_(number)_74,{\displaystyle k}
+2_(number)_75,{\displaystyle \chi =2-k}
+2_(number)_76,{\displaystyle \infty }
+2_(number)_77,"{\displaystyle \{p,2\}}"
+2_(number)_78,{\displaystyle n}
+2_(number)_79,{\displaystyle M=4n+2}
+2_(number)_80,{\displaystyle \limsup _{n\to \infty }{\frac {\log d(n)}{\log n/\log \log n}}=\log 2}

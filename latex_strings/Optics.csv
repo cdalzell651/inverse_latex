@@ -1,0 +1,35 @@
+name,latex
+Optics_0,{\displaystyle {\frac {\sin {\theta _{1}}}{\sin {\theta _{2}}}}=n}
+Optics_1,{\displaystyle n_{1}}
+Optics_2,{\displaystyle n_{2}}
+Optics_3,{\displaystyle n_{1}\sin \theta _{1}=n_{2}\sin \theta _{2}\ }
+Optics_4,{\displaystyle \theta _{1}}
+Optics_5,{\displaystyle \theta _{2}}
+Optics_6,{\displaystyle n=c/v}
+Optics_7,{\displaystyle \theta _{2}}
+Optics_8,{\displaystyle \theta _{1}}
+Optics_9,{\displaystyle {\frac {1}{S_{1}}}+{\frac {1}{S_{2}}}={\frac {1}{f}}}
+Optics_10,{\displaystyle S_{1}}
+Optics_11,{\displaystyle S_{2}}
+Optics_12,{\displaystyle f}
+Optics_13,{\displaystyle d}
+Optics_14,{\displaystyle \theta }
+Optics_15,{\displaystyle n}
+Optics_16,{\displaystyle m\lambda =d\sin \theta }
+Optics_17,{\displaystyle d}
+Optics_18,{\displaystyle \theta }
+Optics_19,{\displaystyle m}
+Optics_20,{\displaystyle m=0}
+Optics_21,{\displaystyle d}
+Optics_22,{\displaystyle \sin \theta =1.22{\frac {\lambda }{D}}}
+Optics_23,{\displaystyle D={\frac {1}{v_{g}^{2}}}{\frac {dv_{g}}{d\lambda }}}
+Optics_24,{\displaystyle v_{g}}
+Optics_25,{\displaystyle v_{g}=c\left(n-\lambda {\frac {dn}{d\lambda }}\right)^{-1}}
+Optics_26,"{\displaystyle D=-{\frac {\lambda }{c}}\,{\frac {d^{2}n}{d\lambda ^{2}}}.}"
+Optics_27,"{\displaystyle I=I_{0}\cos ^{2}\theta _{i}\quad ,}"
+Optics_28,{\displaystyle \cos ^{2}\theta }
+Optics_29,{\displaystyle {\frac {I}{I_{0}}}={\frac {1}{2}}\quad }
+Optics_30,{\displaystyle N}
+Optics_31,{\displaystyle f/\#=N={\frac {f}{D}}\ }
+Optics_32,{\displaystyle f}
+Optics_33,{\displaystyle D}

@@ -1,0 +1,114 @@
+name,latex
+Multiplication_0,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{term}}\,+\,{\text{term}}\\\scriptstyle {\text{summand}}\,+\,{\text{summand}}\\\scriptstyle {\text{addend}}\,+\,{\text{addend}}\\\scriptstyle {\text{augend}}\,+\,{\text{addend}}\end{matrix}}\right\}\,=\,}"
+Multiplication_1,{\displaystyle \scriptstyle {\text{sum}}}
+Multiplication_2,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{term}}\,-\,{\text{term}}\\\scriptstyle {\text{minuend}}\,-\,{\text{subtrahend}}\end{matrix}}\right\}\,=\,}"
+Multiplication_3,{\displaystyle \scriptstyle {\text{difference}}}
+Multiplication_4,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{factor}}\,\times \,{\text{factor}}\\\scriptstyle {\text{multiplier}}\,\times \,{\text{multiplicand}}\end{matrix}}\right\}\,=\,}"
+Multiplication_5,{\displaystyle \scriptstyle {\text{product}}}
+Multiplication_6,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\frac {\scriptstyle {\text{dividend}}}{\scriptstyle {\text{divisor}}}}\\[1ex]\scriptstyle {\frac {\scriptstyle {\text{numerator}}}{\scriptstyle {\text{denominator}}}}\end{matrix}}\right\}\,=\,}"
+Multiplication_7,{\displaystyle \scriptstyle \left\{{\begin{matrix}\scriptstyle {\text{fraction}}\\\scriptstyle {\text{quotient}}\\\scriptstyle {\text{ratio}}\end{matrix}}\right.}
+Multiplication_8,"{\displaystyle \scriptstyle {\text{base}}^{\text{exponent}}\,=\,}"
+Multiplication_9,{\displaystyle \scriptstyle {\text{power}}}
+Multiplication_10,"{\displaystyle \scriptstyle {\sqrt[{\text{degree}}]{\scriptstyle {\text{radicand}}}}\,=\,}"
+Multiplication_11,{\displaystyle \scriptstyle {\text{root}}}
+Multiplication_12,"{\displaystyle \scriptstyle \log _{\text{base}}({\text{anti-logarithm}})\,=\,}"
+Multiplication_13,{\displaystyle \scriptstyle {\text{logarithm}}}
+Multiplication_14,{\displaystyle a\times b=\underbrace {b+\cdots +b} _{a{\text{ times}}}.}
+Multiplication_15,{\displaystyle 3\times 4}
+Multiplication_16,{\displaystyle 3\times 4=4+4+4=12.}
+Multiplication_17,{\displaystyle 4\times 3=3+3+3+3=12.}
+Multiplication_18,{\displaystyle \times }
+Multiplication_19,"{\displaystyle 2\times 3=6,}"
+Multiplication_20,"{\displaystyle 3\times 4=12,}"
+Multiplication_21,"{\displaystyle 2\times 3\times 5=6\times 5=30,}"
+Multiplication_22,{\displaystyle 2\times 2\times 2\times 2\times 2=32.}
+Multiplication_23,{\displaystyle 5\cdot 2}
+Multiplication_24,{\displaystyle xy}
+Multiplication_25,{\displaystyle x}
+Multiplication_26,{\displaystyle y}
+Multiplication_27,{\displaystyle 5x}
+Multiplication_28,{\displaystyle x}
+Multiplication_29,{\displaystyle 5(2)}
+Multiplication_30,{\displaystyle (5)2}
+Multiplication_31,{\displaystyle (5)(2)}
+Multiplication_32,{\displaystyle 3xy^{2}}
+Multiplication_33,{\displaystyle 2\times \pi }
+Multiplication_34,{\displaystyle \pi }
+Multiplication_35,{\displaystyle 5133\times 486\times \pi }
+Multiplication_36,"{\displaystyle r,s\in \mathbb {N} }"
+Multiplication_37,{\displaystyle r\cdot s\equiv \sum _{i=1}^{s}r=\underbrace {r+r+\cdots +r} _{s{\text{ times}}}\equiv \sum _{j=1}^{r}s=\underbrace {s+s+\cdots +s} _{r{\text{ times}}}.}
+Multiplication_38,{\displaystyle {\begin{array}{|c|c c|}\hline \times &+&-\\\hline +&+&-\\-&-&+\\\hline \end{array}}}
+Multiplication_39,"{\displaystyle {\frac {z}{n}}\cdot {\frac {z'}{n'}}={\frac {z\cdot z'}{n\cdot n'}},}"
+Multiplication_40,"{\displaystyle n,n'\neq 0}"
+Multiplication_41,{\displaystyle \pi }
+Multiplication_42,"{\displaystyle \{3,\;3.1,\;3.14,\;3,141,\ldots \}.}"
+Multiplication_43,{\displaystyle a=\sup _{x\in A}x}
+Multiplication_44,"{\displaystyle b=\sup _{y\in B}y,}"
+Multiplication_45,"{\displaystyle a\cdot b=\sup _{x\in A,y\in B}x\cdot y.}"
+Multiplication_46,{\displaystyle i^{2}=-1}
+Multiplication_47,"{\displaystyle {\begin{aligned}(a+b\,i)\cdot (c+d\,i)&=a\cdot c+a\cdot d\,i+b\,i\cdot c+b\cdot d\cdot i^{2}\\&=(a\cdot c-b\cdot d)+(a\cdot d+b\cdot c)\,i\end{aligned}}}"
+Multiplication_48,"{\displaystyle a+b\,i=r\cdot (\cos(\varphi )+i\sin(\varphi ))=r\cdot e^{i\varphi }}"
+Multiplication_49,"{\displaystyle c+d\,i=s\cdot (\cos(\psi )+i\sin(\psi ))=s\cdot e^{i\psi },}"
+Multiplication_50,{\displaystyle (a\cdot c-b\cdot d)+(a\cdot d+b\cdot c)i=r\cdot s\cdot e^{i(\varphi +\psi )}.}
+Multiplication_51,{\displaystyle a\cdot b}
+Multiplication_52,{\displaystyle b\cdot a}
+Multiplication_53,{\displaystyle O(n\log n).}
+Multiplication_54,{\displaystyle \textstyle \prod }
+Multiplication_55,{\displaystyle \textstyle \sum }
+Multiplication_56,"{\displaystyle \prod _{i=1}^{4}(i+1)=(1+1)\,(2+1)\,(3+1)\,(4+1),}"
+Multiplication_57,{\displaystyle \prod _{i=1}^{4}(i+1)=120.}
+Multiplication_58,"{\displaystyle \prod _{i=m}^{n}x_{i}=x_{m}\cdot x_{m+1}\cdot x_{m+2}\cdot \,\,\cdots \,\,\cdot x_{n-1}\cdot x_{n},}"
+Multiplication_59,{\displaystyle \prod _{i=1}^{n}x_{i}=x_{1}\cdot x_{2}\cdot \ldots \cdot x_{n}.}
+Multiplication_60,{\displaystyle \prod _{i=1}^{n}x=x\cdot x\cdot \ldots \cdot x=x^{n}.}
+Multiplication_61,{\displaystyle \prod _{i=1}^{n}{x_{i}y_{i}}=\left(\prod _{i=1}^{n}x_{i}\right)\left(\prod _{i=1}^{n}y_{i}\right)}
+Multiplication_62,{\displaystyle \left(\prod _{i=1}^{n}x_{i}\right)^{a}=\prod _{i=1}^{n}x_{i}^{a}}
+Multiplication_63,{\displaystyle x_{i}}
+Multiplication_64,{\displaystyle \prod _{i=1}^{n}x^{a_{i}}=x^{\sum _{i=1}^{n}a_{i}}}
+Multiplication_65,{\displaystyle a_{i}}
+Multiplication_66,{\displaystyle \prod _{i=m}^{\infty }x_{i}=\lim _{n\to \infty }\prod _{i=m}^{n}x_{i}.}
+Multiplication_67,"{\displaystyle \prod _{i=-\infty }^{\infty }x_{i}=\left(\lim _{m\to -\infty }\prod _{i=m}^{0}x_{i}\right)\cdot \left(\lim _{n\to \infty }\prod _{i=1}^{n}x_{i}\right),}"
+Multiplication_68,{\displaystyle a^{n}=\underbrace {a\times a\times \cdots \times a} _{n}}
+Multiplication_69,{\displaystyle x\cdot y=y\cdot x.}
+Multiplication_70,{\displaystyle (x\cdot y)\cdot z=x\cdot (y\cdot z).}
+Multiplication_71,{\displaystyle x\cdot (y+z)=x\cdot y+x\cdot z.}
+Multiplication_72,{\displaystyle x\cdot 1=x.}
+Multiplication_73,{\displaystyle x\cdot 0=0.}
+Multiplication_74,{\displaystyle (-1)\cdot x=(-x)}
+Multiplication_75,{\displaystyle (-x)+x=0.}
+Multiplication_76,{\displaystyle (-1)\cdot (-1)=1.}
+Multiplication_77,{\displaystyle {\frac {1}{x}}}
+Multiplication_78,{\displaystyle x\cdot \left({\frac {1}{x}}\right)=1}
+Multiplication_79,{\displaystyle x\times 0=0}
+Multiplication_80,{\displaystyle x\times S(y)=(x\times y)+x}
+Multiplication_81,{\displaystyle x\times 1=x\times S(0)=(x\times 0)+x=0+x=x.}
+Multiplication_82,"{\displaystyle (x_{p},\,x_{m})\times (y_{p},\,y_{m})=(x_{p}\times y_{p}+x_{m}\times y_{m},\;x_{p}\times y_{m}+x_{m}\times y_{p}).}"
+Multiplication_83,"{\displaystyle (0,1)\times (0,1)=(0\times 0+1\times 1,\,0\times 1+1\times 0)=(1,0).}"
+Multiplication_84,{\displaystyle \cdot }
+Multiplication_85,"{\displaystyle \left(\mathbb {Q} /\{0\},\,\cdot \right)}"
+Multiplication_86,{\displaystyle N\times M}
+Multiplication_87,{\displaystyle N\times (-M)=(-N)\times M=-(N\times M)}
+Multiplication_88,{\displaystyle (-N)\times (-M)=N\times M}
+Multiplication_89,{\displaystyle {\frac {A}{B}}\times {\frac {C}{D}}}
+Multiplication_90,{\displaystyle {\frac {A}{B}}\times {\frac {C}{D}}={\frac {(A\times C)}{(B\times D)}}}
+Multiplication_91,{\displaystyle {\frac {A}{B}}}
+Multiplication_92,{\displaystyle {\frac {C}{D}}}
+Multiplication_93,{\displaystyle z_{1}}
+Multiplication_94,{\displaystyle z_{2}}
+Multiplication_95,"{\displaystyle (a_{1},b_{1})}"
+Multiplication_96,"{\displaystyle (a_{2},b_{2})}"
+Multiplication_97,{\displaystyle z_{1}\times z_{2}}
+Multiplication_98,"{\displaystyle (a_{1}\times a_{2}-b_{1}\times b_{2},a_{1}\times b_{2}+a_{2}\times b_{1})}"
+Multiplication_99,{\displaystyle a_{1}\times a_{2}}
+Multiplication_100,{\displaystyle b_{1}}
+Multiplication_101,{\displaystyle b_{2}}
+Multiplication_102,{\displaystyle {\sqrt {-1}}}
+Multiplication_103,{\displaystyle i}
+Multiplication_104,{\displaystyle z_{1}\times z_{2}=(a_{1}+b_{1}i)(a_{2}+b_{2}i)=(a_{1}\times a_{2})+(a_{1}\times b_{2}i)+(b_{1}\times a_{2}i)+(b_{1}\times b_{2}i^{2})=(a_{1}a_{2}-b_{1}b_{2})+(a_{1}b_{2}+b_{1}a_{2})i.}
+Multiplication_105,"{\displaystyle z_{1}=r_{1}(\cos \phi _{1}+i\sin \phi _{1}),z_{2}=r_{2}(\cos \phi _{2}+i\sin \phi _{2})}"
+Multiplication_107,{\displaystyle {\frac {x}{y}}}
+Multiplication_108,{\displaystyle x\left({\frac {1}{y}}\right)}
+Multiplication_109,{\displaystyle {\frac {1}{x}}}
+Multiplication_110,{\displaystyle {\frac {x}{y}}}
+Multiplication_111,{\displaystyle {\frac {x}{y}}}
+Multiplication_112,{\displaystyle x\left({\frac {1}{y}}\right)}
+Multiplication_113,{\displaystyle \left({\frac {1}{y}}\right)x}

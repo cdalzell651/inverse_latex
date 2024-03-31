@@ -1,0 +1,82 @@
+name,latex
+Repeating_decimal_0,{\displaystyle x=a.b{\overline {c}}}
+Repeating_decimal_1,{\displaystyle a}
+Repeating_decimal_2,{\displaystyle b}
+Repeating_decimal_3,{\displaystyle c}
+Repeating_decimal_4,{\displaystyle n=\lceil {\log _{10}b}\rceil }
+Repeating_decimal_5,{\displaystyle b}
+Repeating_decimal_6,{\displaystyle 10^{n}}
+Repeating_decimal_7,{\displaystyle 10^{n}x=ab.{\bar {c}}.}
+Repeating_decimal_8,{\displaystyle c=0}
+Repeating_decimal_9,{\displaystyle c\neq 0}
+Repeating_decimal_10,{\displaystyle k\in \mathbb {N} }
+Repeating_decimal_11,{\displaystyle x=y.{\bar {c}}}
+Repeating_decimal_12,{\displaystyle y\in \mathbb {Z} }
+Repeating_decimal_13,"{\displaystyle c=d_{1}d_{2}\,...d_{k}}"
+Repeating_decimal_14,{\displaystyle d_{i}}
+Repeating_decimal_15,{\displaystyle x=y+\sum _{n=1}^{\infty }{\frac {c}{{(10^{k})}^{n}}}=y+\left(c\sum _{n=0}^{\infty }{\frac {1}{{(10^{k})}^{n}}}\right)-c.}
+Repeating_decimal_16,{\displaystyle \textstyle \sum _{n=0}^{\infty }{\frac {1}{{(10^{k})}^{n}}}={\frac {1}{1-10^{-k}}}}
+Repeating_decimal_17,{\displaystyle x=y-c+{\frac {10^{k}c}{10^{k}-1}}.}
+Repeating_decimal_18,{\displaystyle x}
+Repeating_decimal_19,{\displaystyle y-c}
+Repeating_decimal_21,{\displaystyle x}
+Repeating_decimal_22,"{\displaystyle \operatorname {ord} _{n}(b):=\min\{L\in \mathbb {N} \,\mid \,b^{L}\equiv 1{\bmod {n}}\}}"
+Repeating_decimal_23,"{\displaystyle \lambda (n):=\max\{\operatorname {ord} _{n}(b)\,\mid \,\gcd(b,n)=1\}}"
+Repeating_decimal_24,{\displaystyle {\frac {10^{11-1}-1}{11}}=909090909}
+Repeating_decimal_25,{\displaystyle a^{m}\equiv 1{\pmod {n}}}
+Repeating_decimal_26,{\displaystyle {\frac {1}{p^{k}q^{\ell }r^{m}\cdots }}}
+Repeating_decimal_27,"{\displaystyle \operatorname {LCM} (T_{p^{k}},T_{q^{\ell }},T_{r^{m}},\ldots )}"
+Repeating_decimal_28,"{\displaystyle {\frac {1}{2^{a}\cdot 5^{b}p^{k}q^{\ell }\cdots }}\,,}"
+Repeating_decimal_29,"{\displaystyle {\frac {5^{a-b}}{10^{a}p^{k}q^{\ell }\cdots }}\,,}"
+Repeating_decimal_30,"{\displaystyle {\frac {2^{b-a}}{10^{b}p^{k}q^{\ell }\cdots }}\,,}"
+Repeating_decimal_31,"{\displaystyle {\frac {1}{10^{a}p^{k}q^{\ell }\cdots }}\,,}"
+Repeating_decimal_32,{\displaystyle x}
+Repeating_decimal_33,{\displaystyle =0.333333\ldots }
+Repeating_decimal_34,{\displaystyle 10x}
+Repeating_decimal_35,{\displaystyle =3.333333\ldots }
+Repeating_decimal_36,{\displaystyle 9x}
+Repeating_decimal_37,{\displaystyle =3}
+Repeating_decimal_38,{\displaystyle x}
+Repeating_decimal_39,{\displaystyle ={\frac {3}{9}}={\frac {1}{3}}}
+Repeating_decimal_40,{\displaystyle x}
+Repeating_decimal_41,{\displaystyle =\ \ \ \ 0.836363636\ldots }
+Repeating_decimal_42,{\displaystyle 10x}
+Repeating_decimal_43,{\displaystyle =\ \ \ \ 8.36363636\ldots }
+Repeating_decimal_44,{\displaystyle 1000x}
+Repeating_decimal_45,{\displaystyle =836.36363636\ldots }
+Repeating_decimal_46,{\displaystyle 990x}
+Repeating_decimal_47,{\displaystyle =828}
+Repeating_decimal_48,{\displaystyle x}
+Repeating_decimal_49,{\displaystyle ={\frac {828}{990}}={\frac {18\cdot 46}{18\cdot 55}}={\frac {46}{55}}}
+Repeating_decimal_50,{\displaystyle {\begin{aligned}x&=0.000000100000010000001\ldots \\10^{7}x&=1.000000100000010000001\ldots \\\left(10^{7}-1\right)x=9999999x&=1\\x&={\frac {1}{10^{7}-1}}={\frac {1}{9999999}}\end{aligned}}}
+Repeating_decimal_51,{\displaystyle {\begin{aligned}7.48181818\ldots &=7.3+0.18181818\ldots \\[8pt]&={\frac {73}{10}}+{\frac {18}{99}}={\frac {73}{10}}+{\frac {9\cdot 2}{9\cdot 11}}={\frac {73}{10}}+{\frac {2}{11}}\\[12pt]&={\frac {11\cdot 73+10\cdot 2}{10\cdot 11}}={\frac {823}{110}}\end{aligned}}}
+Repeating_decimal_52,{\displaystyle {\begin{aligned}11.18867924528301886792452830\ldots &=11+0.18867924528301886792452830\ldots \\[8pt]&=11+{\frac {10}{53}}={\frac {11\cdot 53+10}{53}}={\frac {593}{53}}\end{aligned}}}
+Repeating_decimal_53,{\displaystyle {\begin{aligned}x&=0.{\overline {a_{1}a_{2}\cdots a_{n}}}\\10^{n}x&=a_{1}a_{2}\cdots a_{n}.{\overline {a_{1}a_{2}\cdots a_{n}}}\\[5pt]\left(10^{n}-1\right)x=99\cdots 99x&=a_{1}a_{2}\cdots a_{n}\\[5pt]x&={\frac {a_{1}a_{2}\cdots a_{n}}{10^{n}-1}}={\frac {a_{1}a_{2}\cdots a_{n}}{99\cdots 99}}\end{aligned}}}
+Repeating_decimal_54,{\displaystyle \mathbf {I} }
+Repeating_decimal_55,{\displaystyle \mathbf {A} }
+Repeating_decimal_56,{\displaystyle \#\mathbf {A} }
+Repeating_decimal_57,{\displaystyle \mathbf {P} }
+Repeating_decimal_58,{\displaystyle \#\mathbf {P} }
+Repeating_decimal_59,{\displaystyle 9}
+Repeating_decimal_60,{\displaystyle \#\mathbf {P} }
+Repeating_decimal_61,{\displaystyle 0}
+Repeating_decimal_62,{\displaystyle \#\mathbf {A} }
+Repeating_decimal_63,{\displaystyle \mathbf {I} }
+Repeating_decimal_65,{\displaystyle \emptyset }
+Repeating_decimal_66,{\displaystyle \mathbf {A} }
+Repeating_decimal_67,{\displaystyle \#\mathbf {A} =0}
+Repeating_decimal_68,{\displaystyle 0.{\overline {1}}={\frac {1}{10}}+{\frac {1}{100}}+{\frac {1}{1000}}+\cdots =\sum _{n=1}^{\infty }{\frac {1}{10^{n}}}}
+Repeating_decimal_69,{\displaystyle {\frac {a}{1-r}}={\frac {\frac {1}{10}}{1-{\frac {1}{10}}}}={\frac {1}{10-1}}={\frac {1}{9}}}
+Repeating_decimal_70,{\displaystyle {\begin{aligned}0.{\overline {142857}}&={\frac {142857}{10^{6}}}+{\frac {142857}{10^{12}}}+{\frac {142857}{10^{18}}}+\cdots =\sum _{n=1}^{\infty }{\frac {142857}{10^{6n}}}\\[6px]\implies &\quad {\frac {a}{1-r}}={\frac {\frac {142857}{10^{6}}}{1-{\frac {1}{10^{6}}}}}={\frac {142857}{10^{6}-1}}={\frac {142857}{999999}}={\frac {1}{7}}\end{aligned}}}
+Repeating_decimal_71,{\displaystyle {\text{period}}\left({\frac {1}{p}}\right)={\text{period}}\left({\frac {1}{p^{2}}}\right)=\cdots ={\text{period}}\left({\frac {1}{p^{m}}}\right)}
+Repeating_decimal_72,"{\displaystyle {\text{period}}\left({\frac {1}{p^{m}}}\right)\neq {\text{period}}\left({\frac {1}{p^{m+1}}}\right),}"
+Repeating_decimal_73,{\displaystyle {\text{period}}\left({\frac {1}{p^{m+c}}}\right)=p^{c}\cdot {\text{period}}\left({\frac {1}{p}}\right).}
+Repeating_decimal_75,"{\displaystyle D:=\{d_{1},d_{1}+1,\dots ,d_{r}\}}"
+Repeating_decimal_76,{\displaystyle \left(0.{\overline {A_{1}A_{2}\ldots A_{\ell }}}\right)_{b}}
+Repeating_decimal_77,{\displaystyle {\frac {(A_{1}A_{2}\ldots A_{\ell })_{b}}{b^{\ell }-1}}.}
+Repeating_decimal_78,{\displaystyle {\frac {1}{k}}={\frac {1}{b}}+{\frac {(b-k)^{1}}{b^{2}}}+{\frac {(b-k)^{2}}{b^{3}}}+{\frac {(b-k)^{3}}{b^{4}}}+\cdots +{\frac {(b-k)^{N-1}}{b^{N}}}+\cdots ={\frac {1}{b}}{\frac {1}{1-{\frac {b-k}{b}}}}.}
+Repeating_decimal_79,{\displaystyle {\frac {1}{7}}=\left({\frac {1}{10^{\phantom {1}}}}+{\frac {5}{10^{2}}}+{\frac {21}{10^{3}}}+{\frac {A5}{10^{4}}}+{\frac {441}{10^{5}}}+{\frac {1985}{10^{6}}}+\cdots \right)_{\text{base 12}}}
+Repeating_decimal_80,"{\displaystyle {\frac {bp}{q}}-1\;\;<\;\;z=\left\lfloor {\frac {bp}{q}}\right\rfloor \;\;\leq \;\;{\frac {bp}{q}},}"
+Repeating_decimal_81,{\displaystyle bp-q<zq\quad \implies \quad p':=bp-zq<q}
+Repeating_decimal_82,"{\displaystyle zq\leq bp\quad \implies \quad 0\leq bp-zq=:p'\,.}"
+Repeating_decimal_83,{\displaystyle a(i)=2^{i}{\bmod {p}}{\bmod {2}}}

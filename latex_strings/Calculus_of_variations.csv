@@ -1,0 +1,370 @@
+name,latex
+Calculus_of_variations_0,"{\displaystyle \int _{a}^{b}f'(t)\,dt=f(b)-f(a)}"
+Calculus_of_variations_1,{\displaystyle y}
+Calculus_of_variations_2,{\displaystyle J[y]}
+Calculus_of_variations_3,{\displaystyle f}
+Calculus_of_variations_4,{\displaystyle \Delta J=J[y]-J[f]}
+Calculus_of_variations_5,{\displaystyle y}
+Calculus_of_variations_6,{\displaystyle f.}
+Calculus_of_variations_7,{\displaystyle f}
+Calculus_of_variations_8,{\displaystyle J[f]}
+Calculus_of_variations_9,{\displaystyle \Delta J\leq 0}
+Calculus_of_variations_10,"{\displaystyle f,}"
+Calculus_of_variations_11,{\displaystyle \Delta J\geq 0}
+Calculus_of_variations_12,"{\displaystyle J[y]=\int _{x_{1}}^{x_{2}}L\left(x,y(x),y'(x)\right)\,dx\,.}"
+Calculus_of_variations_13,"{\displaystyle x_{1},x_{2}}"
+Calculus_of_variations_14,{\displaystyle y(x)}
+Calculus_of_variations_15,"{\displaystyle y'(x)={\frac {dy}{dx}},}"
+Calculus_of_variations_16,"{\displaystyle L\left(x,y(x),y'(x)\right)}"
+Calculus_of_variations_17,"{\displaystyle x,y,}"
+Calculus_of_variations_18,{\displaystyle y'.}
+Calculus_of_variations_19,{\displaystyle J[y]}
+Calculus_of_variations_20,"{\displaystyle f,}"
+Calculus_of_variations_21,{\displaystyle \eta (x)}
+Calculus_of_variations_22,{\displaystyle x_{1}}
+Calculus_of_variations_23,"{\displaystyle x_{2},}"
+Calculus_of_variations_24,{\displaystyle \varepsilon }
+Calculus_of_variations_25,"{\displaystyle J[f]\leq J[f+\varepsilon \eta ]\,.}"
+Calculus_of_variations_26,{\displaystyle \varepsilon \eta }
+Calculus_of_variations_27,{\displaystyle f}
+Calculus_of_variations_28,{\displaystyle \delta f.}
+Calculus_of_variations_29,{\displaystyle f+\varepsilon \eta }
+Calculus_of_variations_30,{\displaystyle y}
+Calculus_of_variations_31,"{\displaystyle J[y],}"
+Calculus_of_variations_32,"{\displaystyle \varepsilon ,}"
+Calculus_of_variations_33,"{\displaystyle \Phi (\varepsilon )=J[f+\varepsilon \eta ]\,.}"
+Calculus_of_variations_34,{\displaystyle J[y]}
+Calculus_of_variations_35,{\displaystyle y=f}
+Calculus_of_variations_36,{\displaystyle \Phi (\varepsilon )}
+Calculus_of_variations_37,{\displaystyle \varepsilon =0}
+Calculus_of_variations_38,"{\displaystyle \Phi '(0)\equiv \left.{\frac {d\Phi }{d\varepsilon }}\right|_{\varepsilon =0}=\int _{x_{1}}^{x_{2}}\left.{\frac {dL}{d\varepsilon }}\right|_{\varepsilon =0}dx=0\,.}"
+Calculus_of_variations_39,"{\displaystyle L\left[x,y,y'\right],}"
+Calculus_of_variations_40,{\displaystyle y=f+\varepsilon \eta }
+Calculus_of_variations_41,{\displaystyle y'=f'+\varepsilon \eta '}
+Calculus_of_variations_42,{\displaystyle \varepsilon }
+Calculus_of_variations_43,"{\displaystyle x,}"
+Calculus_of_variations_44,{\displaystyle {\frac {dL}{d\varepsilon }}={\frac {\partial L}{\partial y}}{\frac {dy}{d\varepsilon }}+{\frac {\partial L}{\partial y'}}{\frac {dy'}{d\varepsilon }}}
+Calculus_of_variations_45,{\displaystyle {\frac {dy}{d\varepsilon }}=\eta }
+Calculus_of_variations_46,"{\displaystyle {\frac {dy'}{d\varepsilon }}=\eta ',}"
+Calculus_of_variations_47,{\displaystyle {\frac {dL}{d\varepsilon }}={\frac {\partial L}{\partial y}}\eta +{\frac {\partial L}{\partial y'}}\eta '.}
+Calculus_of_variations_48,"{\displaystyle {\begin{aligned}\int _{x_{1}}^{x_{2}}\left.{\frac {dL}{d\varepsilon }}\right|_{\varepsilon =0}dx&=\int _{x_{1}}^{x_{2}}\left({\frac {\partial L}{\partial f}}\eta +{\frac {\partial L}{\partial f'}}\eta '\right)\,dx\\&=\int _{x_{1}}^{x_{2}}{\frac {\partial L}{\partial f}}\eta \,dx+\left.{\frac {\partial L}{\partial f'}}\eta \right|_{x_{1}}^{x_{2}}-\int _{x_{1}}^{x_{2}}\eta {\frac {d}{dx}}{\frac {\partial L}{\partial f'}}\,dx\\&=\int _{x_{1}}^{x_{2}}\left({\frac {\partial L}{\partial f}}\eta -\eta {\frac {d}{dx}}{\frac {\partial L}{\partial f'}}\right)\,dx\\\end{aligned}}}"
+Calculus_of_variations_49,"{\displaystyle L\left[x,y,y'\right]\to L\left[x,f,f'\right]}"
+Calculus_of_variations_50,{\displaystyle \varepsilon =0}
+Calculus_of_variations_51,{\displaystyle \eta =0}
+Calculus_of_variations_52,{\displaystyle x_{1}}
+Calculus_of_variations_53,{\displaystyle x_{2}}
+Calculus_of_variations_54,"{\displaystyle \int _{x_{1}}^{x_{2}}\eta (x)\left({\frac {\partial L}{\partial f}}-{\frac {d}{dx}}{\frac {\partial L}{\partial f'}}\right)\,dx=0\,.}"
+Calculus_of_variations_55,{\displaystyle {\frac {\partial L}{\partial f}}-{\frac {d}{dx}}{\frac {\partial L}{\partial f'}}=0}
+Calculus_of_variations_56,{\displaystyle J[f]}
+Calculus_of_variations_57,{\displaystyle \delta J/\delta f(x).}
+Calculus_of_variations_58,{\displaystyle f(x).}
+Calculus_of_variations_59,{\displaystyle J[f].}
+Calculus_of_variations_60,"{\displaystyle y=f(x),}"
+Calculus_of_variations_61,"{\displaystyle \left(x_{1},y_{1}\right)}"
+Calculus_of_variations_62,"{\displaystyle \left(x_{2},y_{2}\right).}"
+Calculus_of_variations_63,"{\displaystyle A[y]=\int _{x_{1}}^{x_{2}}{\sqrt {1+[y'(x)]^{2}}}\,dx\,,}"
+Calculus_of_variations_64,"{\displaystyle y'(x)={\frac {dy}{dx}}\,,\ \ y_{1}=f(x_{1})\,,\ \ y_{2}=f(x_{2})\,.}"
+Calculus_of_variations_65,{\displaystyle f(x)}
+Calculus_of_variations_66,{\displaystyle A[y].}
+Calculus_of_variations_67,{\displaystyle {\frac {\partial L}{\partial f}}-{\frac {d}{dx}}{\frac {\partial L}{\partial f'}}=0}
+Calculus_of_variations_68,"{\displaystyle L={\sqrt {1+[f'(x)]^{2}}}\,.}"
+Calculus_of_variations_69,{\displaystyle f}
+Calculus_of_variations_70,"{\displaystyle L,}"
+Calculus_of_variations_71,{\displaystyle f(x)}
+Calculus_of_variations_72,"{\displaystyle {\frac {d}{dx}}{\frac {\partial L}{\partial f'}}=0\,.}"
+Calculus_of_variations_73,{\displaystyle L}
+Calculus_of_variations_74,"{\displaystyle {\frac {d}{dx}}\ {\frac {f'(x)}{\sqrt {1+[f'(x)]^{2}}}}\ =0\,.}"
+Calculus_of_variations_75,"{\displaystyle {\frac {f'(x)}{\sqrt {1+[f'(x)]^{2}}}}=c\,,}"
+Calculus_of_variations_76,{\displaystyle c.}
+Calculus_of_variations_77,"{\displaystyle {\frac {[f'(x)]^{2}}{1+[f'(x)]^{2}}}=c^{2}\,,}"
+Calculus_of_variations_78,{\displaystyle 0\leq c^{2}<1.}
+Calculus_of_variations_79,{\displaystyle [f'(x)]^{2}={\frac {c^{2}}{1-c^{2}}}}
+Calculus_of_variations_80,{\displaystyle f'(x)=m}
+Calculus_of_variations_81,"{\displaystyle \left(x_{1},y_{1}\right)}"
+Calculus_of_variations_82,"{\displaystyle \left(x_{2},y_{2}\right)}"
+Calculus_of_variations_83,{\displaystyle f(x)=mx+b\qquad {\text{with}}\ \ m={\frac {y_{2}-y_{1}}{x_{2}-x_{1}}}\quad {\text{and}}\quad b={\frac {x_{2}y_{1}-x_{1}y_{2}}{x_{2}-x_{1}}}}
+Calculus_of_variations_84,{\displaystyle f(x)}
+Calculus_of_variations_85,{\displaystyle A[y]}
+Calculus_of_variations_86,{\displaystyle A[f]}
+Calculus_of_variations_87,{\displaystyle y=f(x).}
+Calculus_of_variations_88,"{\displaystyle {\frac {\partial L}{\partial x}}=0,}"
+Calculus_of_variations_89,{\displaystyle f(x)}
+Calculus_of_variations_90,{\displaystyle f'(x)}
+Calculus_of_variations_91,{\displaystyle x}
+Calculus_of_variations_92,"{\displaystyle L-f'{\frac {\partial L}{\partial f'}}=C\,,}"
+Calculus_of_variations_93,{\displaystyle C}
+Calculus_of_variations_94,{\displaystyle L}
+Calculus_of_variations_95,{\displaystyle f'(x).}
+Calculus_of_variations_96,{\displaystyle x}
+Calculus_of_variations_97,{\displaystyle {\frac {\partial L}{\partial x}}=0}
+Calculus_of_variations_98,{\displaystyle S}
+Calculus_of_variations_99,"{\displaystyle y(x),}"
+Calculus_of_variations_100,"{\displaystyle S=\int _{a}^{b}f(x,y(x),y'(x),\dots ,y^{(n)}(x))dx,}"
+Calculus_of_variations_101,{\displaystyle y}
+Calculus_of_variations_102,{\displaystyle {\frac {\partial f}{\partial y}}-{\frac {d}{dx}}\left({\frac {\partial f}{\partial y'}}\right)+\dots +(-1)^{n}{\frac {d^{n}}{dx^{n}}}\left[{\frac {\partial f}{\partial y^{(n)}}}\right]=0.}
+Calculus_of_variations_103,{\displaystyle J}
+Calculus_of_variations_104,{\displaystyle L}
+Calculus_of_variations_105,"{\displaystyle {\frac {\partial ^{2}L}{\partial f'^{2}}}\neq 0,}"
+Calculus_of_variations_106,{\displaystyle f}
+Calculus_of_variations_107,"{\displaystyle L[x]=\int _{0}^{1}(x^{3}-t)^{2}x'^{6},}"
+Calculus_of_variations_108,"{\displaystyle {A}=\{x\in W^{1,1}(0,1):x(0)=0,\ x(1)=1\}.}"
+Calculus_of_variations_109,{\displaystyle x(t)=t^{\frac {1}{3}}}
+Calculus_of_variations_110,"{\displaystyle x\in W^{1,\infty }}"
+Calculus_of_variations_111,"{\displaystyle W^{1,1}}"
+Calculus_of_variations_112,"{\displaystyle W^{1,\infty },}"
+Calculus_of_variations_113,"{\displaystyle W^{1,p}}"
+Calculus_of_variations_114,"{\displaystyle W^{1,q}}"
+Calculus_of_variations_115,{\displaystyle 1\leq p<q<\infty .}
+Calculus_of_variations_116,"{\displaystyle \varphi (x,y)}"
+Calculus_of_variations_117,{\displaystyle D}
+Calculus_of_variations_118,"{\displaystyle x,y}"
+Calculus_of_variations_119,"{\displaystyle U[\varphi ]=\iint _{D}{\sqrt {1+\nabla \varphi \cdot \nabla \varphi }}\,dx\,dy.}"
+Calculus_of_variations_120,{\displaystyle D}
+Calculus_of_variations_121,{\displaystyle \varphi _{xx}(1+\varphi _{y}^{2})+\varphi _{yy}(1+\varphi _{x}^{2})-2\varphi _{x}\varphi _{y}\varphi _{xy}=0.}
+Calculus_of_variations_122,"{\displaystyle V[\varphi ]={\frac {1}{2}}\iint _{D}\nabla \varphi \cdot \nabla \varphi \,dx\,dy.}"
+Calculus_of_variations_123,{\displaystyle V}
+Calculus_of_variations_124,{\displaystyle \varphi }
+Calculus_of_variations_125,{\displaystyle D.}
+Calculus_of_variations_126,{\displaystyle u}
+Calculus_of_variations_127,{\displaystyle v}
+Calculus_of_variations_128,"{\displaystyle D,}"
+Calculus_of_variations_129,{\displaystyle V[u+\varepsilon v]}
+Calculus_of_variations_130,"{\displaystyle \left.{\frac {d}{d\varepsilon }}V[u+\varepsilon v]\right|_{\varepsilon =0}=\iint _{D}\nabla u\cdot \nabla v\,dx\,dy=0.}"
+Calculus_of_variations_131,"{\displaystyle \iint _{D}\nabla \cdot (v\nabla u)\,dx\,dy=\iint _{D}\nabla u\cdot \nabla v+v\nabla \cdot \nabla u\,dx\,dy=\int _{C}v{\frac {\partial u}{\partial n}}\,ds,}"
+Calculus_of_variations_132,{\displaystyle C}
+Calculus_of_variations_133,"{\displaystyle D,}"
+Calculus_of_variations_134,{\displaystyle s}
+Calculus_of_variations_135,{\displaystyle C}
+Calculus_of_variations_136,{\displaystyle \partial u/\partial n}
+Calculus_of_variations_137,{\displaystyle u}
+Calculus_of_variations_138,{\displaystyle C.}
+Calculus_of_variations_139,{\displaystyle v}
+Calculus_of_variations_140,{\displaystyle C}
+Calculus_of_variations_141,"{\displaystyle \iint _{D}v\nabla \cdot \nabla u\,dx\,dy=0}"
+Calculus_of_variations_142,{\displaystyle D.}
+Calculus_of_variations_143,{\displaystyle \nabla \cdot \nabla u=0}
+Calculus_of_variations_144,{\displaystyle D.}
+Calculus_of_variations_145,"{\displaystyle W[\varphi ]=\int _{-1}^{1}(x\varphi ')^{2}\,dx}"
+Calculus_of_variations_146,{\displaystyle \varphi }
+Calculus_of_variations_147,{\displaystyle \varphi (-1)=-1}
+Calculus_of_variations_148,{\displaystyle \varphi (1)=1.}
+Calculus_of_variations_149,{\displaystyle W}
+Calculus_of_variations_150,{\displaystyle W=0.}
+Calculus_of_variations_151,"{\displaystyle V[\varphi ]=\iint _{D}\left[{\frac {1}{2}}\nabla \varphi \cdot \nabla \varphi +f(x,y)\varphi \right]\,dx\,dy\,+\int _{C}\left[{\frac {1}{2}}\sigma (s)\varphi ^{2}+g(s)\varphi \right]\,ds.}"
+Calculus_of_variations_152,"{\displaystyle f(x,y)}"
+Calculus_of_variations_153,"{\displaystyle D,}"
+Calculus_of_variations_154,{\displaystyle g(s)}
+Calculus_of_variations_155,"{\displaystyle C,}"
+Calculus_of_variations_156,{\displaystyle \sigma (s)}
+Calculus_of_variations_157,{\displaystyle C.}
+Calculus_of_variations_158,{\displaystyle u.}
+Calculus_of_variations_159,{\displaystyle f}
+Calculus_of_variations_160,{\displaystyle g}
+Calculus_of_variations_161,{\displaystyle u}
+Calculus_of_variations_162,{\displaystyle v.}
+Calculus_of_variations_163,{\displaystyle V[u+\varepsilon v]}
+Calculus_of_variations_164,"{\displaystyle \iint _{D}\left[\nabla u\cdot \nabla v+fv\right]\,dx\,dy+\int _{C}\left[\sigma uv+gv\right]\,ds=0.}"
+Calculus_of_variations_165,"{\displaystyle \iint _{D}\left[-v\nabla \cdot \nabla u+vf\right]\,dx\,dy+\int _{C}v\left[{\frac {\partial u}{\partial n}}+\sigma u+g\right]\,ds=0.}"
+Calculus_of_variations_166,{\displaystyle v=0}
+Calculus_of_variations_167,"{\displaystyle C,}"
+Calculus_of_variations_168,{\displaystyle -\nabla \cdot \nabla u+f=0}
+Calculus_of_variations_169,{\displaystyle D.}
+Calculus_of_variations_170,{\displaystyle v}
+Calculus_of_variations_171,{\displaystyle u}
+Calculus_of_variations_172,"{\displaystyle {\frac {\partial u}{\partial n}}+\sigma u+g=0,}"
+Calculus_of_variations_173,{\displaystyle C.}
+Calculus_of_variations_174,{\displaystyle u}
+Calculus_of_variations_175,{\displaystyle \sigma }
+Calculus_of_variations_176,{\displaystyle C.}
+Calculus_of_variations_177,"{\displaystyle \varphi \equiv c,}"
+Calculus_of_variations_178,{\displaystyle c}
+Calculus_of_variations_179,"{\displaystyle V[c]=c\left[\iint _{D}f\,dx\,dy+\int _{C}g\,ds\right].}"
+Calculus_of_variations_180,"{\displaystyle c,}"
+Calculus_of_variations_181,{\displaystyle V}
+Calculus_of_variations_182,"{\displaystyle \iint _{D}f\,dx\,dy+\int _{C}g\,ds=0.}"
+Calculus_of_variations_183,"{\displaystyle Q[y]=\int _{x_{1}}^{x_{2}}\left[p(x)y'(x)^{2}+q(x)y(x)^{2}\right]\,dx,}"
+Calculus_of_variations_184,{\displaystyle y}
+Calculus_of_variations_185,"{\displaystyle y(x_{1})=0,\quad y(x_{2})=0.}"
+Calculus_of_variations_186,{\displaystyle R}
+Calculus_of_variations_187,"{\displaystyle R[y]=\int _{x_{1}}^{x_{2}}r(x)y(x)^{2}\,dx.}"
+Calculus_of_variations_188,{\displaystyle p(x)}
+Calculus_of_variations_189,{\displaystyle r(x)}
+Calculus_of_variations_190,{\displaystyle Q/R}
+Calculus_of_variations_191,{\displaystyle y}
+Calculus_of_variations_192,{\displaystyle Q[y]}
+Calculus_of_variations_193,{\displaystyle R[y]}
+Calculus_of_variations_194,{\displaystyle u}
+Calculus_of_variations_195,"{\displaystyle -(pu')'+qu-\lambda ru=0,}"
+Calculus_of_variations_196,{\displaystyle \lambda }
+Calculus_of_variations_197,{\displaystyle \lambda ={\frac {Q[u]}{R[u]}}.}
+Calculus_of_variations_198,{\displaystyle u}
+Calculus_of_variations_199,{\displaystyle \lambda }
+Calculus_of_variations_200,{\displaystyle \lambda _{1}}
+Calculus_of_variations_201,{\displaystyle u_{1}(x).}
+Calculus_of_variations_202,{\displaystyle u}
+Calculus_of_variations_203,{\displaystyle Q}
+Calculus_of_variations_204,"{\displaystyle \int _{x_{1}}^{x_{2}}r(x)u_{1}(x)y(x)\,dx=0.}"
+Calculus_of_variations_205,{\displaystyle y}
+Calculus_of_variations_206,"{\displaystyle Q[y]=\int _{x_{1}}^{x_{2}}\left[p(x)y'(x)^{2}+q(x)y(x)^{2}\right]\,dx+a_{1}y(x_{1})^{2}+a_{2}y(x_{2})^{2},}"
+Calculus_of_variations_207,{\displaystyle a_{1}}
+Calculus_of_variations_208,{\displaystyle a_{2}}
+Calculus_of_variations_209,{\displaystyle y=u+\varepsilon v}
+Calculus_of_variations_210,{\displaystyle Q/R}
+Calculus_of_variations_211,"{\displaystyle V_{1}={\frac {2}{R[u]}}\left(\int _{x_{1}}^{x_{2}}\left[p(x)u'(x)v'(x)+q(x)u(x)v(x)-\lambda r(x)u(x)v(x)\right]\,dx+a_{1}u(x_{1})v(x_{1})+a_{2}u(x_{2})v(x_{2})\right),}"
+Calculus_of_variations_212,{\displaystyle Q[u]/R[u]}
+Calculus_of_variations_213,"{\displaystyle {\frac {R[u]}{2}}V_{1}=\int _{x_{1}}^{x_{2}}v(x)\left[-(pu')'+qu-\lambda ru\right]\,dx+v(x_{1})[-p(x_{1})u'(x_{1})+a_{1}u(x_{1})]+v(x_{2})[p(x_{2})u'(x_{2})+a_{2}u(x_{2})].}"
+Calculus_of_variations_214,{\displaystyle v}
+Calculus_of_variations_215,{\displaystyle v}
+Calculus_of_variations_216,{\displaystyle -(pu')'+qu-\lambda ru=0\quad {\hbox{for}}\quad x_{1}<x<x_{2}.}
+Calculus_of_variations_217,{\displaystyle u}
+Calculus_of_variations_218,{\displaystyle v}
+Calculus_of_variations_219,"{\displaystyle -p(x_{1})u'(x_{1})+a_{1}u(x_{1})=0,\quad {\hbox{and}}\quad p(x_{2})u'(x_{2})+a_{2}u(x_{2})=0.}"
+Calculus_of_variations_220,{\displaystyle D}
+Calculus_of_variations_221,{\displaystyle B}
+Calculus_of_variations_222,"{\displaystyle Q[\varphi ]=\iiint _{D}p(X)\nabla \varphi \cdot \nabla \varphi +q(X)\varphi ^{2}\,dx\,dy\,dz+\iint _{B}\sigma (S)\varphi ^{2}\,dS,}"
+Calculus_of_variations_223,"{\displaystyle R[\varphi ]=\iiint _{D}r(X)\varphi (X)^{2}\,dx\,dy\,dz.}"
+Calculus_of_variations_224,{\displaystyle u}
+Calculus_of_variations_225,"{\displaystyle Q[\varphi ]/R[\varphi ],}"
+Calculus_of_variations_226,{\displaystyle B.}
+Calculus_of_variations_227,{\displaystyle u}
+Calculus_of_variations_228,"{\displaystyle -\nabla \cdot (p(X)\nabla u)+q(x)u-\lambda r(x)u=0,}"
+Calculus_of_variations_229,{\displaystyle \lambda ={\frac {Q[u]}{R[u]}}.}
+Calculus_of_variations_230,{\displaystyle u}
+Calculus_of_variations_231,"{\displaystyle p(S){\frac {\partial u}{\partial n}}+\sigma (S)u=0,}"
+Calculus_of_variations_232,{\displaystyle B.}
+Calculus_of_variations_233,{\displaystyle x}
+Calculus_of_variations_234,{\displaystyle y=f(x)}
+Calculus_of_variations_235,"{\displaystyle A[f]=\int _{x_{0}}^{x_{1}}n(x,f(x)){\sqrt {1+f'(x)^{2}}}dx,}"
+Calculus_of_variations_236,"{\displaystyle n(x,y)}"
+Calculus_of_variations_237,{\displaystyle f(x)=f_{0}(x)+\varepsilon f_{1}(x)}
+Calculus_of_variations_238,{\displaystyle A}
+Calculus_of_variations_239,{\displaystyle A}
+Calculus_of_variations_240,"{\displaystyle \delta A[f_{0},f_{1}]=\int _{x_{0}}^{x_{1}}\left[{\frac {n(x,f_{0})f_{0}'(x)f_{1}'(x)}{\sqrt {1+f_{0}'(x)^{2}}}}+n_{y}(x,f_{0})f_{1}{\sqrt {1+f_{0}'(x)^{2}}}\right]dx.}"
+Calculus_of_variations_241,"{\displaystyle -{\frac {d}{dx}}\left[{\frac {n(x,f_{0})f_{0}'}{\sqrt {1+f_{0}'^{2}}}}\right]+n_{y}(x,f_{0}){\sqrt {1+f_{0}'(x)^{2}}}=0.}"
+Calculus_of_variations_242,"{\displaystyle n(x,y)={\begin{cases}n_{(-)}&{\text{if}}\quad x<0,\\n_{(+)}&{\text{if}}\quad x>0,\end{cases}}}"
+Calculus_of_variations_243,{\displaystyle n_{(-)}}
+Calculus_of_variations_244,{\displaystyle n_{(+)}}
+Calculus_of_variations_245,{\displaystyle x<0}
+Calculus_of_variations_246,"{\displaystyle x>0,}"
+Calculus_of_variations_247,"{\displaystyle x=0,}"
+Calculus_of_variations_248,{\displaystyle f}
+Calculus_of_variations_249,{\displaystyle f'}
+Calculus_of_variations_250,"{\displaystyle \delta A[f_{0},f_{1}]=f_{1}(0)\left[n_{(-)}{\frac {f_{0}'(0^{-})}{\sqrt {1+f_{0}'(0^{-})^{2}}}}-n_{(+)}{\frac {f_{0}'(0^{+})}{\sqrt {1+f_{0}'(0^{+})^{2}}}}\right].}"
+Calculus_of_variations_251,{\displaystyle n_{(-)}}
+Calculus_of_variations_252,{\displaystyle x}
+Calculus_of_variations_253,{\displaystyle n_{(+)}}
+Calculus_of_variations_254,{\displaystyle x}
+Calculus_of_variations_255,"{\displaystyle X=(x_{1},x_{2},x_{3}),}"
+Calculus_of_variations_256,{\displaystyle t}
+Calculus_of_variations_257,{\displaystyle X(t)}
+Calculus_of_variations_258,"{\displaystyle C,}"
+Calculus_of_variations_259,{\displaystyle {\dot {X}}(t)}
+Calculus_of_variations_260,"{\displaystyle A[C]=\int _{t_{0}}^{t_{1}}n(X){\sqrt {{\dot {X}}\cdot {\dot {X}}}}\,dt.}"
+Calculus_of_variations_261,{\displaystyle C.}
+Calculus_of_variations_262,"{\displaystyle {\frac {d}{dt}}P={\sqrt {{\dot {X}}\cdot {\dot {X}}}}\,\nabla n,}"
+Calculus_of_variations_263,{\displaystyle P={\frac {n(X){\dot {X}}}{\sqrt {{\dot {X}}\cdot {\dot {X}}}}}.}
+Calculus_of_variations_264,{\displaystyle P}
+Calculus_of_variations_265,{\displaystyle P\cdot P=n(X)^{2}.}
+Calculus_of_variations_266,"{\displaystyle A[C]=\int _{t_{0}}^{t_{1}}P\cdot {\dot {X}}\,dt.}"
+Calculus_of_variations_267,{\displaystyle \psi }
+Calculus_of_variations_268,"{\displaystyle P,}"
+Calculus_of_variations_269,{\displaystyle A}
+Calculus_of_variations_270,{\displaystyle \psi }
+Calculus_of_variations_271,{\displaystyle \psi .}
+Calculus_of_variations_272,"{\displaystyle u_{tt}=c^{2}\nabla \cdot \nabla u,}"
+Calculus_of_variations_273,{\displaystyle c}
+Calculus_of_variations_274,{\displaystyle X.}
+Calculus_of_variations_275,"{\displaystyle \varphi _{t}^{2}=c(X)^{2}\,\nabla \varphi \cdot \nabla \varphi .}"
+Calculus_of_variations_276,"{\displaystyle \varphi (t,X)=t-\psi (X).}"
+Calculus_of_variations_277,{\displaystyle \psi }
+Calculus_of_variations_278,"{\displaystyle \nabla \psi \cdot \nabla \psi =n^{2},}"
+Calculus_of_variations_279,{\displaystyle n=1/c.}
+Calculus_of_variations_280,"{\displaystyle P=\nabla \psi ,}"
+Calculus_of_variations_281,{\displaystyle P}
+Calculus_of_variations_282,"{\displaystyle {\frac {dP}{ds}}=n\,\nabla n,}"
+Calculus_of_variations_283,{\displaystyle {\frac {dX}{ds}}=P.}
+Calculus_of_variations_284,{\displaystyle {\frac {ds}{dt}}={\frac {\sqrt {{\dot {X}}\cdot {\dot {X}}}}{n}}.}
+Calculus_of_variations_285,{\displaystyle \psi }
+Calculus_of_variations_286,{\displaystyle A}
+Calculus_of_variations_287,"{\displaystyle S,}"
+Calculus_of_variations_288,{\displaystyle L.}
+Calculus_of_variations_289,"{\displaystyle L=T-U,}"
+Calculus_of_variations_290,{\displaystyle T}
+Calculus_of_variations_291,{\displaystyle U}
+Calculus_of_variations_292,"{\displaystyle S=\int _{t_{0}}^{t_{1}}L(x,{\dot {x}},t)\,dt}"
+Calculus_of_variations_293,{\displaystyle x(t).}
+Calculus_of_variations_294,"{\displaystyle {\frac {d}{dt}}{\frac {\partial L}{\partial {\dot {x}}}}={\frac {\partial L}{\partial x}},}"
+Calculus_of_variations_295,{\displaystyle P}
+Calculus_of_variations_296,{\displaystyle p={\frac {\partial L}{\partial {\dot {x}}}}.}
+Calculus_of_variations_297,"{\displaystyle T={\frac {1}{2}}m{\dot {x}}^{2},}"
+Calculus_of_variations_298,{\displaystyle p=m{\dot {x}}.}
+Calculus_of_variations_299,{\displaystyle {\dot {x}}}
+Calculus_of_variations_300,{\displaystyle L}
+Calculus_of_variations_301,{\displaystyle H}
+Calculus_of_variations_302,"{\displaystyle H(x,p,t)=p\,{\dot {x}}-L(x,{\dot {x}},t).}"
+Calculus_of_variations_303,{\displaystyle H=T+U.}
+Calculus_of_variations_304,{\displaystyle X.}
+Calculus_of_variations_305,"{\displaystyle {\frac {\partial \psi }{\partial t}}+H\left(x,{\frac {\partial \psi }{\partial x}},t\right)=0.}"
+Calculus_of_variations_306,{\displaystyle J[y]}
+Calculus_of_variations_307,{\displaystyle y=y(x)}
+Calculus_of_variations_308,{\displaystyle y}
+Calculus_of_variations_309,"{\displaystyle y+h,}"
+Calculus_of_variations_310,{\displaystyle h=h(x)}
+Calculus_of_variations_311,"{\displaystyle y,}"
+Calculus_of_variations_312,{\displaystyle \Delta J[h]=J[y+h]-J[y].}
+Calculus_of_variations_313,{\displaystyle J[y]}
+Calculus_of_variations_314,"{\displaystyle \Delta J[h]=\varphi [h]+\varepsilon \|h\|,}"
+Calculus_of_variations_315,{\displaystyle \varphi [h]}
+Calculus_of_variations_316,{\displaystyle \|h\|}
+Calculus_of_variations_317,"{\displaystyle h,}"
+Calculus_of_variations_318,{\displaystyle \varepsilon \to 0}
+Calculus_of_variations_319,{\displaystyle \|h\|\to 0.}
+Calculus_of_variations_320,{\displaystyle \varphi [h]}
+Calculus_of_variations_321,{\displaystyle J[y]}
+Calculus_of_variations_322,{\displaystyle \delta J[h]=\varphi [h].}
+Calculus_of_variations_323,{\displaystyle J[y]}
+Calculus_of_variations_324,"{\displaystyle \Delta J[h]=\varphi _{1}[h]+\varphi _{2}[h]+\varepsilon \|h\|^{2},}"
+Calculus_of_variations_325,{\displaystyle \varphi _{1}[h]}
+Calculus_of_variations_326,{\displaystyle \varphi _{2}[h]}
+Calculus_of_variations_327,{\displaystyle \varepsilon \to 0}
+Calculus_of_variations_328,{\displaystyle \|h\|\to 0.}
+Calculus_of_variations_329,{\displaystyle \varphi _{2}[h]}
+Calculus_of_variations_330,{\displaystyle J[y]}
+Calculus_of_variations_331,{\displaystyle \delta ^{2}J[h]=\varphi _{2}[h].}
+Calculus_of_variations_332,{\displaystyle \delta ^{2}J[h]}
+Calculus_of_variations_333,"{\displaystyle \delta ^{2}J[h]\geq k\|h\|^{2},}"
+Calculus_of_variations_334,{\displaystyle h}
+Calculus_of_variations_335,{\displaystyle k>0}
+Calculus_of_variations_336,{\displaystyle J[y]}
+Calculus_of_variations_337,{\displaystyle y={\hat {y}}}
+Calculus_of_variations_338,{\displaystyle \delta J[h]=0}
+Calculus_of_variations_339,{\displaystyle y={\hat {y}}}
+Calculus_of_variations_340,{\displaystyle \delta ^{2}J[h]}
+Calculus_of_variations_341,{\displaystyle y={\hat {y}}.}
+Calculus_of_variations_342,{\displaystyle f}
+Calculus_of_variations_343,{\displaystyle |y-f|<h}
+Calculus_of_variations_344,{\displaystyle h}
+Calculus_of_variations_345,{\displaystyle \eta (x)}
+Calculus_of_variations_346,{\displaystyle f(x)}
+Calculus_of_variations_347,"{\displaystyle x,}"
+Calculus_of_variations_348,{\displaystyle \varepsilon \Phi '(0)}
+Calculus_of_variations_349,{\displaystyle J}
+Calculus_of_variations_350,{\displaystyle \delta J.}
+Calculus_of_variations_351,{\displaystyle \varepsilon }
+Calculus_of_variations_352,{\displaystyle \Delta J[h]}
+Calculus_of_variations_353,{\displaystyle y}
+Calculus_of_variations_354,{\displaystyle h.}
+Calculus_of_variations_355,{\displaystyle y}
+Calculus_of_variations_356,{\displaystyle \Delta J[h]}
+Calculus_of_variations_357,{\displaystyle \Delta J[y;h].}
+Calculus_of_variations_358,{\displaystyle \varphi [h]}
+Calculus_of_variations_359,{\displaystyle \varphi [\alpha h]=\alpha \varphi [h]}
+Calculus_of_variations_360,"{\displaystyle \varphi \left[h+h_{2}\right]=\varphi [h]+\varphi \left[h_{2}\right],}"
+Calculus_of_variations_361,"{\displaystyle h,h_{2}}"
+Calculus_of_variations_362,{\displaystyle \alpha }
+Calculus_of_variations_363,{\displaystyle h=h(x)}
+Calculus_of_variations_364,"{\displaystyle a\leq x\leq b,}"
+Calculus_of_variations_365,{\displaystyle a}
+Calculus_of_variations_366,{\displaystyle b}
+Calculus_of_variations_367,{\displaystyle h}
+Calculus_of_variations_368,{\displaystyle \|h\|=\displaystyle \max _{a\leq x\leq b}|h(x)|.}

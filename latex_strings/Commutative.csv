@@ -1,0 +1,40 @@
+name,latex
+Commutative_0,"{\displaystyle x*y=y*x\quad \forall x,y\in S.}"
+Commutative_1,{\displaystyle *}
+Commutative_2,"{\displaystyle x*y=y*x\qquad {\mbox{for all }}x,y\in S.}"
+Commutative_3,{\displaystyle *}
+Commutative_4,{\displaystyle x*y=y*x.}
+Commutative_5,{\displaystyle {\vec {a}}+{\vec {b}}={\vec {b}}+{\vec {a}}}
+Commutative_6,{\displaystyle 1\div 2\neq 2\div 1}
+Commutative_7,{\displaystyle 0-1\neq 1-0}
+Commutative_8,{\displaystyle 0-1=-(1-0)}
+Commutative_9,{\displaystyle 2^{3}\neq 3^{2}}
+Commutative_10,{\displaystyle f(x)=2x+1}
+Commutative_11,{\displaystyle g(x)=3x+7}
+Commutative_12,{\displaystyle (f\circ g)(x)=f(g(x))=2(3x+7)+1=6x+15}
+Commutative_13,{\displaystyle (g\circ f)(x)=g(f(x))=3(2x+1)+7=6x+10}
+Commutative_14,{\displaystyle {\begin{bmatrix}0&2\\0&1\end{bmatrix}}={\begin{bmatrix}1&1\\0&1\end{bmatrix}}{\begin{bmatrix}0&1\\0&1\end{bmatrix}}\neq {\begin{bmatrix}0&1\\0&1\end{bmatrix}}{\begin{bmatrix}1&1\\0&1\end{bmatrix}}={\begin{bmatrix}0&1\\0&1\end{bmatrix}}}
+Commutative_15,{\displaystyle (P\lor Q)\Leftrightarrow (Q\lor P)}
+Commutative_16,{\displaystyle (P\land Q)\Leftrightarrow (Q\land P)}
+Commutative_17,{\displaystyle \Leftrightarrow }
+Commutative_18,{\displaystyle (P\land Q)\leftrightarrow (Q\land P)}
+Commutative_19,{\displaystyle (P\lor Q)\leftrightarrow (Q\lor P)}
+Commutative_20,{\displaystyle {\big (}P\to (Q\to R){\big )}\leftrightarrow {\big (}Q\to (P\to R){\big )}}
+Commutative_21,{\displaystyle (P\leftrightarrow Q)\leftrightarrow (Q\leftrightarrow P)}
+Commutative_22,"{\displaystyle f(x,y)={\frac {x+y}{2}},}"
+Commutative_23,"{\displaystyle f(-4,f(0,+4))=-1}"
+Commutative_24,"{\displaystyle f(f(-4,0),+4)=+1}"
+Commutative_25,"{\displaystyle z=f(x,y),}"
+Commutative_26,{\displaystyle y=x}
+Commutative_27,"{\displaystyle f(x,y)=x+y}"
+Commutative_28,{\displaystyle f}
+Commutative_29,{\displaystyle aRb\Leftrightarrow bRa}
+Commutative_30,{\displaystyle x}
+Commutative_31,{\displaystyle x}
+Commutative_35,{\displaystyle \psi (x)}
+Commutative_36,{\displaystyle x\cdot {\mathrm {d}  \over \mathrm {d} x}\psi =x\cdot \psi '\ \neq \ \psi +x\cdot \psi '={\mathrm {d}  \over \mathrm {d} x}\left(x\cdot \psi \right)}
+Commutative_37,{\displaystyle x}
+Commutative_38,{\displaystyle x}
+Commutative_39,{\displaystyle -i\hbar {\frac {\partial }{\partial x}}}
+Commutative_40,{\displaystyle \hbar }
+Commutative_41,{\displaystyle -i\hbar }

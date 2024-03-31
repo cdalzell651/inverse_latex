@@ -1,0 +1,16 @@
+name,latex
+Diameter_0,{\displaystyle d}
+Diameter_1,{\displaystyle r.}
+Diameter_2,{\displaystyle d=2r\qquad {\text{or equivalently}}\qquad r={\frac {d}{2}}.}
+Diameter_3,"{\displaystyle {\text{DIA}},{\text{dia}},d,}"
+Diameter_5,{\displaystyle n}
+Diameter_6,{\displaystyle S}
+Diameter_7,{\displaystyle \rho }
+Diameter_8,"{\displaystyle \operatorname {diam} (S)=\sup _{x,y\in S}\rho (x,y).}"
+Diameter_9,{\displaystyle \rho }
+Diameter_10,{\displaystyle \mathbb {R} }
+Diameter_12,{\displaystyle -\infty }
+Diameter_13,"{\displaystyle 0,}"
+Diameter_14,{\displaystyle d}
+Diameter_15,{\displaystyle n}
+Diameter_16,{\displaystyle e=0.}

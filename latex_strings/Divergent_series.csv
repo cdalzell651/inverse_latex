@@ -1,0 +1,59 @@
+name,latex
+Divergent_series_0,{\displaystyle 1+{\frac {1}{2}}+{\frac {1}{3}}+{\frac {1}{4}}+{\frac {1}{5}}+\cdots =\sum _{n=1}^{\infty }{\frac {1}{n}}.}
+Divergent_series_1,{\displaystyle 1-1+1-1+\cdots }
+Divergent_series_2,{\displaystyle {\text{ “ = ” }}{\frac {1}{2}}}
+Divergent_series_3,{\displaystyle {\text{ “ = ” }}{\frac {1}{4}}}
+Divergent_series_4,"{\displaystyle {\text{ “ = ” }}\!\!\int _{0}^{\infty }{\frac {e^{-x}}{1+x}}\,dx\approx 0.596\,347\ldots }"
+Divergent_series_5,{\displaystyle {\text{ “ = ” }}{\frac {1}{3}}}
+Divergent_series_6,{\displaystyle {\text{ “ = ” }}-1}
+Divergent_series_7,{\displaystyle {\text{ “ = ” }}-{\frac {1}{2}}}
+Divergent_series_8,{\displaystyle {\text{ “ = ” }}-{\frac {1}{12}}}
+Divergent_series_9,{\displaystyle f:\mathbb {N} \rightarrow \mathbb {N} }
+Divergent_series_10,{\displaystyle N\in \mathbb {N} }
+Divergent_series_11,"{\displaystyle {\begin{aligned}G(r,c)&=\sum _{k=0}^{\infty }cr^{k}&&\\&=c+\sum _{k=0}^{\infty }cr^{k+1}&&{\text{ (stability) }}\\&=c+r\sum _{k=0}^{\infty }cr^{k}&&{\text{ (linearity) }}\\&=c+r\,G(r,c),&&{\text{ hence }}\\G(r,c)&={\frac {c}{1-r}},{\text{ unless it is infinite}}&&\\\end{aligned}}}"
+Divergent_series_12,{\displaystyle {\frac {p_{n}}{p_{0}+p_{1}+\cdots +p_{n}}}\rightarrow 0.}
+Divergent_series_13,{\displaystyle t_{m}={\frac {p_{m}s_{0}+p_{m-1}s_{1}+\cdots +p_{0}s_{m}}{p_{0}+p_{1}+\cdots +p_{m}}}}
+Divergent_series_14,{\displaystyle p_{n}^{k}={n+k-1 \choose k-1}}
+Divergent_series_15,{\displaystyle f(x)=\sum _{n=0}^{\infty }a_{n}e^{-\lambda _{n}x}}
+Divergent_series_16,{\displaystyle A_{\lambda }(s)=\lim _{x\rightarrow 0^{+}}f(x).}
+Divergent_series_17,"{\displaystyle f(x)=\sum _{n=0}^{\infty }a_{n}e^{-nx}=\sum _{n=0}^{\infty }a_{n}z^{n},}"
+Divergent_series_18,{\displaystyle A(s)=\lim _{z\rightarrow 1^{-}}\sum _{n=0}^{\infty }a_{n}z^{n}.}
+Divergent_series_19,{\displaystyle f(x)=a_{1}+a_{2}2^{-2x}+a_{3}3^{-3x}+\cdots .}
+Divergent_series_20,{\displaystyle 1\leq m<n}
+Divergent_series_21,{\displaystyle {\frac {1-x^{m}}{1-x^{n}}}={\frac {1+x+\dots +x^{m-1}}{1+x+\dots x^{n-1}}}=1-x^{m}+x^{n}-x^{n+m}+x^{2n}-\dots }
+Divergent_series_22,{\displaystyle x=1}
+Divergent_series_23,{\displaystyle 1-1+1-1+\dots ={\frac {m}{n}}.}
+Divergent_series_24,"{\displaystyle m=1,n=3}"
+Divergent_series_25,{\displaystyle 1-1+0+1-1+0+1-1+\dots ={\frac {1}{3}}}
+Divergent_series_26,{\displaystyle 0}
+Divergent_series_27,{\displaystyle \sum _{k\geq 0}(-1)^{k+1}{\frac {1}{2k-1}}{\binom {2k}{k}}=1+2-2+4-10+28-84+264-858+2860-9724+\cdots }
+Divergent_series_28,{\displaystyle \Gamma }
+Divergent_series_29,{\displaystyle \Gamma }
+Divergent_series_30,{\displaystyle \ldots =\sum _{k\geq 0}(-4)^{k}{\frac {(-1/2)_{k}}{k!}}={}_{1}F_{0}(-1/2;;-4)={\sqrt {5}}.}
+Divergent_series_31,{\displaystyle f(s)={\frac {a_{1}}{1^{s}}}+{\frac {a_{2}}{2^{s}}}+{\frac {a_{3}}{3^{s}}}+\cdots }
+Divergent_series_32,{\displaystyle f(s)={\frac {1}{a_{1}^{s}}}+{\frac {1}{a_{2}^{s}}}+{\frac {1}{a_{3}^{s}}}+\cdots }
+Divergent_series_33,"{\displaystyle \zeta (-s)=\sum _{n=1}^{\infty }n^{s}=1^{s}+2^{s}+3^{s}+\cdots =-{\frac {B_{s+1}}{s+1}}\,,}"
+Divergent_series_34,"{\displaystyle \lim _{x\rightarrow \infty }{\frac {\sum _{n}p_{n}(a_{0}+\cdots +a_{n})x^{n}}{\sum _{n}p_{n}x^{n}}},}"
+Divergent_series_35,{\displaystyle \lim _{n\rightarrow +\infty }{\sqrt {\frac {H(n)}{2\pi }}}\sum _{h\in Z}e^{-{\frac {1}{2}}h^{2}H(n)}(a_{0}+\cdots +a_{h})}
+Divergent_series_36,"{\displaystyle \mu _{n}=\int x^{n}\,d\mu }"
+Divergent_series_37,{\displaystyle a(x)={\frac {a_{0}x^{0}}{\mu _{0}}}+{\frac {a_{1}x^{1}}{\mu _{1}}}+\cdots }
+Divergent_series_38,"{\displaystyle \int a(x)\,d\mu }"
+Divergent_series_39,"{\displaystyle \int _{0}^{\infty }e^{-t}\sum {\frac {a_{n}t^{n}}{n!}}\,dt.}"
+Divergent_series_40,"{\displaystyle \int _{0}^{\infty }e^{-t}\sum {\frac {a_{n}t^{n\alpha }}{\Gamma (n\alpha +1)}}\,dt}"
+Divergent_series_41,{\displaystyle \omega }
+Divergent_series_42,{\displaystyle \infty }
+Divergent_series_43,{\displaystyle \omega }
+Divergent_series_44,{\displaystyle \sum _{x=1}^{\omega }f(x)}
+Divergent_series_45,{\displaystyle 1+2+3+\ldots }
+Divergent_series_46,{\displaystyle {\frac {\omega ^{2}}{2}}+{\frac {\omega }{2}}}
+Divergent_series_47,{\displaystyle {\frac {\omega ^{2}}{2}}}
+Divergent_series_48,{\displaystyle \lim _{x\rightarrow \infty }\sum _{1\leq n\leq x}a_{n}{\frac {n}{x}}\left[{\frac {x}{n}}\right]=s.}
+Divergent_series_49,{\displaystyle \lim _{y\rightarrow 0^{+}}\sum _{n\geq 1}a_{n}{\frac {nye^{-ny}}{1-e^{-ny}}}=s.}
+Divergent_series_50,{\displaystyle \lim _{\zeta \rightarrow 1^{-}}\sum _{n}{\frac {\Gamma (1+\zeta n)}{\Gamma (1+n)}}a_{n}=s.}
+Divergent_series_51,{\displaystyle \lim _{\delta \rightarrow 0}\sum _{n}{\frac {a_{n}}{\Gamma (1+\delta n)}}=s.}
+Divergent_series_52,{\displaystyle \lim _{h\rightarrow 0}\sum _{n}a_{n}\left({\frac {\sin nh}{nh}}\right)^{k}=s.}
+Divergent_series_53,{\displaystyle \lim _{h\rightarrow 0}{\frac {2}{\pi }}\sum _{n}{\frac {\sin ^{2}nh}{n^{2}h}}(a_{1}+\cdots +a_{n})=s.}
+Divergent_series_54,{\displaystyle A_{\lambda }(x)=a_{0}+\cdots +a_{n}{\text{ for }}\lambda _{n}<x\leq \lambda _{n+1}}
+Divergent_series_55,"{\displaystyle \lim _{\omega \rightarrow \infty }{\frac {\kappa }{\omega ^{\kappa }}}\int _{0}^{\omega }A_{\lambda }(x)(\omega -x)^{\kappa -1}\,dx.}"
+Divergent_series_56,"{\displaystyle \lim _{m\rightarrow \infty }\sum _{k=0}^{m}a_{k}{\frac {[\Gamma (m+1)]^{2}}{\Gamma (m+1-k)\,\Gamma (m+1+k)}}=\lim _{m\rightarrow \infty }\left[a_{0}+a_{1}{\frac {m}{m+1}}+a_{2}{\frac {m(m-1)}{(m+1)(m+2)}}+\cdots \right]=s,}"
+Divergent_series_57,{\displaystyle \Gamma (x)}

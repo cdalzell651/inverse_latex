@@ -1,0 +1,476 @@
+name,latex
+Ellipse_0,{\displaystyle e}
+Ellipse_1,{\displaystyle e=0}
+Ellipse_2,{\displaystyle e=1}
+Ellipse_3,{\displaystyle 2a}
+Ellipse_4,{\displaystyle 2b}
+Ellipse_5,{\displaystyle {\frac {x^{2}}{a^{2}}}+{\frac {y^{2}}{b^{2}}}=1.}
+Ellipse_6,{\displaystyle a\geq b}
+Ellipse_7,"{\displaystyle (\pm c,0)}"
+Ellipse_9,"{\displaystyle (x,y)=(a\cos(t),b\sin(t))\quad {\text{for}}\quad 0\leq t\leq 2\pi .}"
+Ellipse_10,{\displaystyle e={\frac {c}{a}}={\sqrt {1-{\frac {b^{2}}{a^{2}}}}}.}
+Ellipse_11,"{\displaystyle F_{1},F_{2}}"
+Ellipse_12,{\displaystyle 2a}
+Ellipse_13,{\displaystyle P}
+Ellipse_14,"{\displaystyle |PF_{1}|,\ |PF_{2}|}"
+Ellipse_15,{\displaystyle 2a}
+Ellipse_16,"{\displaystyle E=\left\{P\in \mathbb {R} ^{2}\,\mid \,\left|PF_{2}\right|+\left|PF_{1}\right|=2a\right\}.}"
+Ellipse_17,{\displaystyle C}
+Ellipse_18,"{\displaystyle V_{1},V_{2}}"
+Ellipse_19,{\displaystyle a}
+Ellipse_20,{\displaystyle c}
+Ellipse_21,{\displaystyle e={\tfrac {c}{a}}}
+Ellipse_22,{\displaystyle F_{1}=F_{2}}
+Ellipse_23,{\displaystyle \left|PF_{2}\right|+\left|PF_{1}\right|=2a}
+Ellipse_24,{\displaystyle c_{2}}
+Ellipse_25,{\displaystyle F_{2}}
+Ellipse_26,{\displaystyle 2a}
+Ellipse_27,{\displaystyle P}
+Ellipse_28,{\displaystyle c_{2}}
+Ellipse_29,{\displaystyle F_{1}}
+Ellipse_30,{\displaystyle \left|PF_{1}\right|=\left|Pc_{2}\right|.}
+Ellipse_31,{\displaystyle c_{2}}
+Ellipse_32,{\displaystyle F_{2}}
+Ellipse_33,{\displaystyle \ell }
+Ellipse_34,"{\displaystyle F_{1}=(c,\,0),\ F_{2}=(-c,\,0)}"
+Ellipse_35,"{\displaystyle V_{1}=(a,\,0),\ V_{2}=(-a,\,0)}"
+Ellipse_36,"{\displaystyle (x,y)}"
+Ellipse_37,"{\displaystyle (c,0)}"
+Ellipse_40,"{\displaystyle (x,\,y)}"
+Ellipse_41,{\displaystyle {\sqrt {(x-c)^{2}+y^{2}}}+{\sqrt {(x+c)^{2}+y^{2}}}=2a\ .}
+Ellipse_42,{\displaystyle b^{2}=a^{2}-c^{2}}
+Ellipse_43,"{\displaystyle {\frac {x^{2}}{a^{2}}}+{\frac {y^{2}}{b^{2}}}=1,}"
+Ellipse_44,{\displaystyle y=\pm {\frac {b}{a}}{\sqrt {a^{2}-x^{2}}}=\pm {\sqrt {\left(a^{2}-x^{2}\right)\left(1-e^{2}\right)}}.}
+Ellipse_45,"{\displaystyle a,\;b}"
+Ellipse_46,"{\displaystyle V_{3}=(0,\,b),\;V_{4}=(0,\,-b)}"
+Ellipse_47,"{\displaystyle (x,\,y)}"
+Ellipse_48,{\displaystyle a+ex}
+Ellipse_49,{\displaystyle a-ex}
+Ellipse_50,{\displaystyle a}
+Ellipse_51,{\displaystyle b}
+Ellipse_52,{\displaystyle a\geq b>0\ .}
+Ellipse_53,{\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1}
+Ellipse_54,{\displaystyle a<b}
+Ellipse_55,{\displaystyle x}
+Ellipse_56,{\displaystyle y}
+Ellipse_57,{\displaystyle a}
+Ellipse_58,{\displaystyle b.}
+Ellipse_59,{\displaystyle c={\sqrt {a^{2}-b^{2}}}}
+Ellipse_60,"{\displaystyle e={\frac {c}{a}}={\sqrt {1-\left({\frac {b}{a}}\right)^{2}}},}"
+Ellipse_61,{\displaystyle a>b.}
+Ellipse_62,{\displaystyle a=b}
+Ellipse_63,{\displaystyle \ell }
+Ellipse_64,{\displaystyle \ell ={\frac {b^{2}}{a}}=a\left(1-e^{2}\right).}
+Ellipse_65,{\displaystyle \ell }
+Ellipse_66,{\displaystyle g}
+Ellipse_67,"{\displaystyle (x_{1},\,y_{1})}"
+Ellipse_68,{\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1}
+Ellipse_69,{\displaystyle {\frac {x_{1}}{a^{2}}}x+{\frac {y_{1}}{b^{2}}}y=1.}
+Ellipse_70,"{\displaystyle {\vec {x}}={\begin{pmatrix}x_{1}\\y_{1}\end{pmatrix}}+s\left({\begin{array}{r}-y_{1}a^{2}\\x_{1}b^{2}\end{array}}\right),\quad s\in \mathbb {R} .}"
+Ellipse_71,"{\displaystyle (x_{1},\,y_{1})}"
+Ellipse_73,{\displaystyle g}
+Ellipse_74,"{\displaystyle (x_{1},\,y_{1})}"
+Ellipse_76,{\displaystyle {\frac {\left(x_{1}+su\right)^{2}}{a^{2}}}+{\frac {\left(y_{1}+sv\right)^{2}}{b^{2}}}=1\ \quad \Longrightarrow \quad 2s\left({\frac {x_{1}u}{a^{2}}}+{\frac {y_{1}v}{b^{2}}}\right)+s^{2}\left({\frac {u^{2}}{a^{2}}}+{\frac {v^{2}}{b^{2}}}\right)=0\ .}
+Ellipse_77,{\displaystyle {\frac {x_{1}}{a^{2}}}u+{\frac {y_{1}}{b^{2}}}v=0.}
+Ellipse_78,{\displaystyle g}
+Ellipse_79,"{\displaystyle (x_{1},\,y_{1})}"
+Ellipse_80,{\displaystyle g}
+Ellipse_81,{\displaystyle {\begin{pmatrix}{\frac {x_{1}}{a^{2}}}&{\frac {y_{1}}{b^{2}}}\end{pmatrix}}}
+Ellipse_83,{\displaystyle k}
+Ellipse_84,"{\displaystyle (x_{1},\,y_{1})}"
+Ellipse_85,{\displaystyle k=1}
+Ellipse_86,{\displaystyle {\frac {x_{1}}{a^{2}}}u+{\frac {y_{1}}{b^{2}}}v\neq 0.}
+Ellipse_87,{\displaystyle g}
+Ellipse_88,{\displaystyle {\begin{pmatrix}-y_{1}a^{2}&x_{1}b^{2}\end{pmatrix}}}
+Ellipse_89,"{\displaystyle (x_{1},\,y_{1})}"
+Ellipse_90,"{\displaystyle (x_{1},y_{1})}"
+Ellipse_91,"{\displaystyle (u,v)}"
+Ellipse_93,{\displaystyle a=b}
+Ellipse_94,"{\displaystyle \left(x_{\circ },\,y_{\circ }\right)}"
+Ellipse_95,{\displaystyle {\frac {\left(x-x_{\circ }\right)^{2}}{a^{2}}}+{\frac {\left(y-y_{\circ }\right)^{2}}{b^{2}}}=1\ .}
+Ellipse_96,"{\displaystyle (x,\,y)}"
+Ellipse_97,{\displaystyle Ax^{2}+Bxy+Cy^{2}+Dx+Ey+F=0}
+Ellipse_98,{\displaystyle B^{2}-4AC<0.}
+Ellipse_99,{\displaystyle \Delta ={\begin{vmatrix}A&{\frac {1}{2}}B&{\frac {1}{2}}D\\{\frac {1}{2}}B&C&{\frac {1}{2}}E\\{\frac {1}{2}}D&{\frac {1}{2}}E&F\end{vmatrix}}=ACF+{\tfrac {1}{4}}BDE-{\tfrac {1}{4}}(AE^{2}+CD^{2}+FB^{2}).}
+Ellipse_100,{\displaystyle a}
+Ellipse_101,{\displaystyle b}
+Ellipse_102,"{\displaystyle \left(x_{\circ },\,y_{\circ }\right)}"
+Ellipse_103,{\displaystyle \theta }
+Ellipse_104,{\displaystyle {\begin{aligned}A&=a^{2}\sin ^{2}\theta +b^{2}\cos ^{2}\theta &B&=2\left(b^{2}-a^{2}\right)\sin \theta \cos \theta \\[1ex]C&=a^{2}\cos ^{2}\theta +b^{2}\sin ^{2}\theta &D&=-2Ax_{\circ }-By_{\circ }\\[1ex]E&=-Bx_{\circ }-2Cy_{\circ }&F&=Ax_{\circ }^{2}+Bx_{\circ }y_{\circ }+Cy_{\circ }^{2}-a^{2}b^{2}.\end{aligned}}}
+Ellipse_105,{\displaystyle {\frac {X^{2}}{a^{2}}}+{\frac {Y^{2}}{b^{2}}}=1}
+Ellipse_106,"{\displaystyle (X,\,Y)}"
+Ellipse_107,"{\displaystyle {\begin{aligned}X&=\left(x-x_{\circ }\right)\cos \theta +\left(y-y_{\circ }\right)\sin \theta ,\\Y&=-\left(x-x_{\circ }\right)\sin \theta +\left(y-y_{\circ }\right)\cos \theta .\end{aligned}}}"
+Ellipse_109,{\displaystyle \Delta u=0.2}
+Ellipse_110,{\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1}
+Ellipse_111,"{\displaystyle (x,\,y)=(a\cos t,\,b\sin t),\ 0\leq t<2\pi \,.}"
+Ellipse_112,"{\displaystyle (x(t),y(t))}"
+Ellipse_114,"{\displaystyle \cos t={\frac {1-u^{2}}{1+u^{2}}}\ ,\quad \sin t={\frac {2u}{1+u^{2}}}}"
+Ellipse_116,{\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1}
+Ellipse_117,"{\displaystyle (-a,\,0)}"
+Ellipse_118,"{\displaystyle u\in [0,\,1],}"
+Ellipse_119,{\displaystyle u.}
+Ellipse_121,{\displaystyle [u:v]}
+Ellipse_123,"{\displaystyle [u:v]\mapsto \left(a{\frac {v^{2}-u^{2}}{v^{2}+u^{2}}},b{\frac {2uv}{v^{2}+u^{2}}}\right).}"
+Ellipse_125,{\displaystyle m}
+Ellipse_126,"{\displaystyle {\vec {x}}(t)=(a\cos t,\,b\sin t)^{\mathsf {T}}}"
+Ellipse_127,"{\displaystyle {\vec {x}}'(t)=(-a\sin t,\,b\cos t)^{\mathsf {T}}\quad \rightarrow \quad m=-{\frac {b}{a}}\cot t\quad \rightarrow \quad \cot t=-{\frac {ma}{b}}.}"
+Ellipse_128,"{\displaystyle \cos t={\frac {\cot t}{\pm {\sqrt {1+\cot ^{2}t}}}}={\frac {-ma}{\pm {\sqrt {m^{2}a^{2}+b^{2}}}}}\ ,\quad \quad \sin t={\frac {1}{\pm {\sqrt {1+\cot ^{2}t}}}}={\frac {b}{\pm {\sqrt {m^{2}a^{2}+b^{2}}}}}.}"
+Ellipse_129,{\displaystyle \cos t}
+Ellipse_130,{\displaystyle \sin t}
+Ellipse_131,"{\displaystyle {\vec {c}}_{\pm }(m)=\left(-{\frac {ma^{2}}{\pm {\sqrt {m^{2}a^{2}+b^{2}}}}},\;{\frac {b^{2}}{\pm {\sqrt {m^{2}a^{2}+b^{2}}}}}\right),\,m\in \mathbb {R} .}"
+Ellipse_132,{\displaystyle m}
+Ellipse_133,{\displaystyle {\vec {c}}_{+}}
+Ellipse_134,{\displaystyle {\vec {c}}_{-}}
+Ellipse_135,"{\displaystyle (\pm a,\,0)}"
+Ellipse_136,{\displaystyle {\vec {c}}_{\pm }(m)}
+Ellipse_137,{\displaystyle y=mx+n}
+Ellipse_138,{\displaystyle n}
+Ellipse_139,{\displaystyle {\vec {c}}_{\pm }(m)}
+Ellipse_140,"{\displaystyle y=mx\pm {\sqrt {m^{2}a^{2}+b^{2}}}\,.}"
+Ellipse_141,{\displaystyle x^{2}+y^{2}=1}
+Ellipse_142,{\displaystyle {\vec {x}}\mapsto {\vec {f}}\!_{0}+A{\vec {x}}}
+Ellipse_143,{\displaystyle A}
+Ellipse_144,{\displaystyle {\vec {f}}\!_{0}}
+Ellipse_145,"{\displaystyle {\vec {f}}\!_{1},{\vec {f}}\!_{2}}"
+Ellipse_146,{\displaystyle A}
+Ellipse_147,"{\displaystyle (\cos(t),\sin(t))}"
+Ellipse_148,{\displaystyle 0\leq t\leq 2\pi }
+Ellipse_149,"{\displaystyle {\vec {x}}={\vec {p}}(t)={\vec {f}}\!_{0}+{\vec {f}}\!_{1}\cos t+{\vec {f}}\!_{2}\sin t\,.}"
+Ellipse_150,{\displaystyle {\vec {f}}\!_{0}}
+Ellipse_151,"{\displaystyle {\vec {f}}\!_{1},\;{\vec {f}}\!_{2}}"
+Ellipse_152,"{\displaystyle {\vec {p}}(t_{0}),\;{\vec {p}}\left(t_{0}\pm {\tfrac {\pi }{2}}\right),\;{\vec {p}}\left(t_{0}+\pi \right)}"
+Ellipse_153,{\displaystyle t=t_{0}}
+Ellipse_154,"{\displaystyle \cot(2t_{0})={\frac {{\vec {f}}\!_{1}^{\,2}-{\vec {f}}\!_{2}^{\,2}}{2{\vec {f}}\!_{1}\cdot {\vec {f}}\!_{2}}}.}"
+Ellipse_155,{\displaystyle {\vec {f}}\!_{1}\cdot {\vec {f}}\!_{2}=0}
+Ellipse_156,{\displaystyle t_{0}=0}
+Ellipse_157,{\displaystyle {\vec {p}}(t)}
+Ellipse_158,"{\displaystyle {\vec {p}}\,'(t)=-{\vec {f}}\!_{1}\sin t+{\vec {f}}\!_{2}\cos t\ .}"
+Ellipse_159,{\displaystyle t=t_{0}}
+Ellipse_160,{\displaystyle 0={\vec {p}}'(t)\cdot \left({\vec {p}}(t)-{\vec {f}}\!_{0}\right)=\left(-{\vec {f}}\!_{1}\sin t+{\vec {f}}\!_{2}\cos t\right)\cdot \left({\vec {f}}\!_{1}\cos t+{\vec {f}}\!_{2}\sin t\right).}
+Ellipse_161,"{\displaystyle \;\cos ^{2}t-\sin ^{2}t=\cos 2t,\ \ 2\sin t\cos t=\sin 2t\;}"
+Ellipse_162,{\displaystyle t=t_{0}\;.}
+Ellipse_163,{\displaystyle \;{\vec {x}}={\vec {f}}_{0}+{\vec {f}}_{1}\cos t+{\vec {f}}_{2}\sin t\;}
+Ellipse_164,"{\displaystyle A=\pi \left|\det({\vec {f}}_{1},{\vec {f}}_{2})\right|.}"
+Ellipse_165,"{\displaystyle \;M={\vec {f}}_{1}^{2}+{\vec {f}}_{2}^{2},\ N=\left|\det({\vec {f}}_{1},{\vec {f}}_{2})\right|}"
+Ellipse_166,"{\displaystyle a^{2}+b^{2}=M,\quad ab=N\ .}"
+Ellipse_167,"{\displaystyle a,b}"
+Ellipse_168,"{\displaystyle {\begin{aligned}a&={\frac {1}{2}}({\sqrt {M+2N}}+{\sqrt {M-2N}})\\[1ex]b&={\frac {1}{2}}({\sqrt {M+2N}}-{\sqrt {M-2N}})\,.\end{aligned}}}"
+Ellipse_169,"{\displaystyle \;\cos t,\sin t\;}"
+Ellipse_170,{\displaystyle \;\cos ^{2}t+\sin ^{2}t-1=0\;}
+Ellipse_171,"{\displaystyle \det {\left({\vec {x}}\!-\!{\vec {f}}\!_{0},{\vec {f}}\!_{2}\right)^{2}}+\det {\left({\vec {f}}\!_{1},{\vec {x}}\!-\!{\vec {f}}\!_{0}\right)^{2}}-\det {\left({\vec {f}}\!_{1},{\vec {f}}\!_{2}\right)^{2}}=0.}"
+Ellipse_172,"{\displaystyle x^{2}+2cxy+d^{2}y^{2}-e^{2}=0\ ,}"
+Ellipse_173,"{\displaystyle \;d^{2}-c^{2}>0\;,}"
+Ellipse_174,"{\displaystyle {\vec {f}}_{1}={e \choose 0},\quad {\vec {f}}_{2}={\frac {e}{\sqrt {d^{2}-c^{2}}}}{-c \choose 1}}"
+Ellipse_175,{\displaystyle \;x^{2}+2xy+3y^{2}-1=0\;}
+Ellipse_176,"{\displaystyle {\vec {f}}_{1}={1 \choose 0},\quad {\vec {f}}_{2}={\frac {1}{\sqrt {2}}}{-1 \choose 1}.}"
+Ellipse_177,"{\displaystyle {\vec {f}}_{0}={0 \choose 0},\;{\vec {f}}_{1}=a{\cos \theta  \choose \sin \theta },\;{\vec {f}}_{2}=b{-\sin \theta  \choose \;\cos \theta }}"
+Ellipse_178,{\displaystyle \theta }
+Ellipse_179,"{\displaystyle {\begin{aligned}x&=x_{\theta }(t)=a\cos \theta \cos t-b\sin \theta \sin t\,,\\y&=y_{\theta }(t)=a\sin \theta \cos t+b\cos \theta \sin t\,.\end{aligned}}}"
+Ellipse_180,"{\displaystyle {\vec {f}}\!_{0},{\vec {f}}\!_{1},{\vec {f}}\!_{2}}"
+Ellipse_181,{\displaystyle \theta }
+Ellipse_182,{\displaystyle r(\theta )={\frac {ab}{\sqrt {(b\cos \theta )^{2}+(a\sin \theta )^{2}}}}={\frac {b}{\sqrt {1-(e\cos \theta )^{2}}}}}
+Ellipse_183,{\displaystyle e}
+Ellipse_184,{\displaystyle \theta =0}
+Ellipse_185,{\displaystyle r(\theta )={\frac {a(1-e^{2})}{1\pm e\cos \theta }}}
+Ellipse_186,{\displaystyle \theta =0}
+Ellipse_187,{\displaystyle \phi }
+Ellipse_188,{\displaystyle r(\theta )={\frac {a(1-e^{2})}{1-e\cos(\theta -\phi )}}.}
+Ellipse_189,{\displaystyle \theta }
+Ellipse_190,{\displaystyle \ell =a(1-e^{2})}
+Ellipse_192,{\displaystyle P}
+Ellipse_193,{\displaystyle {\frac {\left|PF_{1}\right|}{\left|Pl_{1}\right|}}={\frac {\left|PF_{2}\right|}{\left|Pl_{2}\right|}}=e={\frac {c}{a}}\ .}
+Ellipse_194,"{\displaystyle F_{1},l_{1}}"
+Ellipse_196,{\displaystyle y^{2}=b^{2}-{\tfrac {b^{2}}{a^{2}}}x^{2}}
+Ellipse_197,"{\displaystyle \left|PF_{1}\right|^{2}-{\frac {c^{2}}{a^{2}}}\left|Pl_{1}\right|^{2}=0\,.}"
+Ellipse_198,{\displaystyle F}
+Ellipse_199,{\displaystyle l}
+Ellipse_200,{\displaystyle F}
+Ellipse_201,{\displaystyle e}
+Ellipse_202,"{\displaystyle 0<e<1,}"
+Ellipse_203,"{\displaystyle e,}"
+Ellipse_204,{\displaystyle E=\left\{P\ \left|\ {\frac {|PF|}{|Pl|}}=e\right.\right\}.}
+Ellipse_205,{\displaystyle e=0}
+Ellipse_206,{\displaystyle e=1}
+Ellipse_207,{\displaystyle e>1}
+Ellipse_208,"{\displaystyle F=(f,\,0),\ e>0}"
+Ellipse_209,"{\displaystyle (0,\,0)}"
+Ellipse_210,{\displaystyle l}
+Ellipse_211,{\displaystyle x=-{\tfrac {f}{e}}}
+Ellipse_212,"{\displaystyle P=(x,\,y)}"
+Ellipse_213,{\displaystyle |PF|^{2}=e^{2}|Pl|^{2}}
+Ellipse_214,{\displaystyle (x-f)^{2}+y^{2}=e^{2}\left(x+{\frac {f}{e}}\right)^{2}=(ex+f)^{2}}
+Ellipse_215,{\displaystyle x^{2}\left(e^{2}-1\right)+2xf(1+e)-y^{2}=0.}
+Ellipse_216,{\displaystyle p=f(1+e)}
+Ellipse_217,{\displaystyle x^{2}\left(e^{2}-1\right)+2px-y^{2}=0.}
+Ellipse_218,{\displaystyle e<1}
+Ellipse_219,{\displaystyle e=1}
+Ellipse_220,{\displaystyle e>1}
+Ellipse_221,{\displaystyle e<1}
+Ellipse_222,"{\displaystyle a,\,b}"
+Ellipse_223,"{\displaystyle 1-e^{2}={\tfrac {b^{2}}{a^{2}}},{\text{ and }}\ p={\tfrac {b^{2}}{a}}}"
+Ellipse_224,"{\displaystyle {\frac {(x-a)^{2}}{a^{2}}}+{\frac {y^{2}}{b^{2}}}=1\,,}"
+Ellipse_225,"{\displaystyle (a,\,0)}"
+Ellipse_226,"{\displaystyle a,\,b}"
+Ellipse_227,{\displaystyle c\cdot {\tfrac {a^{2}}{c}}=a^{2}}
+Ellipse_228,{\displaystyle L_{1}}
+Ellipse_229,{\displaystyle l_{1}}
+Ellipse_230,{\displaystyle F_{1}}
+Ellipse_231,{\displaystyle x^{2}+y^{2}=a^{2}}
+Ellipse_232,{\displaystyle L_{1}}
+Ellipse_233,{\displaystyle l_{1}}
+Ellipse_234,{\displaystyle L_{1}}
+Ellipse_235,"{\displaystyle F=\left(f_{1},\,f_{2}\right)}"
+Ellipse_236,{\displaystyle ux+vy+w=0}
+Ellipse_237,{\displaystyle \left(x-f_{1}\right)^{2}+\left(y-f_{2}\right)^{2}=e^{2}{\frac {\left(ux+vy+w\right)^{2}}{u^{2}+v^{2}}}\ .}
+Ellipse_238,{\displaystyle |Pl|}
+Ellipse_239,{\displaystyle P}
+Ellipse_240,"{\displaystyle {\overline {PF_{1}}},\,{\overline {PF_{2}}}}"
+Ellipse_241,{\displaystyle L}
+Ellipse_242,{\displaystyle {\overline {PF_{2}}}}
+Ellipse_243,{\displaystyle 2a}
+Ellipse_244,{\displaystyle F_{2}}
+Ellipse_245,{\displaystyle a}
+Ellipse_246,{\displaystyle w}
+Ellipse_247,{\displaystyle {\overline {PF_{1}}}}
+Ellipse_248,{\displaystyle {\overline {PF_{2}}}.}
+Ellipse_249,{\displaystyle Q}
+Ellipse_250,{\displaystyle w.}
+Ellipse_251,{\displaystyle 2a=\left|LF_{2}\right|<{}}
+Ellipse_252,{\displaystyle \left|QF_{2}\right|+\left|QL\right|={}}
+Ellipse_253,"{\displaystyle \left|QF_{2}\right|+\left|QF_{1}\right|,}"
+Ellipse_254,{\displaystyle Q}
+Ellipse_255,"{\displaystyle Q,}"
+Ellipse_256,{\displaystyle w}
+Ellipse_257,{\displaystyle P}
+Ellipse_258,"{\displaystyle d_{1},\,d_{2}}"
+Ellipse_259,{\displaystyle d_{1}}
+Ellipse_260,{\displaystyle d_{2}\ .}
+Ellipse_261,"{\displaystyle {\overline {P_{1}Q_{1}}},\,{\overline {P_{2}Q_{2}}}}"
+Ellipse_262,{\displaystyle P_{1}}
+Ellipse_263,{\displaystyle Q_{1}}
+Ellipse_264,{\displaystyle {\overline {P_{2}Q_{2}}}}
+Ellipse_265,"{\displaystyle {\vec {x}}={\vec {p}}(t)={\vec {f}}\!_{0}+{\vec {f}}\!_{1}\cos t+{\vec {f}}\!_{2}\sin t,}"
+Ellipse_266,"{\displaystyle {\vec {p}}(t),\ {\vec {p}}(t+\pi )}"
+Ellipse_267,"{\displaystyle {\vec {p}}\left(t+{\tfrac {\pi }{2}}\right),\ {\vec {p}}\left(t-{\tfrac {\pi }{2}}\right)}"
+Ellipse_268,"{\displaystyle (a\cos t,b\sin t)}"
+Ellipse_269,{\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1}
+Ellipse_270,"{\displaystyle (x_{1},y_{1})=(\pm a\cos t,\pm b\sin t)\quad }"
+Ellipse_272,{\displaystyle {\frac {x_{1}x_{2}}{a^{2}}}+{\frac {y_{1}y_{2}}{b^{2}}}=0\ .}
+Ellipse_273,{\displaystyle x_{1}x_{2}+y_{1}y_{2}=0\ .}
+Ellipse_274,"{\displaystyle a,\,b}"
+Ellipse_275,{\displaystyle c_{1}}
+Ellipse_276,{\displaystyle c_{2}}
+Ellipse_277,{\displaystyle c_{1}^{2}+c_{2}^{2}=a^{2}+b^{2}}
+Ellipse_278,"{\displaystyle O,P_{1},P_{2}}"
+Ellipse_279,"{\displaystyle c_{1},\,c_{2}}"
+Ellipse_281,{\displaystyle A_{\Delta }={\tfrac {1}{2}}c_{2}d_{1}={\tfrac {1}{2}}c_{1}c_{2}\sin \alpha }
+Ellipse_282,{\displaystyle d_{1}}
+Ellipse_283,{\displaystyle P_{1}}
+Ellipse_284,{\displaystyle \alpha }
+Ellipse_285,{\displaystyle A_{el}=\pi ab=\pi c_{2}d_{1}=\pi c_{1}c_{2}\sin \alpha }
+Ellipse_286,{\displaystyle {\text{Area}}_{12}=4ab\ .}
+Ellipse_287,"{\displaystyle {\vec {p}}(t)=(a\cos t,\,b\sin t).}"
+Ellipse_289,"{\displaystyle {\vec {c}}_{2}=(-a\sin t,\,b\cos t)^{\mathsf {T}}}"
+Ellipse_290,"{\displaystyle \left|{\vec {c}}_{1}\right|^{2}+\left|{\vec {c}}_{2}\right|^{2}=\cdots =a^{2}+b^{2}\,.}"
+Ellipse_291,"{\displaystyle {\vec {c}}_{1},\,{\vec {c}}_{2}}"
+Ellipse_292,"{\displaystyle A_{\Delta }={\tfrac {1}{2}}\det \left({\vec {c}}_{1},\,{\vec {c}}_{2}\right)=\cdots ={\tfrac {1}{2}}ab}"
+Ellipse_293,{\displaystyle A_{\Delta }}
+Ellipse_294,"{\displaystyle {\text{Area}}_{12}=4ab\,.}"
+Ellipse_295,{\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1}
+Ellipse_296,{\displaystyle x^{2}+y^{2}=a^{2}+b^{2}}
+Ellipse_297,"{\displaystyle (a\cos t,\,b\sin t)}"
+Ellipse_298,"{\displaystyle a,b}"
+Ellipse_299,{\displaystyle A}
+Ellipse_300,{\displaystyle B}
+Ellipse_301,{\displaystyle A}
+Ellipse_302,{\displaystyle B}
+Ellipse_303,{\displaystyle 2a}
+Ellipse_304,"{\displaystyle (a\cos t,\,b\sin t)}"
+Ellipse_305,"{\displaystyle a,\,b}"
+Ellipse_306,{\displaystyle a+b}
+Ellipse_307,{\displaystyle P}
+Ellipse_308,{\displaystyle P}
+Ellipse_309,{\displaystyle P}
+Ellipse_310,"{\displaystyle (a\cos t,\,b\sin t)}"
+Ellipse_311,{\displaystyle t}
+Ellipse_312,{\displaystyle a+b}
+Ellipse_313,{\displaystyle N}
+Ellipse_314,{\displaystyle M}
+Ellipse_315,{\displaystyle {\tfrac {a+b}{2}}}
+Ellipse_316,{\displaystyle N}
+Ellipse_317,{\displaystyle N}
+Ellipse_318,{\displaystyle K}
+Ellipse_319,{\displaystyle M}
+Ellipse_320,{\displaystyle a}
+Ellipse_321,{\displaystyle b}
+Ellipse_322,{\displaystyle a-b}
+Ellipse_323,"{\displaystyle (a\cos t,\,b\sin t)}"
+Ellipse_324,{\displaystyle t}
+Ellipse_325,"{\displaystyle V_{1},\,V_{2}}"
+Ellipse_326,{\displaystyle {\tfrac {b^{2}}{a}}}
+Ellipse_327,"{\displaystyle V_{3},\,V_{4}}"
+Ellipse_328,{\displaystyle {\tfrac {a^{2}}{b}}\ .}
+Ellipse_329,"{\displaystyle C_{1}=\left(a-{\tfrac {b^{2}}{a}},0\right),\,C_{3}=\left(0,b-{\tfrac {a^{2}}{b}}\right)}"
+Ellipse_330,{\displaystyle V_{1}}
+Ellipse_331,{\displaystyle V_{3}}
+Ellipse_332,"{\displaystyle H=(a,\,b)}"
+Ellipse_333,"{\displaystyle V_{1}V_{3}\ ,}"
+Ellipse_334,{\displaystyle H}
+Ellipse_335,"{\displaystyle V_{1}V_{3}\ ,}"
+Ellipse_336,"{\displaystyle B(U),\,B(V)}"
+Ellipse_337,"{\displaystyle U,\,V}"
+Ellipse_338,{\displaystyle U}
+Ellipse_339,{\displaystyle V}
+Ellipse_340,{\displaystyle \pi }
+Ellipse_341,{\displaystyle B(U)}
+Ellipse_342,{\displaystyle B(V)}
+Ellipse_343,{\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1}
+Ellipse_344,"{\displaystyle V_{1},\,V_{2}}"
+Ellipse_345,"{\displaystyle P=(0,\,b)}"
+Ellipse_346,"{\displaystyle A=(-a,\,2b),\,B=(a,\,2b)}"
+Ellipse_347,{\displaystyle P}
+Ellipse_348,"{\displaystyle V_{1},\,V_{2},\,B,\,A}"
+Ellipse_349,{\displaystyle {\overline {AB}}}
+Ellipse_350,{\displaystyle AV_{2}}
+Ellipse_351,{\displaystyle {\overline {V_{1}B}}}
+Ellipse_352,{\displaystyle V_{1}}
+Ellipse_353,{\displaystyle V_{2}}
+Ellipse_354,{\displaystyle V_{1}B_{i}}
+Ellipse_355,{\displaystyle V_{2}A_{i}}
+Ellipse_356,"{\displaystyle C_{1},\,\dotsc }"
+Ellipse_357,{\displaystyle R=2r}
+Ellipse_358,{\displaystyle r}
+Ellipse_359,{\displaystyle R=2r}
+Ellipse_360,{\displaystyle \left(x-x_{\circ }\right)^{2}+\left(y-y_{\circ }\right)^{2}=r^{2}}
+Ellipse_361,"{\displaystyle \left(x_{1},y_{1}\right),\;\left(x_{2},\,y_{2}\right),\;\left(x_{3},\,y_{3}\right)}"
+Ellipse_362,"{\displaystyle x_{\circ },y_{\circ },r}"
+Ellipse_363,"{\displaystyle P_{i}=\left(x_{i},\,y_{i}\right),\ i=1,\,2,\,3,\,4,\,}"
+Ellipse_364,{\displaystyle P_{3}}
+Ellipse_365,{\displaystyle P_{4}}
+Ellipse_366,"{\displaystyle y=m_{1}x+d_{1},\ y=m_{2}x+d_{2},\ m_{1}\neq m_{2},}"
+Ellipse_367,{\displaystyle {\frac {1+m_{1}m_{2}}{m_{2}-m_{1}}}=\cot \theta \ .}
+Ellipse_368,"{\displaystyle P_{i}=\left(x_{i},\,y_{i}\right),\ i=1,\,2,\,3,\,4,\,}"
+Ellipse_369,{\displaystyle P_{3}}
+Ellipse_370,{\displaystyle P_{4}}
+Ellipse_371,{\displaystyle {\frac {(x_{4}-x_{1})(x_{4}-x_{2})+(y_{4}-y_{1})(y_{4}-y_{2})}{(y_{4}-y_{1})(x_{4}-x_{2})-(y_{4}-y_{2})(x_{4}-x_{1})}}={\frac {(x_{3}-x_{1})(x_{3}-x_{2})+(y_{3}-y_{1})(y_{3}-y_{2})}{(y_{3}-y_{1})(x_{3}-x_{2})-(y_{3}-y_{2})(x_{3}-x_{1})}}.}
+Ellipse_372,"{\displaystyle P_{i}=\left(x_{i},\,y_{i}\right)}"
+Ellipse_374,"{\displaystyle P_{1}=(2,\,0),\;P_{2}=(0,\,1),\;P_{3}=(0,\,0)}"
+Ellipse_375,{\displaystyle {\frac {(x-2)x+y(y-1)}{yx-(y-1)(x-2)}}=0}
+Ellipse_376,{\displaystyle (x-1)^{2}+\left(y-{\tfrac {1}{2}}\right)^{2}={\tfrac {5}{4}}\ .}
+Ellipse_377,"{\displaystyle {\vec {x}}=(x,\,y)}"
+Ellipse_379,"{\displaystyle \left(x_{\circ },\,y_{\circ }\right)}"
+Ellipse_380,{\displaystyle {\begin{bmatrix}1&{\dfrac {y_{1}-y_{2}}{x_{1}-x_{2}}}\\[2ex]{\dfrac {x_{1}-x_{3}}{y_{1}-y_{3}}}&1\end{bmatrix}}{\begin{bmatrix}x_{\circ }\\[1ex]y_{\circ }\end{bmatrix}}={\begin{bmatrix}{\dfrac {x_{1}^{2}-x_{2}^{2}+y_{1}^{2}-y_{2}^{2}}{2(x_{1}-x_{2})}}\\[2ex]{\dfrac {y_{1}^{2}-y_{3}^{2}+x_{1}^{2}-x_{3}^{2}}{2(y_{1}-y_{3})}}\end{bmatrix}}.}
+Ellipse_381,{\displaystyle r={\sqrt {\left(x_{1}-x_{\circ }\right)^{2}+\left(y_{1}-y_{\circ }\right)^{2}}}={\sqrt {\left(x_{2}-x_{\circ }\right)^{2}+\left(y_{2}-y_{\circ }\right)^{2}}}={\sqrt {\left(x_{3}-x_{\circ }\right)^{2}+\left(y_{3}-y_{\circ }\right)^{2}}}.}
+Ellipse_382,{\displaystyle {\tfrac {\left(x-x_{\circ }\right)^{2}}{a^{2}}}+{\tfrac {\left(y-y_{\circ }\right)^{2}}{b^{2}}}=1}
+Ellipse_383,{\displaystyle e}
+Ellipse_386,"{\displaystyle x_{\circ },\,y_{\circ },\,a}"
+Ellipse_387,{\displaystyle q<1}
+Ellipse_388,{\displaystyle q>1}
+Ellipse_389,"{\displaystyle y=m_{1}x+d_{1},\ y=m_{2}x+d_{2},\ m_{1}\neq m_{2}}"
+Ellipse_391,"{\displaystyle P_{i}=\left(x_{i},\,y_{i}\right),\ i=1,\,2,\,3,\,4}"
+Ellipse_393,{\displaystyle P_{3}}
+Ellipse_394,{\displaystyle P_{4}}
+Ellipse_396,"{\displaystyle P_{i}=\left(x_{i},\,y_{i}\right)}"
+Ellipse_398,"{\displaystyle P_{1}=(2,\,0),\;P_{2}=(0,\,1),\;P_{3}=(0,\,0)}"
+Ellipse_399,{\displaystyle q=4}
+Ellipse_400,{\displaystyle {\frac {(x-2)x+4y(y-1)}{yx-(y-1)(x-2)}}=0}
+Ellipse_401,{\displaystyle {\frac {(x-1)^{2}}{2}}+{\frac {\left(y-{\frac {1}{2}}\right)^{2}}{\frac {1}{2}}}=1.}
+Ellipse_403,{\displaystyle *}
+Ellipse_405,{\displaystyle {\tfrac {x^{2}}{a^{2}}}+{\tfrac {y^{2}}{b^{2}}}=1}
+Ellipse_406,"{\displaystyle P_{1}=\left(x_{1},\,y_{1}\right)}"
+Ellipse_407,{\displaystyle {\tfrac {x_{1}x}{a^{2}}}+{\tfrac {y_{1}y}{b^{2}}}=1.}
+Ellipse_408,"{\displaystyle P_{1}=\left(x_{1},\,y_{1}\right)}"
+Ellipse_409,"{\displaystyle P_{1}=\left(x_{1},\,y_{1}\right)\neq (0,\,0)}"
+Ellipse_410,{\displaystyle {\tfrac {x_{1}x}{a^{2}}}+{\tfrac {y_{1}y}{b^{2}}}=1}
+Ellipse_411,"{\displaystyle y=mx+d,\ d\neq 0}"
+Ellipse_412,"{\displaystyle \left(-{\tfrac {ma^{2}}{d}},\,{\tfrac {b^{2}}{d}}\right)}"
+Ellipse_413,"{\displaystyle x=c,\ c\neq 0}"
+Ellipse_414,"{\displaystyle \left({\tfrac {a^{2}}{c}},\,0\right).}"
+Ellipse_415,"{\displaystyle P_{1},\,p_{1}}"
+Ellipse_416,{\displaystyle P}
+Ellipse_417,{\displaystyle P}
+Ellipse_418,"{\displaystyle P_{2},\,p_{2}}"
+Ellipse_419,"{\displaystyle F_{1},\,l_{1}}"
+Ellipse_420,"{\displaystyle (c,\,0)}"
+Ellipse_421,"{\displaystyle (-c,\,0)}"
+Ellipse_422,{\displaystyle x={\tfrac {a^{2}}{c}}}
+Ellipse_423,{\displaystyle x=-{\tfrac {a^{2}}{c}}}
+Ellipse_424,{\displaystyle x^{2}+y^{2}=a^{2}}
+Ellipse_425,{\displaystyle {\frac {x^{2}}{a^{2}}}+{\frac {y^{2}}{b^{2}}}=1}
+Ellipse_426,{\displaystyle A_{\text{ellipse}}}
+Ellipse_427,{\displaystyle A_{\text{ellipse}}=\pi ab}
+Ellipse_428,{\displaystyle a}
+Ellipse_429,{\displaystyle b}
+Ellipse_430,{\displaystyle \pi ab}
+Ellipse_431,{\displaystyle b}
+Ellipse_432,{\displaystyle \pi b^{2}}
+Ellipse_433,{\displaystyle a/b}
+Ellipse_434,{\displaystyle \pi b^{2}(a/b)=\pi ab.}
+Ellipse_438,"{\displaystyle x\in [-a,a],}"
+Ellipse_439,{\displaystyle y(x)}
+Ellipse_440,"{\displaystyle [-a,a]}"
+Ellipse_441,"{\displaystyle {\begin{aligned}A_{\text{ellipse}}&=\int _{-a}^{a}2b{\sqrt {1-{\frac {x^{2}}{a^{2}}}}}\,dx\\&={\frac {b}{a}}\int _{-a}^{a}2{\sqrt {a^{2}-x^{2}}}\,dx.\end{aligned}}}"
+Ellipse_442,"{\displaystyle a,}"
+Ellipse_443,{\displaystyle \pi a^{2}.}
+Ellipse_444,{\displaystyle A_{\text{ellipse}}={\frac {b}{a}}\pi a^{2}=\pi ab.}
+Ellipse_445,{\displaystyle Ax^{2}+Bxy+Cy^{2}=1}
+Ellipse_446,{\displaystyle 2\pi /{\sqrt {4AC-B^{2}}}.}
+Ellipse_447,{\displaystyle a^{2}\pi {\sqrt {1-e^{2}}}}
+Ellipse_448,"{\displaystyle \pi \;y_{\text{int}}\,x_{\text{max}}}"
+Ellipse_449,{\displaystyle x}
+Ellipse_450,{\displaystyle y}
+Ellipse_451,"{\displaystyle A_{\text{ellipse}}=\pi \;y_{\text{int}}\,x_{\text{max}}=\pi \;x_{\text{int}}\,y_{\text{max}}}"
+Ellipse_452,{\displaystyle y_{\text{int}}}
+Ellipse_453,{\displaystyle x_{\text{int}}}
+Ellipse_454,{\displaystyle x_{\text{max}}}
+Ellipse_455,{\displaystyle y_{\text{max}}}
+Ellipse_456,{\displaystyle C}
+Ellipse_457,"{\displaystyle C\,=\,4a\int _{0}^{\pi /2}{\sqrt {1-e^{2}\sin ^{2}\theta }}\ d\theta \,=\,4a\,E(e)}"
+Ellipse_458,{\displaystyle a}
+Ellipse_460,{\displaystyle E}
+Ellipse_461,"{\displaystyle E(e)\,=\,\int _{0}^{\pi /2}{\sqrt {1-e^{2}\sin ^{2}\theta }}\ d\theta }"
+Ellipse_462,{\displaystyle E(e)}
+Ellipse_463,"{\displaystyle {\begin{aligned}C&=2\pi a\left[{1-\left({\frac {1}{2}}\right)^{2}e^{2}-\left({\frac {1\cdot 3}{2\cdot 4}}\right)^{2}{\frac {e^{4}}{3}}-\left({\frac {1\cdot 3\cdot 5}{2\cdot 4\cdot 6}}\right)^{2}{\frac {e^{6}}{5}}-\cdots }\right]\\&=2\pi a\left[1-\sum _{n=1}^{\infty }\left({\frac {(2n-1)!!}{(2n)!!}}\right)^{2}{\frac {e^{2n}}{2n-1}}\right]\\&=-2\pi a\sum _{n=0}^{\infty }\left({\frac {(2n-1)!!}{(2n)!!}}\right)^{2}{\frac {e^{2n}}{2n-1}},\end{aligned}}}"
+Ellipse_464,{\displaystyle n!!}
+Ellipse_465,{\displaystyle (2n-1)!!=(2n+1)!!/(2n+1)}
+Ellipse_466,{\displaystyle n\leq 0}
+Ellipse_467,"{\displaystyle h=(a-b)^{2}/(a+b)^{2},}"
+Ellipse_468,{\displaystyle {\begin{aligned}C&=\pi (a+b)\sum _{n=0}^{\infty }\left({\frac {(2n-3)!!}{2^{n}n!}}\right)^{2}h^{n}\\&=\pi (a+b)\left[1+{\frac {h}{4}}+\sum _{n=2}^{\infty }\left({\frac {(2n-3)!!}{2^{n}n!}}\right)^{2}h^{n}\right]\\&=\pi (a+b)\left[1+\sum _{n=1}^{\infty }\left({\frac {(2n-1)!!}{2^{n}n!}}\right)^{2}{\frac {h^{n}}{(2n-1)^{2}}}\right].\end{aligned}}}
+Ellipse_469,{\displaystyle \pi }
+Ellipse_470,{\displaystyle C\approx \pi {\biggl [}3(a+b)-{\sqrt {(3a+b)(a+3b)}}{\biggr ]}=\pi {\biggl [}3(a+b)-{\sqrt {10ab+3\left(a^{2}+b^{2}\right)}}{\biggr ]}}
+Ellipse_471,"{\displaystyle C\approx \pi \left(a+b\right)\left(1+{\frac {3h}{10+{\sqrt {4-3h}}}}\right),}"
+Ellipse_472,{\displaystyle h}
+Ellipse_473,{\displaystyle h^{3}}
+Ellipse_474,"{\displaystyle h^{5},}"
+Ellipse_475,{\displaystyle y=b\ {\sqrt {1-{\frac {x^{2}}{a^{2}}}\ }}~.}
+Ellipse_476,{\displaystyle s}
+Ellipse_477,{\displaystyle \ x_{1}\ }
+Ellipse_478,{\displaystyle \ x_{2}\ }
+Ellipse_479,{\displaystyle s=-b\int _{\arccos {\frac {x_{1}}{a}}}^{\arccos {\frac {x_{2}}{a}}}{\sqrt {\ 1+\left({\tfrac {a^{2}}{b^{2}}}-1\right)\ \sin ^{2}z~}}\;dz~.}
+Ellipse_480,{\displaystyle s=b\ \left[\;E\left(z\;{\Biggl |}\;1-{\frac {a^{2}}{b^{2}}}\right)\;\right]_{z\ =\ \arccos {\frac {x_{2}}{a}}}^{\arccos {\frac {x_{1}}{a}}}}
+Ellipse_481,{\displaystyle E(z\mid m)}
+Ellipse_482,{\displaystyle m=k^{2}.}
+Ellipse_483,{\displaystyle \ x^{2}/a^{2}+y^{2}/b^{2}=1\ }
+Ellipse_484,{\displaystyle \ a\geq b\ }
+Ellipse_485,"{\displaystyle {\begin{aligned}2\pi b&\leq C\leq 2\pi a\ ,\\\pi (a+b)&\leq C\leq 4(a+b)\ ,\\4{\sqrt {a^{2}+b^{2}\ }}&\leq C\leq {\sqrt {2\ }}\pi {\sqrt {a^{2}+b^{2}\ }}~.\end{aligned}}}"
+Ellipse_486,{\displaystyle \ 2\pi a\ }
+Ellipse_487,{\displaystyle 4{\sqrt {a^{2}+b^{2}}}}
+Ellipse_488,"{\displaystyle \kappa ={\frac {1}{a^{2}b^{2}}}\left({\frac {x^{2}}{a^{4}}}+{\frac {y^{2}}{b^{4}}}\right)^{-{\frac {3}{2}}}\ ,}"
+Ellipse_489,"{\displaystyle (x,y)}"
+Ellipse_490,{\displaystyle \rho =a^{2}b^{2}\left({\frac {x^{2}}{a^{4}}}+{\frac {y^{2}}{b^{4}}}\right)^{\frac {3}{2}}={\frac {1}{a^{4}b^{4}}}{\sqrt {\left(a^{4}y^{2}+b^{4}x^{2}\right)^{3}}}\ .}
+Ellipse_491,"{\displaystyle (\pm a,0)}"
+Ellipse_492,"{\displaystyle \rho _{0}={\frac {b^{2}}{a}}=p\ ,\qquad \left(\pm {\frac {c^{2}}{a}}\,{\bigg |}\,0\right)\ .}"
+Ellipse_493,"{\displaystyle (0,\pm b)}"
+Ellipse_494,"{\displaystyle \rho _{1}={\frac {a^{2}}{b}}\ ,\qquad \left(0\,{\bigg |}\,\pm {\frac {c^{2}}{b}}\right)\ .}"
+Ellipse_495,{\displaystyle e}
+Ellipse_496,{\displaystyle {\begin{aligned}e&={\frac {r_{a}-r_{p}}{r_{a}+r_{p}}}={\frac {r_{a}-r_{p}}{2a}}\\r_{a}&=(1+e)a\\r_{p}&=(1-e)a\end{aligned}}}
+Ellipse_497,{\displaystyle r_{a}}
+Ellipse_498,{\displaystyle r_{p}}
+Ellipse_499,{\displaystyle a}
+Ellipse_500,{\displaystyle r_{a}}
+Ellipse_501,{\displaystyle r_{p}}
+Ellipse_502,{\displaystyle a}
+Ellipse_503,{\displaystyle b}
+Ellipse_504,{\displaystyle \ell }
+Ellipse_505,{\displaystyle {\begin{aligned}a&={\frac {r_{a}+r_{p}}{2}}\\[2pt]b&={\sqrt {r_{a}r_{p}}}\\[2pt]\ell &={\frac {2}{{\frac {1}{r_{a}}}+{\frac {1}{r_{p}}}}}={\frac {2r_{a}r_{p}}{r_{a}+r_{p}}}.\end{aligned}}}
+Ellipse_506,"{\displaystyle (X,Y)}"

@@ -1,0 +1,216 @@
+name,latex
+Limit_of_a_sequence_0,{\displaystyle 2\pi r}
+Limit_of_a_sequence_1,{\displaystyle n}
+Limit_of_a_sequence_2,{\displaystyle n\times \sin \left({\tfrac {1}{n}}\right)}
+Limit_of_a_sequence_8,{\displaystyle \lim }
+Limit_of_a_sequence_9,{\displaystyle \lim _{n\to \infty }a_{n}}
+Limit_of_a_sequence_15,{\displaystyle L}
+Limit_of_a_sequence_16,{\displaystyle (x_{n})}
+Limit_of_a_sequence_17,{\displaystyle L}
+Limit_of_a_sequence_18,{\displaystyle x_{n}=c}
+Limit_of_a_sequence_20,{\displaystyle x_{n}\to c}
+Limit_of_a_sequence_21,{\displaystyle x_{n}={\frac {1}{n}}}
+Limit_of_a_sequence_22,{\displaystyle x_{n}\to 0}
+Limit_of_a_sequence_23,{\displaystyle x_{n}={\frac {1}{n}}}
+Limit_of_a_sequence_24,{\displaystyle n}
+Limit_of_a_sequence_25,{\displaystyle x_{n}={\frac {1}{n^{2}}}}
+Limit_of_a_sequence_26,{\displaystyle n}
+Limit_of_a_sequence_27,{\displaystyle x_{n}\to 0}
+Limit_of_a_sequence_28,{\displaystyle x_{n+1}>x_{n}}
+Limit_of_a_sequence_29,{\displaystyle n}
+Limit_of_a_sequence_33,{\displaystyle 0.3333...:=\lim _{n\to \infty }\sum _{k=1}^{n}{\frac {3}{10^{k}}}}
+Limit_of_a_sequence_34,{\displaystyle \lim _{n\to \infty }\left(1+{\tfrac {1}{n}}\right)^{n}}
+Limit_of_a_sequence_35,{\displaystyle x}
+Limit_of_a_sequence_36,{\displaystyle (x_{n})}
+Limit_of_a_sequence_37,{\displaystyle x_{n}\to x}
+Limit_of_a_sequence_38,{\displaystyle \lim _{n\to \infty }x_{n}=x}
+Limit_of_a_sequence_39,{\displaystyle \varepsilon >0}
+Limit_of_a_sequence_40,{\displaystyle N}
+Limit_of_a_sequence_41,{\displaystyle n\geq N}
+Limit_of_a_sequence_42,{\displaystyle |x_{n}-x|<\varepsilon }
+Limit_of_a_sequence_43,{\displaystyle \varepsilon }
+Limit_of_a_sequence_44,{\displaystyle (x_{n})}
+Limit_of_a_sequence_45,{\displaystyle x}
+Limit_of_a_sequence_46,{\displaystyle \forall \varepsilon >0\left(\exists N\in \mathbb {N} \left(\forall n\in \mathbb {N} \left(n\geq N\implies |x_{n}-x|<\varepsilon \right)\right)\right)}
+Limit_of_a_sequence_47,{\displaystyle (x_{n})}
+Limit_of_a_sequence_48,{\displaystyle x}
+Limit_of_a_sequence_49,{\displaystyle x}
+Limit_of_a_sequence_50,{\displaystyle (x_{n})}
+Limit_of_a_sequence_51,{\displaystyle a}
+Limit_of_a_sequence_52,{\displaystyle \varepsilon >0}
+Limit_of_a_sequence_53,{\displaystyle N_{0}}
+Limit_of_a_sequence_54,"{\displaystyle (a-\varepsilon ,a+\varepsilon )}"
+Limit_of_a_sequence_55,{\displaystyle \varepsilon _{1}>0}
+Limit_of_a_sequence_56,{\displaystyle N_{1}}
+Limit_of_a_sequence_57,"{\displaystyle (a-\varepsilon _{1},a+\varepsilon _{1})}"
+Limit_of_a_sequence_58,{\displaystyle \varepsilon >0}
+Limit_of_a_sequence_59,{\displaystyle \lim _{n\to \infty }a_{n}}
+Limit_of_a_sequence_60,{\displaystyle \lim _{n\to \infty }b_{n}}
+Limit_of_a_sequence_61,{\displaystyle \lim _{n\to \infty }(a_{n}\pm b_{n})=\lim _{n\to \infty }a_{n}\pm \lim _{n\to \infty }b_{n}}
+Limit_of_a_sequence_62,{\displaystyle \lim _{n\to \infty }ca_{n}=c\cdot \lim _{n\to \infty }a_{n}}
+Limit_of_a_sequence_63,{\displaystyle \lim _{n\to \infty }(a_{n}\cdot b_{n})=\left(\lim _{n\to \infty }a_{n}\right)\cdot \left(\lim _{n\to \infty }b_{n}\right)}
+Limit_of_a_sequence_64,{\displaystyle \lim _{n\to \infty }\left({\frac {a_{n}}{b_{n}}}\right)={\frac {\lim \limits _{n\to \infty }a_{n}}{\lim \limits _{n\to \infty }b_{n}}}}
+Limit_of_a_sequence_65,{\displaystyle \lim _{n\to \infty }b_{n}\neq 0}
+Limit_of_a_sequence_66,{\displaystyle \lim _{n\to \infty }a_{n}^{p}=\left(\lim _{n\to \infty }a_{n}\right)^{p}}
+Limit_of_a_sequence_68,{\displaystyle \lim _{n\to \infty }x_{n}}
+Limit_of_a_sequence_69,{\displaystyle \lim _{n\to \infty }f\left(x_{n}\right)}
+Limit_of_a_sequence_71,{\displaystyle a_{n}\leq b_{n}}
+Limit_of_a_sequence_72,{\displaystyle n}
+Limit_of_a_sequence_73,{\displaystyle N}
+Limit_of_a_sequence_74,{\displaystyle \lim _{n\to \infty }a_{n}\leq \lim _{n\to \infty }b_{n}}
+Limit_of_a_sequence_75,{\displaystyle a_{n}\leq c_{n}\leq b_{n}}
+Limit_of_a_sequence_76,{\displaystyle n}
+Limit_of_a_sequence_77,{\displaystyle N}
+Limit_of_a_sequence_78,{\displaystyle \lim _{n\to \infty }a_{n}=\lim _{n\to \infty }b_{n}=L}
+Limit_of_a_sequence_79,{\displaystyle \lim _{n\to \infty }c_{n}=L}
+Limit_of_a_sequence_80,{\displaystyle a_{n}}
+Limit_of_a_sequence_81,{\displaystyle n}
+Limit_of_a_sequence_82,{\displaystyle N}
+Limit_of_a_sequence_83,{\displaystyle 1/n\to 0}
+Limit_of_a_sequence_84,{\displaystyle {\frac {a}{b+{\frac {c}{n}}}}\to {\frac {a}{b}}}
+Limit_of_a_sequence_85,{\displaystyle b\neq 0}
+Limit_of_a_sequence_86,{\displaystyle (x_{n})}
+Limit_of_a_sequence_87,{\displaystyle x_{n}\to \infty }
+Limit_of_a_sequence_88,{\displaystyle \lim _{n\to \infty }x_{n}=\infty }
+Limit_of_a_sequence_89,{\displaystyle K}
+Limit_of_a_sequence_90,{\displaystyle N}
+Limit_of_a_sequence_91,{\displaystyle n\geq N}
+Limit_of_a_sequence_92,{\displaystyle x_{n}>K}
+Limit_of_a_sequence_93,{\displaystyle K}
+Limit_of_a_sequence_94,{\displaystyle \forall K\in \mathbb {R} \left(\exists N\in \mathbb {N} \left(\forall n\in \mathbb {N} \left(n\geq N\implies x_{n}>K\right)\right)\right)}
+Limit_of_a_sequence_95,{\displaystyle x_{n}\to -\infty }
+Limit_of_a_sequence_96,{\displaystyle \lim _{n\to \infty }x_{n}=-\infty }
+Limit_of_a_sequence_97,{\displaystyle K}
+Limit_of_a_sequence_98,{\displaystyle N}
+Limit_of_a_sequence_99,{\displaystyle n\geq N}
+Limit_of_a_sequence_100,{\displaystyle x_{n}<K}
+Limit_of_a_sequence_101,{\displaystyle K}
+Limit_of_a_sequence_102,{\displaystyle \forall K\in \mathbb {R} \left(\exists N\in \mathbb {N} \left(\forall n\in \mathbb {N} \left(n\geq N\implies x_{n}<K\right)\right)\right)}
+Limit_of_a_sequence_103,{\displaystyle x_{n}=(-1)^{n}}
+Limit_of_a_sequence_104,{\displaystyle x}
+Limit_of_a_sequence_105,"{\displaystyle (X,d)}"
+Limit_of_a_sequence_106,{\displaystyle (x_{n})}
+Limit_of_a_sequence_107,{\displaystyle \varepsilon >0}
+Limit_of_a_sequence_108,{\displaystyle N}
+Limit_of_a_sequence_109,{\displaystyle n\geq N}
+Limit_of_a_sequence_110,"{\displaystyle d(x_{n},x)<\varepsilon }"
+Limit_of_a_sequence_111,"{\displaystyle \forall \varepsilon >0\left(\exists N\in \mathbb {N} \left(\forall n\in \mathbb {N} \left(n\geq N\implies d(x_{n},x)<\varepsilon \right)\right)\right)}"
+Limit_of_a_sequence_112,{\displaystyle X=\mathbb {R} }
+Limit_of_a_sequence_113,"{\displaystyle d(x,y)=|x-y|}"
+Limit_of_a_sequence_114,{\displaystyle \varepsilon }
+Limit_of_a_sequence_115,{\displaystyle \varepsilon }
+Limit_of_a_sequence_116,{\displaystyle \lim _{n\to \infty }x_{n}}
+Limit_of_a_sequence_117,{\displaystyle \lim _{n\to \infty }f(x_{n})=f\left(\lim _{n\to \infty }x_{n}\right)}
+Limit_of_a_sequence_118,{\displaystyle x_{n}}
+Limit_of_a_sequence_119,{\displaystyle x\in X}
+Limit_of_a_sequence_120,"{\displaystyle (X,\tau )}"
+Limit_of_a_sequence_121,{\displaystyle \left(x_{n}\right)_{n\in \mathbb {N} }}
+Limit_of_a_sequence_122,{\displaystyle U}
+Limit_of_a_sequence_123,{\displaystyle x}
+Limit_of_a_sequence_124,{\displaystyle N\in \mathbb {N} }
+Limit_of_a_sequence_125,{\displaystyle n\geq N}
+Limit_of_a_sequence_126,{\displaystyle x_{n}\in U}
+Limit_of_a_sequence_127,"{\displaystyle (X,d)}"
+Limit_of_a_sequence_128,{\displaystyle \tau }
+Limit_of_a_sequence_129,{\displaystyle d}
+Limit_of_a_sequence_130,{\displaystyle \left(x_{n}\right)_{n\in \mathbb {N} }}
+Limit_of_a_sequence_131,{\displaystyle T}
+Limit_of_a_sequence_132,{\displaystyle \mathbb {N} }
+Limit_of_a_sequence_133,{\displaystyle \mathbb {N} \cup \lbrace +\infty \rbrace }
+Limit_of_a_sequence_134,{\displaystyle T}
+Limit_of_a_sequence_135,{\displaystyle n}
+Limit_of_a_sequence_136,{\displaystyle +\infty }
+Limit_of_a_sequence_137,{\displaystyle \mathbb {N} }
+Limit_of_a_sequence_138,{\displaystyle x}
+Limit_of_a_sequence_139,{\displaystyle y}
+Limit_of_a_sequence_140,{\displaystyle x}
+Limit_of_a_sequence_141,{\displaystyle y}
+Limit_of_a_sequence_142,{\displaystyle (x_{n})}
+Limit_of_a_sequence_144,{\displaystyle x_{H}}
+Limit_of_a_sequence_146,{\displaystyle x_{H}-L}
+Limit_of_a_sequence_147,{\displaystyle x_{H}}
+Limit_of_a_sequence_148,{\displaystyle L={\rm {st}}(x_{H})}
+Limit_of_a_sequence_149,{\displaystyle \lim _{n\to \infty }x_{n}={\rm {st}}(x_{H})}
+Limit_of_a_sequence_151,"{\displaystyle (x_{n,m})}"
+Limit_of_a_sequence_152,{\displaystyle L}
+Limit_of_a_sequence_153,{\displaystyle L}
+Limit_of_a_sequence_154,"{\displaystyle x_{n,m}=c}"
+Limit_of_a_sequence_156,"{\displaystyle x_{n,m}\to c}"
+Limit_of_a_sequence_157,"{\displaystyle x_{n,m}={\frac {1}{n+m}}}"
+Limit_of_a_sequence_158,"{\displaystyle x_{n,m}\to 0}"
+Limit_of_a_sequence_159,"{\displaystyle x_{n,m}={\frac {n}{n+m}}}"
+Limit_of_a_sequence_164,{\displaystyle x}
+Limit_of_a_sequence_165,"{\displaystyle (x_{n,m})}"
+Limit_of_a_sequence_166,"{\displaystyle x_{n,m}\to x}"
+Limit_of_a_sequence_167,"{\displaystyle \lim _{\begin{smallmatrix}n\to \infty \\m\to \infty \end{smallmatrix}}x_{n,m}=x}"
+Limit_of_a_sequence_168,{\displaystyle \varepsilon >0}
+Limit_of_a_sequence_169,{\displaystyle N}
+Limit_of_a_sequence_170,"{\displaystyle n,m\geq N}"
+Limit_of_a_sequence_171,"{\displaystyle |x_{n,m}-x|<\varepsilon }"
+Limit_of_a_sequence_172,{\displaystyle \varepsilon }
+Limit_of_a_sequence_173,"{\displaystyle (x_{n,m})}"
+Limit_of_a_sequence_174,{\displaystyle x}
+Limit_of_a_sequence_175,"{\displaystyle \forall \varepsilon >0\left(\exists N\in \mathbb {N} \left(\forall n,m\in \mathbb {N} \left(n,m\geq N\implies |x_{n,m}-x|<\varepsilon \right)\right)\right)}"
+Limit_of_a_sequence_176,"{\displaystyle (x_{n,m})}"
+Limit_of_a_sequence_177,"{\displaystyle x_{n,m}\to \infty }"
+Limit_of_a_sequence_178,"{\displaystyle \lim _{\begin{smallmatrix}n\to \infty \\m\to \infty \end{smallmatrix}}x_{n,m}=\infty }"
+Limit_of_a_sequence_179,{\displaystyle K}
+Limit_of_a_sequence_180,{\displaystyle N}
+Limit_of_a_sequence_181,"{\displaystyle n,m\geq N}"
+Limit_of_a_sequence_182,"{\displaystyle x_{n,m}>K}"
+Limit_of_a_sequence_183,{\displaystyle K}
+Limit_of_a_sequence_184,"{\displaystyle \forall K\in \mathbb {R} \left(\exists N\in \mathbb {N} \left(\forall n,m\in \mathbb {N} \left(n,m\geq N\implies x_{n,m}>K\right)\right)\right)}"
+Limit_of_a_sequence_185,"{\displaystyle (x_{n,m})}"
+Limit_of_a_sequence_186,"{\displaystyle x_{n,m}\to -\infty }"
+Limit_of_a_sequence_187,"{\displaystyle \lim _{\begin{smallmatrix}n\to \infty \\m\to \infty \end{smallmatrix}}x_{n,m}=-\infty }"
+Limit_of_a_sequence_188,{\displaystyle K}
+Limit_of_a_sequence_189,{\displaystyle N}
+Limit_of_a_sequence_190,"{\displaystyle n,m\geq N}"
+Limit_of_a_sequence_191,"{\displaystyle x_{n,m}<K}"
+Limit_of_a_sequence_192,{\displaystyle K}
+Limit_of_a_sequence_193,"{\displaystyle \forall K\in \mathbb {R} \left(\exists N\in \mathbb {N} \left(\forall n,m\in \mathbb {N} \left(n,m\geq N\implies x_{n,m}<K\right)\right)\right)}"
+Limit_of_a_sequence_194,"{\displaystyle x_{n,m}=(-1)^{n+m}}"
+Limit_of_a_sequence_195,"{\displaystyle (x_{n,m})}"
+Limit_of_a_sequence_196,{\displaystyle n\to \infty }
+Limit_of_a_sequence_197,{\displaystyle (y_{m})}
+Limit_of_a_sequence_198,"{\displaystyle x_{n,m}\to y_{m}\quad {\text{pointwise}}}"
+Limit_of_a_sequence_199,"{\displaystyle \lim _{n\to \infty }x_{n,m}=y_{m}\quad {\text{pointwise}}}"
+Limit_of_a_sequence_200,{\displaystyle \varepsilon >0}
+Limit_of_a_sequence_201,{\displaystyle m}
+Limit_of_a_sequence_202,"{\displaystyle N(\varepsilon ,m)>0}"
+Limit_of_a_sequence_203,{\displaystyle n\geq N}
+Limit_of_a_sequence_204,"{\displaystyle |x_{n,m}-y_{m}|<\varepsilon }"
+Limit_of_a_sequence_205,"{\displaystyle \forall \varepsilon >0\left(\forall m\in \mathbb {N} \left(\exists N\in \mathbb {N} \left(\forall n\in \mathbb {N} \left(n\geq N\implies |x_{n,m}-y_{m}|<\varepsilon \right)\right)\right)\right)}"
+Limit_of_a_sequence_206,"{\displaystyle (x_{n,m})}"
+Limit_of_a_sequence_207,{\displaystyle (y_{m})}
+Limit_of_a_sequence_208,"{\displaystyle x_{n,m}\to y_{m}\quad {\text{uniformly}}}"
+Limit_of_a_sequence_209,"{\displaystyle \lim _{n\to \infty }x_{n,m}=y_{m}\quad {\text{uniformly}}}"
+Limit_of_a_sequence_211,"{\displaystyle {\underset {n\to \infty }{\mathrm {unif} \lim }}\;x_{n,m}=y_{m}}"
+Limit_of_a_sequence_212,{\displaystyle \varepsilon >0}
+Limit_of_a_sequence_213,{\displaystyle N(\varepsilon )>0}
+Limit_of_a_sequence_214,{\displaystyle m}
+Limit_of_a_sequence_215,{\displaystyle n\geq N}
+Limit_of_a_sequence_216,"{\displaystyle |x_{n,m}-y_{m}|<\varepsilon }"
+Limit_of_a_sequence_217,"{\displaystyle \forall \varepsilon >0\left(\exists N\in \mathbb {N} \left(\forall m\in \mathbb {N} \left(\forall n\in \mathbb {N} \left(n\geq N\implies |x_{n,m}-y_{m}|<\varepsilon \right)\right)\right)\right)}"
+Limit_of_a_sequence_218,{\displaystyle N}
+Limit_of_a_sequence_219,{\displaystyle m}
+Limit_of_a_sequence_220,{\displaystyle N}
+Limit_of_a_sequence_221,{\displaystyle m}
+Limit_of_a_sequence_222,"{\displaystyle x_{n,m}\to y_{m}}"
+Limit_of_a_sequence_223,"{\displaystyle x_{n,m}\to y_{m}}"
+Limit_of_a_sequence_224,"{\displaystyle (x_{n,m})}"
+Limit_of_a_sequence_225,{\displaystyle (y_{m})}
+Limit_of_a_sequence_226,"{\displaystyle (x_{n,m})}"
+Limit_of_a_sequence_227,{\displaystyle n\to \infty }
+Limit_of_a_sequence_228,{\displaystyle (y_{m})}
+Limit_of_a_sequence_229,{\displaystyle m\to \infty }
+Limit_of_a_sequence_230,{\displaystyle y}
+Limit_of_a_sequence_231,"{\displaystyle \lim _{m\to \infty }\lim _{n\to \infty }x_{n,m}=\lim _{m\to \infty }y_{m}=y}"
+Limit_of_a_sequence_232,"{\displaystyle \lim _{m\to \infty }\lim _{n\to \infty }x_{n,m}\neq \lim _{n\to \infty }\lim _{m\to \infty }x_{n,m}}"
+Limit_of_a_sequence_233,"{\displaystyle \lim _{n\to \infty }x_{n,m}=y_{m}}"
+Limit_of_a_sequence_235,{\displaystyle N=1}
+Limit_of_a_sequence_236,{\displaystyle n\geq N}
+Limit_of_a_sequence_237,{\displaystyle |x_{n}-c|=0<\varepsilon }
+Limit_of_a_sequence_238,{\displaystyle N=\left\lfloor {\frac {1}{\varepsilon }}\right\rfloor +1}
+Limit_of_a_sequence_239,{\displaystyle n\geq N}
+Limit_of_a_sequence_240,{\displaystyle |x_{n}-0|\leq x_{N}={\frac {1}{\lfloor 1/\varepsilon \rfloor +1}}<\varepsilon }

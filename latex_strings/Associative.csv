@@ -1,0 +1,52 @@
+name,latex
+Associative_0,{\displaystyle (x\circ y)\circ z=x\circ (y\circ z)}
+Associative_1,"{\displaystyle (x\,*\,y)\,*\,z=x\,*\,(y\,*\,z)\forall x,y,z\in S}"
+Associative_2,{\displaystyle (P\lor (Q\lor R))\Leftrightarrow ((P\lor Q)\lor R)}
+Associative_3,"{\displaystyle (P\land (Q\land R))\Leftrightarrow ((P\land Q)\land R),}"
+Associative_4,"{\displaystyle {\begin{aligned}(2+3)+4&=2+(3+4)=9\,\\2\times (3\times 4)&=(2\times 3)\times 4=24.\end{aligned}}}"
+Associative_5,"{\displaystyle \left.{\begin{matrix}(x+y)+z=x+(y+z)=x+y+z\quad \\(x\,y)z=x(y\,z)=x\,y\,z\qquad \qquad \qquad \quad \ \ \,\end{matrix}}\right\}{\mbox{for all }}x,y,z\in \mathbb {R} .}"
+Associative_6,"{\displaystyle \left.{\begin{matrix}\operatorname {gcd} (\operatorname {gcd} (x,y),z)=\operatorname {gcd} (x,\operatorname {gcd} (y,z))=\operatorname {gcd} (x,y,z)\ \quad \\\operatorname {lcm} (\operatorname {lcm} (x,y),z)=\operatorname {lcm} (x,\operatorname {lcm} (y,z))=\operatorname {lcm} (x,y,z)\quad \end{matrix}}\right\}{\mbox{ for all }}x,y,z\in \mathbb {Z} .}"
+Associative_7,"{\displaystyle \left.{\begin{matrix}(A\cap B)\cap C=A\cap (B\cap C)=A\cap B\cap C\quad \\(A\cup B)\cup C=A\cup (B\cup C)=A\cup B\cup C\quad \end{matrix}}\right\}{\mbox{for all sets }}A,B,C.}"
+Associative_8,"{\displaystyle (f\circ g)\circ h=f\circ (g\circ h)=f\circ g\circ h\qquad {\mbox{for all }}f,g,h\in S.}"
+Associative_9,{\displaystyle (f\circ g)\circ h=f\circ (g\circ h)=f\circ g\circ h}
+Associative_10,"{\displaystyle \max(a,\max(b,c))=\max(\max(a,b),c)\quad {\text{ and }}\quad \min(a,\min(b,c))=\min(\min(a,b),c).}"
+Associative_11,{\displaystyle (P\lor (Q\lor R))\Leftrightarrow ((P\lor Q)\lor R)}
+Associative_12,"{\displaystyle (P\land (Q\land R))\Leftrightarrow ((P\land Q)\land R),}"
+Associative_13,{\displaystyle \Leftrightarrow }
+Associative_14,{\displaystyle ((P\lor Q)\lor R)\leftrightarrow (P\lor (Q\lor R))}
+Associative_15,{\displaystyle ((P\land Q)\land R)\leftrightarrow (P\land (Q\land R))}
+Associative_16,{\displaystyle ((P\leftrightarrow Q)\leftrightarrow R)\leftrightarrow (P\leftrightarrow (Q\leftrightarrow R))}
+Associative_17,{\displaystyle *}
+Associative_18,"{\displaystyle (x*y)*z\neq x*(y*z)\qquad {\mbox{for some }}x,y,z\in S.}"
+Associative_19,"{\displaystyle (5-3)-2\,\neq \,5-(3-2)}"
+Associative_20,"{\displaystyle (4/2)/2\,\neq \,4/(2/2)}"
+Associative_21,"{\displaystyle 2^{(1^{2})}\,\neq \,(2^{1})^{2}}"
+Associative_22,{\displaystyle {\begin{aligned}\mathbf {i} \times (\mathbf {i} \times \mathbf {j} )&=\mathbf {i} \times \mathbf {k} =-\mathbf {j} \\(\mathbf {i} \times \mathbf {i} )\times \mathbf {j} &=\mathbf {0} \times \mathbf {j} =\mathbf {0} \end{aligned}}}
+Associative_23,{\displaystyle (1+-1)+(1+-1)+(1+-1)+(1+-1)+(1+-1)+(1+-1)+\dots =0}
+Associative_24,{\displaystyle 1+(-1+1)+(-1+1)+(-1+1)+(-1+1)+(-1+1)+(-1+1)+\dots =1.}
+Associative_25,{\displaystyle {\dfrac {2}{3/4}}}
+Associative_26,"{\displaystyle \left.{\begin{array}{l}a*b*c=(a*b)*c\\a*b*c*d=((a*b)*c)*d\\a*b*c*d*e=(((a*b)*c)*d)*e\quad \\{\mbox{etc.}}\end{array}}\right\}{\mbox{for all }}a,b,c,d,e\in S}"
+Associative_27,"{\displaystyle \left.{\begin{array}{l}x*y*z=x*(y*z)\\w*x*y*z=w*(x*(y*z))\quad \\v*w*x*y*z=v*(w*(x*(y*z)))\quad \\{\mbox{etc.}}\end{array}}\right\}{\mbox{for all }}z,y,x,w,v\in S}"
+Associative_28,{\displaystyle x-y-z=(x-y)-z}
+Associative_29,{\displaystyle x/y/z=(x/y)/z}
+Associative_30,"{\displaystyle (f\,x\,y)=((f\,x)\,y)}"
+Associative_31,{\displaystyle x^{y^{z}}=x^{(y^{z})}}
+Associative_32,{\displaystyle (x^{y})^{z}=x^{(yz)}}
+Associative_33,{\displaystyle 2^{x+3}}
+Associative_34,{\displaystyle 2^{(x+3)}}
+Associative_35,{\displaystyle x^{y^{z}}}
+Associative_36,{\displaystyle y^{z}}
+Associative_37,{\displaystyle x}
+Associative_38,{\displaystyle {x^{y}}^{z}=(x^{y})^{z}}
+Associative_39,{\displaystyle x^{yz}=x^{(yz)}}
+Associative_40,{\displaystyle x^{y^{z}}=x^{(y^{z})}}
+Associative_41,{\displaystyle \mathbb {Z} \rightarrow \mathbb {Z} \rightarrow \mathbb {Z} =\mathbb {Z} \rightarrow (\mathbb {Z} \rightarrow \mathbb {Z} )}
+Associative_42,{\displaystyle x\mapsto y\mapsto x-y=x\mapsto (y\mapsto x-y)}
+Associative_43,{\displaystyle (x^{\wedge }y)^{\wedge }z\neq x^{\wedge }(y^{\wedge }z)}
+Associative_44,{\displaystyle a\uparrow \uparrow (b\uparrow \uparrow c)\neq (a\uparrow \uparrow b)\uparrow \uparrow c}
+Associative_45,{\displaystyle a\uparrow \uparrow \uparrow (b\uparrow \uparrow \uparrow c)\neq (a\uparrow \uparrow \uparrow b)\uparrow \uparrow \uparrow c}
+Associative_46,"{\displaystyle {\vec {a}}\times ({\vec {b}}\times {\vec {c}})\neq ({\vec {a}}\times {\vec {b}})\times {\vec {c}}\qquad {\mbox{ for some }}{\vec {a}},{\vec {b}},{\vec {c}}\in \mathbb {R} ^{3}}"
+Associative_47,"{\displaystyle {(x+y)/2+z \over 2}\neq {x+(y+z)/2 \over 2}\qquad {\mbox{for all }}x,y,z\in \mathbb {R} {\mbox{ with }}x\neq z.}"
+Associative_48,{\displaystyle (A\backslash B)\backslash C\neq A\backslash (B\backslash C)}
+Associative_49,"{\displaystyle a_{1},a_{2},\dots ,a_{n}\,\,(n\geq 2)}"
+Associative_50,{\displaystyle a_{1}a_{2}\cdots a_{n}}

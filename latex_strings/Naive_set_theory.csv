@@ -1,0 +1,25 @@
+name,latex
+Naive_set_theory_1,{\displaystyle \{\}}
+Naive_set_theory_3,{\displaystyle 2^{A}}
+Naive_set_theory_4,{\displaystyle P(A)}
+Naive_set_theory_5,{\displaystyle \wp (A)}
+Naive_set_theory_6,{\displaystyle P(A)}
+Naive_set_theory_7,{\displaystyle 2^{n}}
+Naive_set_theory_8,{\displaystyle P(A)}
+Naive_set_theory_9,"{\displaystyle \{\{a\},\{a,b\}\}.}"
+Naive_set_theory_10,{\displaystyle \mathbb {N} }
+Naive_set_theory_11,{\displaystyle \mathbb {Z} }
+Naive_set_theory_12,{\displaystyle \mathbb {Q} }
+Naive_set_theory_13,"{\displaystyle i={\sqrt {-1\,}}}"
+Naive_set_theory_14,{\displaystyle {\overline {\mathbb {Q} }}}
+Naive_set_theory_15,{\displaystyle \mathbb {R} }
+Naive_set_theory_16,"{\displaystyle r+s\,i}"
+Naive_set_theory_17,{\displaystyle r}
+Naive_set_theory_18,{\displaystyle s}
+Naive_set_theory_19,{\displaystyle \mathbb {R} }
+Naive_set_theory_20,{\displaystyle \mathbb {C} }
+Naive_set_theory_21,"{\displaystyle r+s\,i}"
+Naive_set_theory_22,"{\displaystyle (r,s)}"
+Naive_set_theory_23,{\displaystyle \mathbb {C} }
+Naive_set_theory_24,{\displaystyle \mathbb {R} \times \mathbb {R} }
+Naive_set_theory_25,{\displaystyle \mathbb {C} }

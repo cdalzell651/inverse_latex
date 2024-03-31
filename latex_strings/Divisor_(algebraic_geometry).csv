@@ -1,0 +1,107 @@
+name,latex
+Divisor_(algebraic_geometry)_0,"{\displaystyle (f):=\sum _{p\in X}\operatorname {ord} _{p}(f)p,}"
+Divisor_(algebraic_geometry)_1,"{\displaystyle \sum _{Z}n_{Z}Z,}"
+Divisor_(algebraic_geometry)_2,{\displaystyle \{Z:n_{Z}\neq 0\}}
+Divisor_(algebraic_geometry)_3,{\displaystyle \{Z:n_{Z}\neq 0\}}
+Divisor_(algebraic_geometry)_4,"{\displaystyle \operatorname {Spec} {\mathcal {O}}_{K},}"
+Divisor_(algebraic_geometry)_5,"{\displaystyle {\mathcal {O}}_{X,Z}}"
+Divisor_(algebraic_geometry)_6,"{\displaystyle f\in {\mathcal {O}}_{X,Z}}"
+Divisor_(algebraic_geometry)_7,"{\displaystyle {\mathcal {O}}_{X,Z}/(f).}"
+Divisor_(algebraic_geometry)_8,"{\displaystyle {\mathcal {O}}_{X,Z},}"
+Divisor_(algebraic_geometry)_9,"{\displaystyle {\mathcal {O}}_{X,Z}}"
+Divisor_(algebraic_geometry)_10,{\displaystyle \operatorname {div} f=\sum _{Z}\operatorname {ord} _{Z}(f)Z.}
+Divisor_(algebraic_geometry)_11,{\displaystyle \operatorname {div} fg=\operatorname {div} f+\operatorname {div} g.}
+Divisor_(algebraic_geometry)_12,{\displaystyle {\mathcal {O}}_{X}(D)}
+Divisor_(algebraic_geometry)_13,"{\displaystyle \Gamma (U,{\mathcal {O}}_{X}(D))=\{f\in k(X):f=0{\text{ or }}\operatorname {div} (f)+D\geq 0{\text{ on }}U\}.}"
+Divisor_(algebraic_geometry)_14,{\displaystyle {\mathcal {O}}_{X}(D)}
+Divisor_(algebraic_geometry)_15,{\displaystyle \operatorname {ord} _{Z}(f)\geq -n_{Z}}
+Divisor_(algebraic_geometry)_16,{\displaystyle {\begin{cases}{\mathcal {O}}(D)\to {\mathcal {O}}_{X}\\f\mapsto fg\end{cases}}}
+Divisor_(algebraic_geometry)_17,{\displaystyle \operatorname {div} (fg)}
+Divisor_(algebraic_geometry)_18,{\displaystyle fg}
+Divisor_(algebraic_geometry)_19,{\displaystyle {\mathcal {O}}(D)}
+Divisor_(algebraic_geometry)_20,{\displaystyle {\mathcal {O}}_{X}}
+Divisor_(algebraic_geometry)_21,{\displaystyle {\mathcal {O}}_{X}}
+Divisor_(algebraic_geometry)_22,{\displaystyle {\mathcal {O}}(D)}
+Divisor_(algebraic_geometry)_23,{\displaystyle {\mathcal {O}}(-D).}
+Divisor_(algebraic_geometry)_24,{\displaystyle 0\to {\mathcal {O}}_{X}(-D)\to {\mathcal {O}}_{X}\to {\mathcal {O}}_{D}\to 0.}
+Divisor_(algebraic_geometry)_25,"{\displaystyle H^{1}(X,{\mathcal {O}}_{X}(-D))}"
+Divisor_(algebraic_geometry)_26,{\displaystyle 0\to {\mathcal {O}}_{X}\to {\mathcal {O}}_{X}(D).}
+Divisor_(algebraic_geometry)_27,"{\displaystyle \Gamma (X,{\mathcal {O}}_{X}(D)),}"
+Divisor_(algebraic_geometry)_28,{\displaystyle {\mathcal {O}}(D)}
+Divisor_(algebraic_geometry)_29,{\displaystyle {\mathcal {O}}(D)}
+Divisor_(algebraic_geometry)_30,{\displaystyle {\mathcal {O}}(D)}
+Divisor_(algebraic_geometry)_31,"{\displaystyle {\mathcal {M}}_{X},}"
+Divisor_(algebraic_geometry)_32,{\displaystyle {\mathcal {O}}(D)}
+Divisor_(algebraic_geometry)_33,{\displaystyle {\mathcal {O}}(E)}
+Divisor_(algebraic_geometry)_34,{\displaystyle {\mathcal {O}}_{X}}
+Divisor_(algebraic_geometry)_35,{\displaystyle D\mapsto {\mathcal {O}}_{X}(D)}
+Divisor_(algebraic_geometry)_36,{\displaystyle \operatorname {Pic} _{X/k}^{0}.}
+Divisor_(algebraic_geometry)_37,{\displaystyle \operatorname {Pic} _{X/k}^{0}}
+Divisor_(algebraic_geometry)_38,{\displaystyle j^{*}:\operatorname {Cl} (X)\to \operatorname {Cl} (U)=\operatorname {Pic} (U)}
+Divisor_(algebraic_geometry)_39,{\displaystyle {\mathcal {O}}(K_{X})}
+Divisor_(algebraic_geometry)_40,"{\displaystyle j_{*}\Omega _{U}^{n},}"
+Divisor_(algebraic_geometry)_41,{\displaystyle \omega ={dy_{1} \over y_{1}}\wedge \dots \wedge {dy_{n} \over y_{n}}.}
+Divisor_(algebraic_geometry)_42,{\displaystyle \Omega _{\mathbf {P} ^{n}}^{n}}
+Divisor_(algebraic_geometry)_43,{\displaystyle \operatorname {div} (\omega )=-Z_{0}-\dots -Z_{n}}
+Divisor_(algebraic_geometry)_44,{\displaystyle K_{\mathbf {P} ^{n}}=[\operatorname {div} (\omega )]=-(n+1)[H]}
+Divisor_(algebraic_geometry)_45,{\displaystyle {\mathcal {M}}_{X}.}
+Divisor_(algebraic_geometry)_46,{\displaystyle 0\to {\mathcal {O}}_{X}^{\times }\to {\mathcal {M}}_{X}^{\times }\to {\mathcal {M}}_{X}^{\times }/{\mathcal {O}}_{X}^{\times }\to 0.}
+Divisor_(algebraic_geometry)_47,{\displaystyle {\mathcal {M}}_{X}^{\times }/{\mathcal {O}}_{X}^{\times }.}
+Divisor_(algebraic_geometry)_48,"{\displaystyle \{(U_{i},f_{i})\},}"
+Divisor_(algebraic_geometry)_49,{\displaystyle \{U_{i}\}}
+Divisor_(algebraic_geometry)_50,"{\displaystyle X,f_{i}}"
+Divisor_(algebraic_geometry)_51,{\displaystyle {\mathcal {M}}_{X}^{\times }}
+Divisor_(algebraic_geometry)_52,"{\displaystyle U_{i},}"
+Divisor_(algebraic_geometry)_53,{\displaystyle f_{i}=f_{j}}
+Divisor_(algebraic_geometry)_54,{\displaystyle U_{i}\cap U_{j}}
+Divisor_(algebraic_geometry)_55,{\displaystyle {\mathcal {O}}_{X}^{\times }.}
+Divisor_(algebraic_geometry)_56,{\displaystyle {\mathcal {O}}_{X}}
+Divisor_(algebraic_geometry)_57,{\displaystyle {\mathcal {M}}_{X}.}
+Divisor_(algebraic_geometry)_58,"{\displaystyle {\mathcal {O}}_{U}\cdot f,}"
+Divisor_(algebraic_geometry)_59,{\displaystyle f\in {\mathcal {M}}_{X}^{\times }(U)}
+Divisor_(algebraic_geometry)_60,{\displaystyle {\mathcal {M}}_{X}.}
+Divisor_(algebraic_geometry)_61,"{\displaystyle \{(U_{i},f_{i})\},}"
+Divisor_(algebraic_geometry)_62,{\displaystyle {\mathcal {O}}(D)}
+Divisor_(algebraic_geometry)_63,"{\displaystyle H^{0}(X,{\mathcal {M}}_{X}^{\times })\to H^{0}(X,{\mathcal {M}}_{X}^{\times }/{\mathcal {O}}_{X}^{\times })\to H^{1}(X,{\mathcal {O}}_{X}^{\times })=\operatorname {Pic} (X).}"
+Divisor_(algebraic_geometry)_64,"{\displaystyle H^{0}(X,{\mathcal {M}}_{X}^{\times })\to H^{0}(X,{\mathcal {M}}_{X}^{\times }/{\mathcal {O}}_{X}^{\times }),}"
+Divisor_(algebraic_geometry)_65,{\displaystyle 0\to {\mathcal {O}}_{X}\to {\mathcal {O}}_{X}(D)\to {\mathcal {O}}_{D}(D)\to 0.}
+Divisor_(algebraic_geometry)_66,{\displaystyle {\mathcal {O}}(D)}
+Divisor_(algebraic_geometry)_67,{\displaystyle {\mathcal {O}}(D)}
+Divisor_(algebraic_geometry)_68,{\displaystyle O_{D}(D)}
+Divisor_(algebraic_geometry)_69,{\displaystyle {\mathcal {O}}(D)}
+Divisor_(algebraic_geometry)_70,{\displaystyle {\mathcal {O}}(D)}
+Divisor_(algebraic_geometry)_71,{\displaystyle {\mathcal {O}}(D)}
+Divisor_(algebraic_geometry)_72,{\displaystyle {\mathcal {O}}(D)}
+Divisor_(algebraic_geometry)_73,{\displaystyle {\mathcal {O}}_{U_{i}}\to {\mathcal {O}}(D)|_{U_{i}}.}
+Divisor_(algebraic_geometry)_74,"{\displaystyle 1\in \Gamma (U_{i},{\mathcal {O}}_{U_{i}})=\Gamma (U_{i},{\mathcal {O}}_{X})}"
+Divisor_(algebraic_geometry)_75,{\displaystyle {\mathcal {O}}(D)}
+Divisor_(algebraic_geometry)_76,{\displaystyle {\mathcal {O}}(D)}
+Divisor_(algebraic_geometry)_77,"{\displaystyle \{(U_{i},f_{i})\}}"
+Divisor_(algebraic_geometry)_78,{\displaystyle {\mathcal {O}}(D)}
+Divisor_(algebraic_geometry)_79,{\displaystyle {\mathcal {O}}(D)}
+Divisor_(algebraic_geometry)_80,{\displaystyle f_{i}/f_{j}.}
+Divisor_(algebraic_geometry)_81,"{\displaystyle \{(U_{i},f_{i})\}}"
+Divisor_(algebraic_geometry)_82,{\displaystyle \operatorname {div} }
+Divisor_(algebraic_geometry)_83,{\displaystyle {\mathcal {O}}(D)}
+Divisor_(algebraic_geometry)_84,"{\displaystyle S'\to S,}"
+Divisor_(algebraic_geometry)_85,"{\displaystyle X\times _{S}S',}"
+Divisor_(algebraic_geometry)_86,"{\displaystyle H^{0}(X,{\mathcal {O}}_{X}(mD-H))\neq 0}"
+Divisor_(algebraic_geometry)_87,"{\displaystyle m\in N(X,D)}"
+Divisor_(algebraic_geometry)_88,{\displaystyle {\overline {\varphi (Z)}}}
+Divisor_(algebraic_geometry)_89,{\displaystyle {\overline {\varphi (Z)}}}
+Divisor_(algebraic_geometry)_90,{\displaystyle \varphi ^{*}Z}
+Divisor_(algebraic_geometry)_91,{\displaystyle \varphi ^{-1}{\mathcal {M}}_{Y}\to {\mathcal {M}}_{X}}
+Divisor_(algebraic_geometry)_92,"{\displaystyle \{(U_{i},f_{i})\}}"
+Divisor_(algebraic_geometry)_93,"{\displaystyle \{(\varphi ^{-1}(U_{i}),f_{i}\circ \varphi )\}}"
+Divisor_(algebraic_geometry)_94,"{\displaystyle c_{1}:\operatorname {Pic} (X)\to \operatorname {Cl} (X),}"
+Divisor_(algebraic_geometry)_95,"{\displaystyle \operatorname {Cl} (X)\to H_{2n-2}^{\operatorname {BM} }(X,\mathbf {Z} ).}"
+Divisor_(algebraic_geometry)_96,"{\displaystyle \operatorname {Pic} (X)\to H^{2}(X,\mathbf {Z} ).}"
+Divisor_(algebraic_geometry)_97,"{\displaystyle {\begin{array}{ccc}\operatorname {Pic} (X)&\longrightarrow &H^{2}(X,\mathbf {Z} )\\\downarrow &&\downarrow \\\operatorname {Cl} (X)&\longrightarrow &H_{2n-2}^{\operatorname {BM} }(X,\mathbf {Z} )\end{array}}}"
+Divisor_(algebraic_geometry)_98,{\displaystyle {\mathcal {O}}(D)}
+Divisor_(algebraic_geometry)_99,{\displaystyle {\mathcal {O}}(D)}
+Divisor_(algebraic_geometry)_100,{\displaystyle {\mathcal {O}}(1)}
+Divisor_(algebraic_geometry)_101,{\displaystyle D=\sum _{j}a_{j}Z_{j}}
+Divisor_(algebraic_geometry)_102,"{\displaystyle \lfloor D\rfloor =\sum \lfloor a_{j}\rfloor Z_{j},}"
+Divisor_(algebraic_geometry)_103,{\displaystyle \lfloor a\rfloor }
+Divisor_(algebraic_geometry)_104,{\displaystyle {\mathcal {O}}(D)}
+Divisor_(algebraic_geometry)_105,{\displaystyle {\mathcal {O}}(\lfloor D\rfloor ).}

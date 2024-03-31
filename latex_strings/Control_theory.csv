@@ -1,0 +1,13 @@
+name,latex
+Control_theory_0,{\displaystyle x}
+Control_theory_1,{\displaystyle \rho }
+Control_theory_2,{\displaystyle \ x[n]=0.5^{n}u[n]}
+Control_theory_3,{\displaystyle \ X(z)={\frac {1}{1-0.5z^{-1}}}}
+Control_theory_4,{\displaystyle z=0.5}
+Control_theory_5,{\displaystyle \ x[n]=1.5^{n}u[n]}
+Control_theory_6,{\displaystyle \ X(z)={\frac {1}{1-1.5z^{-1}}}}
+Control_theory_7,{\displaystyle z=1.5}
+Control_theory_8,{\displaystyle Re[\lambda ]<-{\overline {\lambda }}}
+Control_theory_9,{\displaystyle {\overline {\lambda }}}
+Control_theory_10,{\displaystyle Re[\lambda ]<0}
+Control_theory_11,{\displaystyle m{\ddot {x}}(t)=-Kx(t)-\mathrm {B} {\dot {x}}(t)}

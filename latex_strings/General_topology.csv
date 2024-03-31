@@ -1,0 +1,43 @@
+name,latex
+General_topology_0,{\displaystyle f\colon X\rightarrow T}
+General_topology_1,"{\displaystyle f\colon (X,\mathrm {cl} )\to (X',\mathrm {cl} ')\,}"
+General_topology_2,{\displaystyle f(\mathrm {cl} (A))\subseteq \mathrm {cl} '(f(A)).}
+General_topology_3,{\displaystyle f^{-1}(\mathrm {cl} '(A'))\supseteq \mathrm {cl} (f^{-1}(A')).}
+General_topology_4,"{\displaystyle f\colon (X,\mathrm {int} )\to (X',\mathrm {int} ')\,}"
+General_topology_5,{\displaystyle f^{-1}(\mathrm {int} '(A))\subseteq \mathrm {int} (f^{-1}(A))}
+General_topology_6,"{\displaystyle (X,\tau _{X})\rightarrow (Y,\tau _{Y})}"
+General_topology_7,"{\displaystyle f\colon X\rightarrow S,\,}"
+General_topology_8,{\displaystyle S\rightarrow X}
+General_topology_9,{\displaystyle X\rightarrow S.}
+General_topology_10,{\displaystyle \{U_{\alpha }\}_{\alpha \in A}}
+General_topology_11,"{\displaystyle X=\bigcup _{\alpha \in A}U_{\alpha },}"
+General_topology_12,{\displaystyle X=\bigcup _{i\in J}U_{i}.}
+General_topology_13,{\displaystyle \Gamma _{x}}
+General_topology_14,{\displaystyle \Gamma _{x}'}
+General_topology_15,{\displaystyle \Gamma _{x}\subset \Gamma '_{x}}
+General_topology_16,"{\displaystyle X:=\prod _{i\in I}X_{i},}"
+General_topology_17,{\displaystyle i\in I}
+General_topology_18,{\displaystyle \prod _{i\in I}U_{i}}
+General_topology_19,{\displaystyle \prod _{i\in I}X_{i}}
+General_topology_20,"{\displaystyle (M,d)}"
+General_topology_21,{\displaystyle M}
+General_topology_22,{\displaystyle d}
+General_topology_23,{\displaystyle M}
+General_topology_24,{\displaystyle d\colon M\times M\rightarrow \mathbb {R} }
+General_topology_25,"{\displaystyle x,y,z\in M}"
+General_topology_26,"{\displaystyle d(x,y)\geq 0}"
+General_topology_27,"{\displaystyle d(x,y)=0\,}"
+General_topology_28,"{\displaystyle x=y\,}"
+General_topology_29,"{\displaystyle d(x,y)=d(y,x)\,}"
+General_topology_30,"{\displaystyle d(x,z)\leq d(x,y)+d(y,z)}"
+General_topology_31,{\displaystyle d}
+General_topology_32,{\displaystyle d}
+General_topology_33,{\displaystyle M}
+General_topology_34,{\displaystyle \cdot :A\times A\longrightarrow A}
+General_topology_35,"{\displaystyle (a,b)\longmapsto a\cdot b}"
+General_topology_36,"{\displaystyle (X,\tau )}"
+General_topology_37,"{\displaystyle d\colon X\times X\to [0,\infty )}"
+General_topology_38,{\displaystyle \tau }
+General_topology_39,{\displaystyle \beta }
+General_topology_40,{\displaystyle \beta }
+General_topology_41,{\displaystyle \beta }

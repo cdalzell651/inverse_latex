@@ -1,0 +1,34 @@
+name,latex
+Ring_theory_0,{\displaystyle \mathbb {Z} }
+Ring_theory_1,{\displaystyle 0=\mathbb {Z} /1\mathbb {Z} }
+Ring_theory_2,{\displaystyle \mathbb {Z} /1\mathbb {Z} }
+Ring_theory_3,{\displaystyle \mathbb {Z} /p^{n}\mathbb {Z} }
+Ring_theory_4,{\displaystyle \mathbb {Z} (p^{\infty })}
+Ring_theory_5,{\displaystyle \mathbb {T} }
+Ring_theory_6,{\displaystyle \mathbb {Z} }
+Ring_theory_7,{\displaystyle \mathbb {Z} [1/p]}
+Ring_theory_8,{\displaystyle \mathbb {R} }
+Ring_theory_9,{\displaystyle \mathbb {Z} _{p}}
+Ring_theory_10,{\displaystyle \mathbb {Q} _{p}}
+Ring_theory_11,{\displaystyle \mathbb {T} _{p}}
+Ring_theory_13,"{\displaystyle k[t_{1},\cdots ,t_{n}]}"
+Ring_theory_14,"{\displaystyle (R,{\mathfrak {m}})}"
+Ring_theory_15,{\displaystyle {\mathfrak {m}}}
+Ring_theory_16,{\displaystyle \textstyle \operatorname {gr} _{\mathfrak {m}}(R)=\bigoplus _{k\geq 0}{\mathfrak {m}}^{k}/{{\mathfrak {m}}^{k+1}}}
+Ring_theory_17,{\displaystyle {\mathfrak {p}}\subset {\mathfrak {p}}'}
+Ring_theory_19,{\displaystyle {\mathfrak {p}}}
+Ring_theory_20,{\displaystyle {\mathfrak {p}}'}
+Ring_theory_21,{\displaystyle {\mathfrak {p}}}
+Ring_theory_22,{\displaystyle \operatorname {dim} R=\operatorname {ht} {\mathfrak {p}}+\operatorname {dim} R/{\mathfrak {p}}}
+Ring_theory_23,{\displaystyle \operatorname {ht} {\mathfrak {p}}}
+Ring_theory_24,{\displaystyle {\mathfrak {p}}}
+Ring_theory_25,{\displaystyle \mathbf {P} (R)}
+Ring_theory_26,{\displaystyle \mathbf {P} _{n}(R)}
+Ring_theory_27,"{\displaystyle \operatorname {Spec} R\to \mathbb {Z} ,\,{\mathfrak {p}}\mapsto \dim M\otimes _{R}k({\mathfrak {p}})}"
+Ring_theory_28,{\displaystyle \mathbf {P} _{1}(R)}
+Ring_theory_29,{\displaystyle 1\to R^{*}\to F^{*}{\overset {f\mapsto fR}{\to }}\operatorname {Cart} (R)\to \operatorname {Pic} (R)\to 1}
+Ring_theory_30,{\displaystyle \operatorname {Cart} (R)}
+Ring_theory_31,{\displaystyle \mathbf {P} (R)}
+Ring_theory_32,{\displaystyle k[V]}
+Ring_theory_33,"{\displaystyle R[\sigma _{1},\ldots ,\sigma _{n}]}"
+Ring_theory_34,{\displaystyle \sigma _{i}}

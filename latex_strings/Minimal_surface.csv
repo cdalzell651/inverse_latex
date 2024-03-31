@@ -1,0 +1,25 @@
+name,latex
+Minimal_surface_0,{\displaystyle \mathbb {R} ^{3}}
+Minimal_surface_1,{\displaystyle M\subset \mathbb {R} ^{3}}
+Minimal_surface_2,{\displaystyle M\subset \mathbb {R} ^{3}}
+Minimal_surface_3,{\displaystyle M\subset \mathbb {R} ^{3}}
+Minimal_surface_4,{\displaystyle M\subset \mathbb {R} ^{3}}
+Minimal_surface_5,{\displaystyle (1+u_{x}^{2})u_{yy}-2u_{x}u_{y}u_{xy}+(1+u_{y}^{2})u_{xx}=0}
+Minimal_surface_6,{\displaystyle X:M\rightarrow \mathbb {R} ^{3}}
+Minimal_surface_7,{\displaystyle p\in M}
+Minimal_surface_8,"{\displaystyle X=(x_{1},x_{2},x_{3}):M\rightarrow \mathbb {R} ^{3}}"
+Minimal_surface_9,{\displaystyle X}
+Minimal_surface_10,{\displaystyle x_{i}}
+Minimal_surface_11,{\displaystyle M}
+Minimal_surface_12,{\displaystyle i}
+Minimal_surface_13,{\displaystyle \mathbb {R} ^{3}}
+Minimal_surface_14,{\displaystyle M\subset \mathbb {R} ^{3}}
+Minimal_surface_15,{\displaystyle g:M\rightarrow \mathbb {C} \cup {\infty }}
+Minimal_surface_16,{\displaystyle M}
+Minimal_surface_17,{\displaystyle \mathbb {R} ^{3}}
+Minimal_surface_18,"{\displaystyle z=z(x,y)}"
+Minimal_surface_19,{\displaystyle {\frac {d}{dx}}\left({\frac {z_{x}}{\sqrt {1+z_{x}^{2}+z_{y}^{2}}}}\right)+{\frac {d}{dy}}\left({\frac {z_{y}}{\sqrt {1+z_{x}^{2}+z_{y}^{2}}}}\right)=0}
+Minimal_surface_20,{\displaystyle \left(1+z_{x}^{2}\right)z_{yy}-2z_{x}z_{y}z_{xy}+\left(1+z_{y}^{2}\right)z_{xx}=0}
+Minimal_surface_21,{\displaystyle \mathbb {R} ^{3}}
+Minimal_surface_22,{\displaystyle \mathbb {R} ^{3}}
+Minimal_surface_23,{\displaystyle \mathbb {R} ^{3}}

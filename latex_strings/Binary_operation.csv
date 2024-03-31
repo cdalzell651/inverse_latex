@@ -1,0 +1,96 @@
+name,latex
+Binary_operation_0,{\displaystyle \circ }
+Binary_operation_1,{\displaystyle x}
+Binary_operation_2,{\displaystyle y}
+Binary_operation_3,{\displaystyle x\circ y}
+Binary_operation_4,{\displaystyle S}
+Binary_operation_5,{\displaystyle S\times S}
+Binary_operation_6,{\displaystyle S}
+Binary_operation_7,"{\displaystyle \,f\colon S\times S\rightarrow S.}"
+Binary_operation_8,{\displaystyle f}
+Binary_operation_9,{\displaystyle f}
+Binary_operation_10,{\displaystyle {\frac {a}{0}}}
+Binary_operation_11,{\displaystyle a}
+Binary_operation_12,{\displaystyle S\times S}
+Binary_operation_13,{\displaystyle +}
+Binary_operation_14,{\displaystyle \times }
+Binary_operation_15,{\displaystyle \mathbb {R} }
+Binary_operation_16,"{\displaystyle f(a,b)=a+b}"
+Binary_operation_17,{\displaystyle \mathbb {N} }
+Binary_operation_18,"{\displaystyle f(a,b)=a+b}"
+Binary_operation_19,"{\displaystyle M(2,\mathbb {R} )}"
+Binary_operation_20,{\displaystyle 2\times 2}
+Binary_operation_21,"{\displaystyle f(A,B)=A+B}"
+Binary_operation_22,{\displaystyle 2\times 2}
+Binary_operation_23,"{\displaystyle M(2,\mathbb {R} )}"
+Binary_operation_24,{\displaystyle 2\times 2}
+Binary_operation_25,"{\displaystyle f(A,B)=AB}"
+Binary_operation_26,{\displaystyle 2\times 2}
+Binary_operation_27,{\displaystyle C}
+Binary_operation_28,{\displaystyle S}
+Binary_operation_29,{\displaystyle h\colon C\rightarrow C}
+Binary_operation_30,{\displaystyle f\colon S\times S\rightarrow S}
+Binary_operation_31,"{\displaystyle f(h_{1},h_{2})(c)=(h_{1}\circ h_{2})(c)=h_{1}(h_{2}(c))}"
+Binary_operation_32,{\displaystyle c\in C}
+Binary_operation_33,{\displaystyle h_{1}}
+Binary_operation_34,{\displaystyle h_{2}}
+Binary_operation_35,{\displaystyle S}
+Binary_operation_36,{\displaystyle f}
+Binary_operation_37,{\displaystyle C}
+Binary_operation_38,{\displaystyle S}
+Binary_operation_39,"{\displaystyle f(a,b)=f(b,a)}"
+Binary_operation_40,{\displaystyle a}
+Binary_operation_41,{\displaystyle b}
+Binary_operation_42,{\displaystyle S}
+Binary_operation_43,"{\displaystyle f(f(a,b),c)=f(a,f(b,c))}"
+Binary_operation_44,{\displaystyle a}
+Binary_operation_45,{\displaystyle b}
+Binary_operation_46,{\displaystyle c}
+Binary_operation_47,{\displaystyle S}
+Binary_operation_48,{\displaystyle \mathbb {R} }
+Binary_operation_49,"{\displaystyle f(a,b)=a-b}"
+Binary_operation_50,{\displaystyle a-b\neq b-a}
+Binary_operation_51,{\displaystyle a-(b-c)\neq (a-b)-c}
+Binary_operation_52,{\displaystyle 1-(2-3)=2}
+Binary_operation_53,{\displaystyle (1-2)-3=-4}
+Binary_operation_54,{\displaystyle \mathbb {N} }
+Binary_operation_55,"{\displaystyle f(a,b)=a^{b}}"
+Binary_operation_56,{\displaystyle a^{b}\neq b^{a}}
+Binary_operation_57,"{\displaystyle f(f(a,b),c)\neq f(a,f(b,c))}"
+Binary_operation_58,{\displaystyle a=2}
+Binary_operation_59,{\displaystyle b=3}
+Binary_operation_60,{\displaystyle c=2}
+Binary_operation_61,"{\displaystyle f(2^{3},2)=f(8,2)=8^{2}=64}"
+Binary_operation_62,"{\displaystyle f(2,3^{2})=f(2,9)=2^{9}=512}"
+Binary_operation_63,{\displaystyle \mathbb {N} }
+Binary_operation_64,{\displaystyle \mathbb {Z} }
+Binary_operation_65,{\displaystyle a=0}
+Binary_operation_66,{\displaystyle b}
+Binary_operation_67,{\displaystyle 1}
+Binary_operation_68,"{\displaystyle f(a,1)=a}"
+Binary_operation_69,{\displaystyle a}
+Binary_operation_70,"{\displaystyle f(1,b)\neq b}"
+Binary_operation_71,{\displaystyle \div }
+Binary_operation_72,{\displaystyle \uparrow \uparrow }
+Binary_operation_73,{\displaystyle a\ast b}
+Binary_operation_74,{\displaystyle a+b}
+Binary_operation_75,{\displaystyle a\cdot b}
+Binary_operation_76,{\displaystyle ab}
+Binary_operation_77,"{\displaystyle f(a,b)}"
+Binary_operation_78,{\displaystyle \ast ab}
+Binary_operation_79,{\displaystyle ab\ast }
+Binary_operation_80,{\displaystyle f}
+Binary_operation_81,{\displaystyle S}
+Binary_operation_82,{\displaystyle S}
+Binary_operation_83,"{\displaystyle (a,b,f(a,b))}"
+Binary_operation_84,{\displaystyle S\times S\times S}
+Binary_operation_85,{\displaystyle a}
+Binary_operation_86,{\displaystyle b}
+Binary_operation_87,{\displaystyle S}
+Binary_operation_88,{\displaystyle K}
+Binary_operation_89,{\displaystyle S}
+Binary_operation_90,{\displaystyle S\times S}
+Binary_operation_91,{\displaystyle K}
+Binary_operation_92,{\displaystyle K}
+Binary_operation_93,{\displaystyle S}
+Binary_operation_94,{\displaystyle K}

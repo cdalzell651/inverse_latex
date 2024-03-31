@@ -1,0 +1,43 @@
+name,latex
+Doyle_spiral_0,{\displaystyle a}
+Doyle_spiral_1,{\displaystyle b}
+Doyle_spiral_2,{\displaystyle c={\tfrac {b}{a}}}
+Doyle_spiral_3,{\displaystyle r}
+Doyle_spiral_4,{\displaystyle ra}
+Doyle_spiral_5,{\displaystyle rb}
+Doyle_spiral_6,{\displaystyle rc}
+Doyle_spiral_7,{\displaystyle r/a}
+Doyle_spiral_8,{\displaystyle r/b}
+Doyle_spiral_9,{\displaystyle r/c}
+Doyle_spiral_10,{\displaystyle a}
+Doyle_spiral_11,{\displaystyle b}
+Doyle_spiral_12,{\displaystyle c}
+Doyle_spiral_13,"{\displaystyle \dots ,ra^{-2},ra^{-1},r,ra,ra^{2},\dots }"
+Doyle_spiral_14,{\displaystyle b}
+Doyle_spiral_15,{\displaystyle c}
+Doyle_spiral_16,{\displaystyle \infty }
+Doyle_spiral_17,"{\displaystyle (p,q)}"
+Doyle_spiral_18,{\displaystyle p}
+Doyle_spiral_19,{\displaystyle q}
+Doyle_spiral_20,{\displaystyle p\leq q}
+Doyle_spiral_21,"{\displaystyle (p,q)}"
+Doyle_spiral_22,{\displaystyle 1<q/2\leq p\leq q}
+Doyle_spiral_23,{\displaystyle q-p}
+Doyle_spiral_24,"{\displaystyle (p,q)}"
+Doyle_spiral_25,{\displaystyle a}
+Doyle_spiral_26,{\displaystyle b}
+Doyle_spiral_27,{\displaystyle c}
+Doyle_spiral_28,{\displaystyle p}
+Doyle_spiral_29,{\displaystyle q}
+Doyle_spiral_30,{\displaystyle a=\varphi +{\sqrt {\varphi }}}
+Doyle_spiral_31,{\displaystyle b=a^{3}}
+Doyle_spiral_32,{\displaystyle c=a^{2}}
+Doyle_spiral_33,{\displaystyle \varphi }
+Doyle_spiral_34,{\displaystyle a}
+Doyle_spiral_35,{\displaystyle p=q/2}
+Doyle_spiral_36,{\displaystyle p}
+Doyle_spiral_37,{\displaystyle q}
+Doyle_spiral_38,"{\displaystyle (p,2p)}"
+Doyle_spiral_39,{\displaystyle 60^{\circ }}
+Doyle_spiral_40,{\displaystyle 2\pi /\varphi ^{2}\approx 137.5^{\circ }}
+Doyle_spiral_41,{\displaystyle \varphi }

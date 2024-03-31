@@ -1,0 +1,216 @@
+name,latex
+Stochastic_process_0,{\displaystyle n}
+Stochastic_process_1,{\displaystyle n}
+Stochastic_process_2,{\displaystyle n}
+Stochastic_process_3,{\displaystyle n}
+Stochastic_process_4,{\displaystyle n}
+Stochastic_process_5,{\displaystyle \mathbb {R} ^{n}}
+Stochastic_process_6,{\displaystyle \{X(t)\}_{t\in T}}
+Stochastic_process_7,{\displaystyle \{X_{t}\}_{t\in T}}
+Stochastic_process_8,{\displaystyle \{X_{t}\}}
+Stochastic_process_9,{\displaystyle \{X(t)\}}
+Stochastic_process_10,{\displaystyle X}
+Stochastic_process_11,{\displaystyle X(t)}
+Stochastic_process_12,{\displaystyle X(t)}
+Stochastic_process_13,{\displaystyle X_{t}}
+Stochastic_process_14,{\displaystyle t}
+Stochastic_process_15,"{\displaystyle T=[0,\infty )}"
+Stochastic_process_16,"{\displaystyle (X_{t},t\geq 0)}"
+Stochastic_process_17,{\displaystyle p}
+Stochastic_process_18,{\displaystyle 1-p}
+Stochastic_process_19,{\displaystyle p}
+Stochastic_process_20,{\displaystyle p}
+Stochastic_process_21,{\displaystyle 1-p}
+Stochastic_process_22,{\displaystyle p=0.5}
+Stochastic_process_23,{\displaystyle n}
+Stochastic_process_24,{\displaystyle \mu }
+Stochastic_process_25,{\displaystyle \mu }
+Stochastic_process_26,{\displaystyle t}
+Stochastic_process_27,{\displaystyle n}
+Stochastic_process_28,"{\displaystyle (\Omega ,{\mathcal {F}},P)}"
+Stochastic_process_29,{\displaystyle \Omega }
+Stochastic_process_30,{\displaystyle {\mathcal {F}}}
+Stochastic_process_31,{\displaystyle \sigma }
+Stochastic_process_32,{\displaystyle P}
+Stochastic_process_33,{\displaystyle T}
+Stochastic_process_34,{\displaystyle S}
+Stochastic_process_35,{\displaystyle \sigma }
+Stochastic_process_36,{\displaystyle \Sigma }
+Stochastic_process_37,"{\displaystyle (\Omega ,{\mathcal {F}},P)}"
+Stochastic_process_38,"{\displaystyle (S,\Sigma )}"
+Stochastic_process_39,{\displaystyle S}
+Stochastic_process_40,{\displaystyle \{X(t):t\in T\}.}
+Stochastic_process_41,{\displaystyle t\in T}
+Stochastic_process_42,{\displaystyle X(t)}
+Stochastic_process_43,{\displaystyle t}
+Stochastic_process_44,"{\displaystyle \{X(t,\omega ):t\in T\}}"
+Stochastic_process_45,{\displaystyle t\in T}
+Stochastic_process_46,{\displaystyle \omega \in \Omega }
+Stochastic_process_47,{\displaystyle S^{T}}
+Stochastic_process_48,{\displaystyle S^{T}}
+Stochastic_process_49,{\displaystyle T}
+Stochastic_process_50,{\displaystyle S}
+Stochastic_process_51,{\displaystyle T}
+Stochastic_process_52,{\displaystyle T}
+Stochastic_process_53,{\displaystyle T}
+Stochastic_process_54,{\displaystyle \mathbb {R} ^{2}}
+Stochastic_process_55,{\displaystyle n}
+Stochastic_process_56,{\displaystyle t\in T}
+Stochastic_process_57,{\displaystyle S}
+Stochastic_process_58,{\displaystyle n}
+Stochastic_process_59,"{\displaystyle \{X(t,\omega ):t\in T\}}"
+Stochastic_process_60,{\displaystyle \omega \in \Omega }
+Stochastic_process_61,"{\displaystyle X(\cdot ,\omega ):T\rightarrow S,}"
+Stochastic_process_62,{\displaystyle T}
+Stochastic_process_63,"{\displaystyle \{X(t,\omega ):t\in T\}}"
+Stochastic_process_64,{\displaystyle \omega \in \Omega }
+Stochastic_process_65,{\displaystyle T}
+Stochastic_process_66,{\displaystyle S}
+Stochastic_process_67,{\displaystyle \{X(t):t\in T\}}
+Stochastic_process_68,{\displaystyle S}
+Stochastic_process_69,"{\displaystyle T=[0,\infty )}"
+Stochastic_process_70,"{\displaystyle t_{1}\in [0,\infty )}"
+Stochastic_process_71,"{\displaystyle t_{2}\in [0,\infty )}"
+Stochastic_process_72,{\displaystyle t_{1}\leq t_{2}}
+Stochastic_process_73,{\displaystyle X_{t_{2}}-X_{t_{1}}}
+Stochastic_process_74,{\displaystyle S}
+Stochastic_process_75,{\displaystyle S}
+Stochastic_process_76,{\displaystyle n}
+Stochastic_process_77,{\displaystyle X\colon \Omega \rightarrow S^{T}}
+Stochastic_process_78,"{\displaystyle (\Omega ,{\mathcal {F}},P)}"
+Stochastic_process_79,{\displaystyle X}
+Stochastic_process_80,"{\displaystyle \mu =P\circ X^{-1},}"
+Stochastic_process_81,{\displaystyle P}
+Stochastic_process_82,{\displaystyle \circ }
+Stochastic_process_83,{\displaystyle X^{-1}}
+Stochastic_process_84,{\displaystyle S^{T}}
+Stochastic_process_85,{\displaystyle X}
+Stochastic_process_86,{\displaystyle S^{T}}
+Stochastic_process_87,{\displaystyle S}
+Stochastic_process_88,{\displaystyle t\in T}
+Stochastic_process_89,{\displaystyle B}
+Stochastic_process_90,{\displaystyle S^{T}}
+Stochastic_process_91,{\displaystyle X}
+Stochastic_process_92,"{\displaystyle X^{-1}(B)=\{\omega \in \Omega :X(\omega )\in B\},}"
+Stochastic_process_93,{\displaystyle X}
+Stochastic_process_94,{\displaystyle \mu (B)=P(\{\omega \in \Omega :X(\omega )\in B\}).}
+Stochastic_process_95,{\displaystyle X}
+Stochastic_process_96,{\displaystyle \mu }
+Stochastic_process_97,"{\displaystyle t_{1},\dots ,t_{n}\in T}"
+Stochastic_process_98,"{\displaystyle \mu _{t_{1},\dots ,t_{n}}=P\circ (X({t_{1}}),\dots ,X({t_{n}}))^{-1},}"
+Stochastic_process_99,"{\displaystyle \mu _{t_{1},..,t_{n}}}"
+Stochastic_process_100,"{\displaystyle (X({t_{1}}),\dots ,X({t_{n}}))}"
+Stochastic_process_101,{\displaystyle \mu }
+Stochastic_process_102,{\displaystyle T}
+Stochastic_process_103,{\displaystyle C}
+Stochastic_process_104,{\displaystyle n}
+Stochastic_process_105,{\displaystyle S^{n}=S\times \dots \times S}
+Stochastic_process_106,{\displaystyle X}
+Stochastic_process_107,"{\displaystyle \mu _{t_{1},\dots ,t_{n}}(C)=P{\Big (}{\big \{}\omega \in \Omega :{\big (}X_{t_{1}}(\omega ),\dots ,X_{t_{n}}(\omega ){\big )}\in C{\big \}}{\Big )}.}"
+Stochastic_process_108,{\displaystyle X}
+Stochastic_process_109,{\displaystyle t\in T}
+Stochastic_process_110,{\displaystyle X_{t}}
+Stochastic_process_111,{\displaystyle n}
+Stochastic_process_112,"{\displaystyle t_{1},\dots ,t_{n}}"
+Stochastic_process_113,{\displaystyle n}
+Stochastic_process_114,"{\displaystyle X_{t_{1}},\dots X_{t_{n}},}"
+Stochastic_process_115,{\displaystyle T}
+Stochastic_process_116,{\displaystyle X}
+Stochastic_process_117,{\displaystyle X}
+Stochastic_process_118,{\displaystyle t\in T}
+Stochastic_process_119,{\displaystyle X_{t}}
+Stochastic_process_120,{\displaystyle X_{t+h}}
+Stochastic_process_121,{\displaystyle h}
+Stochastic_process_122,{\displaystyle t\in T}
+Stochastic_process_123,{\displaystyle \{{\mathcal {F}}_{t}\}_{t\in T}}
+Stochastic_process_124,"{\displaystyle (\Omega ,{\mathcal {F}},P)}"
+Stochastic_process_125,{\displaystyle {\mathcal {F}}_{s}\subseteq {\mathcal {F}}_{t}\subseteq {\mathcal {F}}}
+Stochastic_process_126,{\displaystyle s\leq t}
+Stochastic_process_127,"{\displaystyle t,s\in T}"
+Stochastic_process_128,{\displaystyle \leq }
+Stochastic_process_129,{\displaystyle T}
+Stochastic_process_130,{\displaystyle X_{t}}
+Stochastic_process_131,{\displaystyle t\in T}
+Stochastic_process_132,{\displaystyle t}
+Stochastic_process_133,{\displaystyle {\mathcal {F}}_{t}}
+Stochastic_process_134,{\displaystyle t}
+Stochastic_process_135,{\displaystyle X_{t}}
+Stochastic_process_136,{\displaystyle {\mathcal {F}}_{t}}
+Stochastic_process_137,{\displaystyle \Omega }
+Stochastic_process_138,{\displaystyle X}
+Stochastic_process_139,{\displaystyle T}
+Stochastic_process_140,{\displaystyle S}
+Stochastic_process_141,"{\displaystyle (\Omega ,{\cal {F}},P)}"
+Stochastic_process_142,{\displaystyle Y}
+Stochastic_process_143,{\displaystyle Y}
+Stochastic_process_144,{\displaystyle t\in T}
+Stochastic_process_145,"{\displaystyle P(X_{t}=Y_{t})=1,}"
+Stochastic_process_146,{\displaystyle n}
+Stochastic_process_147,{\displaystyle X}
+Stochastic_process_148,{\displaystyle Y}
+Stochastic_process_149,"{\displaystyle (\Omega ,{\mathcal {F}},P)}"
+Stochastic_process_150,{\displaystyle T}
+Stochastic_process_151,{\displaystyle S}
+Stochastic_process_152,"{\displaystyle P(X_{t}=Y_{t}{\text{ for all }}t\in T)=1,}"
+Stochastic_process_153,{\displaystyle X}
+Stochastic_process_154,{\displaystyle Y}
+Stochastic_process_155,{\displaystyle X}
+Stochastic_process_156,{\displaystyle Y}
+Stochastic_process_157,{\displaystyle X}
+Stochastic_process_158,"{\displaystyle (\Omega ,{\cal {F}},P)}"
+Stochastic_process_159,{\displaystyle T}
+Stochastic_process_160,{\displaystyle U\subset T}
+Stochastic_process_161,{\displaystyle \Omega _{0}\subset \Omega }
+Stochastic_process_162,{\displaystyle P(\Omega _{0})=0}
+Stochastic_process_163,{\displaystyle G\subset T}
+Stochastic_process_164,"{\displaystyle F\subset \textstyle R=(-\infty ,\infty )}"
+Stochastic_process_165,{\displaystyle \{X_{t}\in F{\text{ for all }}t\in G\cap U\}}
+Stochastic_process_166,{\displaystyle \{X_{t}\in F{\text{ for all }}t\in G\}}
+Stochastic_process_167,{\displaystyle \Omega _{0}}
+Stochastic_process_168,{\displaystyle n}
+Stochastic_process_169,{\displaystyle X}
+Stochastic_process_170,{\displaystyle Y}
+Stochastic_process_171,"{\displaystyle (\Omega ,{\mathcal {F}},P)}"
+Stochastic_process_172,{\displaystyle T}
+Stochastic_process_173,{\displaystyle n\in \mathbb {N} }
+Stochastic_process_174,"{\displaystyle t_{1},\ldots ,t_{n}\in T}"
+Stochastic_process_175,"{\displaystyle \left(X(t_{1}),\ldots ,X(t_{n})\right)}"
+Stochastic_process_176,"{\displaystyle \left(Y(t_{1}),\ldots ,Y(t_{n})\right)}"
+Stochastic_process_177,{\displaystyle \left\{X_{t}\right\}}
+Stochastic_process_178,{\displaystyle \left\{Y_{t}\right\}}
+Stochastic_process_179,"{\displaystyle \operatorname {K} _{\mathbf {X} \mathbf {Y} }(t_{1},t_{2})=\operatorname {E} \left[\left(X(t_{1})-\mu _{X}(t_{1})\right)\left(Y(t_{2})-\mu _{Y}(t_{2})\right)\right]}"
+Stochastic_process_180,"{\displaystyle \left\{X_{t}\right\},\left\{Y_{t}\right\}{\text{ uncorrelated}}\quad \iff \quad \operatorname {K} _{\mathbf {X} \mathbf {Y} }(t_{1},t_{2})=0\quad \forall t_{1},t_{2}}"
+Stochastic_process_181,{\displaystyle X}
+Stochastic_process_182,{\displaystyle Y}
+Stochastic_process_183,{\displaystyle \left\{X_{t}\right\}}
+Stochastic_process_184,{\displaystyle \left\{Y_{t}\right\}}
+Stochastic_process_185,"{\displaystyle \operatorname {R} _{\mathbf {X} \mathbf {Y} }(t_{1},t_{2})=\operatorname {E} [X(t_{1}){\overline {Y(t_{2})}}]}"
+Stochastic_process_186,"{\displaystyle \left\{X_{t}\right\},\left\{Y_{t}\right\}{\text{ orthogonal}}\quad \iff \quad \operatorname {R} _{\mathbf {X} \mathbf {Y} }(t_{1},t_{2})=0\quad \forall t_{1},t_{2}}"
+Stochastic_process_187,"{\displaystyle [0,1]}"
+Stochastic_process_188,"{\displaystyle [0,\infty )}"
+Stochastic_process_189,{\displaystyle D}
+Stochastic_process_190,{\displaystyle D}
+Stochastic_process_191,"{\displaystyle D[0,1]}"
+Stochastic_process_192,"{\displaystyle [0,1]}"
+Stochastic_process_193,{\displaystyle n}
+Stochastic_process_194,"{\displaystyle X_{1},X_{2},X_{3},\dots }"
+Stochastic_process_195,"{\displaystyle X_{1},X_{1}+X_{2},X_{1}+X_{2}+X_{3},\dots }"
+Stochastic_process_196,{\displaystyle X}
+Stochastic_process_197,{\displaystyle n}
+Stochastic_process_198,{\displaystyle 0\leq t_{1}\leq \dots \leq t_{n}}
+Stochastic_process_199,{\displaystyle n-1}
+Stochastic_process_200,"{\displaystyle X_{t_{2}}-X_{t_{1}},\dots ,X_{t_{n}}-X_{t_{n-1}},}"
+Stochastic_process_201,"{\displaystyle I=[0,\infty )}"
+Stochastic_process_202,{\displaystyle n}
+Stochastic_process_203,{\displaystyle n}
+Stochastic_process_204,{\displaystyle n}
+Stochastic_process_205,{\displaystyle n}
+Stochastic_process_206,{\displaystyle X}
+Stochastic_process_207,{\displaystyle T}
+Stochastic_process_208,{\displaystyle X}
+Stochastic_process_209,{\displaystyle t\in T}
+Stochastic_process_210,{\displaystyle X}
+Stochastic_process_211,{\displaystyle t\in T}
+Stochastic_process_212,{\displaystyle X}
+Stochastic_process_213,{\displaystyle t\in T}
+Stochastic_process_214,{\displaystyle n}

@@ -1,0 +1,255 @@
+name,latex
+Free_abelian_group_0,{\displaystyle \mathbb {Z} }
+Free_abelian_group_1,{\displaystyle B}
+Free_abelian_group_2,{\displaystyle B}
+Free_abelian_group_4,{\displaystyle a_{i}}
+Free_abelian_group_5,{\displaystyle b_{i}}
+Free_abelian_group_6,{\displaystyle B}
+Free_abelian_group_7,{\displaystyle B}
+Free_abelian_group_8,{\displaystyle B}
+Free_abelian_group_9,{\displaystyle B}
+Free_abelian_group_10,{\displaystyle B}
+Free_abelian_group_11,{\displaystyle B}
+Free_abelian_group_12,{\displaystyle B}
+Free_abelian_group_13,{\displaystyle B}
+Free_abelian_group_14,{\displaystyle S}
+Free_abelian_group_15,{\displaystyle S}
+Free_abelian_group_16,{\displaystyle +}
+Free_abelian_group_17,{\displaystyle +}
+Free_abelian_group_18,{\displaystyle x}
+Free_abelian_group_19,{\displaystyle y}
+Free_abelian_group_20,{\displaystyle z}
+Free_abelian_group_21,{\displaystyle S}
+Free_abelian_group_22,{\displaystyle x+y=y+x}
+Free_abelian_group_23,{\displaystyle (x+y)+z=x+(y+z)}
+Free_abelian_group_24,{\displaystyle S}
+Free_abelian_group_25,{\displaystyle S}
+Free_abelian_group_26,{\displaystyle 0}
+Free_abelian_group_27,{\displaystyle x}
+Free_abelian_group_28,{\displaystyle x+0=0+x=x}
+Free_abelian_group_29,{\displaystyle x}
+Free_abelian_group_30,{\displaystyle S}
+Free_abelian_group_31,{\displaystyle -x}
+Free_abelian_group_32,{\displaystyle x+(-x)=0}
+Free_abelian_group_33,{\displaystyle B}
+Free_abelian_group_34,{\displaystyle S}
+Free_abelian_group_35,{\displaystyle S}
+Free_abelian_group_36,{\displaystyle b_{i}}
+Free_abelian_group_37,{\displaystyle B}
+Free_abelian_group_38,{\displaystyle k_{i}}
+Free_abelian_group_39,{\displaystyle k_{i}}
+Free_abelian_group_40,{\displaystyle b_{i}}
+Free_abelian_group_41,{\displaystyle k_{i}}
+Free_abelian_group_42,{\displaystyle -k_{i}}
+Free_abelian_group_43,{\displaystyle -b_{i}}
+Free_abelian_group_44,{\displaystyle k_{i}}
+Free_abelian_group_45,{\displaystyle \mathbb {Z} }
+Free_abelian_group_46,{\displaystyle \{1\}}
+Free_abelian_group_47,{\displaystyle x}
+Free_abelian_group_48,{\displaystyle x}
+Free_abelian_group_49,{\displaystyle 1}
+Free_abelian_group_50,{\displaystyle x}
+Free_abelian_group_51,{\displaystyle -x}
+Free_abelian_group_52,{\displaystyle -1}
+Free_abelian_group_53,{\displaystyle \mathbb {Q} ^{+}}
+Free_abelian_group_54,{\displaystyle 1}
+Free_abelian_group_55,{\displaystyle 1/x}
+Free_abelian_group_56,{\displaystyle x}
+Free_abelian_group_57,{\displaystyle q=a/b}
+Free_abelian_group_58,{\displaystyle q}
+Free_abelian_group_59,{\displaystyle a}
+Free_abelian_group_60,{\displaystyle b}
+Free_abelian_group_61,{\displaystyle a}
+Free_abelian_group_62,{\displaystyle b}
+Free_abelian_group_63,{\displaystyle x}
+Free_abelian_group_64,{\displaystyle x}
+Free_abelian_group_65,{\displaystyle i}
+Free_abelian_group_66,{\displaystyle x^{i-1}}
+Free_abelian_group_67,{\displaystyle 5/27}
+Free_abelian_group_68,"{\displaystyle 0,-3,1}"
+Free_abelian_group_69,"{\displaystyle 2,3,5}"
+Free_abelian_group_70,{\displaystyle -3x+x^{2}}
+Free_abelian_group_71,"{\displaystyle 0,-3,1}"
+Free_abelian_group_72,{\displaystyle \mathbb {Z} ^{2}}
+Free_abelian_group_73,"{\displaystyle \{(1,0),(0,1)\}}"
+Free_abelian_group_74,"{\displaystyle (4,3)}"
+Free_abelian_group_75,"{\displaystyle (4,3)=4\cdot (1,0)+3\cdot (0,1)}"
+Free_abelian_group_76,"{\displaystyle \ 4\cdot (1,0):=(1,0)+(1,0)+(1,0)+(1,0)}"
+Free_abelian_group_77,"{\displaystyle (4,3)}"
+Free_abelian_group_78,"{\displaystyle \{(1,0),(1,1)\}}"
+Free_abelian_group_79,"{\displaystyle (4,3)=(1,0)+3\cdot (1,1)}"
+Free_abelian_group_80,{\displaystyle d}
+Free_abelian_group_81,{\displaystyle \mathbb {Z} ^{d}}
+Free_abelian_group_82,{\displaystyle M}
+Free_abelian_group_83,{\displaystyle d\times d}
+Free_abelian_group_84,{\displaystyle \pm 1}
+Free_abelian_group_85,{\displaystyle M}
+Free_abelian_group_86,{\displaystyle d}
+Free_abelian_group_87,{\displaystyle d}
+Free_abelian_group_88,{\displaystyle \mathbb {Z} }
+Free_abelian_group_89,{\displaystyle \{0\}}
+Free_abelian_group_90,{\displaystyle \mathbb {Z} }
+Free_abelian_group_91,{\displaystyle \mathbb {Z} ^{\mathbb {N} }}
+Free_abelian_group_92,{\displaystyle \mathbb {Z} }
+Free_abelian_group_93,{\displaystyle \mathbb {Z} }
+Free_abelian_group_94,{\displaystyle B}
+Free_abelian_group_95,{\displaystyle B}
+Free_abelian_group_96,{\displaystyle \mathbb {Z} ^{(B)}}
+Free_abelian_group_97,{\displaystyle B}
+Free_abelian_group_98,{\displaystyle f(x)}
+Free_abelian_group_99,{\displaystyle g(x)}
+Free_abelian_group_100,{\displaystyle f+g}
+Free_abelian_group_101,{\displaystyle f}
+Free_abelian_group_102,{\displaystyle g}
+Free_abelian_group_103,{\displaystyle (f+g)(x)=f(x)+g(x)}
+Free_abelian_group_104,{\displaystyle \mathbb {Z} ^{(B)}}
+Free_abelian_group_105,{\displaystyle x}
+Free_abelian_group_106,{\displaystyle B}
+Free_abelian_group_107,{\displaystyle \mathbb {Z} ^{(B)}}
+Free_abelian_group_108,{\displaystyle e_{x}}
+Free_abelian_group_109,{\displaystyle e_{x}(x)=1}
+Free_abelian_group_110,{\displaystyle e_{x}(y)=0}
+Free_abelian_group_111,{\displaystyle y\neq x}
+Free_abelian_group_112,{\displaystyle f}
+Free_abelian_group_113,{\displaystyle \mathbb {Z} ^{(B)}}
+Free_abelian_group_114,{\displaystyle f=\sum _{\{x\mid f(x)\neq 0\}}f(x)e_{x}.}
+Free_abelian_group_115,{\displaystyle e_{x}}
+Free_abelian_group_116,{\displaystyle \mathbb {Z} ^{(B)}}
+Free_abelian_group_117,{\displaystyle \mathbb {Z} ^{(B)}}
+Free_abelian_group_118,{\displaystyle B}
+Free_abelian_group_119,{\displaystyle \mathbb {Z} ^{(B)}}
+Free_abelian_group_120,{\displaystyle B}
+Free_abelian_group_121,{\displaystyle B}
+Free_abelian_group_122,{\displaystyle B}
+Free_abelian_group_123,{\displaystyle B}
+Free_abelian_group_124,{\displaystyle B}
+Free_abelian_group_125,{\displaystyle x}
+Free_abelian_group_126,{\displaystyle y}
+Free_abelian_group_127,{\displaystyle x^{-1}y^{-1}xy}
+Free_abelian_group_128,{\displaystyle xy}
+Free_abelian_group_129,{\displaystyle yx}
+Free_abelian_group_130,{\displaystyle x}
+Free_abelian_group_131,{\displaystyle y}
+Free_abelian_group_132,{\displaystyle G}
+Free_abelian_group_133,{\displaystyle B}
+Free_abelian_group_134,{\displaystyle B}
+Free_abelian_group_135,{\displaystyle G}
+Free_abelian_group_136,{\displaystyle B}
+Free_abelian_group_137,{\displaystyle G}
+Free_abelian_group_138,"{\displaystyle 0\,x=0}"
+Free_abelian_group_139,"{\displaystyle 1\,x=x}"
+Free_abelian_group_140,"{\displaystyle n\,x=x+(n-1)\,x,\quad }"
+Free_abelian_group_141,{\displaystyle n>1}
+Free_abelian_group_142,"{\displaystyle n\,x=-((-n)\,x),}"
+Free_abelian_group_143,{\displaystyle n<0}
+Free_abelian_group_144,{\displaystyle \mathbb {Z} }
+Free_abelian_group_145,{\displaystyle \mathbb {Z} }
+Free_abelian_group_146,{\displaystyle \mathbb {Z} }
+Free_abelian_group_147,{\displaystyle \mathbb {Z} }
+Free_abelian_group_148,{\displaystyle \mathbb {Z} }
+Free_abelian_group_149,{\displaystyle F}
+Free_abelian_group_150,{\displaystyle B}
+Free_abelian_group_151,{\displaystyle f}
+Free_abelian_group_152,{\displaystyle B}
+Free_abelian_group_153,{\displaystyle A}
+Free_abelian_group_154,{\displaystyle F}
+Free_abelian_group_155,{\displaystyle A}
+Free_abelian_group_156,{\displaystyle f}
+Free_abelian_group_157,{\displaystyle B}
+Free_abelian_group_158,{\displaystyle B}
+Free_abelian_group_159,{\displaystyle ab}
+Free_abelian_group_160,{\displaystyle ba}
+Free_abelian_group_161,{\displaystyle a}
+Free_abelian_group_162,{\displaystyle b}
+Free_abelian_group_163,{\displaystyle ab=ba}
+Free_abelian_group_164,{\displaystyle n}
+Free_abelian_group_165,{\displaystyle \mathbb {Z} ^{n}}
+Free_abelian_group_166,{\displaystyle G}
+Free_abelian_group_167,{\displaystyle F}
+Free_abelian_group_168,{\displaystyle G}
+Free_abelian_group_169,{\displaystyle G/F}
+Free_abelian_group_170,{\displaystyle G}
+Free_abelian_group_171,{\displaystyle G}
+Free_abelian_group_172,{\displaystyle F}
+Free_abelian_group_173,{\displaystyle G}
+Free_abelian_group_174,"{\displaystyle (e_{1},\ldots ,e_{n})}"
+Free_abelian_group_175,{\displaystyle F}
+Free_abelian_group_176,{\displaystyle d_{1}|d_{2}|\ldots |d_{k}}
+Free_abelian_group_177,"{\displaystyle (d_{1}e_{1},\ldots ,d_{k}e_{k})}"
+Free_abelian_group_178,{\displaystyle G.}
+Free_abelian_group_179,"{\displaystyle d_{1},d_{2},\ldots ,d_{k}}"
+Free_abelian_group_180,{\displaystyle F}
+Free_abelian_group_181,{\displaystyle G}
+Free_abelian_group_182,{\displaystyle r\leq k}
+Free_abelian_group_183,{\displaystyle r}
+Free_abelian_group_184,{\displaystyle d_{1}\cdots d_{r}}
+Free_abelian_group_185,{\displaystyle x}
+Free_abelian_group_186,{\displaystyle n}
+Free_abelian_group_187,{\displaystyle nx=0}
+Free_abelian_group_188,{\displaystyle \mathbb {Q} }
+Free_abelian_group_189,{\displaystyle \mathbb {Q} }
+Free_abelian_group_190,{\displaystyle x\in \mathbb {Q} }
+Free_abelian_group_191,{\displaystyle n}
+Free_abelian_group_192,{\displaystyle x}
+Free_abelian_group_193,{\displaystyle ny}
+Free_abelian_group_194,{\displaystyle y=x/n}
+Free_abelian_group_195,{\displaystyle n}
+Free_abelian_group_196,"{\displaystyle \operatorname {GL} (n,\mathbb {Z} )}"
+Free_abelian_group_197,{\displaystyle n\times n}
+Free_abelian_group_198,{\displaystyle \mathbb {Z} ^{n}}
+Free_abelian_group_199,{\displaystyle A/B}
+Free_abelian_group_200,{\displaystyle A}
+Free_abelian_group_201,{\displaystyle B\oplus A/B}
+Free_abelian_group_202,{\displaystyle A}
+Free_abelian_group_203,{\displaystyle F}
+Free_abelian_group_204,{\displaystyle F}
+Free_abelian_group_205,{\displaystyle A}
+Free_abelian_group_206,{\displaystyle A}
+Free_abelian_group_207,{\displaystyle F=\mathbb {Z} ^{(A)}}
+Free_abelian_group_208,{\displaystyle A}
+Free_abelian_group_209,{\displaystyle F}
+Free_abelian_group_210,{\displaystyle A}
+Free_abelian_group_211,"{\displaystyle \sum _{\{x\mid a_{x}\neq 0\}}a_{x}e_{x}\mapsto \sum _{\{x\mid a_{x}\neq 0\}}a_{x}x,}"
+Free_abelian_group_212,{\displaystyle a_{x}}
+Free_abelian_group_213,{\displaystyle e_{x}}
+Free_abelian_group_214,{\displaystyle F}
+Free_abelian_group_215,{\displaystyle A}
+Free_abelian_group_216,{\displaystyle e_{x}\mapsto x}
+Free_abelian_group_217,{\displaystyle F}
+Free_abelian_group_218,{\displaystyle A}
+Free_abelian_group_219,{\displaystyle G}
+Free_abelian_group_220,{\displaystyle F}
+Free_abelian_group_221,{\displaystyle A}
+Free_abelian_group_222,{\displaystyle F}
+Free_abelian_group_223,{\displaystyle 0\to G\to F\to A\to 0}
+Free_abelian_group_224,{\displaystyle F}
+Free_abelian_group_225,{\displaystyle G}
+Free_abelian_group_226,{\displaystyle A}
+Free_abelian_group_227,{\displaystyle F/G}
+Free_abelian_group_228,{\displaystyle A}
+Free_abelian_group_229,{\displaystyle k}
+Free_abelian_group_230,{\displaystyle k}
+Free_abelian_group_231,{\displaystyle k}
+Free_abelian_group_232,{\displaystyle k}
+Free_abelian_group_233,{\displaystyle k}
+Free_abelian_group_234,{\displaystyle k}
+Free_abelian_group_235,{\displaystyle (k-1)}
+Free_abelian_group_236,{\displaystyle k}
+Free_abelian_group_237,{\displaystyle (k-1)}
+Free_abelian_group_238,{\displaystyle z^{4}/(z^{4}-1)}
+Free_abelian_group_239,{\displaystyle \pm 1}
+Free_abelian_group_240,{\displaystyle \pm i}
+Free_abelian_group_241,{\displaystyle 4e_{0}-e_{1}-e_{-1}-e_{i}-e_{-i}}
+Free_abelian_group_242,{\displaystyle e_{z}}
+Free_abelian_group_243,{\displaystyle z}
+Free_abelian_group_244,{\displaystyle c_{i}}
+Free_abelian_group_245,{\displaystyle m_{i}}
+Free_abelian_group_246,{\displaystyle f(q)=\prod (q-c_{i})^{m_{i}}.}
+Free_abelian_group_247,{\displaystyle \mathbb {Z} [G]}
+Free_abelian_group_248,{\displaystyle G}
+Free_abelian_group_249,{\displaystyle G}
+Free_abelian_group_250,{\displaystyle G}
+Free_abelian_group_251,{\displaystyle \mathbb {Z} [G]}
+Free_abelian_group_252,{\displaystyle P}
+Free_abelian_group_254,{\displaystyle A}
+Free_abelian_group_255,{\displaystyle n}

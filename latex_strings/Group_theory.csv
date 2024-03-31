@@ -1,0 +1,18 @@
+name,latex
+Group_theory_0,{\displaystyle \mathbb {Z} }
+Group_theory_1,{\displaystyle \mathbb {Z} }
+Group_theory_2,{\displaystyle \mathbb {Z} }
+Group_theory_3,{\displaystyle G=\langle S|R\rangle .}
+Group_theory_4,"{\displaystyle m:G\times G\to G,(g,h)\mapsto gh,\quad i:G\to G,g\mapsto g^{-1},}"
+Group_theory_5,"{\displaystyle \rho :G\to \operatorname {GL} (V),}"
+Group_theory_6,{\displaystyle \{g_{i}\}_{i\in I}}
+Group_theory_7,{\displaystyle \langle F\mid D\rangle .}
+Group_theory_8,"{\displaystyle \langle a,b\mid aba^{-1}b^{-1}\rangle }"
+Group_theory_9,{\displaystyle \mathbb {Z} \times \mathbb {Z} .}
+Group_theory_10,"{\displaystyle \langle x,y\mid xyxyx=e\rangle ,}"
+Group_theory_11,{\displaystyle z=xy}
+Group_theory_12,"{\displaystyle G\cong \langle z,y\mid z^{3}=y\rangle \cong \langle z\rangle .}"
+Group_theory_13,{\displaystyle x^{2}-3=0}
+Group_theory_14,{\displaystyle {\sqrt {3}}}
+Group_theory_15,{\displaystyle -{\sqrt {3}}}
+Group_theory_16,"{\displaystyle {\begin{aligned}\sum _{n\geq 1}{\frac {1}{n^{s}}}&=\prod _{p{\text{ prime}}}{\frac {1}{1-p^{-s}}},\\\end{aligned}}\!}"

@@ -1,0 +1,7 @@
+name,latex
+Ludwig_Boltzmann_0,{\displaystyle S=k_{\rm {B}}\ln \Omega \!}
+Ludwig_Boltzmann_1,{\displaystyle S=k\cdot \log W}
+Ludwig_Boltzmann_2,{\displaystyle S=k_{\mathrm {B} }\ln W}
+Ludwig_Boltzmann_3,{\displaystyle W=N!\prod _{i}{\frac {1}{N_{i}!}}}
+Ludwig_Boltzmann_4,{\displaystyle !}
+Ludwig_Boltzmann_5,{\displaystyle {\frac {\partial f}{\partial t}}+v{\frac {\partial f}{\partial x}}+{\frac {F}{m}}{\frac {\partial f}{\partial v}}={\frac {\partial f}{\partial t}}\left.{\!\!{\frac {}{}}}\right|_{\mathrm {collision} }}

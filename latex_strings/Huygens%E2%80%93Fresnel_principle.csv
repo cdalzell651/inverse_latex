@@ -1,0 +1,8 @@
+name,latex
+Huygens%E2%80%93Fresnel_principle_0,{\displaystyle U(r_{0})\propto {\frac {U_{0}e^{ikr_{0}}}{r_{0}}}.}
+Huygens%E2%80%93Fresnel_principle_1,"{\displaystyle U(P)=-{\frac {i}{\lambda }}U(r_{0})\int _{S}{\frac {e^{iks}}{s}}K(\chi )\,dS}"
+Huygens%E2%80%93Fresnel_principle_2,{\displaystyle ~K(\chi )={\frac {1}{2}}(1+\cos \chi )}
+Huygens%E2%80%93Fresnel_principle_3,{\displaystyle ~K(\chi )=\cos \chi }
+Huygens%E2%80%93Fresnel_principle_4,{\displaystyle t'>t}
+Huygens%E2%80%93Fresnel_principle_5,"{\displaystyle \psi '(\mathbf {x} ',t')=i\int d^{3}x\,G(\mathbf {x} ',t';\mathbf {x} ,t)\psi (\mathbf {x} ,t)}"
+Huygens%E2%80%93Fresnel_principle_6,{\displaystyle \psi }

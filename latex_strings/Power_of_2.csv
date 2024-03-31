@@ -1,0 +1,20 @@
+name,latex
+Power_of_2_0,{\displaystyle 2^{2^{n}}}
+Power_of_2_1,{\displaystyle x_{i}}
+Power_of_2_2,{\displaystyle \sum _{i=0}^{\infty }{\frac {1}{2^{2^{i}}x_{i}}}={\frac {1}{2x_{0}}}+{\frac {1}{4x_{1}}}+{\frac {1}{16x_{2}}}+\cdots }
+Power_of_2_3,{\displaystyle 2^{7}\approx ({\tfrac {3}{2}})^{12}}
+Power_of_2_4,{\displaystyle {\frac {\log 3}{\log 2}}=1.5849\ldots \approx {\frac {19}{12}}}
+Power_of_2_5,{\displaystyle 2^{7/12}\approx 3/2}
+Power_of_2_6,{\displaystyle 2^{x}{\tbinom {n}{x}}.}
+Power_of_2_7,{\displaystyle n}
+Power_of_2_8,{\displaystyle 1=2^{0}}
+Power_of_2_9,{\displaystyle \sum _{k=0}^{n-1}2^{k}=2^{0}+2^{1}+2^{2}+\cdots +2^{n-1}=2^{n}-1}
+Power_of_2_10,{\displaystyle n}
+Power_of_2_11,{\displaystyle 1+2^{1}+2^{2}+\cdots +2^{63}}
+Power_of_2_12,{\displaystyle 2^{64}-1}
+Power_of_2_13,{\displaystyle 2^{46}=70\ 368\ 744\ 177\ 664.}
+Power_of_2_14,{\displaystyle a^{n}+b^{n}=(a^{p})^{m}+(b^{p})^{m}}
+Power_of_2_15,{\displaystyle a^{2n}+b^{2n}}
+Power_of_2_16,{\displaystyle a^{2n}+b^{2n}=(a^{n}+b^{n}i)\cdot (a^{n}-b^{n}i)}
+Power_of_2_17,"{\displaystyle \log _{1024/1000}1.5\approx 17.1,}"
+Power_of_2_18,{\displaystyle \log _{1024/1000}2\approx 29.2.}

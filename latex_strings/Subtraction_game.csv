@@ -1,0 +1,20 @@
+name,latex
+Subtraction_game_0,{\displaystyle {\mathcal {P}}}
+Subtraction_game_1,{\displaystyle {\mathcal {N}}}
+Subtraction_game_2,{\displaystyle {\mathcal {P}}}
+Subtraction_game_3,{\displaystyle {\mathcal {N}}}
+Subtraction_game_4,{\displaystyle {\mathcal {P}}}
+Subtraction_game_5,{\displaystyle {\mathcal {N}}}
+Subtraction_game_6,{\displaystyle {\mathcal {P}}}
+Subtraction_game_7,{\displaystyle {\mathcal {P}}}
+Subtraction_game_8,{\displaystyle {\mathcal {P}}}
+Subtraction_game_9,{\displaystyle {\mathcal {N}}}
+Subtraction_game_10,{\displaystyle x}
+Subtraction_game_11,{\displaystyle 2^{x}}
+Subtraction_game_12,{\displaystyle n}
+Subtraction_game_13,{\displaystyle O(n\log ^{2}n)}
+Subtraction_game_14,{\displaystyle n}
+Subtraction_game_15,"{\displaystyle O(\min(ns,nm\log ^{2}n))}"
+Subtraction_game_16,{\displaystyle s}
+Subtraction_game_17,{\displaystyle n}
+Subtraction_game_18,{\displaystyle m}

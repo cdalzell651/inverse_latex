@@ -1,0 +1,78 @@
+name,latex
+Fundamental_theorem_of_algebra_0,"{\displaystyle x^{4}=4x-3,}"
+Fundamental_theorem_of_algebra_1,"{\displaystyle -1+i{\sqrt {2}},}"
+Fundamental_theorem_of_algebra_2,{\displaystyle -1-i{\sqrt {2}}.}
+Fundamental_theorem_of_algebra_3,"{\displaystyle \left(x^{2}-(2+\alpha )x+1+{\sqrt {7}}+\alpha \right)\left(x^{2}-(2-\alpha )x+1+{\sqrt {7}}-\alpha \right),}"
+Fundamental_theorem_of_algebra_4,{\displaystyle \alpha ={\sqrt {4+2{\sqrt {7}}}}.}
+Fundamental_theorem_of_algebra_5,{\displaystyle x^{4}+a^{4}=\left(x^{2}+a{\sqrt {2}}\cdot x+a^{2}\right)\left(x^{2}-a{\sqrt {2}}\cdot x+a^{2}\right).}
+Fundamental_theorem_of_algebra_6,"{\displaystyle c(x-r_{1})\cdots (x-r_{n}),}"
+Fundamental_theorem_of_algebra_7,"{\displaystyle c,r_{1},\ldots ,r_{n}}"
+Fundamental_theorem_of_algebra_8,"{\displaystyle r_{1},\ldots ,r_{n}}"
+Fundamental_theorem_of_algebra_9,{\displaystyle r_{1}}
+Fundamental_theorem_of_algebra_10,{\displaystyle x-r_{1}}
+Fundamental_theorem_of_algebra_11,{\displaystyle n-1}
+Fundamental_theorem_of_algebra_12,{\displaystyle {\overline {r}}}
+Fundamental_theorem_of_algebra_13,{\displaystyle (x-r)(x-{\overline {r}})}
+Fundamental_theorem_of_algebra_14,"{\displaystyle cp_{1}\cdots p_{k},}"
+Fundamental_theorem_of_algebra_15,{\displaystyle p_{i}}
+Fundamental_theorem_of_algebra_16,"{\displaystyle q=p{\overline {p}},}"
+Fundamental_theorem_of_algebra_17,{\displaystyle {\overline {p}}}
+Fundamental_theorem_of_algebra_18,{\displaystyle {\overline {p}}}
+Fundamental_theorem_of_algebra_19,{\displaystyle {\tfrac {1}{2}}|z^{n}|<|p(z)|<{\tfrac {3}{2}}|z^{n}|}
+Fundamental_theorem_of_algebra_20,"{\displaystyle p(x)=(x^{2}-ax-b)q(x)+x\,R_{p(x)}(a,b)+S_{p(x)}(a,b),}"
+Fundamental_theorem_of_algebra_21,{\displaystyle p(z)=a+c_{k}(z-z_{0})^{k}+c_{k+1}(z-z_{0})^{k+1}+\cdots +c_{n}(z-z_{0})^{n}.}
+Fundamental_theorem_of_algebra_22,{\displaystyle q(z)=a+c_{k}(z-z_{0})^{k}}
+Fundamental_theorem_of_algebra_23,{\displaystyle \left|{\frac {p(z)-q(z)}{(z-z_{0})^{k+1}}}\right|\leq M}
+Fundamental_theorem_of_algebra_24,{\displaystyle \theta _{0}=(\arg(a)+\pi -\arg(c_{k}))/k}
+Fundamental_theorem_of_algebra_25,{\displaystyle z=z_{0}+re^{i\theta _{0}}}
+Fundamental_theorem_of_algebra_26,{\displaystyle {\begin{aligned}|p(z)|&\leq |q(z)|+r^{k+1}\left|{\frac {p(z)-q(z)}{r^{k+1}}}\right|\\[4pt]&\leq \left|a+(-1)c_{k}r^{k}e^{i(\arg(a)-\arg(c_{k}))}\right|+Mr^{k+1}\\[4pt]&=|a|-|c_{k}|r^{k}+Mr^{k+1}\end{aligned}}}
+Fundamental_theorem_of_algebra_27,"{\displaystyle {\frac {1}{2\pi i}}\int _{c(r)}{\frac {p'(z)}{p(z)}}\,dz,}"
+Fundamental_theorem_of_algebra_28,"{\displaystyle {\frac {1}{2\pi i}}\int _{c(r)}\left({\frac {p'(z)}{p(z)}}-{\frac {n}{z}}\right)dz={\frac {1}{2\pi i}}\int _{c(r)}{\frac {zp'(z)-np(z)}{zp(z)}}\,dz.}"
+Fundamental_theorem_of_algebra_29,"{\displaystyle R(z)=(zI_{n}-A)^{-1},}"
+Fundamental_theorem_of_algebra_30,"{\displaystyle \int _{c(r)}R(z)\,dz=0.}"
+Fundamental_theorem_of_algebra_31,{\displaystyle R(z)=z^{-1}(I_{n}-z^{-1}A)^{-1}=z^{-1}\sum _{k=0}^{\infty }{\frac {1}{z^{k}}}A^{k}\cdot }
+Fundamental_theorem_of_algebra_32,{\displaystyle \|A\|}
+Fundamental_theorem_of_algebra_33,{\displaystyle r>\|A\|.}
+Fundamental_theorem_of_algebra_34,{\displaystyle \int _{c(r)}R(z)dz=\sum _{k=0}^{\infty }\int _{c(r)}{\frac {dz}{z^{k+1}}}A^{k}=2\pi iI_{n}}
+Fundamental_theorem_of_algebra_35,{\displaystyle x^{5}-x-1}
+Fundamental_theorem_of_algebra_36,{\displaystyle p(z)=p(z_{0})+c_{k}(z-z_{0})^{k}+c_{k+1}(z-z_{0})^{k+1}+\cdots +c_{n}(z-z_{0})^{n}.}
+Fundamental_theorem_of_algebra_37,{\displaystyle \left|z^{n}\right|>\left|a_{n-1}z^{n-1}+\cdots +a_{0}\right|.}
+Fundamental_theorem_of_algebra_38,{\displaystyle Re^{i\theta }}
+Fundamental_theorem_of_algebra_39,"{\displaystyle (0\leq \theta \leq 2\pi ),}"
+Fundamental_theorem_of_algebra_40,{\displaystyle z^{n}=R^{n}e^{in\theta }}
+Fundamental_theorem_of_algebra_41,{\displaystyle (0\leq \theta \leq 2\pi n)}
+Fundamental_theorem_of_algebra_42,{\displaystyle p(z)=a(z-z_{1})(z-z_{2})\cdots (z-z_{n}).}
+Fundamental_theorem_of_algebra_43,{\displaystyle q_{t}(z)=\prod _{1\leq i<j\leq n}\left(z-z_{i}-z_{j}-tz_{i}z_{j}\right).}
+Fundamental_theorem_of_algebra_44,"{\displaystyle \int _{\mathbf {S} ^{2}}K_{g}=4\pi ,}"
+Fundamental_theorem_of_algebra_45,{\displaystyle p(z)=a_{0}+a_{1}z+\cdots +a_{n}z^{n}\neq 0}
+Fundamental_theorem_of_algebra_46,{\displaystyle p^{*}(z)=z^{n}p\left({\tfrac {1}{z}}\right)=a_{0}z^{n}+a_{1}z^{n-1}+\cdots +a_{n}.}
+Fundamental_theorem_of_algebra_47,{\displaystyle f({\tfrac {1}{w}})=p\left({\tfrac {1}{w}}\right)p^{*}\left({\tfrac {1}{w}}\right)=w^{-2n}p^{*}(w)p(w)=w^{-2n}f(w).}
+Fundamental_theorem_of_algebra_48,"{\displaystyle g={\frac {1}{|f(w)|^{\frac {2}{n}}}}\,|dw|^{2}}"
+Fundamental_theorem_of_algebra_49,{\displaystyle g={\frac {1}{\left|f\left({\tfrac {1}{w}}\right)\right|^{\frac {2}{n}}}}\left|d\left({\tfrac {1}{w}}\right)\right|^{2}}
+Fundamental_theorem_of_algebra_50,"{\displaystyle \forall w\in \mathbf {C} :\qquad {\frac {1}{|f(w)|^{\frac {1}{n}}}}K_{g}={\frac {1}{n}}\Delta \log |f(w)|={\frac {1}{n}}\Delta {\text{Re}}(\log f(w))=0,}"
+Fundamental_theorem_of_algebra_51,{\displaystyle z^{n}+a_{n-1}z^{n-1}+\cdots +a_{1}z+a_{0}}
+Fundamental_theorem_of_algebra_52,"{\displaystyle R_{\infty }:=1+\max\{|a_{0}|,\ldots ,|a_{n-1}|\}.}"
+Fundamental_theorem_of_algebra_53,"{\displaystyle a:=(a_{0},a_{1},\ldots ,a_{n-1}),}"
+Fundamental_theorem_of_algebra_54,"{\displaystyle (1,\|a\|_{p}),}"
+Fundamental_theorem_of_algebra_55,"{\displaystyle {\tfrac {1}{p}}+{\tfrac {1}{q}}=1,}"
+Fundamental_theorem_of_algebra_56,"{\displaystyle R_{1}:=\max \left\{1,\sum _{0\leq k<n}|a_{k}|\right\},}"
+Fundamental_theorem_of_algebra_57,"{\displaystyle R_{p}:=\left[1+\left(\sum _{0\leq k<n}|a_{k}|^{p}\right)^{\frac {q}{p}}\right]^{\frac {1}{q}},}"
+Fundamental_theorem_of_algebra_58,{\displaystyle R_{2}:={\sqrt {\sum _{0\leq k\leq n}|a_{k}|^{2}}}}
+Fundamental_theorem_of_algebra_59,"{\displaystyle P(z):=a_{n}z^{n}+a_{n-1}z^{n-1}+\cdots +a_{1}z+a_{0},}"
+Fundamental_theorem_of_algebra_60,{\displaystyle {\tfrac {1}{\zeta }}}
+Fundamental_theorem_of_algebra_61,{\displaystyle a_{0}z^{n}+a_{1}z^{n-1}+\cdots +a_{n-1}z+a_{n}.}
+Fundamental_theorem_of_algebra_62,{\displaystyle |\zeta -\zeta _{0}|}
+Fundamental_theorem_of_algebra_63,{\displaystyle \zeta _{0}}
+Fundamental_theorem_of_algebra_64,{\displaystyle \zeta -\zeta _{0}}
+Fundamental_theorem_of_algebra_65,{\displaystyle P(z+\zeta _{0})}
+Fundamental_theorem_of_algebra_66,{\displaystyle z=\zeta _{0}.}
+Fundamental_theorem_of_algebra_67,{\displaystyle z^{n}+a_{n-1}z^{n-1}+\cdots +a_{1}z+a_{0};}
+Fundamental_theorem_of_algebra_68,"{\displaystyle -\zeta ^{n}=a_{n-1}\zeta ^{n-1}+\cdots +a_{1}\zeta +a_{0},}"
+Fundamental_theorem_of_algebra_69,"{\displaystyle |\zeta |^{n}\leq \|a\|_{p}\left\|\left(\zeta ^{n-1},\ldots ,\zeta ,1\right)\right\|_{q}.}"
+Fundamental_theorem_of_algebra_70,"{\displaystyle |\zeta |^{n}\leq \|a\|_{1}\max \left\{|\zeta |^{n-1},\ldots ,|\zeta |,1\right\}=\|a\|_{1}|\zeta |^{n-1},}"
+Fundamental_theorem_of_algebra_71,"{\displaystyle |\zeta |\leq \max\{1,\|a\|_{1}\}.}"
+Fundamental_theorem_of_algebra_72,"{\displaystyle |\zeta |^{n}\leq \|a\|_{p}\left(|\zeta |^{q(n-1)}+\cdots +|\zeta |^{q}+1\right)^{\frac {1}{q}}=\|a\|_{p}\left({\frac {|\zeta |^{qn}-1}{|\zeta |^{q}-1}}\right)^{\frac {1}{q}}\leq \|a\|_{p}\left({\frac {|\zeta |^{qn}}{|\zeta |^{q}-1}}\right)^{\frac {1}{q}},}"
+Fundamental_theorem_of_algebra_73,{\displaystyle |\zeta |^{nq}\leq \|a\|_{p}^{q}{\frac {|\zeta |^{qn}}{|\zeta |^{q}-1}}}
+Fundamental_theorem_of_algebra_74,{\displaystyle |\zeta |^{q}\leq 1+\|a\|_{p}^{q}.}
+Fundamental_theorem_of_algebra_75,"{\displaystyle |\zeta |\leq \left\|\left(1,\|a\|_{p}\right)\right\|_{q}=R_{p}}"
+Fundamental_theorem_of_algebra_76,{\displaystyle x^{2}-2=0}

@@ -1,0 +1,117 @@
+name,latex
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_0,{\displaystyle \left|\mathbf {A} \right|=A}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_1,{\displaystyle {\mathcal {A}}}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_2,{\displaystyle \mathbf {F} (r)=-{\frac {k}{r^{2}}}\mathbf {\hat {r}} ;}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_3,{\displaystyle V(r)=-k/r}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_4,"{\displaystyle \mathbf {A} =\mathbf {p} \times \mathbf {L} -mk\mathbf {\hat {r}} ,}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_5,{\displaystyle \mathbf {\hat {r}} }
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_6,{\displaystyle \mathbf {\hat {r}} ={\frac {\mathbf {r} }{r}}}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_7,{\displaystyle E={\frac {p^{2}}{2m}}-{\frac {k}{r}}={\frac {1}{2}}mv^{2}-{\frac {k}{r}}.}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_8,{\displaystyle \mathbf {e} ={\frac {\mathbf {A} }{mk}}={\frac {1}{mk}}(\mathbf {p} \times \mathbf {L} )-\mathbf {\hat {r}} .}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_9,{\displaystyle L^{2}}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_10,{\displaystyle u\equiv {\frac {1}{r}}={\frac {km}{L^{2}}}+{\frac {A}{L^{2}}}\cos \theta }
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_11,{\displaystyle \theta }
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_12,"{\displaystyle \mathbf {A} \cdot \mathbf {r} =A\cdot r\cdot \cos \theta =\mathbf {r} \cdot \left(\mathbf {p} \times \mathbf {L} \right)-mkr,}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_13,{\displaystyle \mathbf {r} \cdot \left(\mathbf {p} \times \mathbf {L} \right)=\left(\mathbf {r} \times \mathbf {p} \right)\cdot \mathbf {L} =\mathbf {L} \cdot \mathbf {L} =L^{2}}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_14,{\displaystyle {\frac {1}{r}}={\frac {mk}{L^{2}}}+{\frac {A}{L^{2}}}\cos \theta }
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_15,{\displaystyle {\frac {1}{r}}=C\cdot \left(1+e\cdot \cos \theta \right)}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_16,{\displaystyle e={\frac {A}{\left|mk\right|}}\geq 0}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_17,"{\displaystyle A^{2}=m^{2}k^{2}+2mEL^{2},}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_18,{\displaystyle e^{2}=1+{\frac {2L^{2}}{mk^{2}}}E.}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_19,{\displaystyle mk{\hat {\mathbf {r} }}=\mathbf {p} \times \mathbf {L} -\mathbf {A} }
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_20,{\displaystyle (mk)^{2}=A^{2}+p^{2}L^{2}+2\mathbf {L} \cdot (\mathbf {p} \times \mathbf {A} ).}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_21,{\displaystyle p_{x}^{2}+\left(p_{y}-{\frac {A}{L}}\right)^{2}=\left({\frac {mk}{L}}\right)^{2}.}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_22,{\displaystyle A>mk}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_23,{\displaystyle p_{x}}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_25,"{\displaystyle {\begin{aligned}{\frac {\partial }{\partial L}}\langle h(r)\rangle &={\frac {\partial }{\partial L}}\left\{{\frac {1}{T}}\int _{0}^{T}h(r)\,dt\right\}\\[1em]&={\frac {\partial }{\partial L}}\left\{{\frac {m}{L^{2}}}\int _{0}^{2\pi }r^{2}h(r)\,d\theta \right\},\end{aligned}}}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_26,{\displaystyle h(r)={\frac {kL^{2}}{m^{2}c^{2}}}\left({\frac {1}{r^{3}}}\right).}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_27,{\displaystyle {\frac {1}{r}}={\frac {mk}{L^{2}}}\left(1+{\frac {A}{mk}}\cos \theta \right)}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_28,"{\displaystyle {\frac {6\pi k^{2}}{TL^{2}c^{2}}},}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_29,"{\displaystyle \{L_{i},L_{j}\}=\sum _{s=1}^{3}\varepsilon _{ijs}L_{s},}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_30,"{\displaystyle \{A_{i},L_{j}\}=\sum _{s=1}^{3}\varepsilon _{ijs}A_{s}.}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_31,"{\displaystyle \{A_{i},A_{j}\}=-2mH\sum _{s=1}^{3}\varepsilon _{ijs}L_{s},}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_32,{\displaystyle H}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_33,{\displaystyle H}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_34,"{\displaystyle \{A_{i},H\}=\{L_{i},H\}=0.}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_36,"{\displaystyle \{D_{i},L_{j}\}=\sum _{s=1}^{3}\varepsilon _{ijs}D_{s}.}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_37,"{\displaystyle \{D_{i},D_{j}\}=\sum _{s=1}^{3}\varepsilon _{ijs}L_{s}.}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_38,"{\displaystyle \{D_{i},D_{j}\}=-\sum _{s=1}^{3}\varepsilon _{ijs}L_{s}.}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_39,{\displaystyle |H|=H}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_40,{\displaystyle |H|=-H}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_41,"{\displaystyle {\hat {\mathbf {A} }}_{\mathbf {p} }=\imath ({\hat {l}}_{\mathbf {p} }+1)\mathbf {p} -{\frac {(p^{2}+1)}{2}}\imath \mathbf {\nabla } _{\mathbf {p} },}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_42,{\displaystyle {\hat {l}}_{\mathbf {p} }=(\mathbf {p} \mathbf {\nabla } _{\mathbf {p} })}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_43,"{\displaystyle {\begin{aligned}C_{1}&=\mathbf {D} \cdot \mathbf {D} +\mathbf {L} \cdot \mathbf {L} ={\frac {mk^{2}}{2|E|}},\\C_{2}&=\mathbf {D} \cdot \mathbf {L} =0,\end{aligned}}}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_44,"{\displaystyle \{C_{1},L_{i}\}=\{C_{1},D_{i}\}=\{C_{2},L_{i}\}=\{C_{2},D_{i}\}=0.}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_45,"{\displaystyle A_{s}=-mk{\hat {r}}_{s}+{\frac {1}{2}}\sum _{i=1}^{3}\sum _{j=1}^{3}\varepsilon _{sij}(p_{i}\ell _{j}+\ell _{j}p_{i}),}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_46,{\displaystyle 1/(i\hbar )}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_47,"{\displaystyle {\begin{aligned}J_{0}&=A_{3},\\J_{\pm 1}&=\mp {\tfrac {1}{\sqrt {2}}}\left(A_{1}\pm iA_{2}\right).\end{aligned}}}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_48,"{\displaystyle C_{1}=-{\frac {mk^{2}}{2\hbar ^{2}}}H^{-1}-I,}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_49,"{\displaystyle E_{n}=-{\frac {mk^{2}}{2\hbar ^{2}n^{2}}},}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_51,{\displaystyle |\mathbf {e} |^{2}=e_{1}^{2}+e_{2}^{2}+e_{3}^{2}+e_{4}^{2}.}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_52,{\displaystyle ds^{2}=e_{1}^{2}+e_{2}^{2}+e_{3}^{2}-e_{4}^{2}.}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_53,{\displaystyle {\boldsymbol {\eta }}}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_54,"{\displaystyle {\begin{aligned}{\boldsymbol {\eta }}&={\frac {p^{2}-p_{0}^{2}}{p^{2}+p_{0}^{2}}}\mathbf {\hat {w}} +{\frac {2p_{0}}{p^{2}+p_{0}^{2}}}\mathbf {p} \\[1em]&={\frac {mk-rp_{0}^{2}}{mk}}\mathbf {\hat {w}} +{\frac {rp_{0}}{mk}}\mathbf {p} ,\end{aligned}}}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_55,{\displaystyle \mathbf {\hat {w}} }
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_56,"{\displaystyle p_{x}=p_{0}{\frac {\eta _{x}}{1-\eta _{w}}},}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_57,{\displaystyle {\boldsymbol {\eta }}}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_58,"{\displaystyle {\boldsymbol {\eta }}=(\eta _{w},\eta _{x},\eta _{y})}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_59,{\displaystyle {\boldsymbol {\eta }}}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_60,{\displaystyle {\boldsymbol {\eta }}}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_61,"{\displaystyle {\begin{aligned}\eta _{w}&=\operatorname {cn} \chi \operatorname {cn} \psi ,\\[1ex]\eta _{x}&=\operatorname {sn} \chi \operatorname {dn} \psi \cos \phi ,\\[1ex]\eta _{y}&=\operatorname {sn} \chi \operatorname {dn} \psi \sin \phi ,\\[1ex]\eta _{z}&=\operatorname {dn} \chi \operatorname {sn} \psi ,\end{aligned}}}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_62,{\displaystyle {\mathcal {A}}}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_63,"{\displaystyle {\mathcal {A}}=\mathbf {A} +{\frac {mq}{2}}\left[\left(\mathbf {r} \times \mathbf {E} \right)\times \mathbf {r} \right],}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_64,{\displaystyle {\mathcal {A}}}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_65,{\displaystyle {\mathcal {A}}\cdot \mathbf {E} }
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_66,"{\displaystyle {\mathcal {A}}=\left({\frac {\partial \xi }{\partial u}}\right)\left(\mathbf {p} \times \mathbf {L} \right)+\left[\xi -u\left({\frac {\partial \xi }{\partial u}}\right)\right]L^{2}\mathbf {\hat {r}} ,}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_67,"{\displaystyle \theta =L\int ^{u}{\frac {du}{\sqrt {m^{2}c^{2}(\gamma ^{2}-1)-L^{2}u^{2}}}},}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_68,{\displaystyle {\mathcal {B}}=\mathbf {L} \times {\mathcal {A}}.}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_69,"{\displaystyle {\mathcal {W}}=\alpha {\mathcal {A}}\otimes {\mathcal {A}}+\beta \,{\mathcal {B}}\otimes {\mathcal {B}}.}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_70,"{\displaystyle \mathbf {F} (r)=-k\mathbf {r} ,}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_71,"{\displaystyle {\mathcal {W}}={\frac {1}{2m}}\mathbf {p} \otimes \mathbf {p} +{\frac {k}{2}}\,\mathbf {r} \otimes \mathbf {r} ,}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_72,"{\displaystyle {\mathcal {A}}={\frac {1}{\sqrt {mr^{2}\omega _{0}A-mr^{2}E+L^{2}}}}\left\{\left(\mathbf {p} \times \mathbf {L} \right)+\left(mr\omega _{0}A-mrE\right)\mathbf {\hat {r}} \right\},}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_73,{\displaystyle \omega _{0}={\sqrt {\frac {k}{m}}}}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_74,{\displaystyle A=(E^{2}-\omega ^{2}L^{2})^{1/2}/\omega .}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_75,{\displaystyle \mathbf {F} }
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_76,{\displaystyle \mathbf {F} ={\frac {d\mathbf {p} }{dt}}=f(r){\frac {\mathbf {r} }{r}}=f(r)\mathbf {\hat {r}} }
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_77,{\displaystyle f(r)}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_78,{\displaystyle r}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_79,{\displaystyle \mathbf {L} =\mathbf {r} \times \mathbf {p} }
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_81,"{\displaystyle {\frac {d}{dt}}\left(\mathbf {p} \times \mathbf {L} \right)={\frac {d\mathbf {p} }{dt}}\times \mathbf {L} =f(r)\mathbf {\hat {r}} \times \left(\mathbf {r} \times m{\frac {d\mathbf {r} }{dt}}\right)=f(r){\frac {m}{r}}\left[\mathbf {r} \left(\mathbf {r} \cdot {\frac {d\mathbf {r} }{dt}}\right)-r^{2}{\frac {d\mathbf {r} }{dt}}\right],}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_83,{\displaystyle \mathbf {r} \times \left(\mathbf {r} \times {\frac {d\mathbf {r} }{dt}}\right)=\mathbf {r} \left(\mathbf {r} \cdot {\frac {d\mathbf {r} }{dt}}\right)-r^{2}{\frac {d\mathbf {r} }{dt}}.}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_84,{\displaystyle {\frac {d}{dt}}\left(\mathbf {r} \cdot \mathbf {r} \right)=2\mathbf {r} \cdot {\frac {d\mathbf {r} }{dt}}={\frac {d}{dt}}(r^{2})=2r{\frac {dr}{dt}}}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_85,{\displaystyle {\frac {d}{dt}}\left(\mathbf {p} \times \mathbf {L} \right)=-mf(r)r^{2}\left[{\frac {1}{r}}{\frac {d\mathbf {r} }{dt}}-{\frac {\mathbf {r} }{r^{2}}}{\frac {dr}{dt}}\right]=-mf(r)r^{2}{\frac {d}{dt}}\left({\frac {\mathbf {r} }{r}}\right).}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_87,{\displaystyle {\frac {d}{dt}}\left(\mathbf {p} \times \mathbf {L} \right)=mk{\frac {d}{dt}}\left({\frac {\mathbf {r} }{r}}\right)={\frac {d}{dt}}(mk\mathbf {\hat {r}} ).}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_88,{\displaystyle {\frac {d}{dt}}\mathbf {A} ={\frac {d}{dt}}\left(\mathbf {p} \times \mathbf {L} \right)-{\frac {d}{dt}}\left(mk\mathbf {\hat {r}} \right)=\mathbf {0} .}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_89,{\displaystyle \mathbf {L} =mr^{2}{\boldsymbol {\omega }}}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_90,{\displaystyle \mathbf {L} }
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_91,{\displaystyle \mathbf {p} \times \mathbf {L} }
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_92,"{\displaystyle {\frac {d}{dt}}\mathbf {p} \times \mathbf {L} =\left({\frac {-k}{r^{2}}}\mathbf {\hat {r}} \right)\times \left(mr^{2}{\boldsymbol {\omega }}\right)=mk\,{\boldsymbol {\omega }}\times \mathbf {\hat {r}} =mk\,{\frac {d}{dt}}\mathbf {\hat {r}} ,}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_93,{\displaystyle {\boldsymbol {\omega }}\times \mathbf {\hat {r}} }
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_94,{\displaystyle {\mathcal {A}}}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_95,{\displaystyle {\mathcal {A}}}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_96,{\displaystyle {\mathcal {A}}}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_97,"{\displaystyle {\begin{aligned}\xi &=r+x,\\\eta &=r-x,\end{aligned}}}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_98,{\displaystyle r={\sqrt {x^{2}+y^{2}}}.}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_99,"{\displaystyle {\begin{aligned}x&={\tfrac {1}{2}}(\xi -\eta ),\\y&={\sqrt {\xi \eta }},\end{aligned}}}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_100,"{\displaystyle {\begin{aligned}2\xi p_{\xi }^{2}-mk-mE\xi &=-\Gamma ,\\2\eta p_{\eta }^{2}-mk-mE\eta &=\Gamma ,\end{aligned}}}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_101,{\displaystyle \Gamma =p_{y}(xp_{y}-yp_{x})-mk{\frac {x}{r}}=A_{x}.}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_102,"{\displaystyle \delta q_{i}=\varepsilon g_{i}(\mathbf {q} ,\mathbf {\dot {q}} ,t)}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_103,"{\displaystyle \delta L=\varepsilon {\frac {d}{dt}}G(\mathbf {q} ,t)}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_104,{\displaystyle \Gamma =-G+\sum _{i}g_{i}\left({\frac {\partial L}{\partial {\dot {q}}_{i}}}\right).}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_105,"{\displaystyle \delta _{s}x_{i}={\frac {\varepsilon }{2}}\left[2p_{i}x_{s}-x_{i}p_{s}-\delta _{is}\left(\mathbf {r} \cdot \mathbf {p} \right)\right],}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_106,{\displaystyle \delta L={\frac {1}{2}}\varepsilon mk{\frac {d}{dt}}\left({\frac {x_{s}}{r}}\right).}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_107,{\displaystyle A_{s}=\left[p^{2}x_{s}-p_{s}\ \left(\mathbf {r} \cdot \mathbf {p} \right)\right]-mk\left({\frac {x_{s}}{r}}\right)=\left[\mathbf {p} \times \left(\mathbf {r} \times \mathbf {p} \right)\right]_{s}-mk\left({\frac {x_{s}}{r}}\right).}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_108,"{\displaystyle t\rightarrow \lambda ^{3}t,\qquad \mathbf {r} \rightarrow \lambda ^{2}\mathbf {r} ,\qquad \mathbf {p} \rightarrow {\frac {1}{\lambda }}\mathbf {p} .}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_109,"{\displaystyle L\rightarrow \lambda L,\qquad E\rightarrow {\frac {1}{\lambda ^{2}}}E,}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_110,{\displaystyle A^{2}=m^{2}k^{2}e^{2}=m^{2}k^{2}+2mEL^{2}.}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_111,"{\displaystyle \mathbf {e} ={\frac {1}{mk}}\left(\mathbf {p} \times \mathbf {L} \right)-\mathbf {\hat {r}} ={\frac {m}{k}}\left(\mathbf {v} \times \left(\mathbf {r} \times \mathbf {v} \right)\right)-\mathbf {\hat {r}} ,}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_112,"{\displaystyle \mathbf {M} =\mathbf {v} \times \mathbf {L} -k\mathbf {\hat {r}} ,}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_113,"{\displaystyle \mathbf {D} ={\frac {\mathbf {A} }{p_{0}}}={\frac {1}{\sqrt {2m|E|}}}\left\{\mathbf {p} \times \mathbf {L} -mk\mathbf {\hat {r}} \right\},}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_114,"{\displaystyle \mathbf {B} =\mathbf {p} -\left({\frac {mk}{L^{2}r}}\right)\ \left(\mathbf {L} \times \mathbf {r} \right),}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_115,"{\displaystyle \mathbf {W} =\alpha \mathbf {A} \otimes \mathbf {A} +\beta \,\mathbf {B} \otimes \mathbf {B} ,}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_116,{\displaystyle \otimes }
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_117,{\displaystyle W_{ij}=\alpha A_{i}A_{j}+\beta B_{i}B_{j}.}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_118,"{\displaystyle \mathbf {L} \cdot \mathbf {W} =\alpha \left(\mathbf {L} \cdot \mathbf {A} \right)\mathbf {A} +\beta \left(\mathbf {L} \cdot \mathbf {B} \right)\mathbf {B} =0,}"
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_119,{\displaystyle \left(\mathbf {L} \cdot \mathbf {W} \right)_{j}=\alpha \left(\sum _{i=1}^{3}L_{i}A_{i}\right)A_{j}+\beta \left(\sum _{i=1}^{3}L_{i}B_{i}\right)B_{j}=0.}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_120,{\displaystyle \mathbf {B} \equiv \mathbf {L} \times \mathbf {A} /L^{2}}
+Laplace%E2%80%93Runge%E2%80%93Lenz_vector_121,{\displaystyle \mathbf {A} =\mathbf {B} \times \mathbf {L} }

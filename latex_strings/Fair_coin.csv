@@ -1,0 +1,33 @@
+name,latex
+Fair_coin_0,"{\displaystyle (\Omega ,{\mathcal {F}},P)}"
+Fair_coin_1,{\displaystyle H}
+Fair_coin_2,{\displaystyle T}
+Fair_coin_3,"{\displaystyle \Omega =\{H,T\}}"
+Fair_coin_4,{\displaystyle 2^{\Omega }}
+Fair_coin_5,"{\displaystyle {\mathcal {F}}=\{\{\},\{H\},\{T\},\{H,T\}\}}"
+Fair_coin_6,{\displaystyle \{\}}
+Fair_coin_7,"{\displaystyle \{H,T\}}"
+Fair_coin_8,{\displaystyle x}
+Fair_coin_9,{\displaystyle \{\}}
+Fair_coin_10,{\displaystyle \{H\}}
+Fair_coin_11,{\displaystyle \{T\}}
+Fair_coin_12,"{\displaystyle \{H,T\}}"
+Fair_coin_13,{\displaystyle P(x)}
+Fair_coin_14,"{\displaystyle (\Omega ,{\mathcal {F}},P)}"
+Fair_coin_15,"{\displaystyle (H,T)\to (1,0)}"
+Fair_coin_16,"{\displaystyle (H,T)\to (1,-1)}"
+Fair_coin_17,{\displaystyle E(F_{n})}
+Fair_coin_18,{\displaystyle HT}
+Fair_coin_19,{\displaystyle TH}
+Fair_coin_20,"{\displaystyle E(F_{n}|HT,TH)=2}"
+Fair_coin_21,{\displaystyle TT}
+Fair_coin_22,{\displaystyle HH}
+Fair_coin_23,"{\displaystyle E(F_{n}|TT,HH)=2+E(F_{n+1})}"
+Fair_coin_24,{\displaystyle E(F)=E(F_{n})=E(F_{n+1})}
+Fair_coin_25,"{\displaystyle E(F_{n+1}|F_{n},...,F_{1})=F_{n}}"
+Fair_coin_26,"{\displaystyle E(E(F_{n+1}|F_{n},...,X_{1}))=E(F_{n})}"
+Fair_coin_27,"{\displaystyle E(F_{n+1})=E(E(F_{n+1}|F_{n},...,F_{1}))=E(F_{n})}"
+Fair_coin_28,{\displaystyle {\frac {1}{P(H)(1-P(H))}}}
+Fair_coin_29,{\displaystyle P(H)}
+Fair_coin_30,{\displaystyle 0.5}
+Fair_coin_31,"{\displaystyle {\begin{aligned}E(F)&=E(F_{n})\\&=E(F_{n}|TT,HH)P(TT,HH)+E(F_{n}|HT,TH)P(HT,TH)\\&=(2+E(F_{n+1}))P(TT,HH)+2P(HT,TH)\\&=(2+E(F))P(TT,HH))+2P(HT,TH)\\&=(2+E(F))(P(TT)+P(HH))+2(P(HT)+P(TH))\\&=(2+E(F))(P(T)^{2}+P(H)^{2})+4P(H)P(T)\\&=(2+E(F))(1-2P(H)P(T))+4P(H)P(T)\\&=2+E(F)-2P(H)P(T)E(F)\\\end{aligned}}}"

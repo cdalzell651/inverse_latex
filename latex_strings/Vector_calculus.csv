@@ -1,0 +1,28 @@
+name,latex
+Vector_calculus_0,"{\displaystyle \int _{a}^{b}f'(t)\,dt=f(b)-f(a)}"
+Vector_calculus_1,{\displaystyle \mathbb {R} ^{3}.}
+Vector_calculus_2,{\displaystyle \mathbf {v} _{1}+\mathbf {v} _{2}}
+Vector_calculus_3,{\displaystyle a\mathbf {v} }
+Vector_calculus_4,{\displaystyle \mathbf {v} _{1}\cdot \mathbf {v} _{2}}
+Vector_calculus_5,{\displaystyle \mathbf {v} _{1}\times \mathbf {v} _{2}}
+Vector_calculus_6,{\displaystyle \mathbb {R} ^{3}}
+Vector_calculus_7,{\displaystyle \mathbf {v} _{1}\cdot \left(\mathbf {v} _{2}\times \mathbf {v} _{3}\right)}
+Vector_calculus_8,{\displaystyle \mathbf {v} _{1}\times \left(\mathbf {v} _{2}\times \mathbf {v} _{3}\right)}
+Vector_calculus_9,{\displaystyle \nabla }
+Vector_calculus_10,{\displaystyle \operatorname {grad} (f)=\nabla f}
+Vector_calculus_11,{\displaystyle \operatorname {div} (\mathbf {F} )=\nabla \cdot \mathbf {F} }
+Vector_calculus_12,{\displaystyle \operatorname {curl} (\mathbf {F} )=\nabla \times \mathbf {F} }
+Vector_calculus_13,{\displaystyle \mathbb {R} ^{3}}
+Vector_calculus_14,{\displaystyle \Delta f=\nabla ^{2}f=\nabla \cdot \nabla f}
+Vector_calculus_15,{\displaystyle \nabla ^{2}\mathbf {F} =\nabla (\nabla \cdot \mathbf {F} )-\nabla \times (\nabla \times \mathbf {F} )}
+Vector_calculus_16,{\displaystyle \int _{L\subset \mathbb {R} ^{n}}\!\!\!\nabla \varphi \cdot d\mathbf {r} \ =\ \varphi \left(\mathbf {q} \right)-\varphi \left(\mathbf {p} \right)\ \ {\text{ for }}\ \ L=L[p\to q]}
+Vector_calculus_17,"{\displaystyle \underbrace {\int \!\cdots \!\int _{V\subset \mathbb {R} ^{n}}} _{n}(\nabla \cdot \mathbf {F} )\,dV\ =\ \underbrace {\oint \!\cdots \!\oint _{\partial V}} _{n-1}\mathbf {F} \cdot d\mathbf {S} }"
+Vector_calculus_18,{\displaystyle \iint _{\Sigma \subset \mathbb {R} ^{3}}(\nabla \times \mathbf {F} )\cdot d\mathbf {\Sigma } \ =\ \oint _{\partial \Sigma }\mathbf {F} \cdot d\mathbf {r} }
+Vector_calculus_19,{\displaystyle \mathbb {R} ^{3}}
+Vector_calculus_20,{\displaystyle \varphi }
+Vector_calculus_21,"{\displaystyle \iint _{A\,\subset \mathbb {R} ^{2}}\left({\frac {\partial M}{\partial x}}-{\frac {\partial L}{\partial y}}\right)dA\ =\ \oint _{\partial A}\left(L\,dx+M\,dy\right)}"
+Vector_calculus_22,{\displaystyle \mathbb {R} ^{2}}
+Vector_calculus_23,"{\displaystyle f(x,y)\ \approx \ f(a,b)+{\tfrac {\partial f}{\partial x}}(a,b)\,(x-a)+{\tfrac {\partial f}{\partial y}}(a,b)\,(y-b).}"
+Vector_calculus_24,"{\displaystyle \mathbb {R} ^{3},}"
+Vector_calculus_25,{\displaystyle n-1}
+Vector_calculus_26,{\displaystyle \textstyle {{\binom {n}{2}}={\frac {1}{2}}n(n-1)}}

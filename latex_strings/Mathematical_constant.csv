@@ -1,0 +1,48 @@
+name,latex
+Mathematical_constant_0,"{\displaystyle \psi (\mathbf {r} )={\frac {1}{\sqrt {\pi {a_{0}}^{3}}}}e^{-r/a_{0}},}"
+Mathematical_constant_1,{\displaystyle a_{0}}
+Mathematical_constant_2,{\displaystyle \mathbb {R} }
+Mathematical_constant_3,{\displaystyle \mathbb {C} .}
+Mathematical_constant_4,{\displaystyle e=\lim _{n\to \infty }\left(1+{\frac {1}{n}}\right)^{n}}
+Mathematical_constant_5,{\displaystyle x\mapsto e^{x}}
+Mathematical_constant_6,{\displaystyle p_{n}=1-{\frac {1}{1!}}+{\frac {1}{2!}}-{\frac {1}{3!}}+\cdots +(-1)^{n}{\frac {1}{n!}}}
+Mathematical_constant_7,{\displaystyle \zeta (3)=1+{\frac {1}{2^{3}}}+{\frac {1}{3^{3}}}+{\frac {1}{4^{3}}}+\cdots }
+Mathematical_constant_8,{\displaystyle F_{n}={\frac {\varphi ^{n}-(1-\varphi )^{n}}{\sqrt {5}}}}
+Mathematical_constant_9,{\displaystyle \scriptstyle {\frac {1+{\sqrt {5}}}{2}}.}
+Mathematical_constant_10,{\displaystyle {\begin{aligned}\gamma &=\lim _{n\to \infty }\left(\left(\sum _{k=1}^{n}{\frac {1}{k}}\right)-\ln n\right)\\[5px]\end{aligned}}}
+Mathematical_constant_11,{\displaystyle \gamma }
+Mathematical_constant_12,{\displaystyle \gamma }
+Mathematical_constant_13,{\displaystyle {\begin{matrix}1\\11\\21\\1211\\111221\\312211\\\vdots \end{matrix}}}
+Mathematical_constant_14,"{\displaystyle r=a_{0}+{\dfrac {1}{a_{1}+{\dfrac {1}{a_{2}+{\dfrac {1}{a_{3}+\cdots }}}}}},}"
+Mathematical_constant_15,{\displaystyle A=\lim _{n\rightarrow \infty }{\frac {\prod _{k=1}^{n}k^{k}}{n^{n^{2}/2+n/2+1/12}e^{-n^{2}/4}}}}
+Mathematical_constant_16,{\displaystyle c=\sum _{j=1}^{\infty }10^{-j!}=0.\underbrace {\overbrace {110001} ^{3!{\text{ digits}}}000000000000000001} _{4!{\text{ digits}}}000\dots }
+Mathematical_constant_18,{\displaystyle y'(x)=-2y+e^{-x}}
+Mathematical_constant_19,{\displaystyle \int \cos x\ dx=\sin x+C}
+Mathematical_constant_20,"{\displaystyle {\frac {\partial f(x,y)}{\partial x}}=0}"
+Mathematical_constant_21,{\displaystyle G=\left.{\begin{matrix}3\underbrace {\uparrow \ldots \uparrow } 3\\\underbrace {\vdots } \\3\uparrow \uparrow \uparrow \uparrow 3\end{matrix}}\right\}{\text{64 layers}}}
+Mathematical_constant_22,"{\displaystyle a,b,c,\dots }"
+Mathematical_constant_23,"{\displaystyle \alpha ,\beta ,\,\gamma ,\dots }"
+Mathematical_constant_24,{\displaystyle E_{B}}
+Mathematical_constant_25,{\displaystyle \beta ^{*}}
+Mathematical_constant_26,{\displaystyle B_{2}}
+Mathematical_constant_27,{\displaystyle C_{b}}
+Mathematical_constant_28,{\displaystyle \aleph _{0}}
+Mathematical_constant_29,"{\displaystyle \mathrm {googol} =10^{100}\,\ ,\ \mathrm {googolplex} =10^{\mathrm {googol} }=10^{10^{100}}}"
+Mathematical_constant_30,{\displaystyle \gamma }
+Mathematical_constant_31,{\displaystyle \varphi }
+Mathematical_constant_32,{\displaystyle \Lambda }
+Mathematical_constant_33,{\displaystyle 0\leq \Lambda \leq 0.2}
+Mathematical_constant_34,{\displaystyle \beta }
+Mathematical_constant_35,{\displaystyle \lambda }
+Mathematical_constant_36,{\displaystyle \sigma }
+Mathematical_constant_37,{\displaystyle \lambda }
+Mathematical_constant_38,{\displaystyle \mu }
+Mathematical_constant_39,{\displaystyle \beta }
+Mathematical_constant_40,{\displaystyle \zeta (3)}
+Mathematical_constant_41,{\displaystyle \lambda }
+Mathematical_constant_42,{\displaystyle \theta }
+Mathematical_constant_43,{\displaystyle \rho }
+Mathematical_constant_44,{\displaystyle \mu }
+Mathematical_constant_45,{\displaystyle \alpha }
+Mathematical_constant_46,{\displaystyle \psi }
+Mathematical_constant_47,{\displaystyle \delta }

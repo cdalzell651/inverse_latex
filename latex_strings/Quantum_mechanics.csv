@@ -1,0 +1,135 @@
+name,latex
+Quantum_mechanics_0,{\displaystyle i\hbar {\frac {d}{dt}}|\Psi \rangle ={\hat {H}}|\Psi \rangle }
+Quantum_mechanics_1,{\displaystyle \psi }
+Quantum_mechanics_2,{\displaystyle {\mathcal {H}}}
+Quantum_mechanics_3,"{\displaystyle \langle \psi ,\psi \rangle =1}"
+Quantum_mechanics_4,{\displaystyle \psi }
+Quantum_mechanics_5,{\displaystyle e^{i\alpha }\psi }
+Quantum_mechanics_6,{\displaystyle L^{2}(\mathbb {C} )}
+Quantum_mechanics_7,{\displaystyle \mathbb {C} ^{2}}
+Quantum_mechanics_8,{\displaystyle \lambda }
+Quantum_mechanics_9,"{\displaystyle |\langle {\vec {\lambda }},\psi \rangle |^{2}}"
+Quantum_mechanics_10,{\displaystyle {\vec {\lambda }}}
+Quantum_mechanics_11,"{\displaystyle \langle \psi ,P_{\lambda }\psi \rangle }"
+Quantum_mechanics_12,{\displaystyle P_{\lambda }}
+Quantum_mechanics_13,{\displaystyle \lambda }
+Quantum_mechanics_14,{\displaystyle {\vec {\lambda }}}
+Quantum_mechanics_16,{\displaystyle i\hbar {\frac {\partial }{\partial t}}\psi (t)=H\psi (t).}
+Quantum_mechanics_17,{\displaystyle H}
+Quantum_mechanics_18,{\displaystyle \hbar }
+Quantum_mechanics_19,{\displaystyle i\hbar }
+Quantum_mechanics_20,{\displaystyle \psi (t)=e^{-iHt/\hbar }\psi (0).}
+Quantum_mechanics_21,{\displaystyle U(t)=e^{-iHt/\hbar }}
+Quantum_mechanics_22,{\displaystyle \psi (0)}
+Quantum_mechanics_23,{\displaystyle \psi (t)}
+Quantum_mechanics_24,{\displaystyle {\hat {X}}}
+Quantum_mechanics_25,{\displaystyle {\hat {P}}}
+Quantum_mechanics_26,"{\displaystyle [{\hat {X}},{\hat {P}}]=i\hbar .}"
+Quantum_mechanics_27,{\displaystyle X}
+Quantum_mechanics_28,{\displaystyle P}
+Quantum_mechanics_29,"{\displaystyle \sigma _{X}={\textstyle {\sqrt {\left\langle X^{2}\right\rangle -\left\langle X\right\rangle ^{2}}}},}"
+Quantum_mechanics_30,{\displaystyle \sigma _{P}={\sqrt {\left\langle P^{2}\right\rangle -\left\langle P\right\rangle ^{2}}}.}
+Quantum_mechanics_31,{\displaystyle \sigma _{X}\sigma _{P}\geq {\frac {\hbar }{2}}.}
+Quantum_mechanics_32,{\displaystyle A}
+Quantum_mechanics_33,{\displaystyle B}
+Quantum_mechanics_34,"{\displaystyle [A,B]=AB-BA,}"
+Quantum_mechanics_35,"{\displaystyle \sigma _{A}\sigma _{B}\geq {\tfrac {1}{2}}\left|{\bigl \langle }[A,B]{\bigr \rangle }\right|.}"
+Quantum_mechanics_36,{\displaystyle i/\hbar }
+Quantum_mechanics_37,{\displaystyle p_{i}}
+Quantum_mechanics_38,{\displaystyle -i\hbar {\frac {\partial }{\partial x}}}
+Quantum_mechanics_39,{\displaystyle -\hbar ^{2}}
+Quantum_mechanics_40,{\displaystyle {\mathcal {H}}_{A}}
+Quantum_mechanics_41,{\displaystyle {\mathcal {H}}_{B}}
+Quantum_mechanics_42,{\displaystyle {\mathcal {H}}_{AB}={\mathcal {H}}_{A}\otimes {\mathcal {H}}_{B}.}
+Quantum_mechanics_43,{\displaystyle \psi _{A}}
+Quantum_mechanics_44,{\displaystyle \psi _{B}}
+Quantum_mechanics_45,{\displaystyle \psi _{A}\otimes \psi _{B}.}
+Quantum_mechanics_46,{\displaystyle {\mathcal {H}}_{AB}}
+Quantum_mechanics_47,{\displaystyle \psi _{A}}
+Quantum_mechanics_48,{\displaystyle \phi _{A}}
+Quantum_mechanics_49,{\displaystyle A}
+Quantum_mechanics_50,{\displaystyle \psi _{B}}
+Quantum_mechanics_51,{\displaystyle \phi _{B}}
+Quantum_mechanics_52,{\displaystyle B}
+Quantum_mechanics_53,{\displaystyle {\tfrac {1}{\sqrt {2}}}\left(\psi _{A}\otimes \psi _{B}+\phi _{A}\otimes \phi _{B}\right)}
+Quantum_mechanics_54,{\displaystyle H}
+Quantum_mechanics_55,{\displaystyle U(t)=e^{-iHt/\hbar }}
+Quantum_mechanics_56,{\displaystyle t}
+Quantum_mechanics_57,{\displaystyle U(t)}
+Quantum_mechanics_58,{\displaystyle H}
+Quantum_mechanics_59,{\displaystyle A}
+Quantum_mechanics_60,{\displaystyle H}
+Quantum_mechanics_61,{\displaystyle A}
+Quantum_mechanics_62,{\displaystyle t}
+Quantum_mechanics_63,{\displaystyle A}
+Quantum_mechanics_64,{\displaystyle B}
+Quantum_mechanics_65,{\displaystyle A}
+Quantum_mechanics_66,{\displaystyle B}
+Quantum_mechanics_67,{\displaystyle A}
+Quantum_mechanics_68,{\displaystyle A}
+Quantum_mechanics_69,{\displaystyle B}
+Quantum_mechanics_70,{\displaystyle H={\frac {1}{2m}}P^{2}=-{\frac {\hbar ^{2}}{2m}}{\frac {d^{2}}{dx^{2}}}.}
+Quantum_mechanics_71,"{\displaystyle \psi (x,t)={\frac {1}{\sqrt {2\pi }}}\int _{-\infty }^{\infty }{\hat {\psi }}(k,0)e^{i(kx-{\frac {\hbar k^{2}}{2m}}t)}\mathrm {d} k,}"
+Quantum_mechanics_72,{\displaystyle e^{i(kx-{\frac {\hbar k^{2}}{2m}}t)}}
+Quantum_mechanics_73,{\displaystyle p=\hbar k}
+Quantum_mechanics_74,"{\displaystyle {\hat {\psi }}(k,0)}"
+Quantum_mechanics_75,"{\displaystyle \psi (x,0)}"
+Quantum_mechanics_76,"{\displaystyle \psi (x,0)={\frac {1}{\sqrt[{4}]{\pi a}}}e^{-{\frac {x^{2}}{2a}}}}"
+Quantum_mechanics_77,"{\displaystyle {\hat {\psi }}(k,0)={\sqrt[{4}]{\frac {a}{\pi }}}e^{-{\frac {ak^{2}}{2}}}.}"
+Quantum_mechanics_78,{\displaystyle a}
+Quantum_mechanics_79,{\displaystyle a}
+Quantum_mechanics_80,{\displaystyle x}
+Quantum_mechanics_81,{\displaystyle -{\frac {\hbar ^{2}}{2m}}{\frac {d^{2}\psi }{dx^{2}}}=E\psi .}
+Quantum_mechanics_82,{\displaystyle {\hat {p}}_{x}=-i\hbar {\frac {d}{dx}}}
+Quantum_mechanics_83,"{\displaystyle {\frac {1}{2m}}{\hat {p}}_{x}^{2}=E,}"
+Quantum_mechanics_84,{\displaystyle \psi }
+Quantum_mechanics_85,{\displaystyle E}
+Quantum_mechanics_86,{\displaystyle \psi (x)=Ae^{ikx}+Be^{-ikx}\qquad \qquad E={\frac {\hbar ^{2}k^{2}}{2m}}}
+Quantum_mechanics_87,{\displaystyle \psi (x)=C\sin(kx)+D\cos(kx).\!}
+Quantum_mechanics_88,"{\displaystyle C,D,}"
+Quantum_mechanics_89,{\displaystyle k}
+Quantum_mechanics_90,{\displaystyle x=0}
+Quantum_mechanics_91,{\displaystyle x=L}
+Quantum_mechanics_92,{\displaystyle \psi }
+Quantum_mechanics_93,{\displaystyle x=0}
+Quantum_mechanics_94,{\displaystyle \psi (0)=0=C\sin(0)+D\cos(0)=D}
+Quantum_mechanics_95,{\displaystyle D=0}
+Quantum_mechanics_96,{\displaystyle x=L}
+Quantum_mechanics_97,"{\displaystyle \psi (L)=0=C\sin(kL),}"
+Quantum_mechanics_98,{\displaystyle C}
+Quantum_mechanics_99,{\displaystyle \psi }
+Quantum_mechanics_100,{\displaystyle \sin(kL)=0}
+Quantum_mechanics_101,{\displaystyle kL}
+Quantum_mechanics_102,{\displaystyle \pi }
+Quantum_mechanics_103,"{\displaystyle k={\frac {n\pi }{L}}\qquad \qquad n=1,2,3,\ldots .}"
+Quantum_mechanics_104,{\displaystyle k}
+Quantum_mechanics_105,{\displaystyle E_{n}={\frac {\hbar ^{2}\pi ^{2}n^{2}}{2mL^{2}}}={\frac {n^{2}h^{2}}{8mL^{2}}}.}
+Quantum_mechanics_106,{\displaystyle V(x)={\frac {1}{2}}m\omega ^{2}x^{2}.}
+Quantum_mechanics_107,"{\displaystyle \psi _{n}(x)={\sqrt {\frac {1}{2^{n}\,n!}}}\cdot \left({\frac {m\omega }{\pi \hbar }}\right)^{1/4}\cdot e^{-{\frac {m\omega x^{2}}{2\hbar }}}\cdot H_{n}\left({\sqrt {\frac {m\omega }{\hbar }}}x\right),\qquad }"
+Quantum_mechanics_108,"{\displaystyle n=0,1,2,\ldots .}"
+Quantum_mechanics_109,"{\displaystyle H_{n}(x)=(-1)^{n}e^{x^{2}}{\frac {d^{n}}{dx^{n}}}\left(e^{-x^{2}}\right),}"
+Quantum_mechanics_110,{\displaystyle E_{n}=\hbar \omega \left(n+{1 \over 2}\right).}
+Quantum_mechanics_111,{\displaystyle \psi \in \mathbb {C} ^{2}}
+Quantum_mechanics_112,{\displaystyle \psi _{l}={\begin{pmatrix}1\\0\end{pmatrix}}}
+Quantum_mechanics_113,{\displaystyle \psi _{u}={\begin{pmatrix}0\\1\end{pmatrix}}}
+Quantum_mechanics_114,{\displaystyle \psi =\alpha \psi _{l}+\beta \psi _{u}}
+Quantum_mechanics_115,"{\displaystyle \alpha ,\beta }"
+Quantum_mechanics_116,"{\displaystyle \langle \psi ,\psi \rangle =1}"
+Quantum_mechanics_117,{\displaystyle |\alpha |^{2}+|\beta |^{2}=1}
+Quantum_mechanics_118,{\displaystyle B={\frac {1}{\sqrt {2}}}{\begin{pmatrix}1&i\\i&1\end{pmatrix}}}
+Quantum_mechanics_119,{\displaystyle 1/{\sqrt {2}}}
+Quantum_mechanics_120,{\displaystyle i/{\sqrt {2}}}
+Quantum_mechanics_121,{\displaystyle P={\begin{pmatrix}1&0\\0&e^{i\Delta \Phi }\end{pmatrix}}}
+Quantum_mechanics_122,{\displaystyle \Delta \Phi }
+Quantum_mechanics_123,{\displaystyle B}
+Quantum_mechanics_124,{\displaystyle P}
+Quantum_mechanics_125,{\displaystyle B}
+Quantum_mechanics_126,"{\displaystyle BPB\psi _{l}=ie^{i\Delta \Phi /2}{\begin{pmatrix}-\sin(\Delta \Phi /2)\\\cos(\Delta \Phi /2)\end{pmatrix}},}"
+Quantum_mechanics_127,"{\displaystyle p(u)=|\langle \psi _{u},BPB\psi _{l}\rangle |^{2}=\cos ^{2}{\frac {\Delta \Phi }{2}},}"
+Quantum_mechanics_128,"{\displaystyle p(l)=|\langle \psi _{l},BPB\psi _{l}\rangle |^{2}=\sin ^{2}{\frac {\Delta \Phi }{2}}.}"
+Quantum_mechanics_129,{\displaystyle p(u)=p(l)=1/2}
+Quantum_mechanics_130,{\displaystyle \Delta \Phi }
+Quantum_mechanics_131,{\displaystyle {\hat {H}}|\psi _{n}(t)\rangle =i\hbar {\frac {d}{dt}}|\psi _{n}(t)\rangle }
+Quantum_mechanics_132,{\displaystyle G_{\mu \nu }+\Lambda g_{\mu \nu }={\kappa }T_{\mu \nu }}
+Quantum_mechanics_133,{\displaystyle \textstyle -e^{2}/(4\pi \epsilon _{_{0}}r)}
+Quantum_mechanics_134,{\displaystyle E=h\nu \ }

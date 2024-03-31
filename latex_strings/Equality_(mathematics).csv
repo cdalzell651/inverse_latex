@@ -1,0 +1,23 @@
+name,latex
+Equality_(mathematics)_0,{\displaystyle x=y}
+Equality_(mathematics)_1,{\displaystyle (x+1)^{2}=x^{2}+2x+1}
+Equality_(mathematics)_2,{\displaystyle \{x\mid P(x)\}=\{x\mid Q(x)\}}
+Equality_(mathematics)_3,{\displaystyle P(x)\Leftrightarrow Q(x).}
+Equality_(mathematics)_4,{\displaystyle P(x)}
+Equality_(mathematics)_5,"{\displaystyle Q(x),}"
+Equality_(mathematics)_6,{\displaystyle \left(x+1\right)\left(x+1\right)=x^{2}+2x+1.}
+Equality_(mathematics)_7,{\displaystyle \left(x+1\right)\left(x+1\right)\equiv x^{2}+2x+1.}
+Equality_(mathematics)_8,{\displaystyle x^{2}+y^{2}=1}
+Equality_(mathematics)_9,{\displaystyle \approx }
+Equality_(mathematics)_10,{\displaystyle 1/2}
+Equality_(mathematics)_11,{\displaystyle 2/4}
+Equality_(mathematics)_12,"{\displaystyle \{{\text{A}},{\text{B}},{\text{C}}\}}"
+Equality_(mathematics)_13,"{\displaystyle \{1,2,3\}}"
+Equality_(mathematics)_14,"{\displaystyle {\text{A}}\mapsto 1,{\text{B}}\mapsto 2,{\text{C}}\mapsto 3.}"
+Equality_(mathematics)_15,"{\displaystyle {\text{A}}\mapsto 3,{\text{B}}\mapsto 2,{\text{C}}\mapsto 1,}"
+Equality_(mathematics)_16,{\displaystyle \cong }
+Equality_(mathematics)_17,"{\displaystyle x=y\implies \forall z,(z\in x\iff z\in y)}"
+Equality_(mathematics)_18,"{\displaystyle x=y\implies \forall z,(x\in z\iff y\in z)}"
+Equality_(mathematics)_19,"{\displaystyle (\forall z,(z\in x\iff z\in y))\implies x=y}"
+Equality_(mathematics)_20,"{\displaystyle (x=y)\ :=\ \forall z,(z\in x\iff z\in y)}"
+Equality_(mathematics)_21,"{\displaystyle x=y\implies \forall z,(x\in z\iff y\in z)}"

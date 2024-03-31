@@ -1,0 +1,41 @@
+name,latex
+Infinity_0,{\displaystyle \infty }
+Infinity_1,{\displaystyle a+ax+ax^{2}+ax^{3}+ax^{4}+ax^{5}+\cdots ={\frac {a}{1-x}}.}
+Infinity_2,{\displaystyle 10+0.1+0.001+0.00001+\cdots ={\frac {10}{1-0.01}}={\frac {10}{0.99}}=10.10101\ldots {\text{ seconds}}.}
+Infinity_3,{\displaystyle \infty }
+Infinity_4,{\displaystyle {\tfrac {1}{\infty }}.}
+Infinity_5,{\displaystyle \infty }
+Infinity_6,{\displaystyle \infty }
+Infinity_7,{\displaystyle x\rightarrow \infty }
+Infinity_8,{\displaystyle x}
+Infinity_9,{\displaystyle x\to -\infty }
+Infinity_10,{\displaystyle x}
+Infinity_11,{\displaystyle f(t)\geq 0}
+Infinity_12,{\displaystyle t}
+Infinity_13,"{\displaystyle \int _{a}^{b}f(t)\,dt=\infty }"
+Infinity_14,{\displaystyle f(t)}
+Infinity_15,{\displaystyle a}
+Infinity_16,{\displaystyle b.}
+Infinity_17,"{\displaystyle \int _{-\infty }^{\infty }f(t)\,dt=\infty }"
+Infinity_18,{\displaystyle f(t)}
+Infinity_19,"{\displaystyle \int _{-\infty }^{\infty }f(t)\,dt=a}"
+Infinity_20,{\displaystyle f(t)}
+Infinity_21,{\displaystyle a.}
+Infinity_22,{\displaystyle \sum _{i=0}^{\infty }f(i)=a}
+Infinity_23,{\displaystyle a.}
+Infinity_24,{\displaystyle \sum _{i=0}^{\infty }f(i)=\infty }
+Infinity_25,{\displaystyle +\infty }
+Infinity_26,{\displaystyle -\infty }
+Infinity_27,{\displaystyle +\infty }
+Infinity_28,{\displaystyle -\infty }
+Infinity_29,{\displaystyle \infty }
+Infinity_30,{\displaystyle x\rightarrow \infty }
+Infinity_31,{\displaystyle |x|}
+Infinity_32,{\displaystyle x}
+Infinity_33,{\displaystyle \infty }
+Infinity_34,{\displaystyle z/0=\infty }
+Infinity_35,{\displaystyle z}
+Infinity_36,{\displaystyle \infty }
+Infinity_37,{\displaystyle \mathbf {c} }
+Infinity_38,{\displaystyle {\aleph _{0}}}
+Infinity_39,{\displaystyle \mathbf {c} =2^{\aleph _{0}}>{\aleph _{0}}}

@@ -1,0 +1,7 @@
+name,latex
+Non-Euclidean_geometry_0,{\displaystyle zz^{\ast }=(x+y\epsilon )(x-y\epsilon )=x^{2}+y^{2}}
+Non-Euclidean_geometry_1,{\displaystyle zz^{\ast }=(x+y\mathbf {j} )(x-y\mathbf {j} )=x^{2}-y^{2}\!}
+Non-Euclidean_geometry_2,"{\displaystyle z=x+y\epsilon ,\quad \epsilon ^{2}=0,}"
+Non-Euclidean_geometry_3,"{\displaystyle x^{\prime }=x+vt,\quad t^{\prime }=t}"
+Non-Euclidean_geometry_4,{\displaystyle {\begin{pmatrix}x'\\t'\end{pmatrix}}={\begin{pmatrix}1&v\\0&1\end{pmatrix}}{\begin{pmatrix}x\\t\end{pmatrix}}.}
+Non-Euclidean_geometry_5,{\displaystyle t^{\prime }+x^{\prime }\epsilon =(1+v\epsilon )(t+x\epsilon )=t+(x+vt)\epsilon .}

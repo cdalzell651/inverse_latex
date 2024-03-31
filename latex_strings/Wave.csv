@@ -1,0 +1,130 @@
+name,latex
+Wave_0,"{\displaystyle F(x,t)}"
+Wave_1,{\displaystyle x}
+Wave_2,{\displaystyle t}
+Wave_3,{\displaystyle x}
+Wave_4,{\displaystyle \mathbb {R} ^{3}}
+Wave_5,{\displaystyle x}
+Wave_6,{\displaystyle \mathbb {R} ^{2}}
+Wave_7,{\displaystyle x}
+Wave_8,{\displaystyle \mathbb {R} }
+Wave_9,{\displaystyle t}
+Wave_10,"{\displaystyle F(x,t)}"
+Wave_11,{\displaystyle x}
+Wave_12,{\displaystyle F}
+Wave_13,"{\displaystyle F(x,t)}"
+Wave_14,{\displaystyle x}
+Wave_15,{\displaystyle x}
+Wave_16,{\displaystyle F}
+Wave_17,{\displaystyle E}
+Wave_18,{\displaystyle H}
+Wave_19,{\displaystyle E\times H}
+Wave_20,"{\displaystyle F(x,t)}"
+Wave_21,{\displaystyle x}
+Wave_22,"{\displaystyle F(x,t)}"
+Wave_23,{\displaystyle x}
+Wave_24,{\displaystyle d}
+Wave_25,{\displaystyle D}
+Wave_26,{\displaystyle \mathbb {R} ^{d}}
+Wave_27,"{\displaystyle F(x,t)}"
+Wave_28,{\displaystyle x}
+Wave_29,{\displaystyle D}
+Wave_30,{\displaystyle D}
+Wave_31,{\displaystyle \mathbb {R} ^{2}}
+Wave_32,"{\displaystyle (0,0)}"
+Wave_33,"{\displaystyle F(x,t)}"
+Wave_34,{\displaystyle x}
+Wave_35,{\displaystyle D}
+Wave_36,{\displaystyle t}
+Wave_37,"{\displaystyle F(A,B,\ldots ;x,t)}"
+Wave_38,"{\displaystyle A,B,\ldots }"
+Wave_39,{\displaystyle x}
+Wave_40,{\displaystyle t}
+Wave_41,{\displaystyle x}
+Wave_42,{\displaystyle t}
+Wave_43,"{\displaystyle F(A,L,n,c;x,t)=A\left(\cos 2\pi x{\frac {2n-1}{4L}}\right)\left(\cos 2\pi ct{\frac {2n-1}{4L}}\right)}"
+Wave_44,{\displaystyle A}
+Wave_45,{\displaystyle c}
+Wave_46,{\displaystyle L}
+Wave_47,{\displaystyle n}
+Wave_48,{\displaystyle x}
+Wave_49,{\displaystyle t}
+Wave_50,{\displaystyle \lambda =4L/(2n-1)}
+Wave_51,{\displaystyle f=c/\lambda }
+Wave_52,{\displaystyle r}
+Wave_53,{\displaystyle s}
+Wave_54,"{\displaystyle F(r,s;x,t)}"
+Wave_55,{\displaystyle h}
+Wave_56,{\displaystyle h(x)}
+Wave_57,{\displaystyle x}
+Wave_58,{\displaystyle F}
+Wave_59,{\displaystyle h}
+Wave_60,"{\displaystyle F(h;x,t)}"
+Wave_61,"{\displaystyle F(x,t)}"
+Wave_62,{\displaystyle F}
+Wave_63,"{\displaystyle F(x,t)}"
+Wave_64,"{\displaystyle {\frac {\partial F}{\partial t}}(x,t)=\alpha \left({\frac {\partial ^{2}F}{\partial x_{1}^{2}}}(x,t)+{\frac {\partial ^{2}F}{\partial x_{2}^{2}}}(x,t)+{\frac {\partial ^{2}F}{\partial x_{3}^{2}}}(x,t)\right)+\beta Q(x,t)}"
+Wave_65,"{\displaystyle Q(p,f)}"
+Wave_66,{\displaystyle x}
+Wave_67,{\displaystyle t}
+Wave_68,"{\displaystyle x_{1},x_{2},x_{3}}"
+Wave_69,{\displaystyle x}
+Wave_70,{\displaystyle \partial F/\partial t}
+Wave_71,{\displaystyle F}
+Wave_72,{\displaystyle t}
+Wave_73,{\displaystyle \partial ^{2}F/\partial x_{i}^{2}}
+Wave_74,{\displaystyle F}
+Wave_75,{\displaystyle x_{i}}
+Wave_76,{\displaystyle \partial }
+Wave_77,"{\displaystyle F(x,t)}"
+Wave_78,{\displaystyle x}
+Wave_79,{\displaystyle t}
+Wave_80,{\displaystyle F}
+Wave_81,"{\displaystyle {\frac {\partial ^{2}F}{\partial t^{2}}}(x,t)=\alpha \left({\frac {\partial ^{2}F}{\partial x_{1}^{2}}}(x,t)+{\frac {\partial ^{2}F}{\partial x_{2}^{2}}}(x,t)+{\frac {\partial ^{2}F}{\partial x_{3}^{2}}}(x,t)\right)+\beta P(x,t)}"
+Wave_82,"{\displaystyle P(x,t)}"
+Wave_83,{\displaystyle x}
+Wave_84,{\displaystyle p}
+Wave_85,{\displaystyle \partial ^{2}F/\partial t^{2}}
+Wave_86,{\displaystyle F}
+Wave_87,{\displaystyle \partial F/\partial t}
+Wave_88,{\displaystyle F}
+Wave_89,{\displaystyle x}
+Wave_90,{\displaystyle x}
+Wave_91,{\displaystyle x}
+Wave_92,{\displaystyle u}
+Wave_93,{\displaystyle v}
+Wave_94,{\displaystyle v}
+Wave_95,"{\displaystyle u(x,t)=F(x-vt)}"
+Wave_96,{\displaystyle F}
+Wave_97,"{\displaystyle u(x,t)=G(x+vt)}"
+Wave_98,{\displaystyle G}
+Wave_99,"{\displaystyle u(x,t)=F(x-vt)+G(x+vt).}"
+Wave_100,{\displaystyle F}
+Wave_101,{\displaystyle G}
+Wave_102,{\displaystyle {\frac {1}{v^{2}}}{\frac {\partial ^{2}u}{\partial t^{2}}}={\frac {\partial ^{2}u}{\partial x^{2}}}.}
+Wave_103,"{\displaystyle u(x,t)=A(x,t)\sin \left(kx-\omega t+\phi \right),}"
+Wave_104,"{\displaystyle A(x,\ t)}"
+Wave_105,{\displaystyle k}
+Wave_106,{\displaystyle \phi }
+Wave_107,{\displaystyle v_{g}}
+Wave_108,"{\displaystyle u(x,t)=A(x-v_{g}t)\sin \left(kx-\omega t+\phi \right),}"
+Wave_109,{\displaystyle v_{\mathrm {p} }={\frac {\lambda }{T}}.}
+Wave_110,{\displaystyle {\hat {n}}}
+Wave_111,{\displaystyle {\hat {n}}\cdot {\vec {x}}}
+Wave_112,{\displaystyle t}
+Wave_113,{\displaystyle {\vec {x}}}
+Wave_114,{\displaystyle {\hat {n}}\cdot {\vec {x}}}
+Wave_115,{\displaystyle {\hat {n}}}
+Wave_116,"{\displaystyle v_{\rm {p}}={\frac {\omega }{k}},}"
+Wave_117,{\displaystyle \omega =\Omega (k).}
+Wave_118,{\displaystyle v_{\rm {g}}={\frac {\partial \omega }{\partial k}}}
+Wave_119,"{\displaystyle v={\sqrt {\frac {T}{\mu }}},}"
+Wave_120,"{\displaystyle v={\sqrt {\frac {B}{\rho _{0}}}},}"
+Wave_121,"{\displaystyle \lambda ={\frac {h}{p}},}"
+Wave_122,"{\displaystyle \psi (\mathbf {r} ,\,t=0)=Ae^{i\mathbf {k\cdot r} },}"
+Wave_123,"{\displaystyle \lambda ={\frac {2\pi }{k}},}"
+Wave_124,{\displaystyle \mathbf {p} =\hbar \mathbf {k} .}
+Wave_125,"{\displaystyle \psi (x,\,t=0)=A\exp \left(-{\frac {x^{2}}{2\sigma ^{2}}}+ik_{0}x\right),}"
+Wave_126,"{\displaystyle f(x)=e^{-x^{2}/\left(2\sigma ^{2}\right)},}"
+Wave_127,{\displaystyle {\tilde {f}}(k)=\sigma e^{-\sigma ^{2}k^{2}/2}.}
+Wave_128,{\displaystyle f(x)={\frac {1}{\sqrt {2\pi }}}\int _{-\infty }^{\infty }\ {\tilde {f}}(k)e^{ikx}\ dk;}

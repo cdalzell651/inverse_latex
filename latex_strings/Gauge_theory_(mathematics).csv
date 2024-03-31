@@ -1,0 +1,482 @@
+name,latex
+Gauge_theory_(mathematics)_0,{\displaystyle 8k-3}
+Gauge_theory_(mathematics)_1,{\displaystyle k}
+Gauge_theory_(mathematics)_2,{\displaystyle k=1}
+Gauge_theory_(mathematics)_3,{\displaystyle z\in \mathbb {R} ^{4}}
+Gauge_theory_(mathematics)_4,{\displaystyle \rho \in \mathbb {R} _{>0}}
+Gauge_theory_(mathematics)_5,{\displaystyle 8-3=5}
+Gauge_theory_(mathematics)_6,{\displaystyle \mathbb {CP} ^{3}}
+Gauge_theory_(mathematics)_7,{\displaystyle \mathbb {R} ^{4}}
+Gauge_theory_(mathematics)_8,{\displaystyle \mathbb {R} ^{4}}
+Gauge_theory_(mathematics)_9,{\displaystyle {\mathcal {F}}(E)}
+Gauge_theory_(mathematics)_10,{\displaystyle E}
+Gauge_theory_(mathematics)_11,{\displaystyle \mathbb {Z} /2\mathbb {Z} }
+Gauge_theory_(mathematics)_12,{\displaystyle G}
+Gauge_theory_(mathematics)_13,{\displaystyle G}
+Gauge_theory_(mathematics)_14,"{\displaystyle (P,X,\pi ,G,\rho )}"
+Gauge_theory_(mathematics)_15,{\displaystyle \pi :P\to X}
+Gauge_theory_(mathematics)_16,{\displaystyle G}
+Gauge_theory_(mathematics)_17,{\displaystyle \rho }
+Gauge_theory_(mathematics)_18,{\displaystyle G}
+Gauge_theory_(mathematics)_19,{\displaystyle P}
+Gauge_theory_(mathematics)_20,{\displaystyle p\in P}
+Gauge_theory_(mathematics)_21,{\displaystyle \pi (pg)=\pi (p)}
+Gauge_theory_(mathematics)_22,{\displaystyle g\in G}
+Gauge_theory_(mathematics)_23,{\displaystyle P}
+Gauge_theory_(mathematics)_24,{\displaystyle X}
+Gauge_theory_(mathematics)_25,{\displaystyle x\in X}
+Gauge_theory_(mathematics)_27,{\displaystyle g\mapsto pg}
+Gauge_theory_(mathematics)_28,{\displaystyle P_{x}\cong G}
+Gauge_theory_(mathematics)_29,{\displaystyle x}
+Gauge_theory_(mathematics)_30,{\displaystyle G}
+Gauge_theory_(mathematics)_31,{\displaystyle P}
+Gauge_theory_(mathematics)_32,{\displaystyle p\in P_{x}}
+Gauge_theory_(mathematics)_33,{\displaystyle x\in X}
+Gauge_theory_(mathematics)_34,{\displaystyle G=\operatorname {U} (1)}
+Gauge_theory_(mathematics)_35,{\displaystyle \dim P=n+1}
+Gauge_theory_(mathematics)_36,{\displaystyle \dim X=n}
+Gauge_theory_(mathematics)_37,{\displaystyle P={\mathcal {F}}(TX)}
+Gauge_theory_(mathematics)_38,{\displaystyle X}
+Gauge_theory_(mathematics)_39,{\displaystyle X}
+Gauge_theory_(mathematics)_40,{\displaystyle P}
+Gauge_theory_(mathematics)_41,"{\displaystyle \operatorname {GL} (n,\mathbb {R} )}"
+Gauge_theory_(mathematics)_42,{\displaystyle \{U_{\alpha }\}}
+Gauge_theory_(mathematics)_43,{\displaystyle X}
+Gauge_theory_(mathematics)_44,{\displaystyle \varphi _{\alpha }:P_{U_{\alpha }}\to U_{\alpha }\times G}
+Gauge_theory_(mathematics)_45,{\displaystyle \pi }
+Gauge_theory_(mathematics)_46,{\displaystyle \operatorname {pr} _{1}}
+Gauge_theory_(mathematics)_47,{\displaystyle g_{\alpha \beta }:U_{\alpha }\cap U_{\beta }\to G}
+Gauge_theory_(mathematics)_48,"{\displaystyle \varphi _{\alpha }\circ \varphi _{\beta }^{-1}(x,g)=(x,g_{\alpha \beta }(x)g)}"
+Gauge_theory_(mathematics)_49,{\displaystyle g_{\alpha \beta }(x)g_{\beta \gamma }(x)=g_{\alpha \gamma }(x)}
+Gauge_theory_(mathematics)_50,{\displaystyle U_{\alpha }\cap U_{\beta }\cap U_{\gamma }}
+Gauge_theory_(mathematics)_51,{\displaystyle U_{\alpha }\times G}
+Gauge_theory_(mathematics)_52,{\displaystyle U_{\alpha }\cap U_{\beta }}
+Gauge_theory_(mathematics)_53,{\displaystyle \bigsqcup _{\alpha }U_{\alpha }\times G}
+Gauge_theory_(mathematics)_54,{\displaystyle P=\bigsqcup _{\alpha }U_{\alpha }\times G/{\sim }}
+Gauge_theory_(mathematics)_55,{\displaystyle s_{\alpha }:U_{\alpha }\to P_{U_{\alpha }}}
+Gauge_theory_(mathematics)_56,{\displaystyle \pi \circ s_{\alpha }=\operatorname {Id} }
+Gauge_theory_(mathematics)_57,"{\displaystyle \varphi _{\alpha }(p)=(\pi (p),{\tilde {s}}_{\alpha }(p))}"
+Gauge_theory_(mathematics)_58,{\displaystyle {\tilde {s}}_{\alpha }(p)\in G}
+Gauge_theory_(mathematics)_59,{\displaystyle p{\tilde {s}}_{\alpha }(p)^{-1}=s_{\alpha }(\pi (p))}
+Gauge_theory_(mathematics)_60,{\displaystyle E}
+Gauge_theory_(mathematics)_61,{\displaystyle M}
+Gauge_theory_(mathematics)_62,{\displaystyle s}
+Gauge_theory_(mathematics)_63,"{\displaystyle (E,X,\pi )}"
+Gauge_theory_(mathematics)_64,{\displaystyle \pi :E\to X}
+Gauge_theory_(mathematics)_65,{\displaystyle \mathbb {K} ^{r}}
+Gauge_theory_(mathematics)_66,"{\displaystyle \mathbb {K} =\mathbb {R} ,\mathbb {C} }"
+Gauge_theory_(mathematics)_67,{\displaystyle r}
+Gauge_theory_(mathematics)_68,{\displaystyle \{U_{\alpha }\}}
+Gauge_theory_(mathematics)_69,{\displaystyle \varphi _{\alpha }:E_{U_{\alpha }}\to U_{\alpha }\times \mathbb {K} ^{r}}
+Gauge_theory_(mathematics)_70,{\displaystyle r}
+Gauge_theory_(mathematics)_71,{\displaystyle E}
+Gauge_theory_(mathematics)_72,{\displaystyle r}
+Gauge_theory_(mathematics)_73,"{\displaystyle e_{1},\dots ,e_{r}}"
+Gauge_theory_(mathematics)_74,{\displaystyle \mathbb {K} ^{r}}
+Gauge_theory_(mathematics)_75,"{\displaystyle {\boldsymbol {e}}_{1},\dots ,{\boldsymbol {e}}_{r}}"
+Gauge_theory_(mathematics)_76,"{\displaystyle \varphi _{\alpha }({\boldsymbol {e}}_{i}(x))=(x,e_{i}).}"
+Gauge_theory_(mathematics)_77,{\displaystyle r}
+Gauge_theory_(mathematics)_78,"{\displaystyle g_{\alpha \beta }:U_{\alpha }\cap U_{\beta }\to \operatorname {GL} (r,\mathbb {K} )}"
+Gauge_theory_(mathematics)_79,"{\displaystyle \varphi _{\alpha }\circ \varphi _{\beta }^{-1}(x,v)=(x,g_{\alpha \beta }(x)v).}"
+Gauge_theory_(mathematics)_80,"{\displaystyle \operatorname {GL} (r,\mathbb {K} )}"
+Gauge_theory_(mathematics)_81,{\displaystyle E}
+Gauge_theory_(mathematics)_82,"{\displaystyle \operatorname {GL} (r,\mathbb {K} )}"
+Gauge_theory_(mathematics)_83,{\displaystyle G}
+Gauge_theory_(mathematics)_84,{\displaystyle P}
+Gauge_theory_(mathematics)_85,{\displaystyle \rho }
+Gauge_theory_(mathematics)_86,{\displaystyle G}
+Gauge_theory_(mathematics)_87,{\displaystyle V}
+Gauge_theory_(mathematics)_88,{\displaystyle E=P\times _{\rho }V}
+Gauge_theory_(mathematics)_89,{\displaystyle V}
+Gauge_theory_(mathematics)_90,{\displaystyle P\times V}
+Gauge_theory_(mathematics)_91,"{\displaystyle (p,v)g=(pg,\rho (g^{-1})v)}"
+Gauge_theory_(mathematics)_92,{\displaystyle P\times _{\rho }V=(P\times V)/G}
+Gauge_theory_(mathematics)_93,{\displaystyle P}
+Gauge_theory_(mathematics)_94,{\displaystyle g_{\alpha \beta }}
+Gauge_theory_(mathematics)_95,{\displaystyle \{U_{\alpha }\}}
+Gauge_theory_(mathematics)_96,{\displaystyle \rho \circ g_{\alpha \beta }:U_{\alpha }\cap U_{\beta }\to \operatorname {GL} (V)}
+Gauge_theory_(mathematics)_97,{\displaystyle F}
+Gauge_theory_(mathematics)_98,{\displaystyle \rho :G\to \operatorname {Aut} (F)}
+Gauge_theory_(mathematics)_99,{\displaystyle \operatorname {Ad} (P)}
+Gauge_theory_(mathematics)_100,{\displaystyle G}
+Gauge_theory_(mathematics)_101,{\displaystyle \rho :G\to \operatorname {Aut} (G)}
+Gauge_theory_(mathematics)_102,{\displaystyle g\mapsto (h\mapsto ghg^{-1})}
+Gauge_theory_(mathematics)_103,{\displaystyle G}
+Gauge_theory_(mathematics)_104,{\displaystyle P}
+Gauge_theory_(mathematics)_105,{\displaystyle G}
+Gauge_theory_(mathematics)_106,{\displaystyle \operatorname {Ad} (P)}
+Gauge_theory_(mathematics)_107,{\displaystyle G}
+Gauge_theory_(mathematics)_108,{\displaystyle X}
+Gauge_theory_(mathematics)_109,{\displaystyle P}
+Gauge_theory_(mathematics)_110,{\displaystyle \operatorname {ad} (P)}
+Gauge_theory_(mathematics)_111,{\displaystyle \rho :G\to \operatorname {Aut} ({\mathfrak {g}})}
+Gauge_theory_(mathematics)_112,{\displaystyle {\mathfrak {g}}}
+Gauge_theory_(mathematics)_113,{\displaystyle G}
+Gauge_theory_(mathematics)_114,{\displaystyle \varphi :P\to P}
+Gauge_theory_(mathematics)_115,{\displaystyle \pi }
+Gauge_theory_(mathematics)_116,{\displaystyle \rho }
+Gauge_theory_(mathematics)_117,{\displaystyle \varphi :E\to E}
+Gauge_theory_(mathematics)_118,{\displaystyle \pi }
+Gauge_theory_(mathematics)_119,{\displaystyle P}
+Gauge_theory_(mathematics)_120,{\displaystyle E}
+Gauge_theory_(mathematics)_121,{\displaystyle {\mathcal {G}}}
+Gauge_theory_(mathematics)_122,{\displaystyle {\mathcal {G}}=\Gamma (\operatorname {Ad} (P))}
+Gauge_theory_(mathematics)_123,{\displaystyle {\mathcal {G}}=\Gamma (\operatorname {Ad} ({\mathcal {F}}(E)))}
+Gauge_theory_(mathematics)_124,{\displaystyle {\mathcal {F}}(E)}
+Gauge_theory_(mathematics)_125,{\displaystyle U_{\alpha }}
+Gauge_theory_(mathematics)_126,{\displaystyle g_{\alpha }:U_{\alpha }\to G}
+Gauge_theory_(mathematics)_127,"{\displaystyle G=\operatorname {GL} (r,\mathbb {K} )}"
+Gauge_theory_(mathematics)_128,{\displaystyle \varphi _{\alpha }(p)=pg_{\alpha }(\pi (p))}
+Gauge_theory_(mathematics)_129,{\displaystyle U_{\alpha }}
+Gauge_theory_(mathematics)_130,{\displaystyle g_{\alpha \alpha }:U_{\alpha }\to G}
+Gauge_theory_(mathematics)_131,{\displaystyle G}
+Gauge_theory_(mathematics)_132,{\displaystyle P}
+Gauge_theory_(mathematics)_133,{\displaystyle R_{g}}
+Gauge_theory_(mathematics)_134,{\displaystyle H\subset TP}
+Gauge_theory_(mathematics)_135,{\displaystyle \omega }
+Gauge_theory_(mathematics)_136,{\displaystyle \omega }
+Gauge_theory_(mathematics)_137,{\displaystyle TP}
+Gauge_theory_(mathematics)_138,{\displaystyle P}
+Gauge_theory_(mathematics)_139,{\displaystyle s:X\to P}
+Gauge_theory_(mathematics)_140,{\displaystyle G}
+Gauge_theory_(mathematics)_141,{\displaystyle P}
+Gauge_theory_(mathematics)_142,{\displaystyle U_{\alpha }}
+Gauge_theory_(mathematics)_143,"{\displaystyle \varphi _{\alpha }(s(x))=(x,g)}"
+Gauge_theory_(mathematics)_144,{\displaystyle x\in U_{\alpha }}
+Gauge_theory_(mathematics)_145,{\displaystyle g\in G}
+Gauge_theory_(mathematics)_146,{\displaystyle P=X\times G}
+Gauge_theory_(mathematics)_147,{\displaystyle H_{p}\subset T_{p}P}
+Gauge_theory_(mathematics)_148,{\displaystyle p\in P}
+Gauge_theory_(mathematics)_149,{\displaystyle T_{p}P=H_{p}\oplus V_{p}}
+Gauge_theory_(mathematics)_150,{\displaystyle V}
+Gauge_theory_(mathematics)_151,{\displaystyle V=\ker d\pi }
+Gauge_theory_(mathematics)_152,{\displaystyle H}
+Gauge_theory_(mathematics)_153,{\displaystyle H_{pg}=d(R_{g})(H_{p})}
+Gauge_theory_(mathematics)_154,{\displaystyle R_{g}:P\to P}
+Gauge_theory_(mathematics)_155,{\displaystyle g}
+Gauge_theory_(mathematics)_156,{\displaystyle s}
+Gauge_theory_(mathematics)_157,{\displaystyle T_{p}s\subset H_{p}}
+Gauge_theory_(mathematics)_158,{\displaystyle s}
+Gauge_theory_(mathematics)_159,{\displaystyle P}
+Gauge_theory_(mathematics)_160,{\displaystyle P}
+Gauge_theory_(mathematics)_161,{\displaystyle Ts}
+Gauge_theory_(mathematics)_162,{\displaystyle v\in \Gamma (TX)}
+Gauge_theory_(mathematics)_163,{\displaystyle v^{\#}\in \Gamma (H)}
+Gauge_theory_(mathematics)_164,{\displaystyle H}
+Gauge_theory_(mathematics)_165,"{\displaystyle F\in \Omega ^{2}(X,\operatorname {ad} (P))}"
+Gauge_theory_(mathematics)_166,"{\displaystyle F(v_{1},v_{2})=[v_{1}^{\#},v_{2}^{\#}]-[v_{1},v_{2}]^{\#}}"
+Gauge_theory_(mathematics)_167,"{\displaystyle [\cdot ,\cdot ]}"
+Gauge_theory_(mathematics)_168,{\displaystyle P}
+Gauge_theory_(mathematics)_169,{\displaystyle G}
+Gauge_theory_(mathematics)_170,{\displaystyle TG=G\times {\mathfrak {g}}}
+Gauge_theory_(mathematics)_171,"{\displaystyle F\in \Omega ^{2}(P,{\mathfrak {g}})}"
+Gauge_theory_(mathematics)_172,{\displaystyle H}
+Gauge_theory_(mathematics)_173,{\displaystyle P}
+Gauge_theory_(mathematics)_174,{\displaystyle \nu :TP\to V}
+Gauge_theory_(mathematics)_175,{\displaystyle H}
+Gauge_theory_(mathematics)_176,{\displaystyle \nu _{H}(h+v)=v}
+Gauge_theory_(mathematics)_177,{\displaystyle h+v}
+Gauge_theory_(mathematics)_178,{\displaystyle TP=H\oplus V}
+Gauge_theory_(mathematics)_179,"{\displaystyle \nu \in \Omega ^{1}(P,{\mathfrak {g}})}"
+Gauge_theory_(mathematics)_180,{\displaystyle P}
+Gauge_theory_(mathematics)_181,{\displaystyle s_{\alpha }:U_{\alpha }\to P_{U_{\alpha }}}
+Gauge_theory_(mathematics)_182,"{\displaystyle A_{\alpha }=s_{\alpha }^{*}\nu \in \Omega ^{1}(U_{\alpha },\operatorname {ad} (P))}"
+Gauge_theory_(mathematics)_183,{\displaystyle P}
+Gauge_theory_(mathematics)_184,{\displaystyle A_{\alpha }}
+Gauge_theory_(mathematics)_185,"{\displaystyle F=dA_{\alpha }+{\frac {1}{2}}[A_{\alpha },A_{\alpha }]}"
+Gauge_theory_(mathematics)_186,{\displaystyle \operatorname {ad} (P)}
+Gauge_theory_(mathematics)_187,{\displaystyle U_{\alpha }\times {\mathfrak {g}}}
+Gauge_theory_(mathematics)_188,{\displaystyle U_{\alpha }}
+Gauge_theory_(mathematics)_189,{\displaystyle g:U_{\alpha }\to G}
+Gauge_theory_(mathematics)_190,{\displaystyle {\tilde {A}}_{\alpha }=(g\circ s)^{*}\nu }
+Gauge_theory_(mathematics)_191,{\displaystyle {\tilde {A}}_{\alpha }=\operatorname {ad} (g)\circ A_{\alpha }+(g^{-1})^{*}\theta }
+Gauge_theory_(mathematics)_192,{\displaystyle \theta }
+Gauge_theory_(mathematics)_193,{\displaystyle G}
+Gauge_theory_(mathematics)_194,{\displaystyle G}
+Gauge_theory_(mathematics)_195,{\displaystyle {\tilde {A}}_{\alpha }=gA_{\alpha }g^{-1}-(dg)g^{-1}.}
+Gauge_theory_(mathematics)_196,{\displaystyle s(\gamma (t))}
+Gauge_theory_(mathematics)_197,{\displaystyle s\in \Gamma (E)}
+Gauge_theory_(mathematics)_198,{\displaystyle \gamma }
+Gauge_theory_(mathematics)_199,{\displaystyle \gamma (0)=x}
+Gauge_theory_(mathematics)_200,{\displaystyle E_{x}}
+Gauge_theory_(mathematics)_201,{\displaystyle x}
+Gauge_theory_(mathematics)_202,{\displaystyle \mathbb {K} }
+Gauge_theory_(mathematics)_203,{\displaystyle \nabla :\Gamma (E)\to \Gamma (T^{*}X\otimes E)=\Omega ^{1}(E)}
+Gauge_theory_(mathematics)_204,{\displaystyle \nabla (fs)=df\otimes s+f\nabla s}
+Gauge_theory_(mathematics)_205,{\displaystyle f\in C^{\infty }(X)}
+Gauge_theory_(mathematics)_206,{\displaystyle s\in \Gamma (E)}
+Gauge_theory_(mathematics)_207,{\displaystyle s}
+Gauge_theory_(mathematics)_208,{\displaystyle v}
+Gauge_theory_(mathematics)_209,{\displaystyle \nabla _{v}(s)=\nabla s(v)}
+Gauge_theory_(mathematics)_210,{\displaystyle \Omega ^{1}(X)}
+Gauge_theory_(mathematics)_211,{\displaystyle TX}
+Gauge_theory_(mathematics)_212,{\displaystyle E}
+Gauge_theory_(mathematics)_213,{\displaystyle s}
+Gauge_theory_(mathematics)_214,{\displaystyle v}
+Gauge_theory_(mathematics)_215,{\displaystyle \nabla _{v}}
+Gauge_theory_(mathematics)_216,{\displaystyle v}
+Gauge_theory_(mathematics)_217,{\displaystyle \nabla }
+Gauge_theory_(mathematics)_218,{\displaystyle F_{\nabla }\in \Omega ^{2}(\operatorname {End} (E))}
+Gauge_theory_(mathematics)_219,"{\displaystyle F_{\nabla }(v_{1},v_{2})=\nabla _{v_{1}}\nabla _{v_{2}}-\nabla _{v_{2}}\nabla _{v_{1}}-\nabla _{[v_{1},v_{2}]}.}"
+Gauge_theory_(mathematics)_220,{\displaystyle d}
+Gauge_theory_(mathematics)_221,"{\displaystyle {\boldsymbol {e}}_{1},\dots ,{\boldsymbol {e}}_{r}}"
+Gauge_theory_(mathematics)_222,{\displaystyle d(s^{i}{\boldsymbol {e}}_{i})=ds^{i}\otimes {\boldsymbol {e}}_{i}}
+Gauge_theory_(mathematics)_223,{\displaystyle s=s^{i}{\boldsymbol {e}}_{i}}
+Gauge_theory_(mathematics)_224,"{\displaystyle \nabla _{1},\nabla _{2}}"
+Gauge_theory_(mathematics)_225,{\displaystyle \operatorname {End} (E)}
+Gauge_theory_(mathematics)_226,{\displaystyle A}
+Gauge_theory_(mathematics)_227,{\displaystyle C^{\infty }(X)}
+Gauge_theory_(mathematics)_228,{\displaystyle (\nabla _{1}-\nabla _{2})(fs)=f(\nabla _{1}-\nabla _{2})(s).}
+Gauge_theory_(mathematics)_229,{\displaystyle \Omega ^{1}(\operatorname {End} (E))}
+Gauge_theory_(mathematics)_230,{\displaystyle {\mathcal {A}}}
+Gauge_theory_(mathematics)_231,{\displaystyle U_{\alpha }}
+Gauge_theory_(mathematics)_232,{\displaystyle d}
+Gauge_theory_(mathematics)_233,"{\displaystyle A_{\alpha }\in \Omega ^{1}(U_{\alpha },\operatorname {End} (E))}"
+Gauge_theory_(mathematics)_234,{\displaystyle \nabla =d+A_{\alpha }}
+Gauge_theory_(mathematics)_235,{\displaystyle U_{\alpha }}
+Gauge_theory_(mathematics)_236,{\displaystyle F_{A}=dA_{\alpha }+A_{\alpha }\wedge A_{\alpha }}
+Gauge_theory_(mathematics)_237,"{\displaystyle A\wedge A={\frac {1}{2}}[A,A]}"
+Gauge_theory_(mathematics)_238,{\displaystyle u}
+Gauge_theory_(mathematics)_239,{\displaystyle E}
+Gauge_theory_(mathematics)_240,{\displaystyle \nabla }
+Gauge_theory_(mathematics)_241,{\displaystyle u\cdot \nabla }
+Gauge_theory_(mathematics)_242,{\displaystyle (u\cdot \nabla )_{v}(s)=u(\nabla _{v}(u^{-1}(s))}
+Gauge_theory_(mathematics)_243,{\displaystyle u\cdot \nabla -\nabla =-(\nabla u)u^{-1}}
+Gauge_theory_(mathematics)_244,{\displaystyle \nabla }
+Gauge_theory_(mathematics)_245,{\displaystyle E}
+Gauge_theory_(mathematics)_246,{\displaystyle g}
+Gauge_theory_(mathematics)_247,{\displaystyle {\tilde {A}}_{\alpha }=gA_{\alpha }g^{-1}-(dg)g^{-1}}
+Gauge_theory_(mathematics)_248,{\displaystyle H}
+Gauge_theory_(mathematics)_249,"{\displaystyle A_{\alpha }\in \Omega ^{1}(U_{\alpha },\operatorname {ad} (P))}"
+Gauge_theory_(mathematics)_250,{\displaystyle \rho :G\to \operatorname {Aut} (V)}
+Gauge_theory_(mathematics)_251,{\displaystyle G}
+Gauge_theory_(mathematics)_252,{\displaystyle E=P\times _{\rho }V}
+Gauge_theory_(mathematics)_253,"{\displaystyle \rho _{*}A_{\alpha }\in \Omega ^{1}(U_{\alpha },\operatorname {End} (E)).}"
+Gauge_theory_(mathematics)_254,{\displaystyle \rho _{*}}
+Gauge_theory_(mathematics)_255,{\displaystyle {\mathfrak {g}}\to \operatorname {End} (V)}
+Gauge_theory_(mathematics)_256,{\displaystyle \operatorname {ad} (P)\to \operatorname {End} (E)}
+Gauge_theory_(mathematics)_257,"{\displaystyle \rho _{*}F_{A}\in \Omega ^{2}(U_{\alpha },\operatorname {End} (E)).}"
+Gauge_theory_(mathematics)_258,{\displaystyle {\mathfrak {g}}}
+Gauge_theory_(mathematics)_259,{\displaystyle \operatorname {End} (V)}
+Gauge_theory_(mathematics)_260,{\displaystyle \rho _{*}}
+Gauge_theory_(mathematics)_261,{\displaystyle {\mathcal {A}}}
+Gauge_theory_(mathematics)_262,"{\displaystyle \Omega ^{1}(X,\operatorname {ad} (P))}"
+Gauge_theory_(mathematics)_263,"{\displaystyle \Omega ^{1}(X,\operatorname {End} (E))}"
+Gauge_theory_(mathematics)_264,"{\displaystyle A,A'\in {\mathcal {A}}}"
+Gauge_theory_(mathematics)_265,{\displaystyle u}
+Gauge_theory_(mathematics)_266,{\displaystyle A'=u\cdot A}
+Gauge_theory_(mathematics)_267,{\displaystyle {\mathcal {A}}/{\mathcal {G}}}
+Gauge_theory_(mathematics)_268,{\displaystyle X}
+Gauge_theory_(mathematics)_269,{\displaystyle X}
+Gauge_theory_(mathematics)_270,{\displaystyle X}
+Gauge_theory_(mathematics)_271,{\displaystyle X}
+Gauge_theory_(mathematics)_272,{\displaystyle \operatorname {SU} (2)}
+Gauge_theory_(mathematics)_273,{\displaystyle X}
+Gauge_theory_(mathematics)_274,{\displaystyle A}
+Gauge_theory_(mathematics)_275,{\displaystyle \nabla _{0}\in {\mathcal {A}}}
+Gauge_theory_(mathematics)_276,{\displaystyle \nabla =\nabla _{0}+A}
+Gauge_theory_(mathematics)_277,"{\displaystyle A\in \Omega ^{1}(X,\operatorname {ad} (P))}"
+Gauge_theory_(mathematics)_278,{\displaystyle A_{\alpha }}
+Gauge_theory_(mathematics)_279,{\displaystyle A}
+Gauge_theory_(mathematics)_280,{\displaystyle \omega }
+Gauge_theory_(mathematics)_281,{\displaystyle \omega }
+Gauge_theory_(mathematics)_282,"{\displaystyle \omega \in \Omega ^{1}(P,{\mathfrak {g}})}"
+Gauge_theory_(mathematics)_283,{\displaystyle \omega }
+Gauge_theory_(mathematics)_284,{\displaystyle X}
+Gauge_theory_(mathematics)_285,{\displaystyle \nabla }
+Gauge_theory_(mathematics)_286,{\displaystyle A}
+Gauge_theory_(mathematics)_287,{\displaystyle \nabla _{X}}
+Gauge_theory_(mathematics)_288,{\displaystyle \nabla _{A}}
+Gauge_theory_(mathematics)_289,{\displaystyle A\in {\mathcal {A}}}
+Gauge_theory_(mathematics)_290,{\displaystyle D_{A}}
+Gauge_theory_(mathematics)_291,{\displaystyle d_{A}}
+Gauge_theory_(mathematics)_292,{\displaystyle d_{A}}
+Gauge_theory_(mathematics)_293,{\displaystyle A}
+Gauge_theory_(mathematics)_294,{\displaystyle d_{\nabla }}
+Gauge_theory_(mathematics)_295,{\displaystyle \nabla }
+Gauge_theory_(mathematics)_296,{\displaystyle d_{A}}
+Gauge_theory_(mathematics)_297,{\displaystyle \nabla }
+Gauge_theory_(mathematics)_298,{\displaystyle F_{A}}
+Gauge_theory_(mathematics)_299,{\displaystyle F_{\nabla }}
+Gauge_theory_(mathematics)_300,{\displaystyle \omega }
+Gauge_theory_(mathematics)_301,{\displaystyle \Omega }
+Gauge_theory_(mathematics)_302,{\displaystyle F_{\omega }}
+Gauge_theory_(mathematics)_303,{\displaystyle R}
+Gauge_theory_(mathematics)_304,{\displaystyle R_{A}}
+Gauge_theory_(mathematics)_305,{\displaystyle R_{\nabla }}
+Gauge_theory_(mathematics)_306,{\displaystyle R}
+Gauge_theory_(mathematics)_307,{\displaystyle H}
+Gauge_theory_(mathematics)_308,{\displaystyle H\subset TP}
+Gauge_theory_(mathematics)_309,{\displaystyle H}
+Gauge_theory_(mathematics)_310,{\displaystyle P}
+Gauge_theory_(mathematics)_311,{\displaystyle \omega }
+Gauge_theory_(mathematics)_312,{\displaystyle v}
+Gauge_theory_(mathematics)_313,{\displaystyle \nu }
+Gauge_theory_(mathematics)_314,{\displaystyle F_{H}}
+Gauge_theory_(mathematics)_315,{\displaystyle F_{H}}
+Gauge_theory_(mathematics)_316,"{\displaystyle F_{H}\in \Omega ^{2}(P,{\mathfrak {g}})}"
+Gauge_theory_(mathematics)_317,"{\displaystyle F_{H}\in \Omega ^{2}(X,\operatorname {ad} (P))}"
+Gauge_theory_(mathematics)_318,{\displaystyle \operatorname {ad} (P)}
+Gauge_theory_(mathematics)_319,{\displaystyle \operatorname {Ad} (P)}
+Gauge_theory_(mathematics)_320,{\displaystyle \operatorname {Ad} }
+Gauge_theory_(mathematics)_321,{\displaystyle G}
+Gauge_theory_(mathematics)_322,{\displaystyle {\mathfrak {g}}}
+Gauge_theory_(mathematics)_323,{\displaystyle \operatorname {ad} }
+Gauge_theory_(mathematics)_324,{\displaystyle {\mathfrak {g}}}
+Gauge_theory_(mathematics)_325,{\displaystyle \operatorname {Ad} (P)}
+Gauge_theory_(mathematics)_326,{\displaystyle \Psi _{g}}
+Gauge_theory_(mathematics)_327,"{\displaystyle {\mathcal {L}}={\bar {\psi }}(i\gamma ^{\mu }D_{\mu }-m)\psi -{\frac {1}{4}}F_{\mu \nu }F^{\mu \nu },}"
+Gauge_theory_(mathematics)_328,"{\displaystyle {\mathcal {L}}=\langle \psi ,({D\!\!\!\!/}_{A}-m)\psi \rangle _{L^{2}}+\|F_{A}\|_{L^{2}}^{2}}"
+Gauge_theory_(mathematics)_329,{\displaystyle A}
+Gauge_theory_(mathematics)_330,{\displaystyle \operatorname {U} (1)}
+Gauge_theory_(mathematics)_331,{\displaystyle P}
+Gauge_theory_(mathematics)_332,{\displaystyle \psi }
+Gauge_theory_(mathematics)_333,{\displaystyle {D\!\!\!\!/}_{A}}
+Gauge_theory_(mathematics)_334,{\displaystyle \nabla _{A}}
+Gauge_theory_(mathematics)_335,{\displaystyle A}
+Gauge_theory_(mathematics)_336,{\displaystyle \nabla _{A}\psi }
+Gauge_theory_(mathematics)_337,{\displaystyle \psi }
+Gauge_theory_(mathematics)_338,{\displaystyle A}
+Gauge_theory_(mathematics)_339,"{\displaystyle \operatorname {YM} (A)=\int _{X}\|F_{A}\|^{2}\,d\mathrm {vol} _{g}}"
+Gauge_theory_(mathematics)_340,"{\displaystyle (X,g)}"
+Gauge_theory_(mathematics)_341,{\displaystyle d\mathrm {vol} _{g}}
+Gauge_theory_(mathematics)_342,{\displaystyle \|\cdot \|^{2}}
+Gauge_theory_(mathematics)_343,{\displaystyle L^{2}}
+Gauge_theory_(mathematics)_344,{\displaystyle \operatorname {ad} (P)}
+Gauge_theory_(mathematics)_345,{\displaystyle L^{2}}
+Gauge_theory_(mathematics)_346,{\displaystyle A}
+Gauge_theory_(mathematics)_347,{\displaystyle \operatorname {YM} }
+Gauge_theory_(mathematics)_348,{\displaystyle d_{A}\star F_{A}=0}
+Gauge_theory_(mathematics)_349,{\displaystyle d_{A}}
+Gauge_theory_(mathematics)_350,{\displaystyle \nabla _{A}}
+Gauge_theory_(mathematics)_351,{\displaystyle \operatorname {ad} (P)}
+Gauge_theory_(mathematics)_352,{\displaystyle \star }
+Gauge_theory_(mathematics)_353,{\displaystyle d_{A}F_{A}=0}
+Gauge_theory_(mathematics)_354,{\displaystyle \omega }
+Gauge_theory_(mathematics)_355,{\displaystyle d\star \omega =d\omega =0.}
+Gauge_theory_(mathematics)_356,{\displaystyle d_{A}\star F_{A}=d_{A}F_{A}=0}
+Gauge_theory_(mathematics)_357,{\displaystyle [\omega ]}
+Gauge_theory_(mathematics)_358,{\displaystyle \{u\cdot A\mid u\in {\mathcal {G}}\}}
+Gauge_theory_(mathematics)_359,{\displaystyle {\mathcal {A}}/{\mathcal {G}}}
+Gauge_theory_(mathematics)_360,{\displaystyle \star :\Omega ^{2}(X)\to \Omega ^{2}(X)}
+Gauge_theory_(mathematics)_361,{\displaystyle \star ^{2}=\operatorname {Id} }
+Gauge_theory_(mathematics)_362,{\displaystyle \pm 1}
+Gauge_theory_(mathematics)_363,{\displaystyle \Omega ^{2}(X)=\Omega _{+}(X)\oplus \Omega _{-}(X)}
+Gauge_theory_(mathematics)_364,{\displaystyle +1}
+Gauge_theory_(mathematics)_365,{\displaystyle -1}
+Gauge_theory_(mathematics)_366,{\displaystyle \alpha \in \Omega ^{2}(X)}
+Gauge_theory_(mathematics)_367,{\displaystyle \star \alpha =\alpha }
+Gauge_theory_(mathematics)_368,{\displaystyle \star \alpha =-\alpha }
+Gauge_theory_(mathematics)_369,{\displaystyle \alpha =\alpha _{+}+\alpha _{-}}
+Gauge_theory_(mathematics)_370,{\displaystyle A}
+Gauge_theory_(mathematics)_371,{\displaystyle d_{A}\star F_{A}=\pm d_{A}F_{A}=0}
+Gauge_theory_(mathematics)_372,{\displaystyle \star F_{A}=\pm F_{A}}
+Gauge_theory_(mathematics)_373,{\displaystyle A}
+Gauge_theory_(mathematics)_374,{\displaystyle \star F_{A}=F_{A}}
+Gauge_theory_(mathematics)_375,{\displaystyle \star F_{A}=-F_{A}}
+Gauge_theory_(mathematics)_376,{\displaystyle X}
+Gauge_theory_(mathematics)_377,{\displaystyle X=\mathbb {R} ^{4}}
+Gauge_theory_(mathematics)_378,{\displaystyle \mathbb {R} ^{3}}
+Gauge_theory_(mathematics)_379,{\displaystyle X}
+Gauge_theory_(mathematics)_380,{\displaystyle \star :\Omega ^{2}(X)\to C^{\infty }(X)}
+Gauge_theory_(mathematics)_381,{\displaystyle E}
+Gauge_theory_(mathematics)_382,{\displaystyle \star F_{A}=\lambda (E)\operatorname {Id} _{E}}
+Gauge_theory_(mathematics)_383,{\displaystyle \lambda (E)\in \mathbb {C} }
+Gauge_theory_(mathematics)_384,{\displaystyle E}
+Gauge_theory_(mathematics)_385,{\displaystyle \lambda (E)=0}
+Gauge_theory_(mathematics)_386,{\displaystyle {\mathcal {M}}}
+Gauge_theory_(mathematics)_387,{\displaystyle E}
+Gauge_theory_(mathematics)_388,{\displaystyle {\mathcal {G}}}
+Gauge_theory_(mathematics)_389,{\displaystyle A\mapsto F_{A}}
+Gauge_theory_(mathematics)_390,"{\displaystyle A=A_{0}\,dx^{0}+A_{1}\,dx^{1}+A_{2}\,dx^{2}+A_{3}\,dx^{3}}"
+Gauge_theory_(mathematics)_391,"{\displaystyle x^{1},x^{2},x^{3}}"
+Gauge_theory_(mathematics)_392,{\displaystyle I\subset \mathbb {R} }
+Gauge_theory_(mathematics)_393,"{\displaystyle T_{0},T_{1},T_{2},T_{3}\in C^{\infty }(I,{\mathfrak {g}})}"
+Gauge_theory_(mathematics)_394,"{\displaystyle {\begin{cases}{\frac {dT_{1}}{dt}}+[T_{0},T_{1}]+[T_{2},T_{3}]=0\\{\frac {dT_{2}}{dt}}+[T_{0},T_{2}]+[T_{3},T_{1}]=0\\{\frac {dT_{3}}{dt}}+[T_{0},T_{3}]+[T_{1},T_{2}]=0.\end{cases}}}"
+Gauge_theory_(mathematics)_395,{\displaystyle \mathbb {R} ^{3}}
+Gauge_theory_(mathematics)_396,{\displaystyle k}
+Gauge_theory_(mathematics)_397,{\displaystyle \mathbb {CP} ^{1}}
+Gauge_theory_(mathematics)_398,{\displaystyle k}
+Gauge_theory_(mathematics)_399,"{\displaystyle A_{3}\,dx^{3}+A_{4}\,dx^{4}}"
+Gauge_theory_(mathematics)_400,{\displaystyle \Phi =A_{3}+iA_{4}}
+Gauge_theory_(mathematics)_401,{\displaystyle \mathbb {R} ^{2}}
+Gauge_theory_(mathematics)_402,"{\displaystyle (A,\Phi )}"
+Gauge_theory_(mathematics)_403,{\displaystyle E\to \Sigma }
+Gauge_theory_(mathematics)_404,"{\displaystyle \Phi \in \Omega ^{1,0}(\Sigma ,\operatorname {End} (E))}"
+Gauge_theory_(mathematics)_405,"{\displaystyle {\begin{cases}F_{A}+[\Phi ,\Phi ^{*}]=0\\{\bar {\partial }}_{A}\Phi =0\end{cases}}}"
+Gauge_theory_(mathematics)_406,{\displaystyle {\bar {\partial }}_{A}}
+Gauge_theory_(mathematics)_407,"{\displaystyle (0,1)}"
+Gauge_theory_(mathematics)_408,{\displaystyle d_{A}}
+Gauge_theory_(mathematics)_409,"{\displaystyle (E,\Phi )}"
+Gauge_theory_(mathematics)_410,{\displaystyle E\to \Sigma }
+Gauge_theory_(mathematics)_411,{\displaystyle \Phi :E\to E\otimes K}
+Gauge_theory_(mathematics)_412,{\displaystyle E}
+Gauge_theory_(mathematics)_413,{\displaystyle \Sigma }
+Gauge_theory_(mathematics)_414,{\displaystyle {\mathcal {M}}}
+Gauge_theory_(mathematics)_415,"{\displaystyle (A,\Phi )}"
+Gauge_theory_(mathematics)_416,{\displaystyle \Phi :\mathbb {R} ^{3}\to {\mathfrak {g}}}
+Gauge_theory_(mathematics)_417,{\displaystyle F_{A}=\star d_{A}\Phi .}
+Gauge_theory_(mathematics)_418,{\displaystyle P\to \mathbb {R} ^{3}}
+Gauge_theory_(mathematics)_419,{\displaystyle \operatorname {U} (1)}
+Gauge_theory_(mathematics)_420,{\displaystyle \operatorname {SU} (2)}
+Gauge_theory_(mathematics)_421,{\displaystyle \mathbb {CP} ^{1}}
+Gauge_theory_(mathematics)_422,{\displaystyle k}
+Gauge_theory_(mathematics)_423,{\displaystyle k}
+Gauge_theory_(mathematics)_424,"{\displaystyle \lim _{R\to \infty }\int _{S_{R}}(\Phi ,F_{A})=4\pi k}"
+Gauge_theory_(mathematics)_425,"{\displaystyle (\Phi ,F_{A})\in \Omega ^{2}(\mathbb {R} ^{3})}"
+Gauge_theory_(mathematics)_426,{\displaystyle S_{R}}
+Gauge_theory_(mathematics)_427,{\displaystyle \mathbb {R} ^{3}}
+Gauge_theory_(mathematics)_428,{\displaystyle R}
+Gauge_theory_(mathematics)_429,{\displaystyle \operatorname {Tr} (F_{A}\wedge A-{\frac {1}{3}}A\wedge A\wedge A).}
+Gauge_theory_(mathematics)_430,{\displaystyle X}
+Gauge_theory_(mathematics)_431,{\displaystyle G}
+Gauge_theory_(mathematics)_432,{\displaystyle P\to X}
+Gauge_theory_(mathematics)_433,{\displaystyle X}
+Gauge_theory_(mathematics)_434,{\displaystyle \operatorname {SU} (2)}
+Gauge_theory_(mathematics)_435,{\displaystyle S^{3}}
+Gauge_theory_(mathematics)_436,{\displaystyle \Sigma \subset X}
+Gauge_theory_(mathematics)_437,{\displaystyle \operatorname {SU} (2)}
+Gauge_theory_(mathematics)_438,{\displaystyle X}
+Gauge_theory_(mathematics)_439,{\displaystyle M\times I}
+Gauge_theory_(mathematics)_440,{\displaystyle \Sigma \subset X}
+Gauge_theory_(mathematics)_441,{\displaystyle X}
+Gauge_theory_(mathematics)_442,{\displaystyle \star F_{A}=-F_{A}}
+Gauge_theory_(mathematics)_443,{\displaystyle A}
+Gauge_theory_(mathematics)_444,{\displaystyle P\to X}
+Gauge_theory_(mathematics)_445,{\displaystyle X}
+Gauge_theory_(mathematics)_446,{\displaystyle d_{A}\star F_{A}=0}
+Gauge_theory_(mathematics)_447,{\displaystyle {\mathcal {M}}_{P}}
+Gauge_theory_(mathematics)_448,{\displaystyle X}
+Gauge_theory_(mathematics)_449,{\displaystyle \operatorname {SU} (2)}
+Gauge_theory_(mathematics)_450,{\displaystyle c_{2}(P)=1}
+Gauge_theory_(mathematics)_451,{\displaystyle {\mathcal {M}}_{P}}
+Gauge_theory_(mathematics)_452,{\displaystyle X}
+Gauge_theory_(mathematics)_453,{\displaystyle b_{2}(X)}
+Gauge_theory_(mathematics)_454,{\displaystyle \mathbb {CP} ^{2}}
+Gauge_theory_(mathematics)_455,{\displaystyle \mathbb {R} ^{4}}
+Gauge_theory_(mathematics)_456,{\displaystyle X}
+Gauge_theory_(mathematics)_457,{\displaystyle A}
+Gauge_theory_(mathematics)_458,{\displaystyle \psi }
+Gauge_theory_(mathematics)_459,{\displaystyle P}
+Gauge_theory_(mathematics)_460,{\displaystyle L}
+Gauge_theory_(mathematics)_461,{\displaystyle S^{+}}
+Gauge_theory_(mathematics)_462,{\displaystyle A}
+Gauge_theory_(mathematics)_463,{\displaystyle L}
+Gauge_theory_(mathematics)_464,{\displaystyle \psi \in \Gamma (S^{+})}
+Gauge_theory_(mathematics)_465,{\displaystyle {\begin{cases}F_{A}^{+}=\psi \otimes \psi ^{*}-{\frac {1}{2}}|\psi |^{2}\\d_{A}\psi =0.\end{cases}}}
+Gauge_theory_(mathematics)_466,{\displaystyle {\mathcal {M}}_{\sigma }}
+Gauge_theory_(mathematics)_467,{\displaystyle \sigma }
+Gauge_theory_(mathematics)_468,{\displaystyle g}
+Gauge_theory_(mathematics)_469,{\displaystyle X}
+Gauge_theory_(mathematics)_470,{\displaystyle E\to X}
+Gauge_theory_(mathematics)_471,"{\displaystyle (X,\omega )}"
+Gauge_theory_(mathematics)_472,{\displaystyle A}
+Gauge_theory_(mathematics)_473,{\displaystyle E}
+Gauge_theory_(mathematics)_474,{\displaystyle h}
+Gauge_theory_(mathematics)_475,"{\displaystyle {\begin{cases}F_{A}^{0,2}=0\\\Lambda _{\omega }F_{A}=\lambda (E)\operatorname {Id} _{E},\end{cases}}}"
+Gauge_theory_(mathematics)_476,{\displaystyle \lambda (E)\in \mathbb {C} }
+Gauge_theory_(mathematics)_477,{\displaystyle E}
+Gauge_theory_(mathematics)_478,{\displaystyle A}
+Gauge_theory_(mathematics)_479,{\displaystyle h}
+Gauge_theory_(mathematics)_480,{\displaystyle A}
+Gauge_theory_(mathematics)_481,"{\displaystyle (E,\Phi )}"

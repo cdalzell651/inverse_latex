@@ -1,0 +1,34 @@
+name,latex
+Laws_of_thermodynamics_0,{\displaystyle c=}
+Laws_of_thermodynamics_1,{\displaystyle T}
+Laws_of_thermodynamics_2,{\displaystyle \partial S}
+Laws_of_thermodynamics_3,{\displaystyle N}
+Laws_of_thermodynamics_4,{\displaystyle \partial T}
+Laws_of_thermodynamics_5,{\displaystyle \beta =-}
+Laws_of_thermodynamics_6,{\displaystyle 1}
+Laws_of_thermodynamics_7,{\displaystyle \partial V}
+Laws_of_thermodynamics_8,{\displaystyle V}
+Laws_of_thermodynamics_9,{\displaystyle \partial p}
+Laws_of_thermodynamics_10,{\displaystyle \alpha =}
+Laws_of_thermodynamics_11,{\displaystyle 1}
+Laws_of_thermodynamics_12,{\displaystyle \partial V}
+Laws_of_thermodynamics_13,{\displaystyle V}
+Laws_of_thermodynamics_14,{\displaystyle \partial T}
+Laws_of_thermodynamics_15,"{\displaystyle U(S,V)}"
+Laws_of_thermodynamics_16,"{\displaystyle H(S,p)=U+pV}"
+Laws_of_thermodynamics_17,"{\displaystyle A(T,V)=U-TS}"
+Laws_of_thermodynamics_18,"{\displaystyle G(T,p)=H-TS}"
+Laws_of_thermodynamics_19,{\displaystyle \Delta U_{\rm {system}}=Q-W}
+Laws_of_thermodynamics_20,{\displaystyle U_{\rm {system}}=U_{1}+U_{2}}
+Laws_of_thermodynamics_21,{\displaystyle E_{\rm {total}}=KE_{\rm {system}}+PE_{\rm {system}}+U_{\rm {system}}}
+Laws_of_thermodynamics_22,"{\displaystyle \left(u\,\Delta M\right)_{\rm {in}}=\Delta U_{\rm {system}}}"
+Laws_of_thermodynamics_23,{\displaystyle \Delta U_{\rm {system}}=Q}
+Laws_of_thermodynamics_24,{\displaystyle \delta Q}
+Laws_of_thermodynamics_25,{\displaystyle T}
+Laws_of_thermodynamics_26,{\displaystyle dS}
+Laws_of_thermodynamics_27,{\displaystyle S}
+Laws_of_thermodynamics_28,"{\displaystyle \delta Q=T\,dS\,.}"
+Laws_of_thermodynamics_29,"{\displaystyle S=k_{\mathrm {B} }\,\mathrm {ln} \,\Omega }"
+Laws_of_thermodynamics_30,{\displaystyle \ln(1)=0}
+Laws_of_thermodynamics_31,{\displaystyle {\frac {\mathrm {d} J_{k}}{\mathrm {d} F_{i}}}{\bigg |}_{F_{i}=0}~=~{\frac {\mathrm {d} J_{i}}{\mathrm {d} F_{k}}}{\bigg |}_{F_{k}=0}}
+Laws_of_thermodynamics_32,{\displaystyle J_{i}={\frac {\mathrm {d} X_{i}}{\mathrm {d} t}}}

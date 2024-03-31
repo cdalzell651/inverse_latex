@@ -1,0 +1,125 @@
+name,latex
+Natural_logarithm_0,{\displaystyle \ln x=\log _{e}x}
+Natural_logarithm_1,{\displaystyle \mathbb {R} _{>0}}
+Natural_logarithm_2,{\displaystyle \mathbb {R} }
+Natural_logarithm_3,{\displaystyle \mathbb {R} }
+Natural_logarithm_4,{\displaystyle x=0}
+Natural_logarithm_5,{\displaystyle \exp x}
+Natural_logarithm_6,"{\displaystyle {\dfrac {d}{dx}}\ln x={\dfrac {1}{x}},x>0}"
+Natural_logarithm_7,"{\displaystyle \int \ln x\,dx=x\left(\ln x-1\right)+C}"
+Natural_logarithm_8,{\displaystyle {\begin{aligned}e^{\ln x}&=x\qquad {\text{ if }}x\in \mathbb {R} _{+}\\\ln e^{x}&=x\qquad {\text{ if }}x\in \mathbb {R} \end{aligned}}}
+Natural_logarithm_9,{\displaystyle \ln(x\cdot y)=\ln x+\ln y~.}
+Natural_logarithm_10,{\displaystyle \log _{b}x=\ln x/\ln b=\ln x\cdot \log _{b}e}
+Natural_logarithm_11,{\displaystyle e^{x}}
+Natural_logarithm_12,{\displaystyle e^{\ln(x)}=x}
+Natural_logarithm_13,{\displaystyle e^{x}}
+Natural_logarithm_14,{\displaystyle x}
+Natural_logarithm_15,{\displaystyle \ln(x)}
+Natural_logarithm_16,{\displaystyle e^{z}}
+Natural_logarithm_17,{\displaystyle \ln(z)}
+Natural_logarithm_18,{\displaystyle \ln(z)}
+Natural_logarithm_19,{\displaystyle \operatorname {Ln} (z)}
+Natural_logarithm_20,{\displaystyle e^{z}}
+Natural_logarithm_21,{\displaystyle \ln(z)}
+Natural_logarithm_22,{\displaystyle e^{z}}
+Natural_logarithm_23,{\displaystyle e^{z}=\lim _{n\to \infty }\left(1+{\frac {z}{n}}\right)^{n}}
+Natural_logarithm_24,{\displaystyle \ln(z)=\lim _{n\to \infty }n\cdot ({\sqrt[{n}]{z}}-1)}
+Natural_logarithm_25,"{\displaystyle \ln a=\int _{1}^{a}{\frac {1}{x}}\,dx.}"
+Natural_logarithm_26,"{\displaystyle (0,1)}"
+Natural_logarithm_27,{\displaystyle \ln(ab)=\ln a+\ln b.}
+Natural_logarithm_28,"{\displaystyle {\begin{aligned}\ln ab=\int _{1}^{ab}{\frac {1}{x}}\,dx&=\int _{1}^{a}{\frac {1}{x}}\,dx+\int _{a}^{ab}{\frac {1}{x}}\,dx\\[5pt]&=\int _{1}^{a}{\frac {1}{x}}\,dx+\int _{1}^{b}{\frac {1}{at}}a\,dt\\[5pt]&=\int _{1}^{a}{\frac {1}{x}}\,dx+\int _{1}^{b}{\frac {1}{t}}\,dt\\[5pt]&=\ln a+\ln b.\end{aligned}}}"
+Natural_logarithm_29,{\displaystyle \ln \left(x\right)=\int _{1}^{x}{\frac {1}{u}}du=\int _{1}^{x}\int _{0}^{\infty }e^{-tu}\ dt\ du=\int _{0}^{\infty }\int _{1}^{x}e^{-tu}\ du\ dt=\int _{0}^{\infty }{\frac {e^{-t}-e^{-tx}}{t}}dt}
+Natural_logarithm_30,{\displaystyle \ln 1=0}
+Natural_logarithm_31,{\displaystyle \ln e=1}
+Natural_logarithm_32,{\displaystyle \ln(xy)=\ln x+\ln y\quad {\text{for }}\;x>0\;{\text{and }}\;y>0}
+Natural_logarithm_33,{\displaystyle \ln(x/y)=\ln x-\ln y}
+Natural_logarithm_34,{\displaystyle \ln(x^{y})=y\ln x\quad {\text{for }}\;x>0}
+Natural_logarithm_35,{\displaystyle \ln x<\ln y\quad {\text{for }}\;0<x<y}
+Natural_logarithm_36,{\displaystyle \lim _{x\to 0}{\frac {\ln(1+x)}{x}}=1}
+Natural_logarithm_37,{\displaystyle \lim _{\alpha \to 0}{\frac {x^{\alpha }-1}{\alpha }}=\ln x\quad {\text{for }}\;x>0}
+Natural_logarithm_38,{\displaystyle {\frac {x-1}{x}}\leq \ln x\leq x-1\quad {\text{for}}\quad x>0}
+Natural_logarithm_39,{\displaystyle \ln {(1+x^{\alpha })}\leq \alpha x\quad {\text{for}}\quad x\geq 0\;{\text{and }}\;\alpha \geq 1}
+Natural_logarithm_40,{\displaystyle x=0}
+Natural_logarithm_41,{\displaystyle {\frac {d}{dx}}\ln {(1+x^{\alpha })}\leq {\frac {d}{dx}}(\alpha x)}
+Natural_logarithm_42,{\displaystyle x}
+Natural_logarithm_43,{\displaystyle {\frac {d}{dx}}\ln {(1+x^{\alpha })}={\frac {\alpha x^{\alpha -1}}{1+x^{\alpha }}}\leq \alpha ={\frac {d}{dx}}(\alpha x)}
+Natural_logarithm_44,{\displaystyle (1+x^{\alpha })/\alpha }
+Natural_logarithm_45,{\displaystyle x^{\alpha }}
+Natural_logarithm_46,{\displaystyle x^{\alpha -1}\leq x^{\alpha }+1}
+Natural_logarithm_47,{\displaystyle x^{\alpha -1}(1-x)\leq 1}
+Natural_logarithm_48,{\displaystyle x\geq 1}
+Natural_logarithm_49,{\displaystyle 0\leq x<1}
+Natural_logarithm_50,{\displaystyle \alpha \geq 1}
+Natural_logarithm_51,{\displaystyle {\frac {d}{dx}}\ln {(1+x^{\alpha })}\leq {\frac {d}{dx}}(\alpha x)}
+Natural_logarithm_52,{\displaystyle x}
+Natural_logarithm_53,{\displaystyle (1+x^{\alpha })\leq (1+x)^{\alpha }}
+Natural_logarithm_54,{\displaystyle \ln(1+x)\leq x}
+Natural_logarithm_55,{\displaystyle {\frac {d}{dx}}\ln x={\frac {1}{x}}.}
+Natural_logarithm_56,"{\displaystyle \ln x=\int _{1}^{x}{\frac {1}{t}}\,dt,}"
+Natural_logarithm_57,"{\displaystyle e=\lim _{u\to 0}(1+u)^{1/u},}"
+Natural_logarithm_58,"{\displaystyle e^{x}=\lim _{u\to 0}(1+u)^{x/u}=\lim _{h\to 0}(1+hx)^{1/h},}"
+Natural_logarithm_59,"{\displaystyle u=hx,h={\frac {u}{x}}.}"
+Natural_logarithm_60,{\displaystyle {\begin{aligned}{\frac {d}{dx}}\ln x&=\lim _{h\to 0}{\frac {\ln(x+h)-\ln x}{h}}\\&=\lim _{h\to 0}\left[{\frac {1}{h}}\ln \left({\frac {x+h}{x}}\right)\right]\\&=\lim _{h\to 0}\left[\ln \left(1+{\frac {h}{x}}\right)^{\frac {1}{h}}\right]\quad &&{\text{all above for logarithmic properties}}\\&=\ln \left[\lim _{h\to 0}\left(1+{\frac {h}{x}}\right)^{\frac {1}{h}}\right]\quad &&{\text{for continuity of the logarithm}}\\&=\ln e^{1/x}\quad &&{\text{for the definition of }}e^{x}=\lim _{h\to 0}(1+hx)^{1/h}\\&={\frac {1}{x}}\quad &&{\text{for the definition of the ln as inverse function.}}\end{aligned}}}
+Natural_logarithm_61,{\displaystyle {\frac {d}{dx}}\ln ax={\frac {d}{dx}}(\ln a+\ln x)={\frac {d}{dx}}\ln a+{\frac {d}{dx}}\ln x={\frac {1}{x}}.}
+Natural_logarithm_62,{\displaystyle e^{ax}}
+Natural_logarithm_63,{\displaystyle \ln(x)}
+Natural_logarithm_64,"{\displaystyle \vert x-1\vert \leq 1{\text{ and }}x\neq 0,}"
+Natural_logarithm_65,"{\displaystyle {\begin{aligned}\ln x&=\int _{1}^{x}{\frac {1}{t}}\,dt=\int _{0}^{x-1}{\frac {1}{1+u}}\,du\\&=\int _{0}^{x-1}(1-u+u^{2}-u^{3}+\cdots )\,du\\&=(x-1)-{\frac {(x-1)^{2}}{2}}+{\frac {(x-1)^{3}}{3}}-{\frac {(x-1)^{4}}{4}}+\cdots \\&=\sum _{k=1}^{\infty }{\frac {(-1)^{k-1}(x-1)^{k}}{k}}.\end{aligned}}}"
+Natural_logarithm_66,{\displaystyle \ln x}
+Natural_logarithm_67,"{\displaystyle \ln(1+x)=\sum _{k=1}^{\infty }{\frac {(-1)^{k-1}}{k}}x^{k}=x-{\frac {x^{2}}{2}}+{\frac {x^{3}}{3}}-\cdots ,}"
+Natural_logarithm_68,{\displaystyle |x|\leq 1}
+Natural_logarithm_69,{\displaystyle x\neq -1.}
+Natural_logarithm_70,{\displaystyle x\neq -1}
+Natural_logarithm_71,{\displaystyle x=-1}
+Natural_logarithm_72,{\displaystyle {\frac {1}{1-1}}}
+Natural_logarithm_73,{\displaystyle x={\tfrac {1}{n}}}
+Natural_logarithm_74,{\displaystyle \ln \left({\frac {n+1}{n}}\right)=\sum _{k=1}^{\infty }{\frac {(-1)^{k-1}}{kn^{k}}}={\frac {1}{n}}-{\frac {1}{2n^{2}}}+{\frac {1}{3n^{3}}}-{\frac {1}{4n^{4}}}+\cdots }
+Natural_logarithm_75,"{\displaystyle \operatorname {Re} (x)\geq 1/2,}"
+Natural_logarithm_76,{\displaystyle {\begin{aligned}\ln(x)&=-\ln \left({\frac {1}{x}}\right)=-\sum _{k=1}^{\infty }{\frac {(-1)^{k-1}({\frac {1}{x}}-1)^{k}}{k}}=\sum _{k=1}^{\infty }{\frac {(x-1)^{k}}{kx^{k}}}\\&={\frac {x-1}{x}}+{\frac {(x-1)^{2}}{2x^{2}}}+{\frac {(x-1)^{3}}{3x^{3}}}+{\frac {(x-1)^{4}}{4x^{4}}}+\cdots \end{aligned}}}
+Natural_logarithm_77,{\displaystyle x={\tfrac {n+1}{n}}}
+Natural_logarithm_78,{\displaystyle \ln \left({\frac {n+1}{n}}\right)=\sum _{k=1}^{\infty }{\frac {1}{k(n+1)^{k}}}={\frac {1}{n+1}}+{\frac {1}{2(n+1)^{2}}}+{\frac {1}{3(n+1)^{3}}}+{\frac {1}{4(n+1)^{4}}}+\cdots }
+Natural_logarithm_79,"{\displaystyle \operatorname {Re} (x)\geq 0{\text{ and }}x\neq 0,}"
+Natural_logarithm_80,{\displaystyle \ln(x)=\ln \left({\frac {2x}{2}}\right)=\ln \left({\frac {1+{\frac {x-1}{x+1}}}{1-{\frac {x-1}{x+1}}}}\right)=\ln \left(1+{\frac {x-1}{x+1}}\right)-\ln \left(1-{\frac {x-1}{x+1}}\right).}
+Natural_logarithm_81,"{\displaystyle {\begin{aligned}\ln(1+y)-\ln(1-y)&=\sum _{i=1}^{\infty }{\frac {1}{i}}\left((-1)^{i-1}y^{i}-(-1)^{i-1}(-y)^{i}\right)=\sum _{i=1}^{\infty }{\frac {y^{i}}{i}}\left((-1)^{i-1}+1\right)\\&=y\sum _{i=1}^{\infty }{\frac {y^{i-1}}{i}}\left((-1)^{i-1}+1\right){\overset {i-1\to 2k}{=}}\;2y\sum _{k=0}^{\infty }{\frac {y^{2k}}{2k+1}},\end{aligned}}}"
+Natural_logarithm_82,{\displaystyle {\begin{aligned}\ln(x)&={\frac {2(x-1)}{x+1}}\sum _{k=0}^{\infty }{\frac {1}{2k+1}}{\left({\frac {(x-1)^{2}}{(x+1)^{2}}}\right)}^{k}\\&={\frac {2(x-1)}{x+1}}\left({\frac {1}{1}}+{\frac {1}{3}}{\frac {(x-1)^{2}}{(x+1)^{2}}}+{\frac {1}{5}}{\left({\frac {(x-1)^{2}}{(x+1)^{2}}}\right)}^{2}+\cdots \right).\end{aligned}}}
+Natural_logarithm_83,{\displaystyle x={\tfrac {n+1}{n}}}
+Natural_logarithm_84,{\displaystyle {\begin{aligned}\ln \left({\frac {n+1}{n}}\right)&={\frac {2}{2n+1}}\sum _{k=0}^{\infty }{\frac {1}{(2k+1)((2n+1)^{2})^{k}}}\\&=2\left({\frac {1}{2n+1}}+{\frac {1}{3(2n+1)^{3}}}+{\frac {1}{5(2n+1)^{5}}}+\cdots \right).\end{aligned}}}
+Natural_logarithm_85,{\displaystyle \ln(x)=(x-1)\prod _{k=1}^{\infty }\left({\frac {2}{1+{\sqrt[{2^{k}}]{x}}}}\right)}
+Natural_logarithm_86,{\displaystyle \ln(2)=\left({\frac {2}{1+{\sqrt {2}}}}\right)\left({\frac {2}{1+{\sqrt[{4}]{2}}}}\right)\left({\frac {2}{1+{\sqrt[{8}]{2}}}}\right)\left({\frac {2}{1+{\sqrt[{16}]{2}}}}\right)...}
+Natural_logarithm_87,{\displaystyle \pi =(2i+2)\left({\frac {2}{1+{\sqrt {i}}}}\right)\left({\frac {2}{1+{\sqrt[{4}]{i}}}}\right)\left({\frac {2}{1+{\sqrt[{8}]{i}}}}\right)\left({\frac {2}{1+{\sqrt[{16}]{i}}}}\right)...}
+Natural_logarithm_88,{\displaystyle {\frac {1}{\ln(x)}}={\frac {x}{x-1}}-\sum _{k=1}^{\infty }{\frac {2^{-k}x^{2^{-k}}}{1+x^{2^{-k}}}}}
+Natural_logarithm_89,{\displaystyle {\frac {1}{\ln(2)}}=2-{\frac {\sqrt {2}}{2+2{\sqrt {2}}}}-{\frac {\sqrt[{4}]{2}}{4+4{\sqrt[{4}]{2}}}}-{\frac {\sqrt[{8}]{2}}{8+8{\sqrt[{8}]{2}}}}\cdots }
+Natural_logarithm_90,{\displaystyle g(x)={\frac {f'(x)}{f(x)}}}
+Natural_logarithm_91,{\displaystyle \ln(|f(x)|)}
+Natural_logarithm_92,"{\displaystyle {\frac {d}{dx}}\ln \left|x\right|={\frac {1}{x}},\ \ x\neq 0}"
+Natural_logarithm_93,{\displaystyle x=0}
+Natural_logarithm_94,"{\displaystyle \int {\frac {1}{x}}\,dx=\ln |x|+C}"
+Natural_logarithm_95,{\displaystyle f(x)\neq 0}
+Natural_logarithm_96,"{\displaystyle \int {{\frac {f'(x)}{f(x)}}\,dx}=\ln |f(x)|+C.}"
+Natural_logarithm_97,{\displaystyle \tan(x)}
+Natural_logarithm_98,{\displaystyle \tan(x)}
+Natural_logarithm_99,"{\displaystyle \int \tan x\,dx=\int {\frac {\sin x}{\cos x}}\,dx=-\int {\frac {{\frac {d}{dx}}\cos x}{\cos x}}\,dx=-\ln \left|\cos x\right|+C=\ln \left|\sec x\right|+C.}"
+Natural_logarithm_100,"{\displaystyle \int \ln x\,dx=x\ln x-x+C.}"
+Natural_logarithm_101,{\displaystyle u=\ln x\Rightarrow du={\frac {dx}{x}}}
+Natural_logarithm_102,{\displaystyle dv=dx\Rightarrow v=x}
+Natural_logarithm_103,"{\displaystyle {\begin{aligned}\int \ln x\,dx&=x\ln x-\int {\frac {x}{x}}\,dx\\&=x\ln x-\int 1\,dx\\&=x\ln x-x+C\end{aligned}}}"
+Natural_logarithm_104,{\displaystyle \ln(x)}
+Natural_logarithm_105,{\displaystyle {\begin{aligned}\ln 123.456&=\ln(1.23456\cdot 10^{2})\\&=\ln 1.23456+\ln(10^{2})\\&=\ln 1.23456+2\ln 10\\&\approx \ln 1.23456+2\cdot 2.3025851.\end{aligned}}}
+Natural_logarithm_106,{\displaystyle \ln(a\cdot 10^{n})=\ln a+n\ln 10.}
+Natural_logarithm_107,{\displaystyle \exp(y)-x=0}
+Natural_logarithm_108,{\displaystyle \exp {\Bigl (}{\frac {y}{2}}{\Bigr )}-x\exp {\Bigl (}-{\frac {y}{2}}{\Bigr )}=0}
+Natural_logarithm_109,{\displaystyle y_{n+1}=y_{n}+2\cdot {\frac {x-\exp(y_{n})}{x+\exp(y_{n})}}}
+Natural_logarithm_110,{\displaystyle \ln(x)}
+Natural_logarithm_111,"{\displaystyle \ln x\approx {\frac {\pi }{2M(1,4/s)}}-m\ln 2,}"
+Natural_logarithm_112,"{\displaystyle s=x2^{m}>2^{p/2},}"
+Natural_logarithm_113,{\displaystyle \ln 2}
+Natural_logarithm_114,"{\displaystyle \ln x={\frac {\pi }{M\left(\theta _{2}^{2}(1/x),\theta _{3}^{2}(1/x)\right)}},\quad x\in (1,\infty )}"
+Natural_logarithm_115,"{\displaystyle \theta _{2}(x)=\sum _{n\in \mathbb {Z} }x^{(n+1/2)^{2}},\quad \theta _{3}(x)=\sum _{n\in \mathbb {Z} }x^{n^{2}}}"
+Natural_logarithm_116,"{\displaystyle \mathrm {log1p} (x)=\log(1+x)=2~\mathrm {artanh} \left({\frac {x}{2+x}}\right)\,,}"
+Natural_logarithm_117,{\displaystyle {\text{O}}{\bigl (}M(n)\ln n{\bigr )}}
+Natural_logarithm_118,{\displaystyle {\begin{aligned}\ln(1+x)&={\frac {x^{1}}{1}}-{\frac {x^{2}}{2}}+{\frac {x^{3}}{3}}-{\frac {x^{4}}{4}}+{\frac {x^{5}}{5}}-\cdots \\[5pt]&={\cfrac {x}{1-0x+{\cfrac {1^{2}x}{2-1x+{\cfrac {2^{2}x}{3-2x+{\cfrac {3^{2}x}{4-3x+{\cfrac {4^{2}x}{5-4x+\ddots }}}}}}}}}}\end{aligned}}}
+Natural_logarithm_119,{\displaystyle {\begin{aligned}\ln \left(1+{\frac {x}{y}}\right)&={\cfrac {x}{y+{\cfrac {1x}{2+{\cfrac {1x}{3y+{\cfrac {2x}{2+{\cfrac {2x}{5y+{\cfrac {3x}{2+\ddots }}}}}}}}}}}}\\[5pt]&={\cfrac {2x}{2y+x-{\cfrac {(1x)^{2}}{3(2y+x)-{\cfrac {(2x)^{2}}{5(2y+x)-{\cfrac {(3x)^{2}}{7(2y+x)-\ddots }}}}}}}}\end{aligned}}}
+Natural_logarithm_120,{\displaystyle {\begin{aligned}\ln 2&=3\ln \left(1+{\frac {1}{4}}\right)+\ln \left(1+{\frac {3}{125}}\right)\\[8pt]&={\cfrac {6}{9-{\cfrac {1^{2}}{27-{\cfrac {2^{2}}{45-{\cfrac {3^{2}}{63-\ddots }}}}}}}}+{\cfrac {6}{253-{\cfrac {3^{2}}{759-{\cfrac {6^{2}}{1265-{\cfrac {9^{2}}{1771-\ddots }}}}}}}}.\end{aligned}}}
+Natural_logarithm_121,{\displaystyle {\begin{aligned}\ln 10&=10\ln \left(1+{\frac {1}{4}}\right)+3\ln \left(1+{\frac {3}{125}}\right)\\[10pt]&={\cfrac {20}{9-{\cfrac {1^{2}}{27-{\cfrac {2^{2}}{45-{\cfrac {3^{2}}{63-\ddots }}}}}}}}+{\cfrac {18}{253-{\cfrac {3^{2}}{759-{\cfrac {6^{2}}{1265-{\cfrac {9^{2}}{1771-\ddots }}}}}}}}.\end{aligned}}}
+Natural_logarithm_122,{\displaystyle {\frac {1}{\ln(x)}}={\frac {2x}{x^{2}-1}}{\sqrt {{\frac {1}{2}}+{\frac {x^{2}+1}{4x}}}}{\sqrt {{\frac {1}{2}}+{\frac {1}{2}}{\sqrt {{\frac {1}{2}}+{\frac {x^{2}+1}{4x}}}}}}\ldots }
+Natural_logarithm_123,{\displaystyle {\frac {1}{\ln(2)}}={\frac {4}{3}}{\sqrt {{\frac {1}{2}}+{\frac {5}{8}}}}{\sqrt {{\frac {1}{2}}+{\frac {1}{2}}{\sqrt {{\frac {1}{2}}+{\frac {5}{8}}}}}}\ldots }

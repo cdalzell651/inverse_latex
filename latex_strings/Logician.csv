@@ -1,0 +1,61 @@
+name,latex
+Logician_0,{\displaystyle \land }
+Logician_1,{\displaystyle \to }
+Logician_2,{\displaystyle \forall x(Bird(x)\to Flies(x))}
+Logician_3,{\displaystyle Bird(Tweety)}
+Logician_4,{\displaystyle Flies(Tweety)}
+Logician_5,{\displaystyle p\land q}
+Logician_6,{\displaystyle \land }
+Logician_7,{\displaystyle p}
+Logician_8,{\displaystyle q}
+Logician_9,{\displaystyle \lnot }
+Logician_10,{\displaystyle \lor }
+Logician_11,{\displaystyle \to }
+Logician_12,{\displaystyle \uparrow }
+Logician_13,{\displaystyle p\to q}
+Logician_14,{\displaystyle q\to p}
+Logician_15,{\displaystyle \lnot p\to \lnot q}
+Logician_16,{\displaystyle \lnot q\to \lnot p}
+Logician_17,{\displaystyle \uparrow }
+Logician_18,{\displaystyle p}
+Logician_19,{\displaystyle p\to q}
+Logician_20,{\displaystyle q}
+Logician_21,{\displaystyle P\land Q}
+Logician_22,{\displaystyle \land Q}
+Logician_23,{\displaystyle \land }
+Logician_24,{\displaystyle P\land Q}
+Logician_25,{\displaystyle P}
+Logician_26,{\displaystyle Q}
+Logician_27,{\displaystyle P\land Q}
+Logician_28,{\displaystyle P}
+Logician_29,{\displaystyle Q}
+Logician_30,{\displaystyle P}
+Logician_31,{\displaystyle Q}
+Logician_32,{\displaystyle P\land Q}
+Logician_33,{\displaystyle \forall x.F(x)}
+Logician_34,{\displaystyle B}
+Logician_35,{\displaystyle r}
+Logician_36,{\displaystyle B(r)}
+Logician_37,{\displaystyle \exists }
+Logician_38,{\displaystyle x}
+Logician_39,{\displaystyle \exists xB(x)}
+Logician_40,{\displaystyle \exists xB(x)}
+Logician_41,{\displaystyle B(r)}
+Logician_42,{\displaystyle \Diamond }
+Logician_43,{\displaystyle \Box }
+Logician_44,{\displaystyle B(s)}
+Logician_45,{\displaystyle \Diamond B(s)}
+Logician_46,{\displaystyle \Diamond A}
+Logician_47,{\displaystyle \Box A}
+Logician_48,{\displaystyle \Box A}
+Logician_49,{\displaystyle \lnot \Diamond \lnot A}
+Logician_50,{\displaystyle \exists x(Apple(x)\land Sweet(x))}
+Logician_51,{\displaystyle \exists }
+Logician_52,{\displaystyle x}
+Logician_53,{\displaystyle \exists Q(Q(Mary)\land Q(John))}
+Logician_54,{\displaystyle Q}
+Logician_55,{\displaystyle A}
+Logician_56,{\displaystyle \lnot \lnot A}
+Logician_57,{\displaystyle A\lor \lnot A}
+Logician_58,{\displaystyle A\land (B\lor C)}
+Logician_59,{\displaystyle (A\land B)\lor (A\land C)}

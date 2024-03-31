@@ -1,0 +1,22 @@
+name,latex
+Conservation_law_(physics)_0,"{\displaystyle {\frac {\partial \rho }{\partial t}}=-\nabla \cdot \mathbf {j} \,}"
+Conservation_law_(physics)_1,"{\displaystyle {\begin{aligned}\mathbf {j} &=\rho \mathbf {u} \\{\frac {\partial \rho }{\partial t}}&=-\nabla \cdot (\rho \mathbf {u} )\,.\end{aligned}}}"
+Conservation_law_(physics)_2,{\displaystyle y_{t}+A(y)y_{x}=0}
+Conservation_law_(physics)_3,{\displaystyle y_{t}+A(y)y_{x}=s}
+Conservation_law_(physics)_4,{\displaystyle y_{t}+a(y)y_{x}=0}
+Conservation_law_(physics)_5,{\displaystyle a(y)=j_{y}(y)}
+Conservation_law_(physics)_6,{\displaystyle j_{x}=j_{y}(y)y_{x}=a(y)y_{x}}
+Conservation_law_(physics)_7,{\displaystyle y_{t}+j_{x}(y)=0}
+Conservation_law_(physics)_8,{\displaystyle y_{t}+\mathbf {a} (y)\cdot \nabla y=0}
+Conservation_law_(physics)_9,{\displaystyle y_{t}+\nabla \cdot \mathbf {j} (y)=0}
+Conservation_law_(physics)_10,{\displaystyle \rho _{t}+\nabla \cdot (\rho \mathbf {u} )=0}
+Conservation_law_(physics)_11,{\displaystyle \mathbf {y} _{t}+\mathbf {A} (\mathbf {y} )\cdot \nabla \mathbf {y} =\mathbf {0} }
+Conservation_law_(physics)_12,{\displaystyle \mathbf {A} (\mathbf {y} )=\mathbf {J} _{\mathbf {y} }(\mathbf {y} )}
+Conservation_law_(physics)_13,{\displaystyle \mathbf {y} _{t}+\nabla \cdot \mathbf {J} (\mathbf {y} )=\mathbf {0} }
+Conservation_law_(physics)_14,"{\displaystyle \nabla \cdot \mathbf {u} =0\,,\qquad {\frac {\partial \mathbf {u} }{\partial t}}+\mathbf {u} \cdot \nabla \mathbf {u} +\nabla s=\mathbf {0} ,}"
+Conservation_law_(physics)_15,{\displaystyle {\mathbf {y} }={\begin{pmatrix}1\\\mathbf {u} \end{pmatrix}};\qquad {\mathbf {J} }={\begin{pmatrix}\mathbf {u} \\\mathbf {u} \otimes \mathbf {u} +s\mathbf {I} \end{pmatrix}};\qquad }
+Conservation_law_(physics)_16,{\displaystyle \otimes }
+Conservation_law_(physics)_17,{\displaystyle y_{t}+j_{x}(y)=0}
+Conservation_law_(physics)_18,"{\displaystyle \int _{-\infty }^{\infty }y\,dx+\int _{0}^{\infty }j(y)\,dt=0}"
+Conservation_law_(physics)_19,"{\displaystyle \oint \left[y\,d^{N}r+j(y)\,dt\right]=0}"
+Conservation_law_(physics)_20,"{\displaystyle \int _{0}^{\infty }\int _{-\infty }^{\infty }\phi _{t}y+\phi _{x}j(y)\,dx\,dt=-\int _{-\infty }^{\infty }\phi (x,0)y(x,0)\,dx}"

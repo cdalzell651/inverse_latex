@@ -1,0 +1,23 @@
+name,latex
+Enumerative_combinatorics_0,{\displaystyle g(n)}
+Enumerative_combinatorics_1,{\displaystyle f(n)}
+Enumerative_combinatorics_2,{\displaystyle f(n)/g(n)\rightarrow 1}
+Enumerative_combinatorics_3,{\displaystyle n\rightarrow \infty }
+Enumerative_combinatorics_4,"{\displaystyle f(n)\sim g(n).\,}"
+Enumerative_combinatorics_5,{\displaystyle {\mathcal {F}}}
+Enumerative_combinatorics_6,{\displaystyle F(x)=\sum _{n=0}^{\infty }f_{n}x^{n}}
+Enumerative_combinatorics_7,{\displaystyle x^{n}}
+Enumerative_combinatorics_8,{\displaystyle F(x)=\sum _{n=0}^{\infty }f_{n}{\frac {x^{n}}{n!}}}
+Enumerative_combinatorics_9,{\displaystyle {\mathcal {F}}}
+Enumerative_combinatorics_10,{\displaystyle {\mathcal {G}}}
+Enumerative_combinatorics_11,{\displaystyle {\mathcal {F}}\cup {\mathcal {G}}}
+Enumerative_combinatorics_12,{\displaystyle {\mathcal {F}}\times {\mathcal {G}}}
+Enumerative_combinatorics_13,{\displaystyle {\mbox{Seq}}({\mathcal {F}})=\epsilon \ \cup \ {\mathcal {F}}\ \cup \ {\mathcal {F}}\!\times \!{\mathcal {F}}\ \cup \ {\mathcal {F}}\!\times \!{\mathcal {F}}\!\times \!{\mathcal {F}}\ \cup \cdots }
+Enumerative_combinatorics_14,{\displaystyle 1+F(x)+[F(x)]^{2}+[F(x)]^{3}+\cdots ={\frac {1}{1-F(x)}}.}
+Enumerative_combinatorics_15,{\displaystyle {\mathcal {P}}}
+Enumerative_combinatorics_16,"{\displaystyle {\mathcal {P}}=\{\bullet \}\times \,{\mbox{Seq}}({\mathcal {P}})}"
+Enumerative_combinatorics_17,{\displaystyle \{\bullet \}}
+Enumerative_combinatorics_18,{\displaystyle {\mathcal {P}}}
+Enumerative_combinatorics_19,"{\displaystyle P(x)=x\,{\frac {1}{1-P(x)}}}"
+Enumerative_combinatorics_20,{\displaystyle P(x)={\frac {1-{\sqrt {1-4x}}}{2}}}
+Enumerative_combinatorics_21,{\displaystyle {\begin{aligned}p_{n}&=[x^{n}]P(x)=[x^{n}]{\frac {1-{\sqrt {1-4x}}}{2}}\\[6pt]&=[x^{n}]{\frac {1}{2}}-[x^{n}]{\frac {1}{2}}{\sqrt {1-4x}}\\[6pt]&=-{\frac {1}{2}}[x^{n}]\sum _{k=0}^{\infty }{{\frac {1}{2}} \choose k}(-4x)^{k}\\[6pt]&=-{\frac {1}{2}}{{\frac {1}{2}} \choose n}(-4)^{n}\\[6pt]&={\frac {1}{n}}{2n-2 \choose n-1}\end{aligned}}}

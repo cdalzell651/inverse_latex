@@ -1,0 +1,57 @@
+name,latex
+Thermodynamics_0,{\displaystyle c=}
+Thermodynamics_1,{\displaystyle T}
+Thermodynamics_2,{\displaystyle \partial S}
+Thermodynamics_3,{\displaystyle N}
+Thermodynamics_4,{\displaystyle \partial T}
+Thermodynamics_5,{\displaystyle \beta =-}
+Thermodynamics_6,{\displaystyle 1}
+Thermodynamics_7,{\displaystyle \partial V}
+Thermodynamics_8,{\displaystyle V}
+Thermodynamics_9,{\displaystyle \partial p}
+Thermodynamics_10,{\displaystyle \alpha =}
+Thermodynamics_11,{\displaystyle 1}
+Thermodynamics_12,{\displaystyle \partial V}
+Thermodynamics_13,{\displaystyle V}
+Thermodynamics_14,{\displaystyle \partial T}
+Thermodynamics_15,"{\displaystyle U(S,V)}"
+Thermodynamics_16,"{\displaystyle H(S,p)=U+pV}"
+Thermodynamics_17,"{\displaystyle A(T,V)=U-TS}"
+Thermodynamics_18,"{\displaystyle G(T,p)=H-TS}"
+Thermodynamics_19,{\displaystyle \Delta U}
+Thermodynamics_20,{\displaystyle Q}
+Thermodynamics_21,{\displaystyle W}
+Thermodynamics_22,{\displaystyle \Delta U=Q-W}
+Thermodynamics_23,{\displaystyle \Delta U}
+Thermodynamics_24,{\displaystyle Q}
+Thermodynamics_25,{\displaystyle W}
+Thermodynamics_26,{\displaystyle W}
+Thermodynamics_27,{\displaystyle U}
+Thermodynamics_28,{\displaystyle Q}
+Thermodynamics_29,{\displaystyle U}
+Thermodynamics_30,{\displaystyle U_{0}=U_{1}+U_{2}}
+Thermodynamics_31,{\displaystyle U}
+Thermodynamics_32,"{\displaystyle \int \left(T\,\mathrm {d} S-p\,\mathrm {d} V+\sum _{i}\mu _{i}\mathrm {d} N_{i}\right)}"
+Thermodynamics_33,"{\displaystyle S,V,\{N_{i}\}}"
+Thermodynamics_34,{\displaystyle F}
+Thermodynamics_35,{\displaystyle U-TS}
+Thermodynamics_36,"{\displaystyle T,V,\{N_{i}\}}"
+Thermodynamics_37,{\displaystyle H}
+Thermodynamics_38,{\displaystyle U+pV}
+Thermodynamics_39,"{\displaystyle S,p,\{N_{i}\}}"
+Thermodynamics_40,{\displaystyle G}
+Thermodynamics_41,{\displaystyle U+pV-TS}
+Thermodynamics_42,"{\displaystyle T,p,\{N_{i}\}}"
+Thermodynamics_43,{\displaystyle \Omega }
+Thermodynamics_44,{\displaystyle \Phi _{\text{G}}}
+Thermodynamics_45,{\displaystyle U-TS-}
+Thermodynamics_46,"{\displaystyle \sum _{i}\,}"
+Thermodynamics_47,{\displaystyle \mu _{i}N_{i}}
+Thermodynamics_48,"{\displaystyle T,V,\{\mu _{i}\}}"
+Thermodynamics_49,{\displaystyle T}
+Thermodynamics_50,{\displaystyle S}
+Thermodynamics_51,{\displaystyle p}
+Thermodynamics_52,{\displaystyle V}
+Thermodynamics_53,{\displaystyle \mu }
+Thermodynamics_54,{\displaystyle N}
+Thermodynamics_55,{\displaystyle i}

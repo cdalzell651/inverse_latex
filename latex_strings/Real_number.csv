@@ -1,0 +1,179 @@
+name,latex
+Real_number_0,{\displaystyle \mathbb {R} }
+Real_number_1,"{\displaystyle a+b,}"
+Real_number_2,"{\displaystyle ab,}"
+Real_number_3,{\displaystyle a\cdot b}
+Real_number_4,"{\displaystyle a\times b,}"
+Real_number_5,{\displaystyle a+b=b+a}
+Real_number_6,{\displaystyle ab=ba}
+Real_number_7,{\displaystyle (a+b)+c=a+(b+c)}
+Real_number_8,{\displaystyle (ab)c=a(bc)}
+Real_number_9,{\displaystyle a(b+c)=ab+ac}
+Real_number_10,{\displaystyle a+0=a}
+Real_number_11,{\displaystyle a\times 1=a}
+Real_number_12,{\displaystyle -a.}
+Real_number_13,{\displaystyle a+(-a)=0}
+Real_number_14,{\displaystyle a^{-1}}
+Real_number_15,{\displaystyle {\frac {1}{a}}.}
+Real_number_16,{\displaystyle aa^{-1}=1}
+Real_number_17,{\displaystyle a<b.}
+Real_number_18,"{\displaystyle a<b,}"
+Real_number_19,{\displaystyle a=b}
+Real_number_20,{\displaystyle b<a}
+Real_number_21,{\displaystyle a<b}
+Real_number_22,"{\displaystyle b<c,}"
+Real_number_23,{\displaystyle a<c.}
+Real_number_24,{\displaystyle a<b}
+Real_number_25,{\displaystyle a+c<b+c}
+Real_number_26,{\displaystyle 0<ab}
+Real_number_27,{\displaystyle 0<a}
+Real_number_28,{\displaystyle 0<b.}
+Real_number_29,{\displaystyle 0\cdot a=0}
+Real_number_30,{\displaystyle 0<1}
+Real_number_31,{\displaystyle 0<a^{2}}
+Real_number_32,{\displaystyle a-b=a+(-b).}
+Real_number_34,{\displaystyle a/b}
+Real_number_35,{\displaystyle {\frac {a}{b}}=ab^{-1}.}
+Real_number_36,"{\displaystyle |a|,}"
+Real_number_37,"{\displaystyle |a|=\max(a,-a).}"
+Real_number_38,{\displaystyle a<b}
+Real_number_39,"{\displaystyle a>b,}"
+Real_number_40,{\displaystyle a>b}
+Real_number_41,{\displaystyle b<a.}
+Real_number_42,"{\displaystyle a\leq b,}"
+Real_number_43,"{\displaystyle (a<b){\text{ or }}(a=b),}"
+Real_number_44,{\displaystyle {\text{not }}(b<a).}
+Real_number_45,"{\displaystyle a\geq b,}"
+Real_number_46,"{\displaystyle (b<a){\text{ or }}(a=b),}"
+Real_number_47,{\displaystyle {\text{not }}(a<b).}
+Real_number_48,{\displaystyle -n}
+Real_number_49,{\displaystyle n}
+Real_number_50,{\displaystyle -n}
+Real_number_51,{\displaystyle n.}
+Real_number_52,{\displaystyle p/q}
+Real_number_53,{\displaystyle q\neq 0}
+Real_number_54,{\displaystyle \mathbb {Q} }
+Real_number_55,{\displaystyle \mathbb {R} .}
+Real_number_56,"{\displaystyle {\sqrt {2}},}"
+Real_number_57,{\displaystyle \mathbb {N} }
+Real_number_58,"{\displaystyle \mathbb {Z} ,}"
+Real_number_59,{\displaystyle \mathbb {Z} }
+Real_number_60,"{\displaystyle \mathbb {Q} ,}"
+Real_number_61,{\displaystyle \mathbb {Q} }
+Real_number_62,{\displaystyle \mathbb {R} .}
+Real_number_63,{\displaystyle \mathbb {N} \subset \mathbb {Q} \subset \mathbb {R} .}
+Real_number_64,{\displaystyle S}
+Real_number_65,{\displaystyle u}
+Real_number_66,{\displaystyle s\leq u}
+Real_number_67,{\displaystyle s\in S}
+Real_number_68,{\displaystyle u}
+Real_number_69,{\displaystyle S.}
+Real_number_70,{\displaystyle x<n}
+Real_number_71,"{\displaystyle n=u+1,}"
+Real_number_72,{\displaystyle u}
+Real_number_73,{\displaystyle 0<{\frac {1}{n}}<x}
+Real_number_74,{\displaystyle r}
+Real_number_75,{\displaystyle r^{2}=x.}
+Real_number_76,"{\displaystyle b_{k},b_{k-1},\ldots ,b_{0},a_{1},a_{2},\ldots ,}"
+Real_number_77,{\displaystyle b_{k}b_{k-1}\cdots b_{0}.a_{1}a_{2}\cdots .}
+Real_number_78,{\displaystyle k=0}
+Real_number_79,{\displaystyle b_{k}\neq 0.}
+Real_number_80,"{\displaystyle 3.14159\cdots ,}"
+Real_number_81,"{\displaystyle k=0,}"
+Real_number_82,"{\displaystyle b_{0}=3,}"
+Real_number_83,"{\displaystyle a_{1}=1,}"
+Real_number_84,"{\displaystyle a_{2}=4,}"
+Real_number_85,"{\displaystyle b_{k},b_{k-1},\ldots ,b_{0},a_{1},a_{2},\ldots ,a_{n},}"
+Real_number_86,{\displaystyle {\begin{aligned}D_{n}&=b_{k}\cdots b_{0}.a_{1}\cdots a_{n}\\&=b_{k}10^{k}+b_{k-1}10^{k-1}+\cdots b_{0}+{\frac {a_{1}}{10}}+\cdots +{\frac {a_{n}}{10^{n}}}\\&=\sum _{i=0}^{k}b_{i}10^{i}+\sum _{j=1}^{n}{\frac {a_{j}}{10^{j}}}\end{aligned}}}
+Real_number_87,"{\displaystyle D_{n},}"
+Real_number_88,{\displaystyle b_{k}\cdots b_{0}}
+Real_number_89,{\displaystyle D_{0}}
+Real_number_90,{\displaystyle D_{0}\leq a}
+Real_number_91,{\displaystyle D_{i}}
+Real_number_92,"{\displaystyle i<n,}"
+Real_number_93,{\displaystyle a_{n}}
+Real_number_94,"{\displaystyle D_{n-1}+a_{n}/10^{n}\leq a,}"
+Real_number_95,{\displaystyle D_{n}=D_{n-1}+a_{n}/10^{n}.}
+Real_number_96,{\displaystyle D_{n}.}
+Real_number_97,{\displaystyle \leq a}
+Real_number_98,{\displaystyle <a}
+Real_number_100,{\displaystyle a_{n}}
+Real_number_101,"{\displaystyle n>h,}"
+Real_number_102,{\displaystyle a_{n}}
+Real_number_103,"{\displaystyle B\geq 2,}"
+Real_number_104,{\displaystyle B}
+Real_number_105,{\displaystyle B-1.}
+Real_number_106,{\displaystyle e^{x}=\sum _{n=0}^{\infty }{\frac {x^{n}}{n!}}}
+Real_number_107,{\displaystyle \sum _{n=N}^{M}{\frac {x^{n}}{n!}}}
+Real_number_108,{\displaystyle e^{x}}
+Real_number_109,{\displaystyle \mathbb {R} }
+Real_number_110,{\displaystyle \mathbb {R} }
+Real_number_111,{\displaystyle \mathbb {R} }
+Real_number_112,{\displaystyle {\mathfrak {c}}.}
+Real_number_113,{\displaystyle \aleph _{0}}
+Real_number_114,{\displaystyle \aleph _{0}}
+Real_number_115,{\displaystyle {\mathfrak {c}}}
+Real_number_116,{\displaystyle \mathbb {R} }
+Real_number_117,{\displaystyle \mathbb {R} }
+Real_number_118,{\displaystyle \mathbb {R} }
+Real_number_119,{\displaystyle \mathbb {R} }
+Real_number_120,{\displaystyle \mathbb {R} }
+Real_number_121,{\displaystyle \mathbb {R} }
+Real_number_122,{\displaystyle \mathbb {R} }
+Real_number_123,{\displaystyle \mathbb {R} }
+Real_number_124,{\displaystyle \mathbb {R} }
+Real_number_125,{\displaystyle \mathbb {Q} }
+Real_number_126,{\displaystyle \mathbb {R} }
+Real_number_127,{\displaystyle \mathbb {Q} }
+Real_number_128,{\displaystyle \mathbb {R} }
+Real_number_129,{\displaystyle \mathbb {R} }
+Real_number_130,{\displaystyle (\mathbb {R} )}
+Real_number_131,{\displaystyle (\mathbb {Q} )}
+Real_number_132,{\displaystyle (\mathbb {Z} )}
+Real_number_133,{\displaystyle (\mathbb {N} )}
+Real_number_134,{\displaystyle (\mathbb {R} ;{}+{};{}\cdot {};{}<{})}
+Real_number_135,{\displaystyle \mathbb {R} }
+Real_number_136,{\displaystyle \mathbb {R} }
+Real_number_137,{\displaystyle \mathbb {R} }
+Real_number_138,{\displaystyle \mathbb {R} }
+Real_number_139,{\displaystyle \mathbb {R} }
+Real_number_140,{\displaystyle \mathbb {R} }
+Real_number_141,{\displaystyle \{x\in \mathbb {Q} :x^{2}<2\}}
+Real_number_142,{\displaystyle {\sqrt {2}}}
+Real_number_143,{\displaystyle \mathbb {R} _{1}}
+Real_number_144,{\displaystyle \mathbb {R} _{2}}
+Real_number_145,{\displaystyle \mathbb {R} _{1}}
+Real_number_146,{\displaystyle \mathbb {R_{2}} }
+Real_number_147,{\displaystyle \mathbb {R} }
+Real_number_148,{\displaystyle \aleph _{1}}
+Real_number_149,{\displaystyle \aleph _{0}}
+Real_number_153,{\displaystyle \mathbb {R} }
+Real_number_154,{\displaystyle \mathbb {R} ^{+}}
+Real_number_155,{\displaystyle \mathbb {R} ^{-}}
+Real_number_156,{\displaystyle \mathbb {R} _{+}}
+Real_number_157,{\displaystyle \mathbb {R} _{-}}
+Real_number_158,{\displaystyle \mathbb {R} _{\geq 0}}
+Real_number_159,{\displaystyle \mathbb {R} ^{+}\cup \{0\}.}
+Real_number_160,{\displaystyle \mathbb {R_{+}} }
+Real_number_161,{\displaystyle \mathbb {R} _{-}.}
+Real_number_162,{\displaystyle \mathbb {R} _{+}^{*}}
+Real_number_163,{\displaystyle \mathbb {R} _{-}^{*}.}
+Real_number_164,{\displaystyle \mathbb {R} ^{n}}
+Real_number_165,{\displaystyle \mathbb {R} }
+Real_number_166,{\displaystyle \mathbb {R} .}
+Real_number_167,{\displaystyle :\;\mathbb {C} }
+Real_number_168,{\displaystyle :\;\mathbb {R} }
+Real_number_169,{\displaystyle :\;\mathbb {Q} }
+Real_number_170,{\displaystyle :\;\mathbb {Z} }
+Real_number_171,{\displaystyle :\;\mathbb {N} }
+Real_number_172,{\displaystyle \mathbb {N} }
+Real_number_173,{\displaystyle \mathbb {Z} }
+Real_number_174,{\displaystyle \mathbb {Q} }
+Real_number_175,{\displaystyle \mathbb {A} }
+Real_number_176,{\displaystyle \mathbb {R} }
+Real_number_177,{\displaystyle \mathbb {C} }
+Real_number_178,{\displaystyle \mathbb {H} }
+Real_number_179,{\displaystyle \mathbb {O} }
+Real_number_180,{\displaystyle \mathbb {R} }
+Real_number_181,{\displaystyle \mathbb {C} }
+Real_number_182,{\displaystyle \mathbb {S} }

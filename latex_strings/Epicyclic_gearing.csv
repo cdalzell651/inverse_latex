@@ -1,0 +1,56 @@
+name,latex
+Epicyclic_gearing_0,{\displaystyle n_{\text{p}}}
+Epicyclic_gearing_1,{\displaystyle {\frac {N_{\text{s}}+N_{\text{r}}}{n_{\text{p}}}}=A}
+Epicyclic_gearing_2,"{\displaystyle N_{\text{s}},N_{\text{r}}}"
+Epicyclic_gearing_3,{\displaystyle n_{\text{p}}}
+Epicyclic_gearing_4,{\displaystyle A}
+Epicyclic_gearing_5,"{\displaystyle {\begin{aligned}N_{\text{s}}\,\omega _{\text{s}}+N_{\text{p}}\,\omega _{\text{p}}-\left(N_{\text{s}}+N_{\text{p}}\,\right)\,\omega _{\text{c}}&=0\\N_{\text{r}}\,\omega _{\text{r}}-N_{\text{p}}\,\omega _{\text{p}}-\left(N_{\text{r}}-N_{\text{p}}\right)\,\omega _{\text{c}}&=0\end{aligned}}}"
+Epicyclic_gearing_6,"{\displaystyle \omega _{\text{r}},\omega _{\text{s}},\omega _{\text{p}},\omega _{\text{c}}}"
+Epicyclic_gearing_7,"{\displaystyle N_{\text{r}},N_{\text{s}},N_{\text{p}}}"
+Epicyclic_gearing_8,"{\displaystyle N_{\text{s}}\,\omega _{\text{s}}+N_{\text{r}}\,\omega _{\text{r}}=(N_{\text{s}}+N_{\text{r}})\,\omega _{\text{c}}}"
+Epicyclic_gearing_9,"{\displaystyle \omega _{\text{s}}={\frac {\,N_{\text{s}}+N_{\text{r}}\,}{N_{\text{s}}}}\,\omega _{\text{c}}-{\frac {\,N_{\text{r}}\,}{N_{\text{s}}}}\omega _{\text{r}}}"
+Epicyclic_gearing_10,"{\displaystyle \omega _{\text{r}}={\frac {\,N_{\text{s}}+N_{\text{r}}\,}{N_{\text{r}}}}\,\omega _{\text{c}}-{\frac {\,N_{\text{s}}\,}{N_{\text{r}}}}\,\omega _{\text{s}}}"
+Epicyclic_gearing_11,"{\displaystyle \omega _{\text{c}}={\frac {N_{\text{s}}}{\,N_{\text{s}}+N_{\text{r}}\,}}\,\omega _{\text{s}}+{\frac {N_{\text{r}}}{\,N_{\text{s}}+N_{\text{r}}\,}}\,\omega _{\text{r}}}"
+Epicyclic_gearing_12,"{\displaystyle -{\frac {\,N_{\text{r}}\,}{N_{\text{s}}}}={\frac {\,\omega _{\text{s}}-\omega _{\text{c}}\,}{\omega _{\text{r}}-\omega _{\text{c}}}}}"
+Epicyclic_gearing_13,{\displaystyle \omega _{\text{r}}\neq \omega _{\text{c}}~.}
+Epicyclic_gearing_14,{\displaystyle \omega _{\text{...}}=0}
+Epicyclic_gearing_15,"{\displaystyle \,N_{\text{r}}=N_{\text{s}}+2\,N_{\text{p}}\;,}"
+Epicyclic_gearing_16,"{\displaystyle n\,\omega _{\text{s}}+(2+n)\,\omega _{\text{r}}-2(1+n)\,\omega _{\text{c}}=0}"
+Epicyclic_gearing_17,"{\displaystyle n={\tfrac {\,N_{\text{s}}\,}{N_{\text{p}}}}\;}"
+Epicyclic_gearing_18,"{\displaystyle \,N_{\text{s}}\,}"
+Epicyclic_gearing_19,"{\displaystyle \,N_{\text{p}}\,}"
+Epicyclic_gearing_20,"{\displaystyle -{\tfrac {\,N_{\text{s}}\,}{N_{\text{p}}}}\;.}"
+Epicyclic_gearing_21,"{\displaystyle \,N_{\text{r}}\,}"
+Epicyclic_gearing_22,"{\displaystyle \,{\tfrac {\,N_{\text{p}}\,}{N_{\text{r}}}}\,}"
+Epicyclic_gearing_23,"{\displaystyle \,-{\tfrac {\,N_{\text{s}}\,}{N_{\text{p}}}}\,}"
+Epicyclic_gearing_24,"{\displaystyle \,{\tfrac {\,N_{\text{p}}\,}{N_{\text{r}}}}\,}"
+Epicyclic_gearing_25,"{\displaystyle \;-{\tfrac {\,N_{\text{s}}\,}{N_{\text{r}}}}\;}"
+Epicyclic_gearing_26,"{\displaystyle \;1+{\tfrac {\,N_{\text{r}}\,}{N_{\text{s}}}}={\tfrac {\,N_{\text{s}}+N_{\text{r}}\,}{N_{\text{s}}}}~.}"
+Epicyclic_gearing_27,"{\displaystyle \,1/\left(1+{\tfrac {\,N_{\text{r}}\,}{N_{\text{s}}}}\right)={\tfrac {N_{\text{s}}}{\,N_{\text{s}}+N_{\text{r}}\,}}\;,}"
+Epicyclic_gearing_28,{\displaystyle \;N_{\text{s}}:N_{\text{s}}+N_{\text{r}}~.}
+Epicyclic_gearing_29,"{\displaystyle {\tfrac {\,N_{\text{s}}+N_{\text{r}}\,}{N_{\text{r}}}}~.}"
+Epicyclic_gearing_30,{\displaystyle \alpha _{\text{s}}={\frac {{\text{N}}_{\text{s}}+{\text{N}}_{\text{r}}}{{\text{N}}_{\text{s}}}}\alpha _{\text{c}}-{\frac {{\text{N}}_{\text{r}}}{{\text{N}}_{\text{s}}}}\alpha _{\text{r}}}
+Epicyclic_gearing_31,{\displaystyle \alpha _{\text{r}}={\frac {{\text{N}}_{\text{s}}+{\text{N}}_{\text{r}}}{{\text{N}}_{\text{r}}}}\alpha _{\text{c}}-{\frac {{\text{N}}_{\text{s}}}{{\text{N}}_{\text{r}}}}\alpha _{\text{s}}}
+Epicyclic_gearing_32,{\displaystyle \alpha _{\text{c}}={\frac {{\text{N}}_{\text{s}}}{{\text{N}}_{\text{s}}+{\text{N}}_{\text{r}}}}\alpha _{\text{s}}+{\frac {{\text{N}}_{\text{r}}}{{\text{N}}_{\text{s}}+{\text{N}}_{\text{r}}}}\alpha _{\text{r}}}
+Epicyclic_gearing_33,{\displaystyle \tau _{r}=\tau _{s}{\frac {N_{r}}{N_{s}}}}
+Epicyclic_gearing_34,{\displaystyle \tau _{r}=-\tau _{c}{\frac {N_{r}}{N_{r}+N_{s}}}}
+Epicyclic_gearing_35,{\displaystyle \tau _{c}=-\tau _{r}{\frac {N_{r}+N_{s}}{N_{r}}}}
+Epicyclic_gearing_36,{\displaystyle \tau _{c}=-\tau _{s}{\frac {N_{r}+N_{s}}{N_{s}}}}
+Epicyclic_gearing_37,{\displaystyle \tau _{s}=\tau _{r}{\frac {N_{s}}{N_{r}}}}
+Epicyclic_gearing_38,{\displaystyle \tau _{s}=-\tau _{c}{\frac {N_{s}}{N_{r}+N_{s}}}}
+Epicyclic_gearing_39,{\displaystyle \tau _{r}}
+Epicyclic_gearing_40,{\displaystyle \tau _{s}}
+Epicyclic_gearing_41,{\displaystyle \tau _{c}}
+Epicyclic_gearing_42,{\displaystyle \tau _{r}\omega _{r}+\tau _{c}\omega _{c}+\tau _{s}\omega _{s}=0}
+Epicyclic_gearing_43,{\displaystyle R={\frac {\omega _{s}}{\omega _{r}}}=-{\frac {N_{r}}{N_{s}}}.}
+Epicyclic_gearing_44,{\displaystyle R={\frac {\omega _{s}-\omega _{c}}{\omega _{r}-\omega _{c}}}.}
+Epicyclic_gearing_45,"{\displaystyle {\frac {\omega _{s}}{\omega _{r}}}=R,\quad {\mbox{so}}\quad {\frac {\omega _{s}}{\omega _{r}}}=-{\frac {N_{r}}{N_{s}}}.}"
+Epicyclic_gearing_46,"{\displaystyle {\frac {\omega _{s}-\omega _{c}}{-\omega _{c}}}=R,\quad {\mbox{or}}\quad {\frac {\omega _{s}}{\omega _{c}}}=1-R,\quad {\mbox{so}}\quad {\frac {\omega _{s}}{\omega _{c}}}=1+{\frac {N_{r}}{N_{s}}}.}"
+Epicyclic_gearing_47,"{\displaystyle {\frac {-\omega _{c}}{\omega _{r}-\omega _{c}}}=R,\quad {\mbox{or}}\quad {\frac {\omega _{r}}{\omega _{c}}}=1-{\frac {1}{R}},\quad {\mbox{so}}\quad {\frac {\omega _{r}}{\omega _{c}}}=1+{\frac {N_{s}}{N_{r}}}.}"
+Epicyclic_gearing_48,"{\displaystyle {\frac {\omega _{s}-\omega _{c}}{\omega _{r}-\omega _{c}}}=-1,}"
+Epicyclic_gearing_49,{\displaystyle \omega _{c}={\frac {1}{2}}(\omega _{s}+\omega _{r}).}
+Epicyclic_gearing_50,{\displaystyle (R-1)\omega _{\text{c}}=R\omega _{\text{r}}-\omega _{\text{s}}}
+Epicyclic_gearing_51,{\displaystyle R=-N_{\text{r}}/N_{\text{s}}}
+Epicyclic_gearing_52,{\displaystyle \omega _{\text{r}}=\omega _{\text{s}}(1/R)}
+Epicyclic_gearing_53,{\displaystyle \omega _{\text{r}}=\omega _{\text{c}}(R-1)/R}
+Epicyclic_gearing_54,{\displaystyle \omega _{\text{s}}=-\omega _{\text{c}}(R-1)}

@@ -1,0 +1,29 @@
+name,latex
+Differential_equations_0,"{\displaystyle {\begin{aligned}{\frac {dy}{dx}}&=f(x)\\[4pt]{\frac {dy}{dx}}&=f(x,y)\\[4pt]x_{1}{\frac {\partial y}{\partial x_{1}}}&+x_{2}{\frac {\partial y}{\partial x_{2}}}=y\end{aligned}}}"
+Differential_equations_1,"{\displaystyle y'+P(x)y=Q(x)y^{n}\,}"
+Differential_equations_2,{\displaystyle y'+y^{2}=0}
+Differential_equations_3,{\displaystyle {\frac {du}{dx}}=cu+x^{2}.}
+Differential_equations_4,{\displaystyle {\frac {d^{2}u}{dx^{2}}}-x{\frac {du}{dx}}+u=0.}
+Differential_equations_5,{\displaystyle {\frac {d^{2}u}{dx^{2}}}+\omega ^{2}u=0.}
+Differential_equations_6,{\displaystyle {\frac {du}{dx}}=u^{2}+4.}
+Differential_equations_7,{\displaystyle L{\frac {d^{2}u}{dx^{2}}}+g\sin u=0.}
+Differential_equations_8,{\displaystyle {\frac {\partial u}{\partial t}}+t{\frac {\partial u}{\partial x}}=0.}
+Differential_equations_9,{\displaystyle {\frac {\partial ^{2}u}{\partial x^{2}}}+{\frac {\partial ^{2}u}{\partial y^{2}}}=0.}
+Differential_equations_10,{\displaystyle {\frac {\partial u}{\partial t}}=6u{\frac {\partial u}{\partial x}}-{\frac {\partial ^{3}u}{\partial x^{3}}}.}
+Differential_equations_11,"{\displaystyle (a,b)}"
+Differential_equations_12,{\displaystyle Z}
+Differential_equations_13,"{\displaystyle Z=[l,m]\times [n,p]}"
+Differential_equations_14,"{\displaystyle (a,b)}"
+Differential_equations_15,{\displaystyle Z}
+Differential_equations_17,{\displaystyle y=b}
+Differential_equations_18,{\displaystyle x=a}
+Differential_equations_19,"{\displaystyle g(x,y)}"
+Differential_equations_21,{\displaystyle Z}
+Differential_equations_22,{\displaystyle a}
+Differential_equations_23,{\displaystyle f_{n}(x){\frac {d^{n}y}{dx^{n}}}+\cdots +f_{1}(x){\frac {dy}{dx}}+f_{0}(x)y=g(x)}
+Differential_equations_24,"{\displaystyle {\begin{aligned}y(x_{0})&=y_{0},&y'(x_{0})&=y'_{0},&y''(x_{0})&=y''_{0},&\ldots \end{aligned}}}"
+Differential_equations_25,{\displaystyle f_{n}(x)}
+Differential_equations_26,"{\displaystyle \{f_{0},f_{1},\ldots \}}"
+Differential_equations_27,{\displaystyle g}
+Differential_equations_28,{\displaystyle x_{0}}
+Differential_equations_29,{\displaystyle y}

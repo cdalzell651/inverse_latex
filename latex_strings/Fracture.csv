@@ -1,0 +1,16 @@
+name,latex
+Fracture_0,{\displaystyle \sigma _{\mathrm {theoretical} }={\sqrt {\frac {E\gamma }{r_{o}}}}}
+Fracture_1,{\displaystyle E}
+Fracture_2,{\displaystyle \gamma }
+Fracture_3,{\displaystyle r_{o}}
+Fracture_4,{\displaystyle \sigma _{\mathrm {elliptical\ crack} }=\sigma _{\mathrm {applied} }\left(1+2{\sqrt {\frac {a}{\rho }}}\right)=2\sigma _{\mathrm {applied} }{\sqrt {\frac {a}{\rho }}}}
+Fracture_5,{\displaystyle \sigma _{\mathrm {applied} }}
+Fracture_6,{\displaystyle a}
+Fracture_7,{\displaystyle \rho }
+Fracture_8,{\displaystyle \sigma _{\mathrm {fracture} }={\sqrt {\frac {E\gamma \rho }{4ar_{o}}}}.}
+Fracture_9,{\displaystyle \rho }
+Fracture_10,{\displaystyle a}
+Fracture_12,{\displaystyle \mathrm {K_{c}} =\sigma _{\mathrm {F} }{\sqrt {\pi \mathrm {c} }}\mathrm {f\ (c/a)} }
+Fracture_13,{\displaystyle \mathrm {f\ (c/a)} }
+Fracture_14,{\displaystyle \sigma _{\mathrm {F} }}
+Fracture_15,{\displaystyle \mathrm {c} }

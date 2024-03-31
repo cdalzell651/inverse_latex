@@ -1,0 +1,40 @@
+name,latex
+Kepler_problem_0,{\displaystyle \mathbf {F} ={\frac {k}{r^{2}}}\mathbf {\hat {r}} }
+Kepler_problem_1,{\displaystyle \mathbf {\hat {r}} }
+Kepler_problem_2,{\displaystyle V(r)={\frac {k}{r}}}
+Kepler_problem_3,{\displaystyle r}
+Kepler_problem_4,{\displaystyle m}
+Kepler_problem_5,{\displaystyle V(r)}
+Kepler_problem_6,{\displaystyle m{\frac {d^{2}r}{dt^{2}}}-mr\omega ^{2}=m{\frac {d^{2}r}{dt^{2}}}-{\frac {L^{2}}{mr^{3}}}=-{\frac {dV}{dr}}}
+Kepler_problem_7,{\displaystyle \omega \equiv {\frac {d\theta }{dt}}}
+Kepler_problem_8,{\displaystyle L=mr^{2}\omega }
+Kepler_problem_9,{\displaystyle {\frac {dV}{dr}}}
+Kepler_problem_10,{\displaystyle mr\omega ^{2}}
+Kepler_problem_11,{\displaystyle t}
+Kepler_problem_12,{\displaystyle \theta }
+Kepler_problem_13,{\displaystyle {\frac {d}{dt}}={\frac {L}{mr^{2}}}{\frac {d}{d\theta }}}
+Kepler_problem_14,{\displaystyle {\frac {L}{r^{2}}}{\frac {d}{d\theta }}\left({\frac {L}{mr^{2}}}{\frac {dr}{d\theta }}\right)-{\frac {L^{2}}{mr^{3}}}=-{\frac {dV}{dr}}}
+Kepler_problem_15,{\displaystyle {\frac {L}{r^{2}}}{\frac {d}{d\theta }}\left({\frac {L}{mr^{2}}}{\frac {dr}{d\theta }}\right)=-{\frac {2L^{2}}{mr^{5}}}\left({\frac {dr}{d\theta }}\right)^{2}+{\frac {L^{2}}{mr^{4}}}{\frac {d^{2}r}{d\theta ^{2}}}}
+Kepler_problem_16,{\displaystyle u\equiv {\frac {1}{r}}}
+Kepler_problem_17,{\displaystyle {\frac {mr^{2}}{L^{2}}}}
+Kepler_problem_18,{\displaystyle {\frac {du}{d\theta }}={\frac {-1}{r^{2}}}{\frac {dr}{d\theta }}}
+Kepler_problem_19,{\displaystyle {\frac {d^{2}u}{d\theta ^{2}}}={\frac {2}{r^{3}}}\left({\frac {dr}{d\theta }}\right)^{2}-{\frac {1}{r^{2}}}{\frac {d^{2}r}{d\theta ^{2}}}}
+Kepler_problem_20,{\displaystyle {\frac {d^{2}u}{d\theta ^{2}}}+u=-{\frac {m}{L^{2}}}{\frac {d}{du}}V\left({\frac {1}{u}}\right)}
+Kepler_problem_21,{\displaystyle V(\mathbf {r} )={\frac {k}{r}}=ku}
+Kepler_problem_22,{\displaystyle u(\theta )}
+Kepler_problem_23,{\displaystyle {\frac {d^{2}u}{d\theta ^{2}}}+u=-{\frac {m}{L^{2}}}{\frac {d}{du}}V\left({\frac {1}{u}}\right)=-{\frac {km}{L^{2}}}}
+Kepler_problem_24,{\displaystyle -{\frac {km}{L^{2}}}}
+Kepler_problem_25,{\displaystyle u\equiv {\frac {1}{r}}=-{\frac {km}{L^{2}}}\left[1+e\cos(\theta -\theta _{0})\right]}
+Kepler_problem_26,{\displaystyle e}
+Kepler_problem_27,{\displaystyle \theta _{0}}
+Kepler_problem_28,{\displaystyle e=0}
+Kepler_problem_29,{\displaystyle e<1}
+Kepler_problem_30,{\displaystyle e=1}
+Kepler_problem_31,{\displaystyle e>1}
+Kepler_problem_32,{\displaystyle e}
+Kepler_problem_33,{\displaystyle E}
+Kepler_problem_34,{\displaystyle e={\sqrt {1+{\frac {2EL^{2}}{k^{2}m}}}}}
+Kepler_problem_35,{\displaystyle E<0}
+Kepler_problem_36,{\displaystyle E=0}
+Kepler_problem_37,{\displaystyle E>0}
+Kepler_problem_38,{\displaystyle E=-{\frac {k^{2}m}{2L^{2}}}}

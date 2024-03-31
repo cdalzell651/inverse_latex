@@ -1,0 +1,46 @@
+name,latex
+Positive_integer_1,{\displaystyle 1/n}
+Positive_integer_2,{\displaystyle \mathbb {N} .}
+Positive_integer_4,"{\displaystyle \;\{0,1,2,...\}=\mathbb {N} _{0}=\mathbb {N} ^{0}=\mathbb {N} ^{*}\cup \{0\}}"
+Positive_integer_5,{\displaystyle \mathbb {Z} }
+Positive_integer_6,{\displaystyle *}
+Positive_integer_7,"{\displaystyle \{1,2,3,\dots \}=\{x\in \mathbb {Z} :x>0\}=\mathbb {Z} ^{+}=\mathbb {Z} _{>0}}"
+Positive_integer_8,"{\displaystyle \{0,1,2,\dots \}=\{x\in \mathbb {Z} :x\geq 0\}=\mathbb {Z} _{0}^{+}=\mathbb {Z} _{\geq 0}}"
+Positive_integer_9,{\displaystyle \mathbb {N} =\mathbb {N} _{0}=\mathbb {N} ^{*}\cup \{0\}}
+Positive_integer_10,{\displaystyle \mathbb {N} }
+Positive_integer_11,{\displaystyle S\colon \mathbb {N} \to \mathbb {N} }
+Positive_integer_12,"{\displaystyle (\mathbb {N} ,+)}"
+Positive_integer_13,{\displaystyle \times }
+Positive_integer_14,"{\displaystyle (\mathbb {N} ^{*},\times )}"
+Positive_integer_15,{\displaystyle \mathbb {N} }
+Positive_integer_16,{\displaystyle \mathbb {N} }
+Positive_integer_17,"{\displaystyle (\mathbb {N^{*}} ,+)}"
+Positive_integer_18,{\displaystyle a=bq+r{\text{ and }}r<b.}
+Positive_integer_19,{\displaystyle \emptyset }
+Positive_integer_20,{\displaystyle \emptyset }
+Positive_integer_21,{\displaystyle \mathbb {N} }
+Positive_integer_22,{\displaystyle x}
+Positive_integer_23,{\displaystyle y}
+Positive_integer_24,{\displaystyle x}
+Positive_integer_25,{\displaystyle y}
+Positive_integer_26,{\displaystyle x}
+Positive_integer_27,{\displaystyle x+1}
+Positive_integer_28,{\displaystyle :\;\mathbb {C} }
+Positive_integer_29,{\displaystyle :\;\mathbb {R} }
+Positive_integer_30,{\displaystyle :\;\mathbb {Q} }
+Positive_integer_31,{\displaystyle :\;\mathbb {Z} }
+Positive_integer_32,{\displaystyle :\;\mathbb {N} }
+Positive_integer_33,{\displaystyle \mathbb {N} }
+Positive_integer_34,"{\displaystyle \mathbb {N} =\{0,1,2,\ldots \}}"
+Positive_integer_35,{\displaystyle \mathbb {N} }
+Positive_integer_36,{\displaystyle \mathbb {N} }
+Positive_integer_37,{\displaystyle \mathbb {Z} }
+Positive_integer_38,{\displaystyle \mathbb {Q} }
+Positive_integer_39,{\displaystyle \mathbb {A} }
+Positive_integer_40,{\displaystyle \mathbb {R} }
+Positive_integer_41,{\displaystyle \mathbb {C} }
+Positive_integer_42,{\displaystyle \mathbb {H} }
+Positive_integer_43,{\displaystyle \mathbb {O} }
+Positive_integer_44,{\displaystyle \mathbb {R} }
+Positive_integer_45,{\displaystyle \mathbb {C} }
+Positive_integer_46,{\displaystyle \mathbb {S} }

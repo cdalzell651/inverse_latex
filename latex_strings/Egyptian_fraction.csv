@@ -1,0 +1,73 @@
+name,latex
+Egyptian_fraction_0,{\displaystyle {\frac {1}{2}}+{\frac {1}{3}}+{\frac {1}{16}}.}
+Egyptian_fraction_1,{\displaystyle {\tfrac {a}{b}}}
+Egyptian_fraction_2,{\displaystyle {\tfrac {43}{48}}}
+Egyptian_fraction_3,{\displaystyle {\tfrac {2}{3}}}
+Egyptian_fraction_4,{\displaystyle {\tfrac {3}{4}}}
+Egyptian_fraction_5,{\displaystyle {\frac {5}{8}}={\frac {1}{2}}+{\frac {1}{8}}}
+Egyptian_fraction_6,{\displaystyle 1/x}
+Egyptian_fraction_7,{\displaystyle x}
+Egyptian_fraction_8,{\displaystyle {\tfrac {2}{n}}}
+Egyptian_fraction_9,{\displaystyle {\tfrac {2}{n}}}
+Egyptian_fraction_10,{\displaystyle ={\frac {1}{3}}}
+Egyptian_fraction_11,{\displaystyle ={\frac {1}{10}}}
+Egyptian_fraction_12,{\displaystyle {\tfrac {1}{2}}}
+Egyptian_fraction_13,{\displaystyle {\tfrac {2}{3}}}
+Egyptian_fraction_14,{\displaystyle {\tfrac {3}{4}}}
+Egyptian_fraction_15,{\displaystyle {\tfrac {1}{2}}}
+Egyptian_fraction_16,{\displaystyle ={\frac {1}{2}}}
+Egyptian_fraction_17,{\displaystyle ={\frac {2}{3}}}
+Egyptian_fraction_18,{\displaystyle ={\frac {3}{4}}}
+Egyptian_fraction_19,{\displaystyle 1/2^{k}}
+Egyptian_fraction_20,"{\displaystyle k=1,2,\dots ,6}"
+Egyptian_fraction_21,{\displaystyle {\tfrac {1}{320}}}
+Egyptian_fraction_22,{\displaystyle {\tfrac {2}{n}}}
+Egyptian_fraction_23,{\displaystyle p}
+Egyptian_fraction_24,{\displaystyle {\frac {2}{p}}={\frac {1}{(p+1)/2}}+{\frac {1}{p(p+1)/2}}}
+Egyptian_fraction_25,{\displaystyle {\frac {2}{p}}={\frac {1}{A}}+{\frac {2A-p}{Ap}}}
+Egyptian_fraction_26,{\displaystyle A}
+Egyptian_fraction_27,{\displaystyle {\tfrac {p}{2}}}
+Egyptian_fraction_28,{\displaystyle p}
+Egyptian_fraction_29,{\displaystyle (2A-p)/Ap}
+Egyptian_fraction_30,{\displaystyle 2A-p}
+Egyptian_fraction_31,{\displaystyle A}
+Egyptian_fraction_32,{\displaystyle {\tfrac {d}{Ap}}}
+Egyptian_fraction_33,{\displaystyle d}
+Egyptian_fraction_34,{\displaystyle {\tfrac {2}{37}}={\tfrac {1}{24}}+{\tfrac {1}{111}}+{\frac {1}{296}}}
+Egyptian_fraction_35,{\displaystyle A=24}
+Egyptian_fraction_36,{\displaystyle 2A-p=11=8+3}
+Egyptian_fraction_37,{\displaystyle {\tfrac {1}{111}}={\tfrac {8}{24\cdot 37}}}
+Egyptian_fraction_38,{\displaystyle {\tfrac {1}{296}}={\tfrac {3}{24\cdot 37}}}
+Egyptian_fraction_39,{\displaystyle p}
+Egyptian_fraction_40,{\displaystyle p\cdot q}
+Egyptian_fraction_41,{\displaystyle {\tfrac {2}{pq}}}
+Egyptian_fraction_42,{\displaystyle {\tfrac {2}{p}}}
+Egyptian_fraction_43,{\displaystyle q}
+Egyptian_fraction_44,{\displaystyle {\tfrac {2}{35}}}
+Egyptian_fraction_45,{\displaystyle {\tfrac {2}{91}}}
+Egyptian_fraction_46,{\displaystyle {\tfrac {2}{95}}}
+Egyptian_fraction_47,{\displaystyle {\frac {2}{pq}}={\frac {1}{p(p+q)/2}}+{\frac {1}{q(p+q)/2}}.}
+Egyptian_fraction_48,{\displaystyle {\tfrac {2}{35}}={\tfrac {2}{5\cdot 7}}={\tfrac {1}{30}}+{\tfrac {1}{42}}}
+Egyptian_fraction_49,"{\displaystyle {\frac {n}{pq}}={\frac {1}{p(p+q)/n}}+{\frac {1}{q(p+q)/n}},}"
+Egyptian_fraction_50,{\displaystyle p+q}
+Egyptian_fraction_51,{\displaystyle n}
+Egyptian_fraction_52,{\displaystyle {\tfrac {2}{101}}}
+Egyptian_fraction_53,{\displaystyle {\frac {2}{p}}={\frac {1}{p}}+{\frac {1}{2p}}+{\frac {1}{3p}}+{\frac {1}{6p}}}
+Egyptian_fraction_54,{\displaystyle p}
+Egyptian_fraction_55,{\displaystyle {\tfrac {2}{101}}={\tfrac {1}{101}}+{\tfrac {1}{202}}+{\tfrac {1}{303}}+{\tfrac {1}{606}}}
+Egyptian_fraction_56,{\displaystyle {\frac {a}{ab-1}}={\frac {1}{b}}+{\frac {1}{b(ab-1)}}.}
+Egyptian_fraction_57,"{\displaystyle {\frac {x}{y}}={\frac {1}{\,\left\lceil {\frac {y}{x}}\right\rceil \,}}+{\frac {(-y)\,{\bmod {\,}}x}{y\left\lceil {\frac {y}{x}}\right\rceil }},}"
+Egyptian_fraction_58,"{\displaystyle {\frac {5}{121}}={\frac {1}{25}}+{\frac {1}{757}}+{\frac {1}{763\,309}}+{\frac {1}{873\,960\,180\,913}}+{\frac {1}{1\,527\,612\,795\,642\,093\,418\,846\,225}},}"
+Egyptian_fraction_59,{\displaystyle {\frac {5}{121}}={\frac {1}{33}}+{\frac {1}{121}}+{\frac {1}{363}}.}
+Egyptian_fraction_60,{\displaystyle \sum _{n\in S}{\frac {1}{n}}=1.}
+Egyptian_fraction_61,{\displaystyle \sum {\frac {1}{x_{i}}}+\prod {\frac {1}{x_{i}}}=1.}
+Egyptian_fraction_62,{\displaystyle {\frac {1}{k}}+{\frac {1}{k}}={\frac {2}{k+1}}+{\frac {2}{k(k+1)}}}
+Egyptian_fraction_63,{\displaystyle {\frac {1}{k}}+{\frac {1}{k}}={\frac {1}{k}}+{\frac {1}{k+1}}+{\frac {1}{k(k+1)}}.}
+Egyptian_fraction_64,"{\displaystyle {\frac {4}{5}}={\frac {1}{5}}+{\frac {1}{6}}+{\frac {1}{7}}+{\frac {1}{8}}+{\frac {1}{30}}+{\frac {1}{31}}+{\frac {1}{32}}+{\frac {1}{42}}+{\frac {1}{43}}+{\frac {1}{56}}+{\frac {1}{930}}+{\frac {1}{931}}+{\frac {1}{992}}+{\frac {1}{1806}}+{\frac {1}{865\,830}}.}"
+Egyptian_fraction_65,"{\displaystyle O\left(y\log y\left(\log \log y\right)^{4}\left(\log \log \log y\right)^{2}\right),}"
+Egyptian_fraction_66,{\displaystyle O\left({\sqrt {\log y}}\right)}
+Egyptian_fraction_67,"{\displaystyle \left[0,{\frac {\pi ^{2}}{6}}-1\right)\cup \left[1,{\frac {\pi ^{2}}{6}}\right).}"
+Egyptian_fraction_68,{\displaystyle x={\frac {1}{a_{1}}}+{\frac {1}{a_{1}a_{2}}}+{\frac {1}{a_{1}a_{2}a_{3}}}+\cdots .}
+Egyptian_fraction_69,{\displaystyle {\frac {5}{12}}={\frac {1}{4}}+{\frac {1}{10}}+{\frac {1}{15}}={\frac {1}{5}}+{\frac {1}{6}}+{\frac {1}{20}}.}
+Egyptian_fraction_70,{\displaystyle {\frac {4}{n}}={\frac {1}{x}}+{\frac {1}{y}}+{\frac {1}{z}}}
+Egyptian_fraction_71,{\displaystyle \textstyle {\frac {1}{x_{1}}}+{\frac {1}{x_{2}}}+\cdots +{\frac {1}{x_{n}}}={\frac {a}{b}}}

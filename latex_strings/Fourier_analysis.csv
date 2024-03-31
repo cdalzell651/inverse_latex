@@ -1,0 +1,28 @@
+name,latex
+Fourier_analysis_0,{\displaystyle s(t)}
+Fourier_analysis_1,{\displaystyle S(f)}
+Fourier_analysis_2,{\displaystyle f}
+Fourier_analysis_3,{\displaystyle S(f)}
+Fourier_analysis_4,"{\displaystyle S(f)=\int _{-\infty }^{\infty }s(t)\cdot e^{-i2\pi ft}\,dt.}"
+Fourier_analysis_5,"{\displaystyle s(t)=\int _{-\infty }^{\infty }S(f)\cdot e^{i2\pi ft}\,df,}"
+Fourier_analysis_6,"{\displaystyle S[k]={\frac {1}{P}}\int _{P}s_{P}(t)\cdot e^{-i2\pi {\frac {k}{P}}t}\,dt,\quad k\in \mathbb {Z} ,}"
+Fourier_analysis_7,"{\displaystyle s_{P}(t)\ \ =\ \ {\mathcal {F}}^{-1}\left\{\sum _{k=-\infty }^{+\infty }S[k]\,\delta \left(f-{\frac {k}{P}}\right)\right\}\ \ =\ \ \sum _{k=-\infty }^{\infty }S[k]\cdot e^{i2\pi {\frac {k}{P}}t}.}"
+Fourier_analysis_9,{\displaystyle S[k]={\frac {1}{P}}\cdot S\left({\frac {k}{P}}\right).}
+Fourier_analysis_12,{\displaystyle s_{N}[n]}
+Fourier_analysis_13,{\displaystyle N}
+Fourier_analysis_14,"{\displaystyle S[k]=\sum _{n}s_{N}[n]\cdot e^{-i2\pi {\frac {k}{N}}n},\quad k\in \mathbb {Z} ,}"
+Fourier_analysis_15,"{\displaystyle s_{N}[n]={\frac {1}{N}}\sum _{k}S[k]\cdot e^{i2\pi {\frac {n}{N}}k},}"
+Fourier_analysis_18,{\displaystyle S[k]={\frac {1}{T}}\cdot S_{\frac {1}{T}}\left({\frac {k}{P}}\right).}
+Fourier_analysis_21,"{\displaystyle s(t)=\int _{-\infty }^{\infty }S(f)\cdot e^{i2\pi ft}\,df}"
+Fourier_analysis_22,"{\displaystyle \underbrace {s_{P}(t)=\sum _{k=-\infty }^{\infty }S[k]\cdot e^{i2\pi {\frac {k}{P}}t}} _{\text{Poisson summation formula (Fourier series)}}\,}"
+Fourier_analysis_25,"{\displaystyle s(nT)=T\int _{\frac {1}{T}}{\frac {1}{T}}S_{\frac {1}{T}}(f)\cdot e^{i2\pi fnT}\,df}"
+Fourier_analysis_26,"{\displaystyle \sum _{n=-\infty }^{\infty }s(nT)\cdot \delta (t-nT)=\underbrace {\int _{-\infty }^{\infty }{\frac {1}{T}}\ S_{\frac {1}{T}}(f)\cdot e^{i2\pi ft}\,df} _{\text{inverse Fourier transform}}\,}"
+Fourier_analysis_27,{\displaystyle {\begin{aligned}s_{P}(nT)&=\overbrace {{\frac {1}{N}}\sum _{k}S[k]\cdot e^{i2\pi {\frac {kn}{N}}}} ^{\text{inverse DFT}}\\&={\tfrac {1}{P}}\sum _{k}S_{\frac {1}{T}}\left({\frac {k}{P}}\right)\cdot e^{i2\pi {\frac {kn}{N}}}\end{aligned}}}
+Fourier_analysis_28,"{\displaystyle {\begin{array}{rccccccccc}{\text{Time domain}}&s&=&s_{_{\text{RE}}}&+&s_{_{\text{RO}}}&+&is_{_{\text{IE}}}&+&\underbrace {i\ s_{_{\text{IO}}}} \\&{\Bigg \Updownarrow }{\mathcal {F}}&&{\Bigg \Updownarrow }{\mathcal {F}}&&\ \ {\Bigg \Updownarrow }{\mathcal {F}}&&\ \ {\Bigg \Updownarrow }{\mathcal {F}}&&\ \ {\Bigg \Updownarrow }{\mathcal {F}}\\{\text{Frequency domain}}&S&=&S_{\text{RE}}&+&\overbrace {\,i\ S_{\text{IO}}\,} &+&iS_{\text{IE}}&+&S_{\text{RO}}\end{array}}}"
+Fourier_analysis_29,{\displaystyle {\begin{aligned}r_{1}&=x_{1}+x_{2}+x_{3}\\r_{2}&=x_{1}+\zeta x_{2}+\zeta ^{2}x_{3}\\r_{3}&=x_{1}+\zeta ^{2}x_{2}+\zeta x_{3}\end{aligned}}}
+Fourier_analysis_31,{\displaystyle {\begin{aligned}\sum _{n=-\infty }^{+\infty }T\cdot s(nT)\delta (t-nT)&=\sum _{n=-\infty }^{+\infty }T\cdot s(t)\delta (t-nT)\\&=s(t)\cdot T\sum _{n=-\infty }^{+\infty }\delta (t-nT).\end{aligned}}}
+Fourier_analysis_32,{\displaystyle s(nT)}
+Fourier_analysis_33,{\displaystyle s[n]}
+Fourier_analysis_34,"{\displaystyle T\cdot s(nT),}"
+Fourier_analysis_35,{\displaystyle S[k]=S_{\frac {1}{T}}\left({\frac {k}{P}}\right).}
+Fourier_analysis_37,{\displaystyle L^{\infty }}

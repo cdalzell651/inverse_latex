@@ -1,0 +1,14 @@
+name,latex
+Recursive_definition_0,{\displaystyle {\begin{aligned}&0!=1.\\&(n+1)!=(n+1)\cdot n!.\end{aligned}}}
+Recursive_definition_1,{\displaystyle \mathbb {N} }
+Recursive_definition_2,{\displaystyle \mathbb {N} .}
+Recursive_definition_3,{\displaystyle \mathbb {N} }
+Recursive_definition_4,{\displaystyle \mathbb {N} .}
+Recursive_definition_5,{\displaystyle \mathbb {N} }
+Recursive_definition_6,"{\displaystyle f(0),f(1),\dots ,f(n-1)}"
+Recursive_definition_7,{\displaystyle h:\mathbb {Z} _{+}\to A}
+Recursive_definition_8,"{\displaystyle {\begin{aligned}h(1)&=a_{0}\\h(i)&=\rho \left(h|_{\{1,2,\ldots ,i-1\}}\right){\text{ for }}i>1.\end{aligned}}}"
+Recursive_definition_9,"{\displaystyle {\begin{aligned}&0+a=a,\\&(1+n)+a=1+(n+a).\end{aligned}}}"
+Recursive_definition_10,"{\displaystyle {\begin{aligned}&0\cdot a=0,\\&(1+n)\cdot a=a+n\cdot a.\end{aligned}}}"
+Recursive_definition_11,"{\displaystyle {\begin{aligned}&a^{0}=1,\\&a^{1+n}=a\cdot a^{n}.\end{aligned}}}"
+Recursive_definition_12,"{\displaystyle {\begin{aligned}&{\binom {a}{0}}=1,\\&{\binom {1+a}{1+n}}={\frac {(1+a){\binom {a}{n}}}{1+n}}.\end{aligned}}}"

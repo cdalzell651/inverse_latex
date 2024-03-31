@@ -1,0 +1,18 @@
+name,latex
+Algebraic_geometry_0,"{\displaystyle x^{2}+y^{2}+z^{2}-1=0.\,}"
+Algebraic_geometry_1,"{\displaystyle x^{2}+y^{2}+z^{2}-1=0,\,}"
+Algebraic_geometry_2,"{\displaystyle x+y+z=0.\,}"
+Algebraic_geometry_3,"{\displaystyle V(S)=\{(t_{1},\dots ,t_{n})\mid p(t_{1},\dots ,t_{n})=0{\text{ for all }}p\in S\}.\,}"
+Algebraic_geometry_4,{\displaystyle x^{2}+y^{2}-1=0}
+Algebraic_geometry_5,"{\displaystyle x={\frac {2\,t}{1+t^{2}}}}"
+Algebraic_geometry_6,"{\displaystyle y={\frac {1-t^{2}}{1+t^{2}}}\,,}"
+Algebraic_geometry_7,{\displaystyle x^{2}+y^{2}-a=0}
+Algebraic_geometry_8,{\displaystyle a>0}
+Algebraic_geometry_9,{\displaystyle a<0}
+Algebraic_geometry_10,{\displaystyle xy-1=0}
+Algebraic_geometry_11,{\displaystyle xy-1=0}
+Algebraic_geometry_12,{\displaystyle x>0}
+Algebraic_geometry_13,{\displaystyle d^{2^{cn}}}
+Algebraic_geometry_14,{\displaystyle d^{2^{c'n}}}
+Algebraic_geometry_15,{\displaystyle d^{O(n^{2})}}
+Algebraic_geometry_16,{\displaystyle d^{O(n^{2})}}

@@ -1,0 +1,34 @@
+name,latex
+Foams_0,{\displaystyle \left({\frac {E^{*}}{E_{s}}}\right)_{f}=C_{f}\left({\frac {\rho ^{*}}{\rho _{s}}}\right)^{2}}
+Foams_1,{\displaystyle E_{s}}
+Foams_2,{\displaystyle E^{*}}
+Foams_3,{\displaystyle C_{f}}
+Foams_4,{\displaystyle \rho ^{*}}
+Foams_5,{\displaystyle \rho _{s}}
+Foams_6,{\displaystyle \left({\frac {E^{*}}{E_{s}}}\right)_{f}=C_{f}\left({\frac {\rho ^{*}}{\rho _{s}}}\right)^{3}}
+Foams_7,{\displaystyle {\frac {W_{max}}{E_{s}}}=0.05\left({\frac {\rho ^{*}}{\rho _{s}}}\right)^{2}\left[0.975-1.4\left({\frac {\rho ^{*}}{\rho _{s}}}\right)\right]}
+Foams_8,"{\displaystyle W=\gamma \Delta A\,\!}"
+Foams_9,{\displaystyle F_{b}=Vg(\rho _{2}-\rho _{1})\!}
+Foams_10,{\displaystyle V}
+Foams_11,{\displaystyle g}
+Foams_12,{\displaystyle F_{s}=2r\pi \gamma \!}
+Foams_13,{\displaystyle r}
+Foams_14,{\displaystyle Vg(\rho _{2}-\rho _{1})>2r\pi \gamma \!}
+Foams_15,{\displaystyle R}
+Foams_16,{\displaystyle V}
+Foams_17,{\displaystyle R^{3}={\frac {3r\gamma }{2g(\rho _{2}-\rho _{1})}}\!}
+Foams_18,{\displaystyle p}
+Foams_19,{\displaystyle p_{0}}
+Foams_20,{\displaystyle p-p_{0}=\gamma \left({\frac {1}{R_{1}}}+{\frac {1}{R_{2}}}\right)\!}
+Foams_21,{\displaystyle p-p_{0}-(\rho _{2}-\rho _{1})gz=\gamma \left({\frac {1}{R_{3}}}+{\frac {1}{R_{4}}}\right)\!}
+Foams_22,{\displaystyle (\rho _{2}-\rho _{1})gz=\gamma \left({\frac {1}{R_{1}}}+{\frac {1}{R_{2}}}-{\frac {1}{R_{3}}}-{\frac {1}{R_{4}}}\right)\!}
+Foams_23,{\displaystyle r}
+Foams_24,{\displaystyle u={\frac {2gr^{2}}{9\eta _{2}}}(\rho _{2}-\rho _{1})\left({\frac {3\eta _{1}+3\eta _{2}}{3\eta _{1}+2\eta _{2}}}\right)\!}
+Foams_25,{\displaystyle u={\frac {gr^{2}}{3\eta _{2}}}(\rho _{2})\!}
+Foams_26,{\displaystyle u={\frac {2gr^{2}}{9\eta _{2}}}(\rho _{2}-\rho _{1})\!}
+Foams_27,{\displaystyle P_{c}=\gamma \left({\frac {1}{R_{1}}}+{\frac {1}{R_{2}}}\right)\!}
+Foams_28,{\displaystyle \gamma }
+Foams_29,"{\displaystyle P_{B},1=p_{0}+g\rho _{1}z\!}"
+Foams_30,"{\displaystyle P_{B},2=p_{0}+g\rho _{2}z\!}"
+Foams_31,{\displaystyle P_{c}=2\gamma \left({\frac {1}{R_{A}}}-{\frac {1}{R_{B}}}\right)\!}
+Foams_32,{\displaystyle gz(\rho _{2}-\rho _{1})=2\gamma \left({\frac {1}{R_{A}}}-{\frac {1}{R_{B}}}\right)\!}

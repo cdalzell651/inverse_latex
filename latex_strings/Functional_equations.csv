@@ -1,0 +1,40 @@
+name,latex
+Functional_equations_0,{\displaystyle \log(xy)=\log(x)+\log(y).}
+Functional_equations_1,{\displaystyle f(x+1)=xf(x)}
+Functional_equations_2,{\displaystyle f(1)=1.}
+Functional_equations_3,{\displaystyle F_{n}=F_{n-1}+F_{n-2}}
+Functional_equations_4,{\displaystyle F_{0}=0}
+Functional_equations_5,{\displaystyle F_{1}=1}
+Functional_equations_6,{\displaystyle f(x+P)=f(x)}
+Functional_equations_7,{\displaystyle f(x)=f(-x)}
+Functional_equations_8,{\displaystyle f(x)=-f(-x)}
+Functional_equations_9,{\displaystyle f(f(x))=g(x)}
+Functional_equations_10,"{\displaystyle f(x+y)=f(x)+f(y)\,\!}"
+Functional_equations_11,"{\displaystyle f(x+y)=f(x)f(y),\,\!}"
+Functional_equations_12,"{\displaystyle f(xy)=f(x)+f(y)\,\!}"
+Functional_equations_13,"{\displaystyle f(xy)=f(x)f(y)\,\!}"
+Functional_equations_14,"{\displaystyle f(x+y)+f(x-y)=2[f(x)+f(y)]\,\!}"
+Functional_equations_15,"{\displaystyle f((x+y)/2)=(f(x)+f(y))/2\,\!}"
+Functional_equations_16,"{\displaystyle g(x+y)+g(x-y)=2[g(x)g(y)]\,\!}"
+Functional_equations_17,"{\displaystyle f(h(x))=h(x+1)\,\!}"
+Functional_equations_18,"{\displaystyle f(h(x))=cf(x)\,\!}"
+Functional_equations_19,"{\displaystyle f(h(x))=(f(x))^{c}\,\!}"
+Functional_equations_20,"{\displaystyle f(h(x))=h'(x)f(x)\,\!}"
+Functional_equations_21,"{\displaystyle f(xy)=\sum g_{l}(x)h_{l}(y)\,\!}"
+Functional_equations_22,"{\displaystyle f(x+y)=f(x)g(y)+f(y)g(x)\,\!}"
+Functional_equations_23,"{\displaystyle g(x+y)=g(x)g(y)-f(y)f(x)\,\!}"
+Functional_equations_24,"{\displaystyle g(x+y)=g(x)g(y)+f(y)f(x)\,\!}"
+Functional_equations_25,"{\displaystyle (a\circ b)\circ c=a\circ (b\circ c)~,}"
+Functional_equations_26,"{\displaystyle f(f(a,b),c)=f(a,f(b,c)).\,\!}"
+Functional_equations_27,{\displaystyle f(s)=2^{s}\pi ^{s-1}\sin \left({\frac {\pi s}{2}}\right)\Gamma (1-s)f(1-s)}
+Functional_equations_28,{\displaystyle f(x)={f(x+1) \over x}}
+Functional_equations_29,{\displaystyle f(y)f\left(y+{\frac {1}{2}}\right)={\frac {\sqrt {\pi }}{2^{2y-1}}}f(2y)}
+Functional_equations_30,{\displaystyle f(z)f(1-z)={\pi  \over \sin(\pi z)}}
+Functional_equations_31,{\displaystyle f\left({az+b \over cz+d}\right)=(cz+d)^{k}f(z)}
+Functional_equations_32,{\displaystyle ad-bc=1}
+Functional_equations_33,{\displaystyle {\begin{vmatrix}a&b\\c&d\end{vmatrix}}}
+Functional_equations_34,{\displaystyle f(f(x))=x}
+Functional_equations_35,"{\displaystyle f(f(x))=1-(1-x)=x\,.}"
+Functional_equations_36,"{\displaystyle f(x)=a-x\,,}"
+Functional_equations_37,"{\displaystyle f(x)={\frac {a}{x}}\,,}"
+Functional_equations_38,"{\displaystyle f(x)={\frac {b-x}{1+cx}}~,}"

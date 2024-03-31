@@ -1,0 +1,270 @@
+name,latex
+Lattice_theory_0,"{\displaystyle a,b}"
+Lattice_theory_2,{\displaystyle {\begin{aligned}&aRb\\\Rightarrow {}&bRa\end{aligned}}}
+Lattice_theory_3,{\displaystyle {\begin{aligned}aRb{\text{ and }}&bRa\\\Rightarrow a={}&b\end{aligned}}}
+Lattice_theory_4,{\displaystyle {\begin{aligned}a\neq {}&b\Rightarrow \\aRb{\text{ or }}&bRa\end{aligned}}}
+Lattice_theory_5,{\displaystyle {\begin{aligned}\min S\\{\text{exists}}\end{aligned}}}
+Lattice_theory_6,{\displaystyle {\begin{aligned}a\vee b\\{\text{exists}}\end{aligned}}}
+Lattice_theory_7,{\displaystyle {\begin{aligned}a\wedge b\\{\text{exists}}\end{aligned}}}
+Lattice_theory_8,{\displaystyle aRa}
+Lattice_theory_9,{\displaystyle {\text{not }}aRa}
+Lattice_theory_10,{\displaystyle {\begin{aligned}aRb\Rightarrow \\{\text{not }}bRa\end{aligned}}}
+Lattice_theory_11,{\displaystyle R}
+Lattice_theory_12,"{\displaystyle a,b,c,}"
+Lattice_theory_13,{\displaystyle aRb}
+Lattice_theory_14,{\displaystyle bRc}
+Lattice_theory_15,{\displaystyle aRc.}
+Lattice_theory_16,"{\displaystyle (L,\leq )}"
+Lattice_theory_17,"{\displaystyle \{a,b\}\subseteq L}"
+Lattice_theory_18,{\displaystyle a\vee b}
+Lattice_theory_19,{\displaystyle a\wedge b}
+Lattice_theory_20,"{\displaystyle \,\wedge \,}"
+Lattice_theory_21,"{\displaystyle \,\vee \,}"
+Lattice_theory_22,{\displaystyle a_{1}\leq a_{2}}
+Lattice_theory_23,{\displaystyle b_{1}\leq b_{2}}
+Lattice_theory_24,{\displaystyle a_{1}\vee b_{1}\leq a_{2}\vee b_{2}}
+Lattice_theory_25,{\displaystyle a_{1}\wedge b_{1}\leq a_{2}\wedge b_{2}.}
+Lattice_theory_26,"{\displaystyle H\subseteq L,}"
+Lattice_theory_27,{\displaystyle H.}
+Lattice_theory_28,{\displaystyle H}
+Lattice_theory_29,"{\displaystyle (L,\vee ,\wedge )}"
+Lattice_theory_30,{\displaystyle L}
+Lattice_theory_31,{\displaystyle \vee }
+Lattice_theory_32,{\displaystyle \wedge }
+Lattice_theory_33,{\displaystyle L}
+Lattice_theory_34,"{\displaystyle a,b\in L}"
+Lattice_theory_35,{\displaystyle a\vee (a\wedge b)=a}
+Lattice_theory_36,{\displaystyle a\wedge (a\vee b)=a}
+Lattice_theory_37,{\displaystyle a\vee a=a}
+Lattice_theory_38,{\displaystyle a\wedge a=a}
+Lattice_theory_39,"{\displaystyle (L,\vee )}"
+Lattice_theory_40,"{\displaystyle (L,\wedge )}"
+Lattice_theory_41,{\displaystyle \vee }
+Lattice_theory_42,{\displaystyle \wedge .}
+Lattice_theory_43,"{\displaystyle (L,\vee ,\wedge )}"
+Lattice_theory_44,"{\displaystyle (L,\vee ,\wedge ),}"
+Lattice_theory_45,{\displaystyle \leq }
+Lattice_theory_46,{\displaystyle L}
+Lattice_theory_47,"{\displaystyle a\leq b{\text{ if }}a=a\wedge b,{\text{ or }}}"
+Lattice_theory_48,"{\displaystyle a\leq b{\text{ if }}b=a\vee b,}"
+Lattice_theory_49,"{\displaystyle a,b\in L.}"
+Lattice_theory_50,{\displaystyle a=a\wedge b{\text{ implies }}b=b\vee (b\wedge a)=(a\wedge b)\vee b=a\vee b}
+Lattice_theory_51,{\displaystyle \vee }
+Lattice_theory_52,{\displaystyle \wedge .}
+Lattice_theory_53,"{\displaystyle 1,}"
+Lattice_theory_54,{\displaystyle \top }
+Lattice_theory_55,{\displaystyle 0}
+Lattice_theory_56,{\displaystyle \bot }
+Lattice_theory_57,{\displaystyle 0\leq x\leq 1\;{\text{ for every }}x\in L.}
+Lattice_theory_58,"{\displaystyle (L,\vee ,\wedge ,0,1)}"
+Lattice_theory_59,"{\displaystyle (L,\vee ,\wedge )}"
+Lattice_theory_60,{\displaystyle 0}
+Lattice_theory_61,"{\displaystyle \vee ,}"
+Lattice_theory_62,{\displaystyle 1}
+Lattice_theory_63,{\displaystyle \wedge .}
+Lattice_theory_64,{\displaystyle a\vee 0=a}
+Lattice_theory_65,{\displaystyle a\wedge 1=a}
+Lattice_theory_66,{\displaystyle x}
+Lattice_theory_71,{\displaystyle A}
+Lattice_theory_72,{\displaystyle B}
+Lattice_theory_73,"{\displaystyle L,}"
+Lattice_theory_74,{\displaystyle \bigvee (A\cup B)=\left(\bigvee A\right)\vee \left(\bigvee B\right)}
+Lattice_theory_75,{\displaystyle \bigwedge (A\cup B)=\left(\bigwedge A\right)\wedge \left(\bigwedge B\right)}
+Lattice_theory_76,{\displaystyle B}
+Lattice_theory_82,"{\displaystyle L=\left\{a_{1},\ldots ,a_{n}\right\}}"
+Lattice_theory_83,{\displaystyle 0}
+Lattice_theory_84,"{\displaystyle 1,}"
+Lattice_theory_85,"{\displaystyle \{x,y,z\},}"
+Lattice_theory_86,"{\displaystyle \{1,2,3,4\},}"
+Lattice_theory_87,"{\displaystyle \,\leq ,}"
+Lattice_theory_88,"{\displaystyle A,}"
+Lattice_theory_89,{\displaystyle A}
+Lattice_theory_90,{\displaystyle A}
+Lattice_theory_91,{\displaystyle A}
+Lattice_theory_92,"{\displaystyle A,}"
+Lattice_theory_93,"{\displaystyle A,}"
+Lattice_theory_94,{\displaystyle A}
+Lattice_theory_95,"{\displaystyle A,}"
+Lattice_theory_96,"{\displaystyle A,}"
+Lattice_theory_97,"{\displaystyle (a,b)\leq (c,d)}"
+Lattice_theory_98,{\displaystyle a\leq c{\text{ and }}b\leq d.}
+Lattice_theory_99,"{\displaystyle (0,0)}"
+Lattice_theory_100,{\displaystyle a\leq b}
+Lattice_theory_101,{\displaystyle a}
+Lattice_theory_102,{\displaystyle b.}
+Lattice_theory_103,{\displaystyle 1}
+Lattice_theory_104,{\displaystyle 0}
+Lattice_theory_105,{\displaystyle a}
+Lattice_theory_106,{\displaystyle b}
+Lattice_theory_107,"{\displaystyle 0,d,g,h,}"
+Lattice_theory_108,"{\displaystyle i,}"
+Lattice_theory_109,{\displaystyle b}
+Lattice_theory_110,{\displaystyle c}
+Lattice_theory_111,"{\displaystyle d,e,}"
+Lattice_theory_112,"{\displaystyle f,}"
+Lattice_theory_113,{\displaystyle c}
+Lattice_theory_114,{\displaystyle d}
+Lattice_theory_115,{\displaystyle x\leq y}
+Lattice_theory_116,"{\displaystyle x=y,}"
+Lattice_theory_117,"{\displaystyle \{1,2,3,6\}}"
+Lattice_theory_118,"{\displaystyle \{1,2,3\}}"
+Lattice_theory_119,"{\displaystyle \{2,3,6\}.}"
+Lattice_theory_120,"{\displaystyle \{1,2,3,12,18,36\}}"
+Lattice_theory_121,{\displaystyle f}
+Lattice_theory_122,{\displaystyle f(u)\vee f(v)=u^{\prime }\vee u^{\prime }=u^{\prime }}
+Lattice_theory_123,{\displaystyle \neq }
+Lattice_theory_124,{\displaystyle 1^{\prime }=f(1)=f(u\vee v)}
+Lattice_theory_125,{\displaystyle f(u)\wedge f(v)=u^{\prime }\wedge u^{\prime }=u^{\prime }}
+Lattice_theory_126,{\displaystyle \neq }
+Lattice_theory_127,{\displaystyle 0^{\prime }=f(0)=f(u\wedge v).}
+Lattice_theory_128,"{\displaystyle \left(L,\vee _{L},\wedge _{L}\right)}"
+Lattice_theory_129,"{\displaystyle \left(M,\vee _{M},\wedge _{M}\right),}"
+Lattice_theory_130,{\displaystyle f:L\to M}
+Lattice_theory_131,"{\displaystyle a,b\in L:}"
+Lattice_theory_132,"{\displaystyle f\left(a\vee _{L}b\right)=f(a)\vee _{M}f(b),{\text{ and }}}"
+Lattice_theory_133,{\displaystyle f\left(a\wedge _{L}b\right)=f(a)\wedge _{M}f(b).}
+Lattice_theory_134,{\displaystyle f}
+Lattice_theory_135,{\displaystyle f}
+Lattice_theory_136,{\displaystyle L}
+Lattice_theory_137,{\displaystyle M}
+Lattice_theory_138,"{\displaystyle f\left(0_{L}\right)=0_{M},{\text{ and }}}"
+Lattice_theory_139,{\displaystyle f\left(1_{L}\right)=1_{M}.}
+Lattice_theory_140,{\displaystyle \mathbb {L} }
+Lattice_theory_141,{\displaystyle \mathbb {L} '}
+Lattice_theory_142,{\displaystyle \mathbb {L} }
+Lattice_theory_143,{\displaystyle \mathbb {L} '}
+Lattice_theory_144,{\displaystyle f^{-1}\{f(0)\}=\{0\}}
+Lattice_theory_145,{\displaystyle f}
+Lattice_theory_146,{\displaystyle f^{-1}\{f(1)\}=\{1\}}
+Lattice_theory_147,{\displaystyle f}
+Lattice_theory_148,{\displaystyle L}
+Lattice_theory_149,{\displaystyle L}
+Lattice_theory_150,{\displaystyle L.}
+Lattice_theory_151,{\displaystyle L}
+Lattice_theory_152,{\displaystyle M}
+Lattice_theory_153,{\displaystyle L}
+Lattice_theory_154,"{\displaystyle a,b\in M}"
+Lattice_theory_155,{\displaystyle a\wedge b}
+Lattice_theory_156,{\displaystyle a\vee b}
+Lattice_theory_157,"{\displaystyle M,}"
+Lattice_theory_158,{\displaystyle M}
+Lattice_theory_159,{\displaystyle L.}
+Lattice_theory_160,{\displaystyle M}
+Lattice_theory_161,{\displaystyle L}
+Lattice_theory_162,"{\displaystyle L,}"
+Lattice_theory_163,{\displaystyle x\leq z\leq y}
+Lattice_theory_164,"{\displaystyle x,y\in M}"
+Lattice_theory_165,{\displaystyle z}
+Lattice_theory_166,"{\displaystyle M,}"
+Lattice_theory_167,"{\displaystyle x,y,z\in L.}"
+Lattice_theory_168,"{\displaystyle 1,}"
+Lattice_theory_169,"{\displaystyle 0,}"
+Lattice_theory_170,{\displaystyle b\leq c}
+Lattice_theory_171,{\displaystyle b\vee (a\wedge c)=b}
+Lattice_theory_172,{\displaystyle (b\vee a)\wedge c=c}
+Lattice_theory_173,"{\displaystyle c\wedge (a\vee b)=(c\wedge a)\vee (c\wedge b),}"
+Lattice_theory_174,{\displaystyle c\vee (a\wedge b)=(c\vee a)\wedge (c\vee b).}
+Lattice_theory_175,"{\displaystyle a,b,c\in L,}"
+Lattice_theory_176,{\displaystyle \vee }
+Lattice_theory_177,{\displaystyle \wedge }
+Lattice_theory_178,{\displaystyle a\vee (b\wedge c)=(a\vee b)\wedge (a\vee c).}
+Lattice_theory_179,{\displaystyle \wedge }
+Lattice_theory_180,{\displaystyle \vee }
+Lattice_theory_181,{\displaystyle a\wedge (b\vee c)=(a\wedge b)\vee (a\wedge c).}
+Lattice_theory_182,"{\displaystyle (L,\vee ,\wedge )}"
+Lattice_theory_183,"{\displaystyle a,b,c\in L,}"
+Lattice_theory_184,{\displaystyle (a\wedge c)\vee (b\wedge c)=((a\wedge c)\vee b)\wedge c.}
+Lattice_theory_185,{\displaystyle a\leq c}
+Lattice_theory_186,{\displaystyle a\vee (b\wedge c)=(a\vee b)\wedge c.}
+Lattice_theory_187,{\displaystyle r\colon }
+Lattice_theory_188,{\displaystyle r(x)+r(y)\geq r(x\wedge y)+r(x\vee y).}
+Lattice_theory_189,{\displaystyle x}
+Lattice_theory_190,{\displaystyle y}
+Lattice_theory_191,"{\displaystyle L,}"
+Lattice_theory_192,{\displaystyle x}
+Lattice_theory_193,{\displaystyle y}
+Lattice_theory_194,"{\displaystyle x\wedge y,}"
+Lattice_theory_195,{\displaystyle x\vee y}
+Lattice_theory_196,{\displaystyle x}
+Lattice_theory_197,{\displaystyle y.}
+Lattice_theory_198,{\displaystyle \vee }
+Lattice_theory_199,{\displaystyle \wedge }
+Lattice_theory_200,{\displaystyle L}
+Lattice_theory_201,{\displaystyle x}
+Lattice_theory_202,{\displaystyle y}
+Lattice_theory_203,{\displaystyle L}
+Lattice_theory_204,{\displaystyle x\vee y=1\quad {\text{ and }}\quad x\wedge y=0.}
+Lattice_theory_205,"{\displaystyle \{0,1/2,1\}}"
+Lattice_theory_206,{\displaystyle {\tfrac {1}{2}}}
+Lattice_theory_207,{\displaystyle a}
+Lattice_theory_208,{\displaystyle b}
+Lattice_theory_209,{\displaystyle c}
+Lattice_theory_210,"{\displaystyle x,}"
+Lattice_theory_213,"{\displaystyle L,}"
+Lattice_theory_214,{\displaystyle z}
+Lattice_theory_216,{\displaystyle y}
+Lattice_theory_217,{\displaystyle x\wedge y=0.}
+Lattice_theory_218,{\displaystyle x_{0}}
+Lattice_theory_219,{\displaystyle x_{n}}
+Lattice_theory_220,"{\displaystyle \left\{x_{0},x_{1},\ldots ,x_{n}\right\},}"
+Lattice_theory_221,{\displaystyle x_{0}<x_{1}<x_{2}<\ldots <x_{n}.}
+Lattice_theory_222,{\displaystyle x_{i}}
+Lattice_theory_223,{\displaystyle x_{i-1}}
+Lattice_theory_224,{\displaystyle 1\leq i\leq n.}
+Lattice_theory_225,{\displaystyle x}
+Lattice_theory_226,"{\displaystyle y,}"
+Lattice_theory_227,"{\displaystyle x<y,}"
+Lattice_theory_228,{\displaystyle x}
+Lattice_theory_229,{\displaystyle y}
+Lattice_theory_230,"{\displaystyle (L,\leq )}"
+Lattice_theory_231,{\displaystyle r:L\to \mathbb {N} }
+Lattice_theory_232,{\displaystyle \mathbb {Z} }
+Lattice_theory_233,{\displaystyle r(x)<r(y)}
+Lattice_theory_234,{\displaystyle x<y}
+Lattice_theory_235,{\displaystyle y}
+Lattice_theory_236,"{\displaystyle x,}"
+Lattice_theory_237,{\displaystyle r(y)=r(x)+1.}
+Lattice_theory_238,{\displaystyle y}
+Lattice_theory_239,"{\displaystyle x,}"
+Lattice_theory_240,"{\displaystyle y>x,}"
+Lattice_theory_241,{\displaystyle z}
+Lattice_theory_242,{\displaystyle y>z>x.}
+Lattice_theory_243,{\displaystyle y>x}
+Lattice_theory_244,{\displaystyle x\leq y}
+Lattice_theory_245,{\displaystyle x\neq y.}
+Lattice_theory_246,{\displaystyle X}
+Lattice_theory_247,{\displaystyle FX.}
+Lattice_theory_248,"{\displaystyle X,}"
+Lattice_theory_249,"{\displaystyle X,}"
+Lattice_theory_250,{\displaystyle X}
+Lattice_theory_251,{\displaystyle x}
+Lattice_theory_252,{\displaystyle L.}
+Lattice_theory_253,{\displaystyle x}
+Lattice_theory_254,{\displaystyle x=a\vee b}
+Lattice_theory_255,{\displaystyle x=a{\text{ or }}x=b.}
+Lattice_theory_256,"{\displaystyle a,b\in L.}"
+Lattice_theory_257,{\displaystyle L}
+Lattice_theory_258,"{\displaystyle 0,}"
+Lattice_theory_259,{\displaystyle x\neq 0}
+Lattice_theory_260,"{\displaystyle \bigvee _{i\in I}a_{i},}"
+Lattice_theory_261,{\displaystyle x}
+Lattice_theory_262,{\displaystyle \vee }
+Lattice_theory_263,{\displaystyle \wedge }
+Lattice_theory_264,{\displaystyle x\leq a\vee b}
+Lattice_theory_265,{\displaystyle x\leq a{\text{ or }}x\leq b.}
+Lattice_theory_266,{\displaystyle x\neq 0}
+Lattice_theory_267,{\displaystyle L}
+Lattice_theory_268,{\displaystyle L}
+Lattice_theory_269,{\displaystyle x}
+Lattice_theory_270,{\displaystyle L}
+Lattice_theory_271,{\displaystyle 0<x}
+Lattice_theory_272,{\displaystyle y\in L}
+Lattice_theory_273,{\displaystyle 0<y<x.}
+Lattice_theory_274,{\displaystyle L}
+Lattice_theory_275,{\displaystyle x}
+Lattice_theory_276,"{\displaystyle L,}"
+Lattice_theory_277,{\displaystyle a}
+Lattice_theory_278,{\displaystyle L}
+Lattice_theory_279,{\displaystyle a\leq x;}
+Lattice_theory_280,{\displaystyle L}
+Lattice_theory_281,{\displaystyle a=a\vee (a\wedge (a\vee a))=a\vee a}

@@ -1,0 +1,19 @@
+name,latex
+Combinatorial_optimization_0,{\displaystyle m_{0}}
+Combinatorial_optimization_1,{\displaystyle G}
+Combinatorial_optimization_2,{\displaystyle u}
+Combinatorial_optimization_3,{\displaystyle v}
+Combinatorial_optimization_4,{\displaystyle u}
+Combinatorial_optimization_5,{\displaystyle v}
+Combinatorial_optimization_6,{\displaystyle u}
+Combinatorial_optimization_7,{\displaystyle v}
+Combinatorial_optimization_8,{\displaystyle y\in f(x)}
+Combinatorial_optimization_9,{\displaystyle x}
+Combinatorial_optimization_10,"{\displaystyle \{\,x\,\mid \,x\in I\,\}}"
+Combinatorial_optimization_11,"{\displaystyle \{\,(x,y)\,\mid \,y\in f(x)\,\}}"
+Combinatorial_optimization_12,{\displaystyle m}
+Combinatorial_optimization_13,{\displaystyle 1/c}
+Combinatorial_optimization_14,{\displaystyle x}
+Combinatorial_optimization_15,{\displaystyle y\in f(x)}
+Combinatorial_optimization_16,"{\displaystyle m(x,y)}"
+Combinatorial_optimization_17,{\displaystyle x}

@@ -1,0 +1,350 @@
+name,latex
+Exponent_0,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{term}}\,+\,{\text{term}}\\\scriptstyle {\text{summand}}\,+\,{\text{summand}}\\\scriptstyle {\text{addend}}\,+\,{\text{addend}}\\\scriptstyle {\text{augend}}\,+\,{\text{addend}}\end{matrix}}\right\}\,=\,}"
+Exponent_1,{\displaystyle \scriptstyle {\text{sum}}}
+Exponent_2,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{term}}\,-\,{\text{term}}\\\scriptstyle {\text{minuend}}\,-\,{\text{subtrahend}}\end{matrix}}\right\}\,=\,}"
+Exponent_3,{\displaystyle \scriptstyle {\text{difference}}}
+Exponent_4,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{factor}}\,\times \,{\text{factor}}\\\scriptstyle {\text{multiplier}}\,\times \,{\text{multiplicand}}\end{matrix}}\right\}\,=\,}"
+Exponent_5,{\displaystyle \scriptstyle {\text{product}}}
+Exponent_6,"{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\frac {\scriptstyle {\text{dividend}}}{\scriptstyle {\text{divisor}}}}\\[1ex]\scriptstyle {\frac {\scriptstyle {\text{numerator}}}{\scriptstyle {\text{denominator}}}}\end{matrix}}\right\}\,=\,}"
+Exponent_7,{\displaystyle \scriptstyle \left\{{\begin{matrix}\scriptstyle {\text{fraction}}\\\scriptstyle {\text{quotient}}\\\scriptstyle {\text{ratio}}\end{matrix}}\right.}
+Exponent_8,"{\displaystyle \scriptstyle {\text{base}}^{\text{exponent}}\,=\,}"
+Exponent_9,{\displaystyle \scriptstyle {\text{power}}}
+Exponent_10,"{\displaystyle \scriptstyle {\sqrt[{\text{degree}}]{\scriptstyle {\text{radicand}}}}\,=\,}"
+Exponent_11,{\displaystyle \scriptstyle {\text{root}}}
+Exponent_12,"{\displaystyle \scriptstyle \log _{\text{base}}({\text{anti-logarithm}})\,=\,}"
+Exponent_13,{\displaystyle \scriptstyle {\text{logarithm}}}
+Exponent_14,{\displaystyle b^{n}=\underbrace {b\times b\times \dots \times b\times b} _{n{\text{ times}}}.}
+Exponent_15,{\displaystyle n}
+Exponent_16,{\displaystyle b^{n}}
+Exponent_17,{\displaystyle n}
+Exponent_18,{\displaystyle b}
+Exponent_19,{\displaystyle {\begin{aligned}b^{n+m}&=\underbrace {b\times \dots \times b} _{n+m{\text{ times}}}\\[1ex]&=\underbrace {b\times \dots \times b} _{n{\text{ times}}}\times \underbrace {b\times \dots \times b} _{m{\text{ times}}}\\[1ex]&=b^{n}\times b^{m}\end{aligned}}}
+Exponent_20,{\displaystyle b^{0}}
+Exponent_21,{\displaystyle b\neq 0}
+Exponent_22,{\displaystyle n}
+Exponent_23,{\displaystyle b^{0}\times b^{n}=b^{0+n}=b^{n}}
+Exponent_24,{\displaystyle b^{n}}
+Exponent_25,{\displaystyle b^{0}=b^{n}/b^{n}=1}
+Exponent_26,{\displaystyle b^{1}=b}
+Exponent_27,{\displaystyle (b^{1})^{3}=b^{1}\times b^{1}\times b^{1}=b^{1+1+1}=b^{3}}
+Exponent_28,{\displaystyle b^{1}=b}
+Exponent_29,{\displaystyle b^{-1}}
+Exponent_30,{\displaystyle b^{-1}\times b^{1}=b^{-1+1}=b^{0}=1}
+Exponent_31,{\displaystyle b^{1}}
+Exponent_32,{\displaystyle b^{-1}=1/b^{1}}
+Exponent_33,{\displaystyle b^{-1}=1/b}
+Exponent_34,{\displaystyle b^{1}=b}
+Exponent_35,{\displaystyle b^{-n}=1/b^{n}}
+Exponent_36,{\displaystyle {\sqrt {b}}}
+Exponent_37,{\displaystyle r}
+Exponent_38,{\displaystyle b^{r}={\sqrt {b}}}
+Exponent_39,{\displaystyle {\sqrt {b}}\times {\sqrt {b}}=b}
+Exponent_40,{\displaystyle r}
+Exponent_41,{\displaystyle b^{r}\times b^{r}=b}
+Exponent_42,{\displaystyle b^{r+r}=b}
+Exponent_43,{\displaystyle b}
+Exponent_44,{\displaystyle b^{1}}
+Exponent_45,{\displaystyle b^{r+r}=b^{1}}
+Exponent_46,{\displaystyle r+r=1}
+Exponent_47,{\displaystyle r={\frac {1}{2}}}
+Exponent_48,{\displaystyle {\sqrt {b}}=b^{1/2}}
+Exponent_49,{\displaystyle b^{1}=b}
+Exponent_50,{\displaystyle b^{n+1}=b^{n}\cdot b.}
+Exponent_51,"{\displaystyle b^{m+n}=b^{m}\cdot b^{n},}"
+Exponent_52,{\displaystyle (b^{m})^{n}=b^{mn}.}
+Exponent_53,{\displaystyle b^{0}=1.}
+Exponent_54,{\displaystyle b^{m+n}=b^{m}\cdot b^{n}}
+Exponent_55,{\displaystyle n=0}
+Exponent_56,{\displaystyle b^{-n}={\frac {1}{b^{n}}}}
+Exponent_57,{\displaystyle \infty }
+Exponent_58,{\displaystyle b^{m+n}=b^{m}\cdot b^{n}}
+Exponent_59,{\displaystyle m=-n}
+Exponent_60,{\displaystyle x^{-1}.}
+Exponent_61,{\displaystyle {\begin{aligned}b^{m+n}&=b^{m}\cdot b^{n}\\\left(b^{m}\right)^{n}&=b^{m\cdot n}\\(b\cdot c)^{n}&=b^{n}\cdot c^{n}\end{aligned}}}
+Exponent_62,"{\displaystyle b^{p^{q}}=b^{\left(p^{q}\right)},}"
+Exponent_63,{\displaystyle \left(b^{p}\right)^{q}=b^{pq}.}
+Exponent_64,{\displaystyle (a+b)^{n}=\sum _{i=0}^{n}{\binom {n}{i}}a^{i}b^{n-i}=\sum _{i=0}^{n}{\frac {n!}{i!(n-i)!}}a^{i}b^{n-i}.}
+Exponent_65,{\displaystyle 1/0^{-n}}
+Exponent_66,{\displaystyle 1/0}
+Exponent_67,{\displaystyle f(x)=cx^{n}}
+Exponent_68,{\displaystyle c\neq 0}
+Exponent_69,{\displaystyle n}
+Exponent_70,{\displaystyle n\geq 1}
+Exponent_71,{\displaystyle n}
+Exponent_72,{\displaystyle n}
+Exponent_73,{\displaystyle c>0}
+Exponent_74,{\displaystyle n}
+Exponent_75,{\displaystyle f(x)=cx^{n}}
+Exponent_76,{\displaystyle x}
+Exponent_77,{\displaystyle x}
+Exponent_78,{\displaystyle y=cx^{2}}
+Exponent_79,{\displaystyle n}
+Exponent_80,{\displaystyle f(-x)=f(x)}
+Exponent_81,{\displaystyle n}
+Exponent_82,{\displaystyle f(x)}
+Exponent_83,{\displaystyle x}
+Exponent_84,{\displaystyle x}
+Exponent_85,{\displaystyle c>0}
+Exponent_86,{\displaystyle f(x)=cx^{n}}
+Exponent_87,{\displaystyle x}
+Exponent_88,{\displaystyle x}
+Exponent_89,{\displaystyle y=cx^{3}}
+Exponent_90,{\displaystyle n}
+Exponent_91,{\displaystyle n=1}
+Exponent_92,{\displaystyle f(-x)=-f(x)}
+Exponent_93,{\displaystyle c<0}
+Exponent_94,{\displaystyle x^{1/n}}
+Exponent_95,{\displaystyle {\sqrt[{n}]{x}}}
+Exponent_96,{\displaystyle y^{n}=x.}
+Exponent_97,{\displaystyle {\frac {p}{q}}}
+Exponent_99,{\displaystyle x^{\frac {p}{q}}=\left(x^{p}\right)^{\frac {1}{q}}=(x^{\frac {1}{q}})^{p}.}
+Exponent_100,"{\displaystyle y=x^{\frac {1}{q}},}"
+Exponent_101,{\displaystyle (x^{\frac {1}{q}})^{p}=y^{p}=\left((y^{p})^{q}\right)^{\frac {1}{q}}=\left((y^{q})^{p}\right)^{\frac {1}{q}}=(x^{p})^{\frac {1}{q}}.}
+Exponent_102,{\displaystyle (x^{r})^{s}=x^{rs}}
+Exponent_103,"{\displaystyle x^{\frac {1}{n}},}"
+Exponent_104,{\displaystyle (x^{a})^{b}=x^{ab}}
+Exponent_105,{\displaystyle \left((-1)^{2}\right)^{\frac {1}{2}}=1^{\frac {1}{2}}=1\neq (-1)^{2\cdot {\frac {1}{2}}}=(-1)^{1}=-1.}
+Exponent_106,{\displaystyle \left(b^{r}\right)^{s}=b^{rs}}
+Exponent_107,"{\displaystyle b^{x}=\lim _{r(\in \mathbb {Q} )\to x}b^{r}\quad (b\in \mathbb {R} ^{+},\,x\in \mathbb {R} ),}"
+Exponent_108,{\displaystyle b^{\pi }:}
+Exponent_109,"{\displaystyle \left[b^{3},b^{4}\right],\left[b^{3.1},b^{3.2}\right],\left[b^{3.14},b^{3.15}\right],\left[b^{3.141},b^{3.142}\right],\left[b^{3.1415},b^{3.1416}\right],\left[b^{3.14159},b^{3.14160}\right],\ldots }"
+Exponent_110,{\displaystyle b^{\pi }.}
+Exponent_111,{\displaystyle b^{x}}
+Exponent_112,"{\displaystyle x\mapsto e^{x},}"
+Exponent_113,{\displaystyle e\approx 2.718}
+Exponent_114,"{\displaystyle \exp(x),}"
+Exponent_115,{\displaystyle \exp(x)=e^{x}.}
+Exponent_116,{\displaystyle \exp(x)=\lim _{n\rightarrow \infty }\left(1+{\frac {x}{n}}\right)^{n}.}
+Exponent_117,"{\displaystyle \exp(0)=1,}"
+Exponent_118,{\displaystyle \exp(x+y)=\exp(x)\exp(y)}
+Exponent_119,"{\displaystyle \exp(x)\exp(y)=\lim _{n\rightarrow \infty }\left(1+{\frac {x}{n}}\right)^{n}\left(1+{\frac {y}{n}}\right)^{n}=\lim _{n\rightarrow \infty }\left(1+{\frac {x+y}{n}}+{\frac {xy}{n^{2}}}\right)^{n},}"
+Exponent_120,{\displaystyle {\frac {xy}{n^{2}}}}
+Exponent_121,{\displaystyle \exp(x)\exp(y)=\exp(x+y)}
+Exponent_122,{\displaystyle e=\exp(1)}
+Exponent_123,{\displaystyle \exp(x)=e^{x}}
+Exponent_124,{\displaystyle \exp(x)=e^{x}}
+Exponent_125,{\displaystyle \exp(z)}
+Exponent_126,"{\displaystyle e^{z},}"
+Exponent_127,{\displaystyle b=\exp(\ln b)=e^{\ln b}}
+Exponent_128,"{\displaystyle (e^{x})^{y}=e^{xy},}"
+Exponent_129,{\displaystyle b^{x}=\left(e^{\ln b}\right)^{x}=e^{x\ln b}}
+Exponent_130,{\displaystyle e^{x\ln b}}
+Exponent_131,"{\displaystyle b^{z}=e^{(z\ln b)},}"
+Exponent_132,{\displaystyle \ln b}
+Exponent_133,"{\displaystyle b^{z+t}=b^{z}b^{t},}"
+Exponent_135,"{\displaystyle \left(b^{z}\right)^{t}\neq b^{zt},}"
+Exponent_136,"{\displaystyle e^{iy}=\cos y+i\sin y,}"
+Exponent_137,{\displaystyle b^{z}}
+Exponent_138,"{\displaystyle b^{x+iy}=b^{x}(\cos(y\ln b)+i\sin(y\ln b)),}"
+Exponent_139,{\displaystyle b^{x+iy}=b^{x}b^{iy}=b^{x}e^{iy\ln b}=b^{x}(\cos(y\ln b)+i\sin(y\ln b)).}
+Exponent_140,"{\displaystyle 1/n,}"
+Exponent_141,"{\displaystyle z=\rho e^{i\theta }=\rho (\cos \theta +i\sin \theta ),}"
+Exponent_142,{\displaystyle \rho }
+Exponent_143,{\displaystyle \theta }
+Exponent_144,{\displaystyle \theta }
+Exponent_145,{\displaystyle \theta +2k\pi }
+Exponent_146,{\displaystyle k}
+Exponent_147,"{\displaystyle \left(\rho e^{i\theta }\right)^{\frac {1}{n}}={\sqrt[{n}]{\rho }}\,e^{\frac {i\theta }{n}}.}"
+Exponent_148,{\displaystyle 2\pi }
+Exponent_149,{\displaystyle \theta }
+Exponent_150,{\displaystyle 2i\pi /n}
+Exponent_151,"{\displaystyle -\pi <\theta \leq \pi ,}"
+Exponent_152,"{\displaystyle 2\pi ,}"
+Exponent_154,{\displaystyle \omega =e^{\frac {2\pi i}{n}}}
+Exponent_155,"{\displaystyle 1=\omega ^{0}=\omega ^{n},\omega =\omega ^{1},\omega ^{2},\omega ^{n-1}.}"
+Exponent_156,"{\displaystyle \omega ^{k}=e^{\frac {2k\pi i}{n}},}"
+Exponent_157,{\displaystyle -1;}
+Exponent_158,{\displaystyle i}
+Exponent_159,{\displaystyle -i.}
+Exponent_160,{\displaystyle e^{\frac {2k\pi i}{n}}}
+Exponent_161,{\displaystyle 1^{1/n}}
+Exponent_164,"{\displaystyle z^{w}=e^{w\log z},}"
+Exponent_165,{\displaystyle \log z}
+Exponent_166,{\displaystyle e^{\log z}=z}
+Exponent_167,"{\displaystyle \log ,}"
+Exponent_168,"{\displaystyle e^{\log z}=z,}"
+Exponent_169,{\displaystyle -\pi <\operatorname {Arg} z\leq \pi .}
+Exponent_170,"{\displaystyle z=0,}"
+Exponent_171,{\displaystyle \log z=\ln z.}
+Exponent_172,{\displaystyle z^{w}}
+Exponent_173,"{\displaystyle z^{w}=e^{w\log z},}"
+Exponent_174,{\displaystyle \log z}
+Exponent_175,"{\displaystyle (z,w)\to z^{w}}"
+Exponent_176,{\displaystyle z^{w}}
+Exponent_177,"{\displaystyle w=1/n,}"
+Exponent_178,{\displaystyle \log z}
+Exponent_179,{\displaystyle z^{w}}
+Exponent_180,{\displaystyle \log z}
+Exponent_181,"{\displaystyle 2ik\pi +\log z,}"
+Exponent_182,{\displaystyle z^{w}}
+Exponent_183,"{\displaystyle e^{w(2ik\pi +\log z)}=z^{w}e^{2ik\pi w},}"
+Exponent_184,{\displaystyle z^{w}}
+Exponent_185,{\displaystyle e^{a}=e^{b}}
+Exponent_186,{\displaystyle a-b}
+Exponent_187,{\displaystyle 2\pi i.}
+Exponent_188,{\displaystyle w={\frac {m}{n}}}
+Exponent_189,"{\displaystyle n>0,}"
+Exponent_190,{\displaystyle z^{w}}
+Exponent_191,"{\displaystyle m=1,}"
+Exponent_192,"{\displaystyle z\neq 0,}"
+Exponent_193,{\displaystyle z^{w}}
+Exponent_194,{\displaystyle x+iy}
+Exponent_195,{\displaystyle z^{w}}
+Exponent_196,{\displaystyle z=a+ib}
+Exponent_197,"{\displaystyle z=\rho e^{i\theta }=\rho (\cos \theta +i\sin \theta ),}"
+Exponent_198,{\displaystyle \rho ={\sqrt {a^{2}+b^{2}}}}
+Exponent_199,"{\displaystyle \theta =\operatorname {atan2} (a,b)}"
+Exponent_200,"{\displaystyle \log z=\ln \rho +i\theta ,}"
+Exponent_201,{\displaystyle \ln }
+Exponent_202,{\displaystyle 2ik\pi }
+Exponent_203,{\displaystyle w\log z.}
+Exponent_204,{\displaystyle w=c+di}
+Exponent_205,{\displaystyle w\log z}
+Exponent_206,"{\displaystyle w\log z=(c\ln \rho -d\theta -2dk\pi )+i(d\ln \rho +c\theta +2ck\pi ),}"
+Exponent_207,{\displaystyle k=0.}
+Exponent_208,{\displaystyle e^{x+y}=e^{x}e^{y}}
+Exponent_209,"{\displaystyle e^{y\ln x}=x^{y},}"
+Exponent_210,"{\displaystyle z^{w}=\rho ^{c}e^{-d(\theta +2k\pi )}\left(\cos(d\ln \rho +c\theta +2ck\pi )+i\sin(d\ln \rho +c\theta +2ck\pi )\right),}"
+Exponent_211,{\displaystyle k=0}
+Exponent_212,{\displaystyle i^{i}}
+Exponent_213,"{\displaystyle i=e^{i\pi /2},}"
+Exponent_214,{\displaystyle \log i}
+Exponent_215,{\displaystyle \log i=i\left({\frac {\pi }{2}}+2k\pi \right).}
+Exponent_216,{\displaystyle i^{i}=e^{i\log i}=e^{-{\frac {\pi }{2}}}e^{-2k\pi }.}
+Exponent_217,{\displaystyle i^{i}}
+Exponent_218,{\displaystyle e^{-{\frac {\pi }{2}}}\approx 0.2079.}
+Exponent_219,{\displaystyle (-2)^{3+4i}}
+Exponent_220,{\displaystyle -2=2e^{i\pi }.}
+Exponent_221,{\displaystyle {\begin{aligned}(-2)^{3+4i}&=2^{3}e^{-4(\pi +2k\pi )}(\cos(4\ln 2+3(\pi +2k\pi ))+i\sin(4\ln 2+3(\pi +2k\pi )))\\&=-2^{3}e^{-4(\pi +2k\pi )}(\cos(4\ln 2)+i\sin(4\ln 2)).\end{aligned}}}
+Exponent_222,"{\displaystyle 4\ln 2,}"
+Exponent_223,{\displaystyle z^{w}}
+Exponent_224,"{\displaystyle \log((-i)^{2})=\log(-1)=i\pi \neq 2\log(-i)=2\log(e^{-i\pi /2})=2\,{\frac {-i\pi }{2}}=-i\pi }"
+Exponent_225,{\displaystyle \log w^{z}\equiv z\log w{\pmod {2\pi i}}}
+Exponent_226,"{\displaystyle {\begin{aligned}\left\{\log w^{z}\right\}&=\left\{z\cdot \operatorname {Log} w+z\cdot 2\pi in+2\pi im\mid m,n\in \mathbb {Z} \right\}\\\left\{z\log w\right\}&=\left\{z\operatorname {Log} w+z\cdot 2\pi in\mid n\in \mathbb {Z} \right\}\end{aligned}}}"
+Exponent_227,{\displaystyle (-1\cdot -1)^{\frac {1}{2}}=1\neq (-1)^{\frac {1}{2}}(-1)^{\frac {1}{2}}=-1}
+Exponent_228,{\displaystyle \left({\frac {1}{-1}}\right)^{\frac {1}{2}}=(-1)^{\frac {1}{2}}=i\neq {\frac {1^{\frac {1}{2}}}{(-1)^{\frac {1}{2}}}}={\frac {1}{i}}=-i}
+Exponent_229,{\displaystyle e^{1+2\pi in}=e^{1}e^{2\pi in}=e\cdot 1=e}
+Exponent_230,{\displaystyle \left(e^{1+2\pi in}\right)^{1+2\pi in}=e\qquad }
+Exponent_231,{\displaystyle (1+2\pi in)}
+Exponent_232,{\displaystyle e^{1+4\pi in-4\pi ^{2}n^{2}}=e\qquad }
+Exponent_233,{\displaystyle \left(e^{x}\right)^{y}=e^{xy}}
+Exponent_234,{\displaystyle e^{1}e^{4\pi in}e^{-4\pi ^{2}n^{2}}=e\qquad }
+Exponent_235,{\displaystyle e^{x+y}=e^{x}e^{y}}
+Exponent_236,{\displaystyle e^{-4\pi ^{2}n^{2}}=1\qquad }
+Exponent_237,{\displaystyle e^{y}}
+Exponent_238,"{\displaystyle \exp(y),}"
+Exponent_239,{\displaystyle x^{y}}
+Exponent_240,"{\displaystyle \exp(y\log x),}"
+Exponent_241,{\displaystyle \exp \left((1+2\pi in)\log \exp(1+2\pi in)\right)=\exp(1+2\pi in).}
+Exponent_242,{\displaystyle \log \exp z=z}
+Exponent_243,"{\displaystyle \left(e^{x}\right)^{y}=e^{y\log e^{x}},}"
+Exponent_244,"{\displaystyle b\not \in \{0,1\},}"
+Exponent_245,"{\displaystyle x^{0}=1,}"
+Exponent_246,{\displaystyle x^{n+1}=xx^{n}}
+Exponent_247,{\displaystyle x^{n}}
+Exponent_248,{\displaystyle \left(x^{-1}\right)^{-n}.}
+Exponent_249,"{\displaystyle {\begin{aligned}x^{0}&=1\\x^{m+n}&=x^{m}x^{n}\\(x^{m})^{n}&=x^{mn}\\(xy)^{n}&=x^{n}y^{n}\quad {\text{if}}xy=yx,{\text{and, in particular, if the multiplication is commutative.}}\end{aligned}}}"
+Exponent_250,{\displaystyle f^{n}}
+Exponent_251,{\displaystyle f^{\circ n}}
+Exponent_252,"{\displaystyle (f^{n})(x)=(f(x))^{n}=f(x)\,f(x)\cdots f(x),}"
+Exponent_253,{\displaystyle (f^{\circ n})(x)=f(f(\cdots f(f(x))\cdots )).}
+Exponent_254,{\displaystyle (f^{n})(x)}
+Exponent_255,"{\displaystyle f(x)^{n},}"
+Exponent_256,{\displaystyle (f^{\circ n})(x)}
+Exponent_257,{\displaystyle f^{n}(x).}
+Exponent_258,{\displaystyle x^{n}}
+Exponent_259,{\displaystyle x\in G}
+Exponent_260,{\displaystyle \mathbb {Z} }
+Exponent_261,"{\displaystyle x^{n}=x^{0}=1,}"
+Exponent_262,{\displaystyle (g^{h})^{k}=g^{hk}}
+Exponent_263,{\displaystyle (gh)^{k}=g^{k}h^{k}.}
+Exponent_264,{\displaystyle x^{n}=0}
+Exponent_265,{\displaystyle x\neq 0}
+Exponent_266,{\displaystyle x^{n}\neq 0}
+Exponent_267,"{\displaystyle k[x_{1},\ldots ,x_{n}]}"
+Exponent_268,{\displaystyle A^{0}}
+Exponent_269,{\displaystyle A^{-n}=\left(A^{-1}\right)^{n}}
+Exponent_270,{\displaystyle A^{2}x}
+Exponent_271,{\displaystyle A^{n}x}
+Exponent_272,{\displaystyle A^{n}}
+Exponent_273,{\displaystyle d/dx}
+Exponent_274,{\displaystyle f(x)}
+Exponent_275,{\displaystyle (d/dx)f(x)=f'(x)}
+Exponent_276,{\displaystyle \left({\frac {d}{dx}}\right)^{n}f(x)={\frac {d^{n}}{dx^{n}}}f(x)=f^{(n)}(x).}
+Exponent_277,"{\displaystyle q=p^{k},}"
+Exponent_278,{\displaystyle \mathbb {F} _{q}.}
+Exponent_279,{\displaystyle x^{q}=x}
+Exponent_280,{\displaystyle x\in \mathbb {F} _{q}.}
+Exponent_281,{\displaystyle \mathbb {F} _{q}}
+Exponent_282,"{\displaystyle \{g^{1}=g,g^{2},\ldots ,g^{p-1}=g^{0}=1\}}"
+Exponent_283,{\displaystyle \mathbb {F} _{q}.}
+Exponent_284,{\displaystyle \varphi (p-1)}
+Exponent_285,"{\displaystyle \mathbb {F} _{q},}"
+Exponent_286,{\displaystyle \varphi }
+Exponent_287,"{\displaystyle \mathbb {F} _{q},}"
+Exponent_288,{\displaystyle (x+y)^{p}=x^{p}+y^{p}}
+Exponent_289,{\displaystyle x^{p}=x}
+Exponent_290,"{\displaystyle \mathbb {F} _{q},}"
+Exponent_291,{\displaystyle {\begin{aligned}F\colon {}&\mathbb {F} _{q}\to \mathbb {F} _{q}\\&x\mapsto x^{p}\end{aligned}}}
+Exponent_292,"{\displaystyle \mathbb {F} _{q},}"
+Exponent_293,"{\displaystyle q=p^{k},}"
+Exponent_294,{\displaystyle \mathbb {F} _{q}}
+Exponent_295,{\displaystyle \mathbb {F} _{q}}
+Exponent_296,"{\displaystyle \mathbb {F} _{q},}"
+Exponent_297,{\displaystyle g^{e}}
+Exponent_298,{\displaystyle g^{e}}
+Exponent_299,"{\displaystyle (x,y)}"
+Exponent_300,{\displaystyle x\in S}
+Exponent_301,{\displaystyle y\in T.}
+Exponent_302,"{\displaystyle (x,(y,z)),}"
+Exponent_303,"{\displaystyle ((x,y),z),}"
+Exponent_304,"{\displaystyle (x,y,z).}"
+Exponent_305,{\displaystyle S^{n}}
+Exponent_306,"{\displaystyle (x_{1},\ldots ,x_{n})}"
+Exponent_307,{\displaystyle S^{n}}
+Exponent_308,{\displaystyle \mathbb {R} ^{n}}
+Exponent_309,{\displaystyle \mathbb {R} }
+Exponent_310,"{\displaystyle \mathbb {R} ,}"
+Exponent_311,"{\displaystyle (x_{1},\ldots ,x_{n})}"
+Exponent_312,"{\displaystyle \{1,\ldots ,n\}.}"
+Exponent_313,{\displaystyle S^{T}}
+Exponent_314,"{\displaystyle (S^{T})^{U}\cong S^{T\times U},}"
+Exponent_315,"{\displaystyle S^{T\sqcup U}\cong S^{T}\times S^{U},}"
+Exponent_316,{\displaystyle \times }
+Exponent_317,{\displaystyle \sqcup }
+Exponent_318,{\displaystyle \mathbb {R} ^{\mathbb {N} }}
+Exponent_319,{\displaystyle \mathbb {R} ^{(\mathbb {N} )}}
+Exponent_320,"{\displaystyle \{0,1\}.}"
+Exponent_321,{\displaystyle 2^{S}}
+Exponent_322,"{\displaystyle \{0,1\},}"
+Exponent_323,{\displaystyle Y^{X}}
+Exponent_324,"{\displaystyle \hom(X,Y).}"
+Exponent_325,{\displaystyle (S^{T})^{U}\cong S^{T\times U}}
+Exponent_326,"{\displaystyle \hom(U,S^{T})\cong \hom(T\times U,S).}"
+Exponent_327,{\displaystyle X\to X^{T}}
+Exponent_328,{\displaystyle Y\to T\times Y.}
+Exponent_329,{\displaystyle Y\to X\times Y}
+Exponent_330,"{\displaystyle f(x,y)=x^{y}}"
+Exponent_331,"{\displaystyle D=\{(x,y)\in \mathbf {R} ^{2}:x>0\}}"
+Exponent_332,{\displaystyle 100=2^{2}+2^{5}+2^{6}=2^{2}(1+2^{3}(1+2))}
+Exponent_333,"{\displaystyle \sharp n+\lfloor \log _{2}n\rfloor -1,}"
+Exponent_334,{\displaystyle \sharp n}
+Exponent_335,"{\displaystyle g\circ f,}"
+Exponent_336,{\displaystyle (g\circ f)(x)=g(f(x))}
+Exponent_337,{\displaystyle f^{n}}
+Exponent_338,{\displaystyle f^{3}(x)}
+Exponent_339,{\displaystyle f(f(f(x))).}
+Exponent_340,"{\displaystyle f^{2}(x)=f(f(x)),}"
+Exponent_341,{\displaystyle f(x)^{2}=f(x)\cdot f(x).}
+Exponent_342,"{\displaystyle f^{\circ 3}=f\circ f\circ f,}"
+Exponent_343,{\displaystyle f^{3}=f\cdot f\cdot f.}
+Exponent_344,{\displaystyle \sin ^{2}x}
+Exponent_345,{\displaystyle \sin ^{2}(x)}
+Exponent_346,{\displaystyle \sin(x)\cdot \sin(x)}
+Exponent_347,"{\displaystyle \sin(\sin(x)),}"
+Exponent_348,{\displaystyle -1}
+Exponent_349,{\displaystyle \sin ^{-1}x=\sin ^{-1}(x)=\arcsin x.}
+Exponent_350,{\displaystyle 1/\sin(x)={\frac {1}{\sin x}}.}
+Exponent_351,{\displaystyle x\times y}
+Exponent_352,{\displaystyle xy}
+Exponent_353,{\displaystyle x\cdot y}

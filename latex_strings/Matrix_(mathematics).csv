@@ -1,0 +1,117 @@
+name,latex
+Matrix_(mathematics)_0,{\displaystyle {\begin{bmatrix}1&9&-13\\20&5&-6\end{bmatrix}}}
+Matrix_(mathematics)_1,{\displaystyle 2\times 3}
+Matrix_(mathematics)_2,{\displaystyle 2\times 3}
+Matrix_(mathematics)_3,{\displaystyle \mathbf {A} ={\begin{bmatrix}-1.3&0.6\\20.4&5.5\\9.7&-6.2\end{bmatrix}}.}
+Matrix_(mathematics)_4,{\displaystyle {m}}
+Matrix_(mathematics)_5,{\displaystyle {n}}
+Matrix_(mathematics)_6,{\displaystyle {m\times n}}
+Matrix_(mathematics)_7,{\displaystyle {m}}
+Matrix_(mathematics)_8,{\displaystyle {n}}
+Matrix_(mathematics)_9,{\displaystyle {m}}
+Matrix_(mathematics)_10,{\displaystyle {n}}
+Matrix_(mathematics)_11,{\displaystyle {\mathbf {A} }}
+Matrix_(mathematics)_12,{\displaystyle {3\times 2}}
+Matrix_(mathematics)_13,{\displaystyle {\begin{bmatrix}3&7&2\end{bmatrix}}}
+Matrix_(mathematics)_15,{\displaystyle {\begin{bmatrix}4\\1\\8\end{bmatrix}}}
+Matrix_(mathematics)_17,{\displaystyle {\begin{bmatrix}9&13&5\\1&11&7\\2&6&3\end{bmatrix}}}
+Matrix_(mathematics)_19,{\displaystyle m\times n}
+Matrix_(mathematics)_20,{\displaystyle \mathbf {A} }
+Matrix_(mathematics)_21,{\displaystyle \mathbf {A} ={\begin{bmatrix}a_{11}&a_{12}&\cdots &a_{1n}\\a_{21}&a_{22}&\cdots &a_{2n}\\\vdots &\vdots &\ddots &\vdots \\a_{m1}&a_{m2}&\cdots &a_{mn}\end{bmatrix}}={\begin{pmatrix}a_{11}&a_{12}&\cdots &a_{1n}\\a_{21}&a_{22}&\cdots &a_{2n}\\\vdots &\vdots &\ddots &\vdots \\a_{m1}&a_{m2}&\cdots &a_{mn}\end{pmatrix}}.}
+Matrix_(mathematics)_22,"{\displaystyle \mathbf {A} =\left(a_{ij}\right),\quad \left[a_{ij}\right],\quad {\text{or}}\quad \left(a_{ij}\right)_{1\leq i\leq m,\;1\leq j\leq n}}"
+Matrix_(mathematics)_23,"{\displaystyle \mathbf {A} =(a_{i,j})_{1\leq i,j\leq n}}"
+Matrix_(mathematics)_24,{\displaystyle n=m}
+Matrix_(mathematics)_25,{\displaystyle {\mathbf {A} }}
+Matrix_(mathematics)_26,{\displaystyle {a_{11}}}
+Matrix_(mathematics)_27,"{\displaystyle {a_{1,1}}}"
+Matrix_(mathematics)_28,{\displaystyle {\underline {\underline {A}}}}
+Matrix_(mathematics)_29,"{\displaystyle {i,j}}"
+Matrix_(mathematics)_30,"{\displaystyle {(i,j)}}"
+Matrix_(mathematics)_31,"{\displaystyle {a_{i,j}}}"
+Matrix_(mathematics)_32,{\displaystyle {a_{ij}}}
+Matrix_(mathematics)_33,"{\displaystyle {\mathbf {A} [i,j]}}"
+Matrix_(mathematics)_34,"{\displaystyle {\mathbf {A} _{i,j}}}"
+Matrix_(mathematics)_35,"{\displaystyle (1,3)}"
+Matrix_(mathematics)_36,{\displaystyle \mathbf {A} }
+Matrix_(mathematics)_37,{\displaystyle {a_{13}}}
+Matrix_(mathematics)_38,"{\displaystyle {a_{1,3}}}"
+Matrix_(mathematics)_39,"{\displaystyle \mathbf {A} [1,3]}"
+Matrix_(mathematics)_40,"{\displaystyle {{\mathbf {A} }_{1,3}}}"
+Matrix_(mathematics)_42,"{\displaystyle a_{i,j}=f(i,j)}"
+Matrix_(mathematics)_43,{\displaystyle \mathbf {A} }
+Matrix_(mathematics)_44,{\displaystyle a_{ij}=i-j}
+Matrix_(mathematics)_45,{\displaystyle \mathbf {A} ={\begin{bmatrix}0&-1&-2&-3\\1&0&-1&-2\\2&1&0&-1\end{bmatrix}}}
+Matrix_(mathematics)_46,{\displaystyle {\mathbf {A} }=[i-j]}
+Matrix_(mathematics)_47,{\displaystyle {\mathbf {A} }=((i-j))}
+Matrix_(mathematics)_48,{\displaystyle m\times n}
+Matrix_(mathematics)_49,"{\displaystyle f(i,j)}"
+Matrix_(mathematics)_50,"{\displaystyle i=1,\dots ,m}"
+Matrix_(mathematics)_51,"{\displaystyle j=1,\dots ,n}"
+Matrix_(mathematics)_52,{\displaystyle m\times n}
+Matrix_(mathematics)_53,{\displaystyle \mathbf {A} }
+Matrix_(mathematics)_54,{\displaystyle 3\times 4}
+Matrix_(mathematics)_55,"{\displaystyle {\mathbf {A} }=[i-j](i=1,2,3;j=1,\dots ,4)}"
+Matrix_(mathematics)_56,{\displaystyle {\mathbf {A} }=[i-j]_{3\times 4}}
+Matrix_(mathematics)_57,{\displaystyle 0\leq i\leq m-1}
+Matrix_(mathematics)_58,{\displaystyle 0\leq j\leq n-1}
+Matrix_(mathematics)_59,{\displaystyle a_{i}^{*}}
+Matrix_(mathematics)_60,{\displaystyle a_{j}^{*}}
+Matrix_(mathematics)_61,"{\displaystyle {\mathcal {M}}(m,n),}"
+Matrix_(mathematics)_62,{\displaystyle {\mathcal {M}}_{m\times n}(\mathbb {R} ).}
+Matrix_(mathematics)_63,"{\displaystyle {\mathcal {M}}(m,n,R),}"
+Matrix_(mathematics)_64,{\displaystyle {\mathcal {M}}_{m\times n}(R).}
+Matrix_(mathematics)_65,"{\displaystyle {\mathcal {M}}(n,R),}"
+Matrix_(mathematics)_66,{\displaystyle {\mathcal {M}}_{n}(R).}
+Matrix_(mathematics)_67,{\displaystyle M}
+Matrix_(mathematics)_68,{\displaystyle \operatorname {Mat} }
+Matrix_(mathematics)_69,{\displaystyle {\mathcal {M}}.}
+Matrix_(mathematics)_70,{\displaystyle {\begin{bmatrix}1&3&1\\1&0&0\end{bmatrix}}+{\begin{bmatrix}0&0&5\\7&5&0\end{bmatrix}}={\begin{bmatrix}1+0&3+0&1+5\\1+7&0+5&0+0\end{bmatrix}}={\begin{bmatrix}1&3&6\\8&5&0\end{bmatrix}}}
+Matrix_(mathematics)_71,{\displaystyle 2\cdot {\begin{bmatrix}1&8&-3\\4&-2&5\end{bmatrix}}={\begin{bmatrix}2\cdot 1&2\cdot 8&2\cdot -3\\2\cdot 4&2\cdot -2&2\cdot 5\end{bmatrix}}={\begin{bmatrix}2&16&-6\\8&-4&10\end{bmatrix}}}
+Matrix_(mathematics)_72,{\displaystyle \mathbf {A} -\mathbf {B} =\mathbf {A} +(-1)\cdot \mathbf {B} }
+Matrix_(mathematics)_73,{\displaystyle {\begin{bmatrix}1&2&3\\0&-6&7\end{bmatrix}}^{\mathrm {T} }={\begin{bmatrix}1&0\\2&-6\\3&7\end{bmatrix}}}
+Matrix_(mathematics)_74,"{\displaystyle [\mathbf {AB} ]_{i,j}=a_{i,1}b_{1,j}+a_{i,2}b_{2,j}+\cdots +a_{i,n}b_{n,j}=\sum _{r=1}^{n}a_{i,r}b_{r,j},}"
+Matrix_(mathematics)_75,{\displaystyle {\begin{aligned}{\begin{bmatrix}{\underline {2}}&{\underline {3}}&{\underline {4}}\\1&0&0\\\end{bmatrix}}{\begin{bmatrix}0&{\underline {1000}}\\1&{\underline {100}}\\0&{\underline {10}}\\\end{bmatrix}}&={\begin{bmatrix}3&{\underline {2340}}\\0&1000\\\end{bmatrix}}.\end{aligned}}}
+Matrix_(mathematics)_76,"{\displaystyle {\begin{bmatrix}1&2\\3&4\\\end{bmatrix}}{\begin{bmatrix}0&1\\0&0\\\end{bmatrix}}={\begin{bmatrix}0&1\\0&3\\\end{bmatrix}},}"
+Matrix_(mathematics)_77,{\displaystyle {\begin{bmatrix}0&1\\0&0\\\end{bmatrix}}{\begin{bmatrix}1&2\\3&4\\\end{bmatrix}}={\begin{bmatrix}3&4\\0&0\\\end{bmatrix}}.}
+Matrix_(mathematics)_79,{\displaystyle \mathbf {Ax} =\mathbf {b} }
+Matrix_(mathematics)_80,"{\displaystyle {\begin{aligned}a_{1,1}x_{1}+a_{1,2}x_{2}+&\cdots +a_{1,n}x_{n}=b_{1}\\&\ \ \vdots \\a_{m,1}x_{1}+a_{m,2}x_{2}+&\cdots +a_{m,n}x_{n}=b_{m}\end{aligned}}}"
+Matrix_(mathematics)_81,{\displaystyle \mathbf {x} =\mathbf {A} ^{-1}\mathbf {b} }
+Matrix_(mathematics)_82,{\displaystyle \mathbf {A} ={\begin{bmatrix}a&c\\b&d\end{bmatrix}}}
+Matrix_(mathematics)_83,"{\displaystyle {\begin{bmatrix}0\\0\end{bmatrix}},{\begin{bmatrix}1\\0\end{bmatrix}},{\begin{bmatrix}1\\1\end{bmatrix}}}"
+Matrix_(mathematics)_84,{\displaystyle {\begin{bmatrix}0\\1\end{bmatrix}}}
+Matrix_(mathematics)_85,{\displaystyle {\begin{bmatrix}1&1.25\\0&1\end{bmatrix}}}
+Matrix_(mathematics)_86,{\displaystyle {\begin{bmatrix}-1&0\\0&1\end{bmatrix}}}
+Matrix_(mathematics)_87,{\displaystyle {\begin{bmatrix}{\frac {3}{2}}&0\\0&{\frac {2}{3}}\end{bmatrix}}}
+Matrix_(mathematics)_88,{\displaystyle {\begin{bmatrix}{\frac {3}{2}}&0\\0&{\frac {3}{2}}\end{bmatrix}}}
+Matrix_(mathematics)_89,{\displaystyle {\begin{bmatrix}\cos \left({\frac {\pi }{6}}\right)&-\sin \left({\frac {\pi }{6}}\right)\\\sin \left({\frac {\pi }{6}}\right)&\cos \left({\frac {\pi }{6}}\right)\end{bmatrix}}}
+Matrix_(mathematics)_90,{\displaystyle {\begin{bmatrix}a_{11}&0&0\\0&a_{22}&0\\0&0&a_{33}\\\end{bmatrix}}}
+Matrix_(mathematics)_91,{\displaystyle {\begin{bmatrix}a_{11}&0&0\\a_{21}&a_{22}&0\\a_{31}&a_{32}&a_{33}\\\end{bmatrix}}}
+Matrix_(mathematics)_92,{\displaystyle {\begin{bmatrix}a_{11}&a_{12}&a_{13}\\0&a_{22}&a_{23}\\0&0&a_{33}\\\end{bmatrix}}}
+Matrix_(mathematics)_93,"{\displaystyle \mathbf {I} _{1}={\begin{bmatrix}1\end{bmatrix}},\ \mathbf {I} _{2}={\begin{bmatrix}1&0\\0&1\end{bmatrix}},\ \ldots ,\ \mathbf {I} _{n}={\begin{bmatrix}1&0&\cdots &0\\0&1&\cdots &0\\\vdots &\vdots &\ddots &\vdots \\0&0&\cdots &1\end{bmatrix}}}"
+Matrix_(mathematics)_94,{\displaystyle {\begin{bmatrix}{\frac {1}{4}}&0\\0&1\\\end{bmatrix}}}
+Matrix_(mathematics)_95,{\displaystyle {\begin{bmatrix}{\frac {1}{4}}&0\\0&-{\frac {1}{4}}\end{bmatrix}}}
+Matrix_(mathematics)_96,"{\displaystyle Q(x,y)={\frac {1}{4}}x^{2}+y^{2}}"
+Matrix_(mathematics)_97,"{\displaystyle Q(x,y)={\frac {1}{4}}x^{2}-{\frac {1}{4}}y^{2}}"
+Matrix_(mathematics)_100,"{\displaystyle \mathbf {A} ^{\mathrm {T} }=\mathbf {A} ^{-1},\,}"
+Matrix_(mathematics)_101,"{\displaystyle \mathbf {A} ^{\mathrm {T} }\mathbf {A} =\mathbf {A} \mathbf {A} ^{\mathrm {T} }=\mathbf {I} _{n},}"
+Matrix_(mathematics)_102,{\displaystyle \operatorname {tr} (\mathbf {AB} )=\operatorname {tr} (\mathbf {BA} )}
+Matrix_(mathematics)_103,{\displaystyle \operatorname {tr} (\mathbf {AB} )=\sum _{i=1}^{m}\sum _{j=1}^{n}a_{ij}b_{ji}=\operatorname {tr} (\mathbf {BA} ).}
+Matrix_(mathematics)_104,{\displaystyle \det {\begin{bmatrix}a&b\\c&d\end{bmatrix}}=ad-bc.}
+Matrix_(mathematics)_106,{\displaystyle \mathbf {A} \mathbf {v} =\lambda \mathbf {v} }
+Matrix_(mathematics)_107,{\displaystyle \det(\mathbf {A} -\lambda \mathbf {I} )=0.}
+Matrix_(mathematics)_108,"{\displaystyle f(\mathbf {v} _{j})=\sum _{i=1}^{m}a_{i,j}\mathbf {w} _{i}\qquad {\mbox{for}}\ j=1,\ldots ,n.}"
+Matrix_(mathematics)_109,{\displaystyle k}
+Matrix_(mathematics)_110,{\displaystyle M=\bigoplus _{i\in I}R}
+Matrix_(mathematics)_111,{\displaystyle \mathrm {CFM} _{I}(R)}
+Matrix_(mathematics)_112,{\displaystyle I\times I}
+Matrix_(mathematics)_113,{\displaystyle \mathrm {RFM} _{I}(R)}
+Matrix_(mathematics)_114,"{\displaystyle a+ib\leftrightarrow {\begin{bmatrix}a&-b\\b&a\end{bmatrix}},}"
+Matrix_(mathematics)_115,{\displaystyle {\begin{bmatrix}1&1&0\\1&0&1\\0&1&0\end{bmatrix}}.}
+Matrix_(mathematics)_116,"{\displaystyle H(f)=\left[{\frac {\partial ^{2}f}{\partial x_{i}\,\partial x_{j}}}\right].}"
+Matrix_(mathematics)_117,{\displaystyle {\begin{bmatrix}2&0\\0&-2\end{bmatrix}}}
+Matrix_(mathematics)_118,{\displaystyle \partial f/\partial x_{i}}
+Matrix_(mathematics)_119,"{\displaystyle J(f)=\left[{\frac {\partial f_{i}}{\partial x_{j}}}\right]_{1\leq i\leq m,1\leq j\leq n}.}"
+Matrix_(mathematics)_120,{\displaystyle {\begin{bmatrix}0.7&0\\0.3&1\end{bmatrix}}}
+Matrix_(mathematics)_121,{\displaystyle {\begin{bmatrix}0.7&0.2\\0.3&0.8\end{bmatrix}}}
+Matrix_(mathematics)_122,{\displaystyle a_{1}a_{2}\cdots a_{n}\prod _{i<j}(a_{j}-a_{i})\;}
+Matrix_(mathematics)_123,{\displaystyle \textstyle \prod }

@@ -1,0 +1,50 @@
+name,latex
+Decimal_representation_0,{\displaystyle r=b_{k}b_{k-1}\ldots b_{0}.a_{1}a_{2}\ldots }
+Decimal_representation_1,"{\displaystyle b_{0},\ldots ,b_{k},a_{1},a_{2},\ldots }"
+Decimal_representation_2,{\displaystyle b_{k}\neq 0}
+Decimal_representation_3,{\displaystyle k\geq 1.}
+Decimal_representation_4,{\displaystyle a_{i}}
+Decimal_representation_5,{\displaystyle a_{i}}
+Decimal_representation_6,{\displaystyle r=\sum _{i=0}^{k}b_{i}10^{i}+\sum _{i=1}^{\infty }{\frac {a_{i}}{10^{i}}}.}
+Decimal_representation_7,{\displaystyle b_{k}\neq 0}
+Decimal_representation_8,{\displaystyle k>0}
+Decimal_representation_10,{\displaystyle a_{i}}
+Decimal_representation_11,"{\displaystyle 0.a_{1}a_{2}\ldots =\sum _{i=1}^{\infty }{\frac {a_{i}}{10^{i}}},}"
+Decimal_representation_12,"{\displaystyle [0,1),}"
+Decimal_representation_13,{\displaystyle a_{i}}
+Decimal_representation_14,{\displaystyle x\geq 0}
+Decimal_representation_15,{\displaystyle n\geq 1}
+Decimal_representation_16,{\displaystyle r_{n}=a_{0}.a_{1}a_{2}\cdots a_{n}}
+Decimal_representation_17,{\displaystyle r_{n}\leq x<r_{n}+{\frac {1}{10^{n}}}.}
+Decimal_representation_18,{\displaystyle r_{n}=\textstyle {\frac {p}{10^{n}}}}
+Decimal_representation_19,{\displaystyle p=\lfloor 10^{n}x\rfloor }
+Decimal_representation_20,{\displaystyle p\leq 10^{n}x<p+1}
+Decimal_representation_21,{\displaystyle 10^{n}}
+Decimal_representation_22,{\displaystyle r_{n}}
+Decimal_representation_23,{\displaystyle x}
+Decimal_representation_24,{\displaystyle x}
+Decimal_representation_25,{\displaystyle x}
+Decimal_representation_26,{\displaystyle x}
+Decimal_representation_27,{\displaystyle x\geq 0}
+Decimal_representation_28,{\displaystyle a_{0}}
+Decimal_representation_29,{\displaystyle x}
+Decimal_representation_30,{\displaystyle a_{0}\leq x}
+Decimal_representation_31,{\displaystyle a_{0}=\lfloor x\rfloor }
+Decimal_representation_32,{\displaystyle x=a_{0}}
+Decimal_representation_34,{\displaystyle a_{k}}
+Decimal_representation_35,{\displaystyle a_{0}+{\frac {a_{1}}{10}}+{\frac {a_{2}}{10^{2}}}+\cdots +{\frac {a_{k}}{10^{k}}}\leq x.}
+Decimal_representation_36,{\displaystyle a_{k}}
+Decimal_representation_38,{\displaystyle x=a_{0}.a_{1}a_{2}a_{3}\cdots }
+Decimal_representation_39,"{\displaystyle a_{1},a_{2},a_{3}\ldots \in \{0,1,2,\ldots ,9\},}"
+Decimal_representation_40,{\displaystyle a_{0}}
+Decimal_representation_41,{\displaystyle x<0}
+Decimal_representation_42,{\displaystyle -x>0}
+Decimal_representation_43,{\displaystyle -a_{0}.a_{1}a_{2}a_{3}\cdots }
+Decimal_representation_45,{\displaystyle x={\frac {p}{2^{n}5^{m}}}={\frac {2^{m}5^{n}p}{2^{n+m}5^{n+m}}}={\frac {2^{m}5^{n}p}{10^{n+m}}}}
+Decimal_representation_46,{\displaystyle \textstyle {\frac {p}{10^{k}}}}
+Decimal_representation_47,{\displaystyle p=\sum _{i=0}^{n}10^{i}a_{i}}
+Decimal_representation_48,{\displaystyle x=\sum _{i=0}^{n}10^{n-i}a_{i}/10^{n}=\sum _{i=0}^{n}{\frac {a_{i}}{10^{i}}}}
+Decimal_representation_50,{\displaystyle {\begin{aligned}0.000{\overline {4567}}&=4567\times 0.000{\overline {0001}}\\&=4567\times 0.{\overline {0001}}\times {\frac {1}{10^{3}}}\\&=4567\times {\frac {1}{9999}}\times {\frac {1}{10^{3}}}\\&={\frac {4567}{9999}}\times {\frac {1}{10^{3}}}\\&={\frac {4567}{(10^{4}-1)\times 10^{3}}}&{\text{The exponents are the number of non-repeating digits after the decimal point (3) and the number of repeating digits (4).}}\end{aligned}}}
+Decimal_representation_51,"{\displaystyle {\begin{aligned}\pm 8.123{\overline {4567}}&=\pm \left(8+{\frac {123}{10^{3}}}+{\frac {4567}{(10^{4}-1)\times 10^{3}}}\right)&{\text{from above}}\\&=\pm {\frac {8\times (10^{4}-1)\times 10^{3}+123\times (10^{4}-1)+4567}{(10^{4}-1)\times 10^{3}}}&{\text{common denominator}}\\&=\pm {\frac {81226444}{9999000}}&{\text{multiplying, and summing the numerator}}\\&=\pm {\frac {20306611}{2499750}}&{\text{reducing}}\\\end{aligned}}}"
+Decimal_representation_52,{\displaystyle 1.9=1.9{\overline {0}}}
+Decimal_representation_53,"{\displaystyle {\begin{aligned}\pm 8.1234&=\pm \left(8+{\frac {1234}{10^{4}}}\right)&\\&=\pm {\frac {8\times 10^{4}+1234}{10^{4}}}&{\text{common denominator}}\\&=\pm {\frac {81234}{10000}}&{\text{multiplying, and summing the numerator}}\\&=\pm {\frac {40617}{5000}}&{\text{reducing}}\\\end{aligned}}}"

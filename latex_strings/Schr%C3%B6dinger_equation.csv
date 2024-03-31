@@ -1,0 +1,211 @@
+name,latex
+Schr%C3%B6dinger_equation_0,{\displaystyle i\hbar {\frac {d}{dt}}|\Psi \rangle ={\hat {H}}|\Psi \rangle }
+Schr%C3%B6dinger_equation_1,{\displaystyle {\hat {H}}|\psi _{n}(t)\rangle =i\hbar {\frac {d}{dt}}|\psi _{n}(t)\rangle }
+Schr%C3%B6dinger_equation_2,{\displaystyle G_{\mu \nu }+\Lambda g_{\mu \nu }={\kappa }T_{\mu \nu }}
+Schr%C3%B6dinger_equation_3,"{\displaystyle i\hbar {\frac {\partial }{\partial t}}\Psi (x,t)=\left[-{\frac {\hbar ^{2}}{2m}}{\frac {\partial ^{2}}{\partial x^{2}}}+V(x,t)\right]\Psi (x,t).}"
+Schr%C3%B6dinger_equation_4,"{\displaystyle \Psi (x,t)}"
+Schr%C3%B6dinger_equation_5,{\displaystyle x}
+Schr%C3%B6dinger_equation_6,{\displaystyle t}
+Schr%C3%B6dinger_equation_7,{\displaystyle m}
+Schr%C3%B6dinger_equation_8,"{\displaystyle V(x,t)}"
+Schr%C3%B6dinger_equation_9,{\displaystyle i}
+Schr%C3%B6dinger_equation_10,{\displaystyle \hbar }
+Schr%C3%B6dinger_equation_11,{\displaystyle |\psi \rangle }
+Schr%C3%B6dinger_equation_12,{\displaystyle {\mathcal {H}}}
+Schr%C3%B6dinger_equation_13,{\displaystyle \langle \psi |\psi \rangle =1}
+Schr%C3%B6dinger_equation_14,{\displaystyle L^{2}(\mathbb {C} )}
+Schr%C3%B6dinger_equation_15,{\displaystyle \mathbb {C} ^{2}}
+Schr%C3%B6dinger_equation_16,{\displaystyle \lambda }
+Schr%C3%B6dinger_equation_17,{\displaystyle |\langle \lambda |\psi \rangle |^{2}}
+Schr%C3%B6dinger_equation_18,{\displaystyle |\lambda \rangle }
+Schr%C3%B6dinger_equation_19,{\displaystyle \langle \psi |P_{\lambda }|\psi \rangle }
+Schr%C3%B6dinger_equation_20,{\displaystyle P_{\lambda }}
+Schr%C3%B6dinger_equation_21,"{\displaystyle \Psi (x,t)}"
+Schr%C3%B6dinger_equation_22,{\displaystyle |\Psi (t)\rangle }
+Schr%C3%B6dinger_equation_23,{\displaystyle |x\rangle }
+Schr%C3%B6dinger_equation_24,"{\displaystyle \Psi (x,t)=\langle x|\Psi (t)\rangle .}"
+Schr%C3%B6dinger_equation_25,{\displaystyle i\hbar {\frac {d}{dt}}\vert \Psi (t)\rangle ={\hat {H}}\vert \Psi (t)\rangle }
+Schr%C3%B6dinger_equation_26,{\displaystyle t}
+Schr%C3%B6dinger_equation_27,{\displaystyle \vert \Psi (t)\rangle }
+Schr%C3%B6dinger_equation_28,{\displaystyle \Psi }
+Schr%C3%B6dinger_equation_29,{\displaystyle {\hat {H}}}
+Schr%C3%B6dinger_equation_30,"{\displaystyle \Psi (x,t)}"
+Schr%C3%B6dinger_equation_31,"{\displaystyle \Pr(x,t)=|\Psi (x,t)|^{2}.}"
+Schr%C3%B6dinger_equation_32,{\displaystyle \operatorname {\hat {H}} |\Psi \rangle =E|\Psi \rangle }
+Schr%C3%B6dinger_equation_33,{\displaystyle E}
+Schr%C3%B6dinger_equation_34,{\displaystyle E}
+Schr%C3%B6dinger_equation_35,{\displaystyle |\psi _{1}\rangle }
+Schr%C3%B6dinger_equation_36,{\displaystyle |\psi _{2}\rangle }
+Schr%C3%B6dinger_equation_37,{\displaystyle |\psi \rangle =a|\psi _{1}\rangle +b|\psi _{2}\rangle }
+Schr%C3%B6dinger_equation_38,{\displaystyle |\Psi (t)\rangle }
+Schr%C3%B6dinger_equation_39,"{\displaystyle |\Psi (t)\rangle =\sum _{n}A_{n}e^{{-iE_{n}t}/\hbar }|\psi _{E_{n}}\rangle ,}"
+Schr%C3%B6dinger_equation_40,{\displaystyle A_{n}}
+Schr%C3%B6dinger_equation_41,{\displaystyle |\psi _{E_{n}}\rangle }
+Schr%C3%B6dinger_equation_42,{\displaystyle {\hat {H}}|\psi _{E_{n}}\rangle =E_{n}|\psi _{E_{n}}\rangle }
+Schr%C3%B6dinger_equation_43,{\displaystyle {\hat {H}}}
+Schr%C3%B6dinger_equation_44,{\displaystyle |\Psi (t)\rangle =e^{-i{\hat {H}}t/\hbar }|\Psi (0)\rangle .}
+Schr%C3%B6dinger_equation_45,{\displaystyle {\hat {U}}(t)=e^{-i{\hat {H}}t/\hbar }}
+Schr%C3%B6dinger_equation_46,{\displaystyle |\Psi (0)\rangle }
+Schr%C3%B6dinger_equation_47,{\displaystyle t}
+Schr%C3%B6dinger_equation_48,{\displaystyle |\Psi (t)\rangle ={\hat {U}}(t)|\Psi (0)\rangle }
+Schr%C3%B6dinger_equation_49,{\displaystyle {\hat {U}}(t)}
+Schr%C3%B6dinger_equation_50,{\displaystyle {\hat {U}}(t)}
+Schr%C3%B6dinger_equation_51,{\displaystyle t}
+Schr%C3%B6dinger_equation_52,{\displaystyle {\hat {U}}(0)}
+Schr%C3%B6dinger_equation_53,{\displaystyle {\hat {U}}(t/N)^{N}={\hat {U}}(t)}
+Schr%C3%B6dinger_equation_54,{\displaystyle N>0}
+Schr%C3%B6dinger_equation_55,{\displaystyle {\hat {U}}(t)}
+Schr%C3%B6dinger_equation_56,{\displaystyle t}
+Schr%C3%B6dinger_equation_57,{\displaystyle {\hat {U}}(t)=e^{-i{\hat {G}}t}}
+Schr%C3%B6dinger_equation_58,{\displaystyle {\hat {G}}}
+Schr%C3%B6dinger_equation_59,{\displaystyle {\hat {U}}(t)}
+Schr%C3%B6dinger_equation_60,{\displaystyle {\hat {U}}(\delta t)\approx {\hat {U}}(0)-i{\hat {G}}\delta t}
+Schr%C3%B6dinger_equation_61,"{\displaystyle {\hat {U}}(\delta t)^{\dagger }{\hat {U}}(\delta t)\approx ({\hat {U}}(0)^{\dagger }+i{\hat {G}}^{\dagger }\delta t)({\hat {U}}(0)-i{\hat {G}}\delta t)=I+i\delta t({\hat {G}}^{\dagger }-{\hat {G}})+O(\delta t^{2}),}"
+Schr%C3%B6dinger_equation_62,{\displaystyle {\hat {U}}(t)}
+Schr%C3%B6dinger_equation_63,{\displaystyle i\hbar {\frac {d}{dt}}|\Psi (t)\rangle =\left({\frac {1}{2m}}{\hat {p}}^{2}+{\hat {V}}\right)|\Psi (t)\rangle .}
+Schr%C3%B6dinger_equation_64,{\displaystyle \mathbf {r} }
+Schr%C3%B6dinger_equation_65,{\displaystyle \mathbf {p} }
+Schr%C3%B6dinger_equation_66,"{\displaystyle i\hbar {\frac {\partial }{\partial t}}\Psi (\mathbf {r} ,t)=-{\frac {\hbar ^{2}}{2m}}\nabla ^{2}\Psi (\mathbf {r} ,t)+V(\mathbf {r} )\Psi (\mathbf {r} ,t).}"
+Schr%C3%B6dinger_equation_67,"{\displaystyle i\hbar {\frac {\partial }{\partial t}}{\tilde {\Psi }}(\mathbf {p} ,t)={\frac {\mathbf {p} ^{2}}{2m}}{\tilde {\Psi }}(\mathbf {p} ,t)+(2\pi \hbar )^{-3/2}\int d^{3}\mathbf {p} '\,{\tilde {V}}(\mathbf {p} -\mathbf {p} '){\tilde {\Psi }}(\mathbf {p} ',t).}"
+Schr%C3%B6dinger_equation_68,"{\displaystyle \Psi (\mathbf {r} ,t)}"
+Schr%C3%B6dinger_equation_69,"{\displaystyle {\tilde {\Psi }}(\mathbf {p} ,t)}"
+Schr%C3%B6dinger_equation_70,{\displaystyle |\Psi (t)\rangle }
+Schr%C3%B6dinger_equation_71,"{\displaystyle \Psi (\mathbf {r} ,t)=\langle \mathbf {r} |\Psi (t)\rangle ,}"
+Schr%C3%B6dinger_equation_72,"{\displaystyle {\tilde {\Psi }}(\mathbf {p} ,t)=\langle \mathbf {p} |\Psi (t)\rangle ,}"
+Schr%C3%B6dinger_equation_73,{\displaystyle |\mathbf {r} \rangle }
+Schr%C3%B6dinger_equation_74,{\displaystyle |\mathbf {p} \rangle }
+Schr%C3%B6dinger_equation_75,{\displaystyle x}
+Schr%C3%B6dinger_equation_76,{\displaystyle p}
+Schr%C3%B6dinger_equation_77,{\displaystyle {\hat {x}}}
+Schr%C3%B6dinger_equation_78,{\displaystyle {\hat {p}}}
+Schr%C3%B6dinger_equation_79,"{\displaystyle [{\hat {x}},{\hat {p}}]=i\hbar .}"
+Schr%C3%B6dinger_equation_80,"{\displaystyle \langle x|{\hat {p}}|\Psi \rangle =-i\hbar {\frac {d}{dx}}\Psi (x),}"
+Schr%C3%B6dinger_equation_81,{\displaystyle {\hat {p}}}
+Schr%C3%B6dinger_equation_83,{\displaystyle {\hat {p}}^{2}}
+Schr%C3%B6dinger_equation_84,{\displaystyle \nabla ^{2}}
+Schr%C3%B6dinger_equation_85,{\displaystyle {\tilde {\Psi }}(p)}
+Schr%C3%B6dinger_equation_86,{\displaystyle {\tilde {\Psi }}(p+K)}
+Schr%C3%B6dinger_equation_87,{\displaystyle K}
+Schr%C3%B6dinger_equation_88,"{\displaystyle {\frac {\partial }{\partial t}}\rho \left(\mathbf {r} ,t\right)+\nabla \cdot \mathbf {j} =0,}"
+Schr%C3%B6dinger_equation_89,{\displaystyle \mathbf {j} ={\frac {1}{2m}}\left(\Psi ^{*}{\hat {\mathbf {p} }}\Psi -\Psi {\hat {\mathbf {p} }}\Psi ^{*}\right)=-{\frac {i\hbar }{2m}}(\psi ^{*}\nabla \psi -\psi \nabla \psi ^{*})={\frac {\hbar }{m}}\operatorname {Im} (\psi ^{*}\nabla \psi )}
+Schr%C3%B6dinger_equation_91,"{\displaystyle S(\mathbf {x} ,t)}"
+Schr%C3%B6dinger_equation_92,{\displaystyle \mathbf {j} ={\frac {\rho \nabla S}{m}}}
+Schr%C3%B6dinger_equation_94,"{\displaystyle i\hbar {\frac {\partial }{\partial t}}\Psi (\mathbf {r} ,t)=\left[-{\frac {\hbar ^{2}}{2m}}\nabla ^{2}+V(\mathbf {r} )\right]\Psi (\mathbf {r} ,t).}"
+Schr%C3%B6dinger_equation_95,"{\displaystyle \Psi (\mathbf {r} ,t)=\psi (\mathbf {r} )\tau (t),}"
+Schr%C3%B6dinger_equation_96,{\displaystyle \psi (\mathbf {r} )}
+Schr%C3%B6dinger_equation_97,{\displaystyle \tau (t)}
+Schr%C3%B6dinger_equation_98,{\displaystyle \Psi }
+Schr%C3%B6dinger_equation_99,{\displaystyle \tau (t)}
+Schr%C3%B6dinger_equation_100,"{\displaystyle \Psi (\mathbf {r} ,t)=\psi (\mathbf {r} )e^{-i{Et/\hbar }}.}"
+Schr%C3%B6dinger_equation_101,{\displaystyle \nabla ^{2}\psi (\mathbf {r} )+{\frac {2m}{\hbar ^{2}}}\left[E-V(\mathbf {r} )\right]\psi (\mathbf {r} )=0.}
+Schr%C3%B6dinger_equation_102,{\displaystyle E}
+Schr%C3%B6dinger_equation_103,"{\displaystyle \psi (\mathbf {r} )=\psi _{x}(x)\psi _{y}(y)\psi _{z}(z),}"
+Schr%C3%B6dinger_equation_104,{\displaystyle \psi (\mathbf {r} )=\psi _{r}(r)\psi _{\theta }(\theta )\psi _{\phi }(\phi ).}
+Schr%C3%B6dinger_equation_105,{\displaystyle x}
+Schr%C3%B6dinger_equation_106,{\displaystyle -{\frac {\hbar ^{2}}{2m}}{\frac {d^{2}\psi }{dx^{2}}}=E\psi .}
+Schr%C3%B6dinger_equation_107,{\displaystyle {\hat {p}}_{x}=-i\hbar {\frac {d}{dx}}}
+Schr%C3%B6dinger_equation_108,"{\displaystyle {\frac {1}{2m}}{\hat {p}}_{x}^{2}=E,}"
+Schr%C3%B6dinger_equation_109,{\displaystyle \psi }
+Schr%C3%B6dinger_equation_110,{\displaystyle E}
+Schr%C3%B6dinger_equation_111,{\displaystyle \psi (x)=Ae^{ikx}+Be^{-ikx}\qquad \qquad E={\frac {\hbar ^{2}k^{2}}{2m}}}
+Schr%C3%B6dinger_equation_112,{\displaystyle \psi (x)=C\sin(kx)+D\cos(kx).}
+Schr%C3%B6dinger_equation_113,"{\displaystyle C,D,}"
+Schr%C3%B6dinger_equation_114,{\displaystyle k}
+Schr%C3%B6dinger_equation_115,{\displaystyle x=0}
+Schr%C3%B6dinger_equation_116,{\displaystyle x=L}
+Schr%C3%B6dinger_equation_117,{\displaystyle \psi }
+Schr%C3%B6dinger_equation_118,{\displaystyle x=0}
+Schr%C3%B6dinger_equation_119,{\displaystyle \psi (0)=0=C\sin(0)+D\cos(0)=D}
+Schr%C3%B6dinger_equation_120,{\displaystyle D=0}
+Schr%C3%B6dinger_equation_121,{\displaystyle x=L}
+Schr%C3%B6dinger_equation_122,"{\displaystyle \psi (L)=0=C\sin(kL),}"
+Schr%C3%B6dinger_equation_123,{\displaystyle C}
+Schr%C3%B6dinger_equation_124,{\displaystyle \psi }
+Schr%C3%B6dinger_equation_125,{\displaystyle \sin(kL)=0}
+Schr%C3%B6dinger_equation_126,{\displaystyle kL}
+Schr%C3%B6dinger_equation_127,{\displaystyle \pi }
+Schr%C3%B6dinger_equation_128,"{\displaystyle k={\frac {n\pi }{L}}\qquad \qquad n=1,2,3,\ldots .}"
+Schr%C3%B6dinger_equation_129,{\displaystyle k}
+Schr%C3%B6dinger_equation_130,{\displaystyle E_{n}={\frac {\hbar ^{2}\pi ^{2}n^{2}}{2mL^{2}}}={\frac {n^{2}h^{2}}{8mL^{2}}}.}
+Schr%C3%B6dinger_equation_131,"{\displaystyle E\psi =-{\frac {\hbar ^{2}}{2m}}{\frac {d^{2}}{dx^{2}}}\psi +{\frac {1}{2}}m\omega ^{2}x^{2}\psi ,}"
+Schr%C3%B6dinger_equation_132,{\displaystyle x}
+Schr%C3%B6dinger_equation_133,{\displaystyle \omega }
+Schr%C3%B6dinger_equation_134,"{\displaystyle \psi _{n}(x)={\sqrt {\frac {1}{2^{n}\,n!}}}\ \left({\frac {m\omega }{\pi \hbar }}\right)^{1/4}\ e^{-{\frac {m\omega x^{2}}{2\hbar }}}\ {\mathcal {H}}_{n}\left({\sqrt {\frac {m\omega }{\hbar }}}x\right),}"
+Schr%C3%B6dinger_equation_135,"{\displaystyle n\in \{0,1,2,\ldots \}}"
+Schr%C3%B6dinger_equation_136,{\displaystyle {\mathcal {H}}_{n}}
+Schr%C3%B6dinger_equation_137,{\displaystyle n}
+Schr%C3%B6dinger_equation_138,{\displaystyle \psi _{n}(x)={\frac {1}{\sqrt {n!}}}\left({\sqrt {\frac {m\omega }{2\hbar }}}\right)^{n}\left(x-{\frac {\hbar }{m\omega }}{\frac {d}{dx}}\right)^{n}\left({\frac {m\omega }{\pi \hbar }}\right)^{\frac {1}{4}}e^{\frac {-m\omega x^{2}}{2\hbar }}.}
+Schr%C3%B6dinger_equation_139,{\displaystyle E_{n}=\left(n+{\frac {1}{2}}\right)\hbar \omega .}
+Schr%C3%B6dinger_equation_140,{\displaystyle n=0}
+Schr%C3%B6dinger_equation_141,{\displaystyle E\psi =-{\frac {\hbar ^{2}}{2\mu }}\nabla ^{2}\psi -{\frac {q^{2}}{4\pi \varepsilon _{0}r}}\psi }
+Schr%C3%B6dinger_equation_142,{\displaystyle q}
+Schr%C3%B6dinger_equation_143,{\displaystyle \mathbf {r} }
+Schr%C3%B6dinger_equation_144,{\displaystyle r=|\mathbf {r} |}
+Schr%C3%B6dinger_equation_145,{\displaystyle \varepsilon _{0}}
+Schr%C3%B6dinger_equation_146,{\displaystyle \mu ={\frac {m_{q}m_{p}}{m_{q}+m_{p}}}}
+Schr%C3%B6dinger_equation_147,{\displaystyle m_{p}}
+Schr%C3%B6dinger_equation_148,{\displaystyle m_{q}}
+Schr%C3%B6dinger_equation_149,"{\displaystyle \psi (r,\theta ,\varphi )=R(r)Y_{\ell }^{m}(\theta ,\varphi )=R(r)\Theta (\theta )\Phi (\varphi ),}"
+Schr%C3%B6dinger_equation_150,"{\displaystyle Y_{l}^{m}(\theta ,\varphi )}"
+Schr%C3%B6dinger_equation_151,{\displaystyle \ell }
+Schr%C3%B6dinger_equation_152,{\displaystyle m}
+Schr%C3%B6dinger_equation_153,"{\displaystyle \psi _{n\ell m}(r,\theta ,\varphi )={\sqrt {\left({\frac {2}{na_{0}}}\right)^{3}{\frac {(n-\ell -1)!}{2n[(n+\ell )!]}}}}e^{-r/na_{0}}\left({\frac {2r}{na_{0}}}\right)^{\ell }L_{n-\ell -1}^{2\ell +1}\left({\frac {2r}{na_{0}}}\right)\cdot Y_{\ell }^{m}(\theta ,\varphi )}"
+Schr%C3%B6dinger_equation_154,{\displaystyle a_{0}={\frac {4\pi \varepsilon _{0}\hbar ^{2}}{m_{q}q^{2}}}}
+Schr%C3%B6dinger_equation_155,{\displaystyle L_{n-\ell -1}^{2\ell +1}(\cdots )}
+Schr%C3%B6dinger_equation_156,{\displaystyle n-\ell -1}
+Schr%C3%B6dinger_equation_157,"{\displaystyle n,\ell ,m}"
+Schr%C3%B6dinger_equation_158,"{\displaystyle n=1,2,3,\dots ,}"
+Schr%C3%B6dinger_equation_159,"{\displaystyle \ell =0,1,2,\dots ,n-1,}"
+Schr%C3%B6dinger_equation_160,"{\displaystyle m=-\ell ,\dots ,\ell .}"
+Schr%C3%B6dinger_equation_161,{\displaystyle V}
+Schr%C3%B6dinger_equation_162,{\displaystyle m{\frac {d}{dt}}\langle x\rangle =\langle p\rangle ;\quad {\frac {d}{dt}}\langle p\rangle =-\left\langle V'(X)\right\rangle .}
+Schr%C3%B6dinger_equation_163,"{\displaystyle (\langle X\rangle ,\langle P\rangle )}"
+Schr%C3%B6dinger_equation_164,{\displaystyle -V'\left(\left\langle X\right\rangle \right)}
+Schr%C3%B6dinger_equation_165,{\displaystyle -\left\langle V'(X)\right\rangle }
+Schr%C3%B6dinger_equation_166,{\displaystyle V'}
+Schr%C3%B6dinger_equation_167,{\displaystyle V'}
+Schr%C3%B6dinger_equation_168,{\displaystyle x_{0}}
+Schr%C3%B6dinger_equation_169,{\displaystyle V'\left(\left\langle X\right\rangle \right)}
+Schr%C3%B6dinger_equation_170,{\displaystyle \left\langle V'(X)\right\rangle }
+Schr%C3%B6dinger_equation_171,{\displaystyle V'(x_{0})}
+Schr%C3%B6dinger_equation_172,"{\displaystyle i\hbar {\frac {\partial }{\partial t}}\Psi \left(\mathbf {r} ,t\right)={\hat {H}}\Psi \left(\mathbf {r} ,t\right)}"
+Schr%C3%B6dinger_equation_173,"{\displaystyle -{\frac {\partial }{\partial t}}S(q_{i},t)=H\left(q_{i},{\frac {\partial S}{\partial q_{i}}},t\right)}"
+Schr%C3%B6dinger_equation_174,{\displaystyle S}
+Schr%C3%B6dinger_equation_175,{\displaystyle H}
+Schr%C3%B6dinger_equation_176,{\displaystyle q_{i}}
+Schr%C3%B6dinger_equation_177,"{\displaystyle i=1,2,3}"
+Schr%C3%B6dinger_equation_178,"{\displaystyle \mathbf {r} =(q_{1},q_{2},q_{3})=(x,y,z)}"
+Schr%C3%B6dinger_equation_179,"{\displaystyle \Psi ={\sqrt {\rho (\mathbf {r} ,t)}}e^{iS(\mathbf {r} ,t)/\hbar }}"
+Schr%C3%B6dinger_equation_180,{\displaystyle \rho }
+Schr%C3%B6dinger_equation_181,{\displaystyle \hbar \to 0}
+Schr%C3%B6dinger_equation_182,{\displaystyle {\hat {\rho }}=|\Psi \rangle \langle \Psi |.}
+Schr%C3%B6dinger_equation_183,"{\displaystyle i\hbar {\frac {\partial {\hat {\rho }}}{\partial t}}=[{\hat {H}},{\hat {\rho }}],}"
+Schr%C3%B6dinger_equation_184,{\displaystyle {\hat {\rho }}(t)=e^{-i{\hat {H}}t/\hbar }{\hat {\rho }}(0)e^{i{\hat {H}}t/\hbar }.}
+Schr%C3%B6dinger_equation_185,{\displaystyle {\hat {U}}(t)}
+Schr%C3%B6dinger_equation_186,{\displaystyle {\hat {\rho }}(t)={\hat {U}}(t){\hat {\rho }}(0){\hat {U}}(t)^{\dagger }.}
+Schr%C3%B6dinger_equation_187,"{\displaystyle E^{2}=(pc)^{2}+\left(m_{0}c^{2}\right)^{2},}"
+Schr%C3%B6dinger_equation_188,"{\displaystyle -{\frac {1}{c^{2}}}{\frac {\partial ^{2}}{\partial t^{2}}}\psi +\nabla ^{2}\psi ={\frac {m^{2}c^{2}}{\hbar ^{2}}}\psi ,}"
+Schr%C3%B6dinger_equation_189,"{\displaystyle \alpha _{1},\alpha _{2},\alpha _{3},\beta }"
+Schr%C3%B6dinger_equation_190,{\displaystyle \left(\beta mc^{2}+c\left(\sum _{n\mathop {=} 1}^{3}\alpha _{n}p_{n}\right)\right)\psi =i\hbar {\frac {\partial \psi }{\partial t}}.}
+Schr%C3%B6dinger_equation_191,"{\displaystyle {\hat {H}}_{\text{Dirac}}=\gamma ^{0}\left[c{\boldsymbol {\gamma }}\cdot \left({\hat {\mathbf {p} }}-q\mathbf {A} \right)+mc^{2}+\gamma ^{0}q\varphi \right],}"
+Schr%C3%B6dinger_equation_192,"{\displaystyle \Psi (x,t)}"
+Schr%C3%B6dinger_equation_193,{\displaystyle p}
+Schr%C3%B6dinger_equation_194,{\displaystyle \lambda }
+Schr%C3%B6dinger_equation_195,{\displaystyle k}
+Schr%C3%B6dinger_equation_196,"{\displaystyle p={\frac {h}{\lambda }}=\hbar k,}"
+Schr%C3%B6dinger_equation_197,{\displaystyle h}
+Schr%C3%B6dinger_equation_198,{\displaystyle \hbar ={h}/{2\pi }}
+Schr%C3%B6dinger_equation_199,{\displaystyle L}
+Schr%C3%B6dinger_equation_200,{\displaystyle L=n{\frac {h}{2\pi }}=n\hbar .}
+Schr%C3%B6dinger_equation_201,{\displaystyle n\lambda =2\pi r.}
+Schr%C3%B6dinger_equation_202,{\displaystyle r}
+Schr%C3%B6dinger_equation_203,"{\displaystyle i\hbar {\frac {\partial }{\partial t}}\Psi (\mathbf {r} ,t)=-{\frac {\hbar ^{2}}{2m}}\nabla ^{2}\Psi (\mathbf {r} ,t)+V(\mathbf {r} )\Psi (\mathbf {r} ,t).}"
+Schr%C3%B6dinger_equation_204,{\displaystyle \left(E+{\frac {e^{2}}{r}}\right)^{2}\psi (x)=-\nabla ^{2}\psi (x)+m^{2}\psi (x).}
+Schr%C3%B6dinger_equation_205,"{\displaystyle \Psi (\mathbf {x} ,t)}"
+Schr%C3%B6dinger_equation_206,{\displaystyle V}
+Schr%C3%B6dinger_equation_207,{\displaystyle \Psi }
+Schr%C3%B6dinger_equation_208,{\displaystyle \Psi {\frac {\partial \Psi ^{*}}{\partial t}}}
+Schr%C3%B6dinger_equation_209,{\displaystyle \Psi }
+Schr%C3%B6dinger_equation_210,{\displaystyle \Psi }
+Schr%C3%B6dinger_equation_211,{\displaystyle |\psi \rangle }
+Schr%C3%B6dinger_equation_212,{\displaystyle e^{i\alpha }|\psi \rangle }

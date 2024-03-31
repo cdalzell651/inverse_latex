@@ -1,0 +1,48 @@
+name,latex
+Linear_subspace_0,{\displaystyle \exists c\in K:\mathbf {v} '=c\mathbf {v} {\text{ (or }}\mathbf {v} ={\frac {1}{c}}\mathbf {v} '{\text{)}}}
+Linear_subspace_1,{\displaystyle \exists c\in K:\mathbf {F} '=c\mathbf {F} {\text{ (or }}\mathbf {F} ={\frac {1}{c}}\mathbf {F} '{\text{)}}}
+Linear_subspace_2,{\displaystyle \left\{\left[\!\!{\begin{array}{c}x_{1}\\x_{2}\\\vdots \\x_{n}\end{array}}\!\!\right]\in K^{n}:{\begin{alignedat}{6}a_{11}x_{1}&&\;+\;&&a_{12}x_{2}&&\;+\cdots +\;&&a_{1n}x_{n}&&\;=0&\\a_{21}x_{1}&&\;+\;&&a_{22}x_{2}&&\;+\cdots +\;&&a_{2n}x_{n}&&\;=0&\\&&&&&&&&&&\vdots \quad &\\a_{m1}x_{1}&&\;+\;&&a_{m2}x_{2}&&\;+\cdots +\;&&a_{mn}x_{n}&&\;=0&\end{alignedat}}\right\}.}
+Linear_subspace_3,{\displaystyle x+3y+2z=0\quad {\text{and}}\quad 2x-4y+5z=0}
+Linear_subspace_4,{\displaystyle A\mathbf {x} =\mathbf {0} .}
+Linear_subspace_5,{\displaystyle A={\begin{bmatrix}1&3&2\\2&-4&5\end{bmatrix}}.}
+Linear_subspace_6,"{\displaystyle \left\{\left[\!\!{\begin{array}{c}x_{1}\\x_{2}\\\vdots \\x_{n}\end{array}}\!\!\right]\in K^{n}:{\begin{alignedat}{7}x_{1}&&\;=\;&&a_{11}t_{1}&&\;+\;&&a_{12}t_{2}&&\;+\cdots +\;&&a_{1m}t_{m}&\\x_{2}&&\;=\;&&a_{21}t_{1}&&\;+\;&&a_{22}t_{2}&&\;+\cdots +\;&&a_{2m}t_{m}&\\&&\vdots \;\;&&&&&&&&&&&\\x_{n}&&\;=\;&&a_{n1}t_{1}&&\;+\;&&a_{n2}t_{2}&&\;+\cdots +\;&&a_{nm}t_{m}&\\\end{alignedat}}{\text{ for some }}t_{1},\ldots ,t_{m}\in K\right\}.}"
+Linear_subspace_7,"{\displaystyle x=2t_{1}+3t_{2},\;\;\;\;y=5t_{1}-4t_{2},\;\;\;\;{\text{and}}\;\;\;\;z=-t_{1}+2t_{2}}"
+Linear_subspace_8,{\displaystyle {\begin{bmatrix}x\\y\\z\end{bmatrix}}\;=\;t_{1}\!{\begin{bmatrix}2\\5\\-1\end{bmatrix}}+t_{2}\!{\begin{bmatrix}3\\-4\\2\end{bmatrix}}.}
+Linear_subspace_9,{\displaystyle t_{1}\mathbf {v} _{1}+\cdots +t_{k}\mathbf {v} _{k}.}
+Linear_subspace_10,"{\displaystyle {\text{Span}}\{\mathbf {v} _{1},\ldots ,\mathbf {v} _{k}\}=\left\{t_{1}\mathbf {v} _{1}+\cdots +t_{k}\mathbf {v} _{k}:t_{1},\ldots ,t_{k}\in K\right\}.}"
+Linear_subspace_11,"{\displaystyle x=t_{1},\;\;\;y=0,\;\;\;z=t_{2}.}"
+Linear_subspace_12,"{\displaystyle (t_{1},0,t_{2})=t_{1}(1,0,0)+t_{2}(0,0,1){\text{.}}}"
+Linear_subspace_13,"{\displaystyle \mathbf {x} =A\mathbf {t} \;\;\;\;{\text{where}}\;\;\;\;A=\left[{\begin{alignedat}{2}2&&3&\\5&&\;\;-4&\\-1&&2&\end{alignedat}}\,\right]{\text{.}}}"
+Linear_subspace_14,{\displaystyle t_{1}\mathbf {v} _{1}+\cdots +t_{k}\mathbf {v} _{k}\;\neq \;u_{1}\mathbf {v} _{1}+\cdots +u_{k}\mathbf {v} _{k}}
+Linear_subspace_15,{\displaystyle x_{1}=2x_{2}\;\;\;\;{\text{and}}\;\;\;\;x_{3}=5x_{4}.}
+Linear_subspace_16,"{\displaystyle (2t_{1},t_{1},5t_{2},t_{2})=t_{1}(2,1,0,0)+t_{2}(0,0,5,1).}"
+Linear_subspace_17,"{\displaystyle U+W=\left\{\mathbf {u} +\mathbf {w} \colon \mathbf {u} \in U,\mathbf {w} \in W\right\}.}"
+Linear_subspace_18,"{\displaystyle \max(\dim U,\dim W)\leq \dim(U+W)\leq \dim(U)+\dim(W).}"
+Linear_subspace_19,{\displaystyle \dim(U+W)=\dim(U)+\dim(W)-\dim(U\cap W).}
+Linear_subspace_20,{\displaystyle U\oplus W}
+Linear_subspace_21,{\displaystyle U\oplus W}
+Linear_subspace_22,{\displaystyle \dim(U\oplus W)=\dim(U)+\dim(W)}
+Linear_subspace_23,{\displaystyle V}
+Linear_subspace_24,{\displaystyle N}
+Linear_subspace_25,{\displaystyle V}
+Linear_subspace_26,{\displaystyle N}
+Linear_subspace_27,{\displaystyle N^{\perp }}
+Linear_subspace_28,{\displaystyle V}
+Linear_subspace_29,{\displaystyle N}
+Linear_subspace_30,{\displaystyle N}
+Linear_subspace_31,{\displaystyle N^{\perp }}
+Linear_subspace_32,{\displaystyle \dim(N)+\dim(N^{\perp })=\dim(V)}
+Linear_subspace_33,{\displaystyle N\cap N^{\perp }=\{0\}}
+Linear_subspace_34,{\displaystyle V}
+Linear_subspace_35,{\displaystyle N}
+Linear_subspace_36,{\displaystyle N^{\perp }}
+Linear_subspace_37,{\displaystyle (N^{\perp })^{\perp }=N}
+Linear_subspace_38,{\displaystyle N}
+Linear_subspace_39,{\displaystyle \neg }
+Linear_subspace_40,{\displaystyle N}
+Linear_subspace_41,{\displaystyle N\cap N^{\perp }\neq \{0\}}
+Linear_subspace_42,{\displaystyle U+W}
+Linear_subspace_43,{\displaystyle U\cap W}
+Linear_subspace_44,"{\displaystyle \left[{\begin{alignedat}{6}1&&0&&-3&&0&&2&&0\\0&&1&&5&&0&&-1&&4\\0&&0&&0&&1&&7&&-9\\0&&\;\;\;\;\;0&&\;\;\;\;\;0&&\;\;\;\;\;0&&\;\;\;\;\;0&&\;\;\;\;\;0\end{alignedat}}\,\right]}"
+Linear_subspace_45,{\displaystyle {\begin{alignedat}{1}\mathbf {c} _{3}&=-3\mathbf {c} _{1}+5\mathbf {c} _{2}\\\mathbf {c} _{5}&=2\mathbf {c} _{1}-\mathbf {c} _{2}+7\mathbf {c} _{4}\\\mathbf {c} _{6}&=4\mathbf {c} _{2}-9\mathbf {c} _{4}\end{alignedat}}}
+Linear_subspace_46,{\displaystyle {\begin{alignedat}{1}x_{3}&=-3x_{1}+5x_{2}\\x_{5}&=2x_{1}-x_{2}+7x_{4}\\x_{6}&=4x_{2}-9x_{4}.\end{alignedat}}}

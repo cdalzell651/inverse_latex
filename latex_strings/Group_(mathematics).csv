@@ -1,0 +1,657 @@
+name,latex
+Group_(mathematics)_0,{\displaystyle 1}
+Group_(mathematics)_1,{\displaystyle \mathbb {Z} }
+Group_(mathematics)_2,{\displaystyle \mathbb {Z} }
+Group_(mathematics)_3,{\displaystyle \mathbb {Z} }
+Group_(mathematics)_4,"{\displaystyle \mathbb {Z} =\{\ldots ,-4,-3,-2,-1,0,1,2,3,4,\ldots \}}"
+Group_(mathematics)_5,{\displaystyle a}
+Group_(mathematics)_6,{\displaystyle b}
+Group_(mathematics)_7,{\displaystyle a+b}
+Group_(mathematics)_8,{\displaystyle +}
+Group_(mathematics)_9,{\displaystyle \mathbb {Z} }
+Group_(mathematics)_10,{\displaystyle a}
+Group_(mathematics)_11,{\displaystyle b}
+Group_(mathematics)_12,{\displaystyle c}
+Group_(mathematics)_13,{\displaystyle (a+b)+c=a+(b+c)}
+Group_(mathematics)_14,{\displaystyle a}
+Group_(mathematics)_15,{\displaystyle b}
+Group_(mathematics)_16,{\displaystyle c}
+Group_(mathematics)_17,{\displaystyle a}
+Group_(mathematics)_18,{\displaystyle b}
+Group_(mathematics)_19,{\displaystyle c}
+Group_(mathematics)_20,{\displaystyle a}
+Group_(mathematics)_21,{\displaystyle 0+a=a}
+Group_(mathematics)_22,{\displaystyle a+0=a}
+Group_(mathematics)_23,{\displaystyle a}
+Group_(mathematics)_24,{\displaystyle b}
+Group_(mathematics)_25,{\displaystyle a+b=0}
+Group_(mathematics)_26,{\displaystyle b+a=0}
+Group_(mathematics)_27,{\displaystyle b}
+Group_(mathematics)_28,{\displaystyle a}
+Group_(mathematics)_29,{\displaystyle -a}
+Group_(mathematics)_30,{\displaystyle +}
+Group_(mathematics)_31,{\displaystyle G}
+Group_(mathematics)_32,{\displaystyle G}
+Group_(mathematics)_33,{\displaystyle \cdot }
+Group_(mathematics)_34,{\displaystyle a}
+Group_(mathematics)_35,{\displaystyle b}
+Group_(mathematics)_36,{\displaystyle G}
+Group_(mathematics)_37,{\displaystyle G}
+Group_(mathematics)_38,{\displaystyle a\cdot b}
+Group_(mathematics)_39,{\displaystyle a}
+Group_(mathematics)_40,{\displaystyle b}
+Group_(mathematics)_41,{\displaystyle c}
+Group_(mathematics)_42,{\displaystyle G}
+Group_(mathematics)_43,{\displaystyle (a\cdot b)\cdot c=a\cdot (b\cdot c)}
+Group_(mathematics)_44,{\displaystyle e}
+Group_(mathematics)_45,{\displaystyle G}
+Group_(mathematics)_46,{\displaystyle a}
+Group_(mathematics)_47,{\displaystyle G}
+Group_(mathematics)_48,{\displaystyle e\cdot a=a}
+Group_(mathematics)_49,{\displaystyle a\cdot e=a}
+Group_(mathematics)_50,{\displaystyle a}
+Group_(mathematics)_51,{\displaystyle G}
+Group_(mathematics)_52,{\displaystyle b}
+Group_(mathematics)_53,{\displaystyle G}
+Group_(mathematics)_54,{\displaystyle a\cdot b=e}
+Group_(mathematics)_55,{\displaystyle b\cdot a=e}
+Group_(mathematics)_56,{\displaystyle e}
+Group_(mathematics)_57,{\displaystyle a}
+Group_(mathematics)_58,{\displaystyle b}
+Group_(mathematics)_59,{\displaystyle a}
+Group_(mathematics)_60,{\displaystyle a^{-1}}
+Group_(mathematics)_61,{\displaystyle \mathbb {R} }
+Group_(mathematics)_62,{\displaystyle a+b}
+Group_(mathematics)_63,{\displaystyle ab}
+Group_(mathematics)_64,{\displaystyle \mathbb {R} }
+Group_(mathematics)_65,"{\displaystyle (\mathbb {R} ,+)}"
+Group_(mathematics)_66,"{\displaystyle (\mathbb {R} ,+,\cdot )}"
+Group_(mathematics)_67,{\displaystyle \mathbb {R} }
+Group_(mathematics)_68,{\displaystyle \mathbb {R} }
+Group_(mathematics)_69,{\displaystyle \mathbb {R} }
+Group_(mathematics)_70,{\displaystyle \mathbb {R} }
+Group_(mathematics)_71,{\displaystyle \mathbb {R} ^{\times }}
+Group_(mathematics)_73,{\displaystyle 0}
+Group_(mathematics)_74,{\displaystyle x}
+Group_(mathematics)_75,{\displaystyle -x}
+Group_(mathematics)_76,{\displaystyle 1}
+Group_(mathematics)_77,{\displaystyle x}
+Group_(mathematics)_78,{\displaystyle x^{-1}}
+Group_(mathematics)_79,{\displaystyle ab}
+Group_(mathematics)_80,{\displaystyle a\cdot b}
+Group_(mathematics)_81,{\displaystyle a\cdot b=b\cdot a}
+Group_(mathematics)_82,{\displaystyle a}
+Group_(mathematics)_83,{\displaystyle b}
+Group_(mathematics)_84,{\displaystyle G}
+Group_(mathematics)_85,{\displaystyle f\circ g}
+Group_(mathematics)_86,{\displaystyle \circ }
+Group_(mathematics)_87,{\displaystyle \mathrm {D} _{4}}
+Group_(mathematics)_88,{\displaystyle \mathrm {id} }
+Group_(mathematics)_89,{\displaystyle r_{1}}
+Group_(mathematics)_90,{\displaystyle r_{2}}
+Group_(mathematics)_91,{\displaystyle r_{3}}
+Group_(mathematics)_92,{\displaystyle f_{\mathrm {v} }}
+Group_(mathematics)_93,{\displaystyle f_{\mathrm {h} }}
+Group_(mathematics)_94,{\displaystyle f_{\mathrm {d} }}
+Group_(mathematics)_95,{\displaystyle f_{\mathrm {c} }}
+Group_(mathematics)_96,{\displaystyle r_{1}}
+Group_(mathematics)_97,{\displaystyle r_{2}}
+Group_(mathematics)_98,{\displaystyle r_{3}}
+Group_(mathematics)_99,{\displaystyle f_{\mathrm {v} }}
+Group_(mathematics)_100,{\displaystyle f_{\mathrm {h} }}
+Group_(mathematics)_101,{\displaystyle f_{\mathrm {d} }}
+Group_(mathematics)_102,{\displaystyle f_{\mathrm {c} }}
+Group_(mathematics)_103,{\displaystyle r_{1}}
+Group_(mathematics)_104,{\displaystyle f_{\mathrm {h} }}
+Group_(mathematics)_105,{\displaystyle \mathrm {D} _{4}}
+Group_(mathematics)_106,{\displaystyle a}
+Group_(mathematics)_107,{\displaystyle b}
+Group_(mathematics)_108,{\displaystyle b\circ a}
+Group_(mathematics)_109,{\displaystyle b}
+Group_(mathematics)_110,{\displaystyle a}
+Group_(mathematics)_111,{\displaystyle r_{3}}
+Group_(mathematics)_112,{\displaystyle f_{\mathrm {h} }}
+Group_(mathematics)_113,{\displaystyle f_{\mathrm {d} }}
+Group_(mathematics)_114,{\displaystyle f_{\mathrm {h} }\circ r_{3}=f_{\mathrm {d} }.}
+Group_(mathematics)_115,{\displaystyle \mathrm {D} _{4}}
+Group_(mathematics)_116,{\displaystyle \circ }
+Group_(mathematics)_117,{\displaystyle \mathrm {id} }
+Group_(mathematics)_118,{\displaystyle r_{1}}
+Group_(mathematics)_119,{\displaystyle r_{2}}
+Group_(mathematics)_120,{\displaystyle r_{3}}
+Group_(mathematics)_121,{\displaystyle f_{\mathrm {v} }}
+Group_(mathematics)_122,{\displaystyle f_{\mathrm {h} }}
+Group_(mathematics)_123,{\displaystyle f_{\mathrm {d} }}
+Group_(mathematics)_124,{\displaystyle f_{\mathrm {c} }}
+Group_(mathematics)_125,{\displaystyle \mathrm {id} }
+Group_(mathematics)_126,{\displaystyle \mathrm {id} }
+Group_(mathematics)_127,{\displaystyle r_{1}}
+Group_(mathematics)_128,{\displaystyle r_{2}}
+Group_(mathematics)_129,{\displaystyle r_{3}}
+Group_(mathematics)_130,{\displaystyle f_{\mathrm {v} }}
+Group_(mathematics)_131,{\displaystyle f_{\mathrm {h} }}
+Group_(mathematics)_132,{\displaystyle f_{\mathrm {d} }}
+Group_(mathematics)_133,{\displaystyle f_{\mathrm {c} }}
+Group_(mathematics)_134,{\displaystyle r_{1}}
+Group_(mathematics)_135,{\displaystyle r_{1}}
+Group_(mathematics)_136,{\displaystyle r_{2}}
+Group_(mathematics)_137,{\displaystyle r_{3}}
+Group_(mathematics)_138,{\displaystyle \mathrm {id} }
+Group_(mathematics)_139,{\displaystyle f_{\mathrm {c} }}
+Group_(mathematics)_140,{\displaystyle f_{\mathrm {d} }}
+Group_(mathematics)_141,{\displaystyle f_{\mathrm {v} }}
+Group_(mathematics)_142,{\displaystyle f_{\mathrm {h} }}
+Group_(mathematics)_143,{\displaystyle r_{2}}
+Group_(mathematics)_144,{\displaystyle r_{2}}
+Group_(mathematics)_145,{\displaystyle r_{3}}
+Group_(mathematics)_146,{\displaystyle \mathrm {id} }
+Group_(mathematics)_147,{\displaystyle r_{1}}
+Group_(mathematics)_148,{\displaystyle f_{\mathrm {h} }}
+Group_(mathematics)_149,{\displaystyle f_{\mathrm {v} }}
+Group_(mathematics)_150,{\displaystyle f_{\mathrm {c} }}
+Group_(mathematics)_151,{\displaystyle f_{\mathrm {d} }}
+Group_(mathematics)_152,{\displaystyle r_{3}}
+Group_(mathematics)_153,{\displaystyle r_{3}}
+Group_(mathematics)_154,{\displaystyle \mathrm {id} }
+Group_(mathematics)_155,{\displaystyle r_{1}}
+Group_(mathematics)_156,{\displaystyle r_{2}}
+Group_(mathematics)_157,{\displaystyle f_{\mathrm {d} }}
+Group_(mathematics)_158,{\displaystyle f_{\mathrm {c} }}
+Group_(mathematics)_159,{\displaystyle f_{\mathrm {h} }}
+Group_(mathematics)_160,{\displaystyle f_{\mathrm {v} }}
+Group_(mathematics)_161,{\displaystyle f_{\mathrm {v} }}
+Group_(mathematics)_162,{\displaystyle f_{\mathrm {v} }}
+Group_(mathematics)_163,{\displaystyle f_{\mathrm {d} }}
+Group_(mathematics)_164,{\displaystyle f_{\mathrm {h} }}
+Group_(mathematics)_165,{\displaystyle f_{\mathrm {c} }}
+Group_(mathematics)_166,{\displaystyle \mathrm {id} }
+Group_(mathematics)_167,{\displaystyle r_{2}}
+Group_(mathematics)_168,{\displaystyle r_{1}}
+Group_(mathematics)_169,{\displaystyle r_{3}}
+Group_(mathematics)_170,{\displaystyle f_{\mathrm {h} }}
+Group_(mathematics)_171,{\displaystyle f_{\mathrm {h} }}
+Group_(mathematics)_172,{\displaystyle f_{\mathrm {c} }}
+Group_(mathematics)_173,{\displaystyle f_{\mathrm {v} }}
+Group_(mathematics)_174,{\displaystyle f_{\mathrm {d} }}
+Group_(mathematics)_175,{\displaystyle r_{2}}
+Group_(mathematics)_176,{\displaystyle \mathrm {id} }
+Group_(mathematics)_177,{\displaystyle r_{3}}
+Group_(mathematics)_178,{\displaystyle r_{1}}
+Group_(mathematics)_179,{\displaystyle f_{\mathrm {d} }}
+Group_(mathematics)_180,{\displaystyle f_{\mathrm {d} }}
+Group_(mathematics)_181,{\displaystyle f_{\mathrm {h} }}
+Group_(mathematics)_182,{\displaystyle f_{\mathrm {c} }}
+Group_(mathematics)_183,{\displaystyle f_{\mathrm {v} }}
+Group_(mathematics)_184,{\displaystyle r_{3}}
+Group_(mathematics)_185,{\displaystyle r_{1}}
+Group_(mathematics)_186,{\displaystyle \mathrm {id} }
+Group_(mathematics)_187,{\displaystyle r_{2}}
+Group_(mathematics)_188,{\displaystyle f_{\mathrm {c} }}
+Group_(mathematics)_189,{\displaystyle f_{\mathrm {c} }}
+Group_(mathematics)_190,{\displaystyle f_{\mathrm {v} }}
+Group_(mathematics)_191,{\displaystyle f_{\mathrm {d} }}
+Group_(mathematics)_192,{\displaystyle f_{\mathrm {h} }}
+Group_(mathematics)_193,{\displaystyle r_{1}}
+Group_(mathematics)_194,{\displaystyle r_{3}}
+Group_(mathematics)_195,{\displaystyle r_{2}}
+Group_(mathematics)_196,{\displaystyle \mathrm {id} }
+Group_(mathematics)_197,{\displaystyle \mathrm {id} }
+Group_(mathematics)_198,{\displaystyle r_{1}}
+Group_(mathematics)_199,{\displaystyle r_{2}}
+Group_(mathematics)_200,{\displaystyle r_{3}}
+Group_(mathematics)_201,{\displaystyle f_{\mathrm {h} }\circ r_{3}}
+Group_(mathematics)_202,{\displaystyle f_{\mathrm {d} }}
+Group_(mathematics)_203,{\displaystyle a\circ b}
+Group_(mathematics)_204,{\displaystyle a}
+Group_(mathematics)_205,{\displaystyle b}
+Group_(mathematics)_206,"{\displaystyle r_{3}\circ f_{\mathrm {h} }=f_{\mathrm {c} },}"
+Group_(mathematics)_207,{\displaystyle f_{\mathrm {c} }}
+Group_(mathematics)_208,{\displaystyle a}
+Group_(mathematics)_209,{\displaystyle b}
+Group_(mathematics)_210,{\displaystyle c}
+Group_(mathematics)_211,{\displaystyle \mathrm {D} _{4}}
+Group_(mathematics)_212,{\displaystyle a}
+Group_(mathematics)_213,{\displaystyle b}
+Group_(mathematics)_214,{\displaystyle c}
+Group_(mathematics)_215,{\displaystyle b}
+Group_(mathematics)_216,{\displaystyle c}
+Group_(mathematics)_217,{\displaystyle a}
+Group_(mathematics)_218,"{\displaystyle (a\circ b)\circ c=a\circ (b\circ c),}"
+Group_(mathematics)_219,{\displaystyle (f_{\mathrm {d} }\circ f_{\mathrm {v} })\circ r_{2}=f_{\mathrm {d} }\circ (f_{\mathrm {v} }\circ r_{2})}
+Group_(mathematics)_220,{\displaystyle {\begin{aligned}(f_{\mathrm {d} }\circ f_{\mathrm {v} })\circ r_{2}&=r_{3}\circ r_{2}=r_{1}\\f_{\mathrm {d} }\circ (f_{\mathrm {v} }\circ r_{2})&=f_{\mathrm {d} }\circ f_{\mathrm {h} }=r_{1}.\end{aligned}}}
+Group_(mathematics)_221,{\displaystyle \mathrm {id} }
+Group_(mathematics)_222,{\displaystyle a}
+Group_(mathematics)_223,{\displaystyle \mathrm {id} }
+Group_(mathematics)_224,{\displaystyle f_{\mathrm {h} }}
+Group_(mathematics)_225,{\displaystyle f_{\mathrm {v} }}
+Group_(mathematics)_226,{\displaystyle f_{\mathrm {d} }}
+Group_(mathematics)_227,{\displaystyle f_{\mathrm {c} }}
+Group_(mathematics)_228,{\displaystyle r_{2}}
+Group_(mathematics)_229,{\displaystyle r_{3}}
+Group_(mathematics)_230,{\displaystyle r_{1}}
+Group_(mathematics)_231,{\displaystyle \mathrm {D} _{4}}
+Group_(mathematics)_232,{\displaystyle f_{\mathrm {h} }\circ r_{1}=f_{\mathrm {c} }}
+Group_(mathematics)_233,{\displaystyle r_{1}\circ f_{\mathrm {h} }=f_{\mathrm {d} }}
+Group_(mathematics)_234,{\displaystyle \mathrm {D} _{4}}
+Group_(mathematics)_235,{\displaystyle \theta ^{n}=1}
+Group_(mathematics)_236,{\displaystyle a\cdot b\cdot c=(a\cdot b)\cdot c=a\cdot (b\cdot c)}
+Group_(mathematics)_237,{\displaystyle e}
+Group_(mathematics)_238,{\displaystyle f}
+Group_(mathematics)_239,{\displaystyle e=e\cdot f=f}
+Group_(mathematics)_240,{\displaystyle a}
+Group_(mathematics)_241,{\displaystyle b}
+Group_(mathematics)_242,{\displaystyle c}
+Group_(mathematics)_243,{\displaystyle b}
+Group_(mathematics)_244,{\displaystyle c}
+Group_(mathematics)_245,{\displaystyle {\begin{aligned}b&=b\cdot e&&{\text{(}}e{\text{ is the identity element)}}\\&=b\cdot (a\cdot c)&&{\text{(}}c{\text{ is an inverse)}}\\&=(b\cdot a)\cdot c&&{\text{(associativity)}}\\&=e\cdot c&&{\text{(}}b{\text{ is an inverse)}}\\&=c&&{\text{(}}e{\text{ is the identity element)}}\end{aligned}}}
+Group_(mathematics)_246,{\displaystyle a}
+Group_(mathematics)_247,{\displaystyle b}
+Group_(mathematics)_248,{\displaystyle G}
+Group_(mathematics)_249,{\displaystyle x}
+Group_(mathematics)_250,{\displaystyle G}
+Group_(mathematics)_251,{\displaystyle a\cdot x=b}
+Group_(mathematics)_252,{\displaystyle a^{-1}\cdot b}
+Group_(mathematics)_253,{\displaystyle a}
+Group_(mathematics)_254,{\displaystyle G}
+Group_(mathematics)_255,{\displaystyle G\to G}
+Group_(mathematics)_256,{\displaystyle x}
+Group_(mathematics)_257,{\displaystyle a\cdot x}
+Group_(mathematics)_258,{\displaystyle a}
+Group_(mathematics)_259,{\displaystyle a}
+Group_(mathematics)_260,{\displaystyle a}
+Group_(mathematics)_261,{\displaystyle b}
+Group_(mathematics)_262,{\displaystyle x\cdot a=b}
+Group_(mathematics)_263,{\displaystyle b\cdot a^{-1}}
+Group_(mathematics)_264,{\displaystyle a}
+Group_(mathematics)_265,{\displaystyle G\to G}
+Group_(mathematics)_266,{\displaystyle x}
+Group_(mathematics)_267,{\displaystyle x\cdot a}
+Group_(mathematics)_268,{\displaystyle a}
+Group_(mathematics)_269,{\displaystyle a}
+Group_(mathematics)_270,{\displaystyle e}
+Group_(mathematics)_271,{\displaystyle e\cdot f=f}
+Group_(mathematics)_272,{\displaystyle f^{-1}}
+Group_(mathematics)_273,{\displaystyle f}
+Group_(mathematics)_274,{\displaystyle f^{-1}\cdot f=e}
+Group_(mathematics)_275,{\displaystyle {\begin{aligned}f\cdot f^{-1}&=e\cdot (f\cdot f^{-1})&&{\text{(left identity)}}\\&=((f^{-1})^{-1}\cdot f^{-1})\cdot (f\cdot f^{-1})&&{\text{(left inverse)}}\\&=(f^{-1})^{-1}\cdot ((f^{-1}\cdot f)\cdot f^{-1})&&{\text{(associativity)}}\\&=(f^{-1})^{-1}\cdot (e\cdot f^{-1})&&{\text{(left inverse)}}\\&=(f^{-1})^{-1}\cdot f^{-1}&&{\text{(left identity)}}\\&=e&&{\text{(left inverse)}}\end{aligned}}}
+Group_(mathematics)_276,{\displaystyle {\begin{aligned}f\cdot e&=f\cdot (f^{-1}\cdot f)&&{\text{(left inverse)}}\\&=(f\cdot f^{-1})\cdot f&&{\text{(associativity)}}\\&=e\cdot f&&{\text{(right inverse)}}\\&=f&&{\text{(left identity)}}\end{aligned}}}
+Group_(mathematics)_277,"{\displaystyle G=\{e,f\}}"
+Group_(mathematics)_278,{\displaystyle \cdot }
+Group_(mathematics)_279,{\displaystyle e\cdot e=f\cdot e=e}
+Group_(mathematics)_280,{\displaystyle e\cdot f=f\cdot f=f}
+Group_(mathematics)_281,{\displaystyle e}
+Group_(mathematics)_282,{\displaystyle e}
+Group_(mathematics)_283,"{\displaystyle (G,\cdot )}"
+Group_(mathematics)_284,"{\displaystyle X=\{x,y,z\}}"
+Group_(mathematics)_285,{\displaystyle X}
+Group_(mathematics)_286,{\displaystyle x}
+Group_(mathematics)_287,{\displaystyle y}
+Group_(mathematics)_288,{\displaystyle z}
+Group_(mathematics)_289,{\displaystyle x\in X}
+Group_(mathematics)_290,{\displaystyle x}
+Group_(mathematics)_291,{\displaystyle X}
+Group_(mathematics)_292,{\displaystyle f:X\to Y}
+Group_(mathematics)_293,{\displaystyle f}
+Group_(mathematics)_294,{\displaystyle X}
+Group_(mathematics)_295,{\displaystyle Y}
+Group_(mathematics)_296,"{\displaystyle (G,\cdot )}"
+Group_(mathematics)_297,"{\displaystyle (H,*)}"
+Group_(mathematics)_298,{\displaystyle \varphi :G\to H}
+Group_(mathematics)_299,{\displaystyle \varphi (a\cdot b)=\varphi (a)*\varphi (b)}
+Group_(mathematics)_300,{\displaystyle a}
+Group_(mathematics)_301,{\displaystyle b}
+Group_(mathematics)_302,{\displaystyle G}
+Group_(mathematics)_303,{\displaystyle \varphi }
+Group_(mathematics)_304,{\displaystyle \varphi (1_{G})=1_{H}}
+Group_(mathematics)_305,{\displaystyle \varphi (a^{-1})=\varphi (a)^{-1}}
+Group_(mathematics)_306,{\displaystyle a}
+Group_(mathematics)_307,{\displaystyle G}
+Group_(mathematics)_308,{\displaystyle G}
+Group_(mathematics)_309,{\displaystyle \iota _{G}:G\to G}
+Group_(mathematics)_310,{\displaystyle G}
+Group_(mathematics)_311,{\displaystyle \varphi :G\to H}
+Group_(mathematics)_312,{\displaystyle \psi :H\to G}
+Group_(mathematics)_313,{\displaystyle \psi \circ \varphi =\iota _{G}}
+Group_(mathematics)_314,{\displaystyle \varphi \circ \psi =\iota _{H}}
+Group_(mathematics)_315,{\displaystyle \psi {\bigl (}\varphi (g){\bigr )}=g}
+Group_(mathematics)_316,{\displaystyle g}
+Group_(mathematics)_317,{\displaystyle G}
+Group_(mathematics)_318,{\displaystyle \varphi {\bigl (}\psi (h){\bigr )}=h}
+Group_(mathematics)_319,{\displaystyle h}
+Group_(mathematics)_320,{\displaystyle H}
+Group_(mathematics)_321,{\displaystyle G}
+Group_(mathematics)_322,{\displaystyle H}
+Group_(mathematics)_323,{\displaystyle \varphi :G\to H}
+Group_(mathematics)_324,{\displaystyle H}
+Group_(mathematics)_325,{\displaystyle G}
+Group_(mathematics)_326,{\displaystyle \varphi }
+Group_(mathematics)_327,{\displaystyle G}
+Group_(mathematics)_328,{\displaystyle H}
+Group_(mathematics)_329,{\displaystyle \phi :G'\to G}
+Group_(mathematics)_330,{\displaystyle G'\;{\stackrel {\sim }{\to }}\;H\hookrightarrow G}
+Group_(mathematics)_331,{\displaystyle H}
+Group_(mathematics)_332,{\displaystyle G}
+Group_(mathematics)_333,{\displaystyle H}
+Group_(mathematics)_334,{\displaystyle G}
+Group_(mathematics)_335,{\displaystyle G}
+Group_(mathematics)_336,{\displaystyle G}
+Group_(mathematics)_337,{\displaystyle H}
+Group_(mathematics)_338,{\displaystyle h_{1}}
+Group_(mathematics)_339,{\displaystyle h_{2}}
+Group_(mathematics)_340,{\displaystyle H}
+Group_(mathematics)_341,{\displaystyle h_{1}\cdot h_{2}}
+Group_(mathematics)_342,{\displaystyle h_{1}^{-1}}
+Group_(mathematics)_343,{\displaystyle H}
+Group_(mathematics)_344,{\displaystyle G}
+Group_(mathematics)_345,{\displaystyle H}
+Group_(mathematics)_346,{\displaystyle H\to G}
+Group_(mathematics)_347,"{\displaystyle R=\{\mathrm {id} ,r_{1},r_{2},r_{3}\}}"
+Group_(mathematics)_348,{\displaystyle H}
+Group_(mathematics)_349,{\displaystyle G}
+Group_(mathematics)_350,{\displaystyle g^{-1}\cdot h\in H}
+Group_(mathematics)_351,{\displaystyle g}
+Group_(mathematics)_352,{\displaystyle h}
+Group_(mathematics)_353,{\displaystyle H}
+Group_(mathematics)_354,{\displaystyle S}
+Group_(mathematics)_355,{\displaystyle G}
+Group_(mathematics)_356,{\displaystyle S}
+Group_(mathematics)_357,{\displaystyle S}
+Group_(mathematics)_358,{\displaystyle G}
+Group_(mathematics)_359,{\displaystyle S}
+Group_(mathematics)_360,{\displaystyle r_{2}}
+Group_(mathematics)_361,{\displaystyle f_{\mathrm {v} }}
+Group_(mathematics)_362,{\displaystyle \mathrm {id} }
+Group_(mathematics)_363,{\displaystyle f_{\mathrm {h} }=f_{\mathrm {v} }\cdot r_{2}}
+Group_(mathematics)_364,{\displaystyle H}
+Group_(mathematics)_365,{\displaystyle H}
+Group_(mathematics)_366,{\displaystyle g}
+Group_(mathematics)_367,{\displaystyle H}
+Group_(mathematics)_368,{\displaystyle g}
+Group_(mathematics)_369,{\displaystyle gH=\{g\cdot h\mid h\in H\}}
+Group_(mathematics)_370,{\displaystyle Hg=\{h\cdot g\mid h\in H\}}
+Group_(mathematics)_371,{\displaystyle H}
+Group_(mathematics)_372,{\displaystyle G}
+Group_(mathematics)_373,{\displaystyle G}
+Group_(mathematics)_374,{\displaystyle g_{1}H=g_{2}H}
+Group_(mathematics)_375,{\displaystyle g_{1}^{-1}\cdot g_{2}\in H}
+Group_(mathematics)_376,{\displaystyle H}
+Group_(mathematics)_377,{\displaystyle H}
+Group_(mathematics)_378,{\displaystyle H}
+Group_(mathematics)_379,{\displaystyle g}
+Group_(mathematics)_380,{\displaystyle G}
+Group_(mathematics)_381,{\displaystyle gH=Hg}
+Group_(mathematics)_382,{\displaystyle H}
+Group_(mathematics)_383,{\displaystyle \mathrm {D} _{4}}
+Group_(mathematics)_384,{\displaystyle R}
+Group_(mathematics)_385,{\displaystyle gR}
+Group_(mathematics)_386,{\displaystyle R}
+Group_(mathematics)_387,{\displaystyle g}
+Group_(mathematics)_388,{\displaystyle R}
+Group_(mathematics)_389,"{\displaystyle U=f_{\mathrm {c} }R=\{f_{\mathrm {c} },f_{\mathrm {d} },f_{\mathrm {v} },f_{\mathrm {h} }\}}"
+Group_(mathematics)_390,{\displaystyle \mathrm {D} _{4}}
+Group_(mathematics)_391,{\displaystyle R}
+Group_(mathematics)_392,{\displaystyle f_{\mathrm {c} }R=U=Rf_{\mathrm {c} }}
+Group_(mathematics)_393,{\displaystyle \mathrm {D} _{4}}
+Group_(mathematics)_394,{\displaystyle f_{\mathrm {h} }R=f_{\mathrm {v} }R=f_{\mathrm {d} }R=f_{\mathrm {c} }R}
+Group_(mathematics)_395,{\displaystyle N}
+Group_(mathematics)_396,{\displaystyle G}
+Group_(mathematics)_397,{\displaystyle G/N=\{gN\mid g\in G\}}
+Group_(mathematics)_398,{\displaystyle G/N}
+Group_(mathematics)_399,{\displaystyle G\to G/N}
+Group_(mathematics)_400,{\displaystyle g}
+Group_(mathematics)_401,{\displaystyle gN}
+Group_(mathematics)_402,{\displaystyle gN}
+Group_(mathematics)_403,{\displaystyle hN}
+Group_(mathematics)_404,{\displaystyle (gh)N}
+Group_(mathematics)_405,{\displaystyle eN=N}
+Group_(mathematics)_406,{\displaystyle G/N}
+Group_(mathematics)_407,{\displaystyle gN}
+Group_(mathematics)_408,{\displaystyle (gN)^{-1}=\left(g^{-1}\right)N}
+Group_(mathematics)_409,{\displaystyle G/N}
+Group_(mathematics)_410,{\displaystyle G}
+Group_(mathematics)_411,{\displaystyle N}
+Group_(mathematics)_412,{\displaystyle \mathrm {D} _{4}/R}
+Group_(mathematics)_413,{\displaystyle \cdot }
+Group_(mathematics)_414,{\displaystyle R}
+Group_(mathematics)_415,{\displaystyle U}
+Group_(mathematics)_416,{\displaystyle R}
+Group_(mathematics)_417,{\displaystyle R}
+Group_(mathematics)_418,{\displaystyle U}
+Group_(mathematics)_419,{\displaystyle U}
+Group_(mathematics)_420,{\displaystyle U}
+Group_(mathematics)_421,{\displaystyle R}
+Group_(mathematics)_422,{\displaystyle \mathrm {D} _{4}/R}
+Group_(mathematics)_423,{\displaystyle R}
+Group_(mathematics)_424,{\displaystyle U=f_{\mathrm {v} }R}
+Group_(mathematics)_425,{\displaystyle U\cdot U=f_{\mathrm {v} }R\cdot f_{\mathrm {v} }R=(f_{\mathrm {v} }\cdot f_{\mathrm {v} })R=R}
+Group_(mathematics)_426,"{\displaystyle R=\{\mathrm {id} ,r_{1},r_{2},r_{3}\}}"
+Group_(mathematics)_427,{\displaystyle \mathrm {D} _{4}/R}
+Group_(mathematics)_428,{\displaystyle \mathrm {D} _{4}}
+Group_(mathematics)_429,{\displaystyle \mathrm {D} _{4}}
+Group_(mathematics)_430,{\displaystyle \phi :G\to H}
+Group_(mathematics)_431,{\displaystyle G\to G/\ker \phi \;{\stackrel {\sim }{\to }}\;H}
+Group_(mathematics)_432,{\displaystyle \mathrm {D} _{4}}
+Group_(mathematics)_433,{\displaystyle r_{1}}
+Group_(mathematics)_434,{\displaystyle f_{\mathrm {v} }}
+Group_(mathematics)_435,{\displaystyle \mathrm {D} _{4}}
+Group_(mathematics)_436,{\displaystyle \phi }
+Group_(mathematics)_437,"{\displaystyle \langle r,f\rangle }"
+Group_(mathematics)_438,{\displaystyle \mathrm {D} _{4}}
+Group_(mathematics)_439,{\displaystyle r}
+Group_(mathematics)_440,{\displaystyle r_{1}}
+Group_(mathematics)_441,{\displaystyle f}
+Group_(mathematics)_442,{\displaystyle f_{1}}
+Group_(mathematics)_443,{\displaystyle \ker \phi }
+Group_(mathematics)_444,"{\displaystyle r^{4},f^{2},(r\cdot f)^{2}}"
+Group_(mathematics)_445,{\displaystyle \ker \phi }
+Group_(mathematics)_446,"{\displaystyle \langle r,f\rangle }"
+Group_(mathematics)_447,"{\displaystyle \langle r,f\mid r^{4}=f^{2}=(r\cdot f)^{2}=1\rangle }"
+Group_(mathematics)_448,{\displaystyle \mathrm {D} _{4}}
+Group_(mathematics)_449,{\displaystyle \phi }
+Group_(mathematics)_450,"{\displaystyle \langle r,f\mid r^{4}=f^{2}=(r\cdot f)^{2}=1\rangle \to \mathrm {D} _{4}}"
+Group_(mathematics)_451,{\displaystyle \mathbb {Z} }
+Group_(mathematics)_452,{\displaystyle k}
+Group_(mathematics)_453,{\displaystyle m}
+Group_(mathematics)_454,{\displaystyle m\neq k}
+Group_(mathematics)_455,{\displaystyle \mathbb {Z} }
+Group_(mathematics)_456,"{\displaystyle \left(\mathbb {Z} ,+\right)}"
+Group_(mathematics)_457,"{\displaystyle \left(\mathbb {Z} ,\cdot \right)}"
+Group_(mathematics)_458,{\displaystyle a=2}
+Group_(mathematics)_459,{\displaystyle a\cdot b=1}
+Group_(mathematics)_460,{\displaystyle b={\tfrac {1}{2}}}
+Group_(mathematics)_461,{\displaystyle \mathbb {Z} }
+Group_(mathematics)_462,{\displaystyle {\frac {a}{b}}.}
+Group_(mathematics)_463,{\displaystyle b}
+Group_(mathematics)_464,{\displaystyle \mathbb {Q} }
+Group_(mathematics)_465,"{\displaystyle \left(\mathbb {Q} ,\cdot \right)}"
+Group_(mathematics)_466,{\displaystyle x}
+Group_(mathematics)_467,{\displaystyle x\cdot 0=1}
+Group_(mathematics)_468,"{\displaystyle \left(\mathbb {Q} ,\cdot \right)}"
+Group_(mathematics)_470,{\displaystyle \mathbb {Q} ^{\times }}
+Group_(mathematics)_471,{\displaystyle a/b}
+Group_(mathematics)_472,{\displaystyle b/a}
+Group_(mathematics)_473,{\displaystyle \mathbb {Q} }
+Group_(mathematics)_474,{\displaystyle n}
+Group_(mathematics)_475,{\displaystyle a}
+Group_(mathematics)_476,{\displaystyle b}
+Group_(mathematics)_477,{\displaystyle n}
+Group_(mathematics)_478,{\displaystyle a\equiv b{\pmod {n}}}
+Group_(mathematics)_479,{\displaystyle 0}
+Group_(mathematics)_480,{\displaystyle n-1}
+Group_(mathematics)_481,{\displaystyle 0}
+Group_(mathematics)_482,{\displaystyle n-1}
+Group_(mathematics)_483,{\displaystyle \mathrm {Z} _{n}}
+Group_(mathematics)_484,"{\displaystyle (\mathbb {Z} /n\mathbb {Z} ,+)}"
+Group_(mathematics)_485,{\displaystyle 0}
+Group_(mathematics)_486,{\displaystyle n-a}
+Group_(mathematics)_487,{\displaystyle a}
+Group_(mathematics)_488,{\displaystyle 9}
+Group_(mathematics)_489,{\displaystyle 4}
+Group_(mathematics)_490,{\displaystyle 1}
+Group_(mathematics)_491,{\displaystyle 9+4}
+Group_(mathematics)_492,{\displaystyle 1}
+Group_(mathematics)_493,{\displaystyle 12}
+Group_(mathematics)_494,{\displaystyle 9+4\equiv 1{\pmod {12}}.}
+Group_(mathematics)_495,{\displaystyle p}
+Group_(mathematics)_496,{\displaystyle p}
+Group_(mathematics)_497,{\displaystyle 1}
+Group_(mathematics)_498,{\displaystyle p-1}
+Group_(mathematics)_499,{\displaystyle p}
+Group_(mathematics)_500,{\displaystyle p}
+Group_(mathematics)_501,{\displaystyle p=5}
+Group_(mathematics)_502,"{\displaystyle 1,2,3,4}"
+Group_(mathematics)_503,{\displaystyle 4\cdot 4\equiv 1{\bmod {5}}}
+Group_(mathematics)_504,{\displaystyle 16}
+Group_(mathematics)_505,{\displaystyle 1}
+Group_(mathematics)_506,{\displaystyle 5}
+Group_(mathematics)_507,{\displaystyle 1}
+Group_(mathematics)_508,{\displaystyle p}
+Group_(mathematics)_509,{\displaystyle p}
+Group_(mathematics)_510,{\displaystyle 1}
+Group_(mathematics)_511,{\displaystyle a}
+Group_(mathematics)_512,{\displaystyle p}
+Group_(mathematics)_513,{\displaystyle b}
+Group_(mathematics)_514,"{\displaystyle a\cdot b\equiv 1{\pmod {p}},}"
+Group_(mathematics)_515,{\displaystyle p}
+Group_(mathematics)_516,{\displaystyle a\cdot b-1}
+Group_(mathematics)_517,{\displaystyle b}
+Group_(mathematics)_518,"{\displaystyle \gcd(a,p)}"
+Group_(mathematics)_519,{\displaystyle 1}
+Group_(mathematics)_520,{\displaystyle p=5}
+Group_(mathematics)_521,{\displaystyle 4}
+Group_(mathematics)_522,{\displaystyle 4}
+Group_(mathematics)_523,{\displaystyle 3}
+Group_(mathematics)_524,{\displaystyle 2}
+Group_(mathematics)_525,{\displaystyle 3\cdot 2=6\equiv 1{\bmod {5}}}
+Group_(mathematics)_527,{\displaystyle \mathbb {Z} /p\mathbb {Z} }
+Group_(mathematics)_528,{\displaystyle \mathbb {F} _{p}^{\times }}
+Group_(mathematics)_529,{\displaystyle z}
+Group_(mathematics)_530,{\displaystyle z^{2}}
+Group_(mathematics)_531,{\displaystyle z}
+Group_(mathematics)_532,{\displaystyle z^{2}}
+Group_(mathematics)_533,{\displaystyle a}
+Group_(mathematics)_534,"{\displaystyle \dots ,a^{-3},a^{-2},a^{-1},a^{0},a,a^{2},a^{3},\dots ,}"
+Group_(mathematics)_535,{\displaystyle a^{2}}
+Group_(mathematics)_536,{\displaystyle a\cdot a}
+Group_(mathematics)_537,{\displaystyle a^{-3}}
+Group_(mathematics)_538,{\displaystyle a^{-1}\cdot a^{-1}\cdot a^{-1}=(a\cdot a\cdot a)^{-1}}
+Group_(mathematics)_539,{\displaystyle a}
+Group_(mathematics)_540,"{\displaystyle \dots ,(-a)+(-a),-a,0,a,a+a,\dots .}"
+Group_(mathematics)_541,"{\displaystyle (\mathbb {Z} /n\mathbb {Z} ,+)}"
+Group_(mathematics)_542,{\displaystyle 1}
+Group_(mathematics)_543,{\displaystyle 1}
+Group_(mathematics)_544,{\displaystyle n}
+Group_(mathematics)_545,{\displaystyle n}
+Group_(mathematics)_546,{\displaystyle z}
+Group_(mathematics)_547,{\displaystyle z^{n}=1}
+Group_(mathematics)_548,{\displaystyle n}
+Group_(mathematics)_549,{\displaystyle n=6}
+Group_(mathematics)_550,{\displaystyle z}
+Group_(mathematics)_551,{\displaystyle \mathbb {F} _{p}^{\times }}
+Group_(mathematics)_552,{\displaystyle p}
+Group_(mathematics)_553,{\displaystyle p=5}
+Group_(mathematics)_554,{\displaystyle 3}
+Group_(mathematics)_555,{\displaystyle 3^{1}=3}
+Group_(mathematics)_556,{\displaystyle 3^{2}=9\equiv 4}
+Group_(mathematics)_557,{\displaystyle 3^{3}\equiv 2}
+Group_(mathematics)_558,{\displaystyle 3^{4}\equiv 1}
+Group_(mathematics)_559,{\displaystyle a}
+Group_(mathematics)_560,{\displaystyle a}
+Group_(mathematics)_561,"{\displaystyle (\mathbb {Z} ,+)}"
+Group_(mathematics)_562,{\displaystyle X}
+Group_(mathematics)_563,{\displaystyle X}
+Group_(mathematics)_564,{\displaystyle x}
+Group_(mathematics)_565,"{\displaystyle \mathrm {GL} (n,\mathbb {R} )}"
+Group_(mathematics)_566,{\displaystyle n}
+Group_(mathematics)_567,{\displaystyle n}
+Group_(mathematics)_568,{\displaystyle \mathrm {SO} (n)}
+Group_(mathematics)_569,{\displaystyle n}
+Group_(mathematics)_570,{\displaystyle \mathbb {R} ^{3}}
+Group_(mathematics)_571,{\displaystyle G}
+Group_(mathematics)_572,{\displaystyle n}
+Group_(mathematics)_573,"{\displaystyle \rho :G\to \mathrm {GL} (n,\mathbb {R} )}"
+Group_(mathematics)_574,{\displaystyle ax^{2}+bx+c=0}
+Group_(mathematics)_575,{\displaystyle x={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}.}
+Group_(mathematics)_576,{\displaystyle \pm }
+Group_(mathematics)_577,{\displaystyle +}
+Group_(mathematics)_578,{\displaystyle -}
+Group_(mathematics)_579,{\displaystyle \mathrm {S} _{N}}
+Group_(mathematics)_580,{\displaystyle N}
+Group_(mathematics)_581,{\displaystyle \mathrm {S} _{3}}
+Group_(mathematics)_582,{\displaystyle \mathrm {S} _{N}}
+Group_(mathematics)_583,{\displaystyle N}
+Group_(mathematics)_584,{\displaystyle \mathrm {S} _{3}}
+Group_(mathematics)_585,{\displaystyle a}
+Group_(mathematics)_586,{\displaystyle G}
+Group_(mathematics)_587,{\displaystyle n}
+Group_(mathematics)_588,{\displaystyle a^{n}=e}
+Group_(mathematics)_589,{\displaystyle a^{n}}
+Group_(mathematics)_590,"{\displaystyle \underbrace {a\cdots a} _{n{\text{ factors}}},}"
+Group_(mathematics)_591,{\displaystyle \cdot }
+Group_(mathematics)_592,{\displaystyle n}
+Group_(mathematics)_593,{\displaystyle a}
+Group_(mathematics)_594,{\displaystyle \cdot }
+Group_(mathematics)_595,{\displaystyle a^{n}}
+Group_(mathematics)_596,{\displaystyle n}
+Group_(mathematics)_597,{\displaystyle a}
+Group_(mathematics)_598,{\displaystyle n}
+Group_(mathematics)_599,{\displaystyle a}
+Group_(mathematics)_600,{\displaystyle G}
+Group_(mathematics)_601,{\displaystyle H}
+Group_(mathematics)_602,{\displaystyle G}
+Group_(mathematics)_603,{\displaystyle \mathrm {D} _{4}}
+Group_(mathematics)_604,{\displaystyle r_{1}}
+Group_(mathematics)_605,{\displaystyle R}
+Group_(mathematics)_606,{\displaystyle f_{\mathrm {v} }}
+Group_(mathematics)_607,{\displaystyle \mathbb {F} _{p}^{\times }}
+Group_(mathematics)_608,{\displaystyle p}
+Group_(mathematics)_609,{\displaystyle p-1}
+Group_(mathematics)_610,{\displaystyle p}
+Group_(mathematics)_611,{\displaystyle \mathrm {Z} _{p}}
+Group_(mathematics)_612,{\displaystyle p^{2}}
+Group_(mathematics)_613,{\displaystyle \mathrm {Z} _{p^{2}}}
+Group_(mathematics)_614,{\displaystyle \mathrm {Z} _{p}\times \mathrm {Z} _{p}}
+Group_(mathematics)_615,{\displaystyle p^{3}}
+Group_(mathematics)_616,{\displaystyle \mathrm {D} _{4}}
+Group_(mathematics)_617,{\displaystyle 2^{3}}
+Group_(mathematics)_618,{\displaystyle G}
+Group_(mathematics)_619,{\displaystyle N}
+Group_(mathematics)_620,{\displaystyle \{1\}}
+Group_(mathematics)_621,{\displaystyle G}
+Group_(mathematics)_622,{\displaystyle G}
+Group_(mathematics)_623,{\displaystyle N}
+Group_(mathematics)_624,{\displaystyle G/N}
+Group_(mathematics)_625,{\displaystyle G}
+Group_(mathematics)_626,{\displaystyle G\times G\rightarrow G}
+Group_(mathematics)_627,{\displaystyle G\rightarrow G}
+Group_(mathematics)_628,{\displaystyle g\cdot h}
+Group_(mathematics)_629,{\displaystyle g^{-1}}
+Group_(mathematics)_630,{\displaystyle g}
+Group_(mathematics)_631,{\displaystyle h}
+Group_(mathematics)_632,{\displaystyle n}
+Group_(mathematics)_633,{\displaystyle n}
+Group_(mathematics)_634,"{\displaystyle \det(A)\neq 0,}"
+Group_(mathematics)_635,{\displaystyle A}
+Group_(mathematics)_636,{\displaystyle n}
+Group_(mathematics)_637,{\displaystyle n}
+Group_(mathematics)_638,{\displaystyle \mathbb {N} }
+Group_(mathematics)_642,{\displaystyle M}
+Group_(mathematics)_643,{\displaystyle M}
+Group_(mathematics)_644,{\displaystyle x}
+Group_(mathematics)_645,"{\displaystyle \operatorname {Hom} (x,x)}"
+Group_(mathematics)_646,{\displaystyle G}
+Group_(mathematics)_647,{\displaystyle x}
+Group_(mathematics)_648,"{\displaystyle \operatorname {Hom} (x,x)\simeq G}"
+Group_(mathematics)_649,{\displaystyle fg}
+Group_(mathematics)_650,{\displaystyle f}
+Group_(mathematics)_651,{\displaystyle g}
+Group_(mathematics)_652,{\displaystyle \mathbb {N} }
+Group_(mathematics)_653,{\displaystyle \mathbb {Z} }
+Group_(mathematics)_654,{\displaystyle \mathbb {Q} }
+Group_(mathematics)_655,{\displaystyle \mathbb {R} }
+Group_(mathematics)_656,{\displaystyle \mathbb {C} }
+Group_(mathematics)_657,"{\displaystyle \mathbb {Z} /n\mathbb {Z} =\{0,1,2\}}"
+Group_(mathematics)_658,{\displaystyle -a}
+Group_(mathematics)_659,{\displaystyle -a}
+Group_(mathematics)_660,{\displaystyle 1/a}
+Group_(mathematics)_661,{\displaystyle a\neq 0}

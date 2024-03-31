@@ -1,0 +1,43 @@
+name,latex
+Euler%27s_Identity_0,{\displaystyle e^{i\pi }+1=0}
+Euler%27s_Identity_1,{\displaystyle e}
+Euler%27s_Identity_2,{\displaystyle i}
+Euler%27s_Identity_3,{\displaystyle i^{2}=-1}
+Euler%27s_Identity_4,{\displaystyle \pi }
+Euler%27s_Identity_5,{\displaystyle e^{ix}=\cos x+i\sin x}
+Euler%27s_Identity_6,{\displaystyle x=\pi }
+Euler%27s_Identity_7,{\displaystyle i^{2}=-1}
+Euler%27s_Identity_8,{\displaystyle e^{i\pi }}
+Euler%27s_Identity_9,{\displaystyle e^{i\pi }}
+Euler%27s_Identity_10,{\displaystyle e^{z}}
+Euler%27s_Identity_11,{\displaystyle e^{z}}
+Euler%27s_Identity_12,{\displaystyle e^{z}=\lim _{n\to \infty }\left(1+{\frac {z}{n}}\right)^{n}.}
+Euler%27s_Identity_13,{\displaystyle (1+i\pi /n)^{n}}
+Euler%27s_Identity_14,{\displaystyle e^{ix}=\cos x+i\sin x}
+Euler%27s_Identity_15,{\displaystyle e^{i\pi }=\cos \pi +i\sin \pi .}
+Euler%27s_Identity_16,{\displaystyle \cos \pi =-1}
+Euler%27s_Identity_17,"{\displaystyle \sin \pi =0,}"
+Euler%27s_Identity_18,"{\displaystyle e^{i\pi }=-1+0i,}"
+Euler%27s_Identity_19,{\displaystyle e^{i\pi }+1=0.}
+Euler%27s_Identity_20,{\displaystyle z=x+iy}
+Euler%27s_Identity_21,"{\displaystyle (x,y)}"
+Euler%27s_Identity_22,"{\displaystyle (r,\theta )}"
+Euler%27s_Identity_23,{\displaystyle \theta }
+Euler%27s_Identity_24,"{\displaystyle (r\cos \theta ,r\sin \theta )}"
+Euler%27s_Identity_25,{\displaystyle z=r(\cos \theta +i\sin \theta )}
+Euler%27s_Identity_26,{\displaystyle z=re^{i\theta }}
+Euler%27s_Identity_27,{\displaystyle -1=e^{i\pi }}
+Euler%27s_Identity_28,{\displaystyle e^{i\pi }}
+Euler%27s_Identity_29,{\displaystyle re^{i\theta }}
+Euler%27s_Identity_30,{\displaystyle \theta =\pi }
+Euler%27s_Identity_31,{\displaystyle \pi }
+Euler%27s_Identity_32,{\displaystyle e^{i\theta }}
+Euler%27s_Identity_33,{\displaystyle \theta }
+Euler%27s_Identity_34,{\displaystyle \pi }
+Euler%27s_Identity_35,{\displaystyle \theta }
+Euler%27s_Identity_36,{\displaystyle 2\pi }
+Euler%27s_Identity_37,"{\displaystyle e^{2\pi i}=1,}"
+Euler%27s_Identity_38,{\displaystyle \sum _{k=0}^{n-1}e^{2\pi i{\frac {k}{n}}}=0.}
+Euler%27s_Identity_39,{\displaystyle e^{{\frac {1}{\sqrt {3}}}(i\pm j\pm k)\pi }+1=0.}
+Euler%27s_Identity_40,{\displaystyle e^{\left(a_{1}i+a_{2}j+a_{3}k\right)\pi }+1=0.}
+Euler%27s_Identity_41,{\displaystyle e^{\left(a_{1}i_{1}+a_{2}i_{2}+\dots +a_{7}i_{7}\right)\pi }+1=0.}

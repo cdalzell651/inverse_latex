@@ -1,0 +1,27 @@
+name,latex
+Statistical_ensemble_(mathematical_physics)_0,{\displaystyle {\hat {\rho }}}
+Statistical_ensemble_(mathematical_physics)_1,{\displaystyle {\hat {X}}}
+Statistical_ensemble_(mathematical_physics)_2,{\displaystyle \rho }
+Statistical_ensemble_(mathematical_physics)_3,{\displaystyle \langle X\rangle =\operatorname {Tr} ({\hat {X}}\rho ).}
+Statistical_ensemble_(mathematical_physics)_4,{\displaystyle {\hat {X}}}
+Statistical_ensemble_(mathematical_physics)_5,{\displaystyle {\hat {X}}^{2}}
+Statistical_ensemble_(mathematical_physics)_6,{\displaystyle {\hat {X}}{\hat {Y}}}
+Statistical_ensemble_(mathematical_physics)_7,{\displaystyle \operatorname {Tr} {\hat {\rho }}=1}
+Statistical_ensemble_(mathematical_physics)_8,{\displaystyle d{\hat {\rho }}/dt=0}
+Statistical_ensemble_(mathematical_physics)_9,{\displaystyle {\hat {H}}}
+Statistical_ensemble_(mathematical_physics)_10,{\displaystyle {\hat {N}}}
+Statistical_ensemble_(mathematical_physics)_11,"{\displaystyle {\hat {\rho }}=\sum _{i}P_{i}|\psi _{i}\rangle \langle \psi _{i}|,}"
+Statistical_ensemble_(mathematical_physics)_12,"{\displaystyle \langle X\rangle =\sum _{N_{1}=0}^{\infty }\ldots \sum _{N_{s}=0}^{\infty }\int \ldots \int \rho X\,dp_{1}\ldots dq_{n}.}"
+Statistical_ensemble_(mathematical_physics)_13,"{\displaystyle \sum _{N_{1}=0}^{\infty }\ldots \sum _{N_{s}=0}^{\infty }\int \ldots \int \rho \,dp_{1}\ldots dq_{n}=1.}"
+Statistical_ensemble_(mathematical_physics)_14,"{\displaystyle \rho ={\frac {1}{h^{n}C}}P,}"
+Statistical_ensemble_(mathematical_physics)_15,{\displaystyle C=N_{1}!N_{2}!\ldots N_{s}!.}
+Statistical_ensemble_(mathematical_physics)_16,"{\displaystyle {\bar {A}}={\frac {\int {Ae^{-\beta H(q_{1},q_{2},\dots ,q_{M},p_{1},p_{2},\dots ,p_{N})}\,d\tau }}{\int {e^{-\beta H(q_{1},q_{2},\dots ,q_{M},p_{1},p_{2},\dots ,p_{N})}\,d\tau }}},}"
+Statistical_ensemble_(mathematical_physics)_17,{\displaystyle {\bar {A}}}
+Statistical_ensemble_(mathematical_physics)_18,{\displaystyle \beta }
+Statistical_ensemble_(mathematical_physics)_19,{\displaystyle {\frac {1}{kT}}}
+Statistical_ensemble_(mathematical_physics)_20,{\displaystyle q_{i}}
+Statistical_ensemble_(mathematical_physics)_21,{\displaystyle p_{i}}
+Statistical_ensemble_(mathematical_physics)_22,{\displaystyle d\tau }
+Statistical_ensemble_(mathematical_physics)_23,{\displaystyle {\bar {A}}={\frac {\sum _{i}A_{i}e^{-\beta E_{i}}}{\sum _{i}e^{-\beta E_{i}}}}.}
+Statistical_ensemble_(mathematical_physics)_24,"{\displaystyle \sigma (E)=\lim _{N\rightarrow \infty }{\frac {1}{N}}\sum _{k=1}^{N}\operatorname {Meas} (E,X_{k})}"
+Statistical_ensemble_(mathematical_physics)_25,{\displaystyle \sigma (E)=\operatorname {Tr} (ES).}

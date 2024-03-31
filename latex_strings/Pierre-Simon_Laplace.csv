@@ -1,0 +1,14 @@
+name,latex
+Pierre-Simon_Laplace_0,"{\displaystyle {\begin{aligned}{\frac {\partial \zeta }{\partial t}}&+{\frac {1}{a\cos(\varphi )}}\left[{\frac {\partial }{\partial \lambda }}(uD)+{\frac {\partial }{\partial \varphi }}\left(vD\cos(\varphi )\right)\right]=0,\\[2ex]{\frac {\partial u}{\partial t}}&-v\left(2\Omega \sin(\varphi )\right)+{\frac {1}{a\cos(\varphi )}}{\frac {\partial }{\partial \lambda }}\left(g\zeta +U\right)=0\qquad {\text{and}}\\[2ex]{\frac {\partial v}{\partial t}}&+u\left(2\Omega \sin(\varphi )\right)+{\frac {1}{a}}{\frac {\partial }{\partial \varphi }}\left(g\zeta +U\right)=0,\end{aligned}}}"
+Pierre-Simon_Laplace_1,{\displaystyle {\frac {1}{d}}={\frac {1}{r'}}\left[1-2\cos(\theta '-\theta ){\frac {r}{r'}}+\left({\frac {r}{r'}}\right)^{2}\right]^{-{\tfrac {1}{2}}}.}
+Pierre-Simon_Laplace_2,{\displaystyle {\frac {1}{d}}={\frac {1}{r'}}\sum _{k=0}^{\infty }P_{k}^{0}(\cos(\theta '-\theta ))\left({\frac {r}{r'}}\right)^{k}.}
+Pierre-Simon_Laplace_3,{\displaystyle \nabla ^{2}V={\partial ^{2}V \over \partial x^{2}}+{\partial ^{2}V \over \partial y^{2}}+{\partial ^{2}V \over \partial z^{2}}=0.}
+Pierre-Simon_Laplace_4,{\displaystyle {\textbf {F}}={\frac {d}{dt}}(m{\textbf {v}})}
+Pierre-Simon_Laplace_5,{\displaystyle \Pr(A_{i}\mid B)=\Pr(A_{i}){\frac {\Pr(B\mid A_{i})}{\sum _{j}\Pr(A_{j})\Pr(B\mid A_{j})}}.}
+Pierre-Simon_Laplace_6,{\displaystyle \Pr(C|A)=\sum _{i}\Pr(C|B_{i})\Pr(B_{i}|A).}
+Pierre-Simon_Laplace_7,{\displaystyle \Pr({\text{next outcome is success}})={\frac {s+1}{n+2}}}
+Pierre-Simon_Laplace_8,{\displaystyle \Pr({\text{sun will rise tomorrow}})={\frac {d+1}{d+2}}}
+Pierre-Simon_Laplace_9,"{\displaystyle z=\int X(x)e^{ax}\,dx{\text{  and  }}z=\int X(x)x^{a}\,dx.}"
+Pierre-Simon_Laplace_10,"{\displaystyle F(s)=\int f(t)e^{-st}\,dt}"
+Pierre-Simon_Laplace_11,{\displaystyle t}
+Pierre-Simon_Laplace_12,{\displaystyle s}

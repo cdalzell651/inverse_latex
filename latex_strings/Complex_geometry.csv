@@ -1,0 +1,79 @@
+name,latex
+Complex_geometry_0,{\displaystyle \mathbb {C} }
+Complex_geometry_1,{\displaystyle \mathbb {R} ^{2}}
+Complex_geometry_2,{\displaystyle X}
+Complex_geometry_3,{\displaystyle X}
+Complex_geometry_4,{\displaystyle X}
+Complex_geometry_5,{\displaystyle \mathbb {C} ^{n}}
+Complex_geometry_6,{\displaystyle n}
+Complex_geometry_7,{\displaystyle p\in X}
+Complex_geometry_8,{\displaystyle U}
+Complex_geometry_9,{\displaystyle p}
+Complex_geometry_10,{\displaystyle \varphi :U\to V}
+Complex_geometry_11,{\displaystyle V\subseteq \mathbb {C} ^{n}}
+Complex_geometry_12,"{\displaystyle (U_{1},\varphi )}"
+Complex_geometry_13,"{\displaystyle (U_{2},\psi )}"
+Complex_geometry_14,"{\displaystyle V_{1},V_{2}}"
+Complex_geometry_15,{\displaystyle \mathbb {C} ^{n}}
+Complex_geometry_16,{\displaystyle \psi \circ \varphi ^{-1}:\varphi (U_{1}\cap U_{2})\to \psi (U_{1}\cap U_{2})}
+Complex_geometry_17,{\displaystyle \mathbb {C} ^{n}}
+Complex_geometry_18,{\displaystyle \mathbb {R} ^{2n}}
+Complex_geometry_19,{\displaystyle n}
+Complex_geometry_20,{\displaystyle 2n}
+Complex_geometry_21,{\displaystyle X\subseteq \mathbb {C} ^{n}}
+Complex_geometry_22,{\displaystyle p\in X}
+Complex_geometry_23,{\displaystyle U}
+Complex_geometry_24,{\displaystyle p}
+Complex_geometry_25,"{\displaystyle f_{1},\dots ,f_{k}:U\to \mathbb {C} }"
+Complex_geometry_26,"{\displaystyle X\cap U=\{z\in U\mid f_{1}(z)=\cdots =f_{k}(z)=0\}=Z(f_{1},\dots ,f_{k})}"
+Complex_geometry_27,{\displaystyle X}
+Complex_geometry_28,{\displaystyle p\in X}
+Complex_geometry_29,"{\displaystyle (f_{1},\dots ,f_{k})}"
+Complex_geometry_30,{\displaystyle p}
+Complex_geometry_31,{\displaystyle X\subseteq \mathbb {CP} ^{n}}
+Complex_geometry_32,{\displaystyle \mathbb {CP} ^{n}}
+Complex_geometry_33,{\displaystyle X\subseteq \mathbb {C} ^{n}}
+Complex_geometry_34,{\displaystyle n}
+Complex_geometry_35,{\displaystyle X\subseteq \mathbb {CP} ^{n}}
+Complex_geometry_36,"{\displaystyle (X,{\mathcal {O}}_{X})}"
+Complex_geometry_37,{\displaystyle X}
+Complex_geometry_38,{\displaystyle \mathbb {C} ^{n}}
+Complex_geometry_39,{\displaystyle X}
+Complex_geometry_40,{\displaystyle X}
+Complex_geometry_41,{\displaystyle X^{sing}}
+Complex_geometry_42,{\displaystyle X^{nonsing}}
+Complex_geometry_43,{\displaystyle \mathbb {C} ^{n}}
+Complex_geometry_44,{\displaystyle \mathbb {CP} ^{n}}
+Complex_geometry_45,{\displaystyle X}
+Complex_geometry_46,{\displaystyle X}
+Complex_geometry_47,{\displaystyle \mathbb {C} ^{n}}
+Complex_geometry_48,{\displaystyle n}
+Complex_geometry_49,"{\displaystyle I,J,K}"
+Complex_geometry_50,{\displaystyle I^{2}=J^{2}=K^{2}=IJK=-\operatorname {Id} }
+Complex_geometry_51,"{\displaystyle K_{X}=\Lambda ^{n}T_{1,0}^{*}X}"
+Complex_geometry_52,{\displaystyle X}
+Complex_geometry_53,{\displaystyle X}
+Complex_geometry_54,{\displaystyle K_{X}^{*}}
+Complex_geometry_55,{\displaystyle \mathbb {CP} ^{n}}
+Complex_geometry_56,{\displaystyle K={\mathcal {O}}(-n-1)}
+Complex_geometry_57,{\displaystyle \mathbb {CP} ^{n}}
+Complex_geometry_58,{\displaystyle n+1}
+Complex_geometry_59,{\displaystyle n}
+Complex_geometry_60,{\displaystyle (\mathbb {C} ^{*})^{n}}
+Complex_geometry_61,{\displaystyle (\mathbb {C} ^{*})^{n}}
+Complex_geometry_62,{\displaystyle \mathbb {R} ^{n}}
+Complex_geometry_63,"{\displaystyle \operatorname {GL} (n,\mathbb {Z} )}"
+Complex_geometry_64,{\displaystyle g}
+Complex_geometry_65,{\displaystyle \mathbb {CP} ^{1}}
+Complex_geometry_66,{\displaystyle \mathbb {C} /(\mathbb {Z} +\tau \mathbb {Z} )}
+Complex_geometry_67,{\displaystyle \tau }
+Complex_geometry_68,"{\displaystyle \operatorname {PSL} (2,\mathbb {Z} )}"
+Complex_geometry_69,{\displaystyle {\mathcal {M}}_{g}}
+Complex_geometry_70,{\displaystyle \dim _{\mathbb {C} }{\mathcal {M}}_{g}=3g-3}
+Complex_geometry_71,"{\displaystyle \operatorname {Sp} (2g,\mathbb {Z} )}"
+Complex_geometry_72,{\displaystyle X}
+Complex_geometry_73,{\displaystyle \operatorname {Pic} (X)}
+Complex_geometry_74,{\displaystyle X}
+Complex_geometry_75,{\displaystyle X}
+Complex_geometry_76,{\displaystyle (S^{1})^{2g}}
+Complex_geometry_77,{\displaystyle \partial {\bar {\partial }}}

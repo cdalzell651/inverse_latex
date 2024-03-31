@@ -1,0 +1,32 @@
+name,latex
+Modelled_mathematically_0,{\displaystyle M}
+Modelled_mathematically_1,"{\displaystyle M=(Q,\Sigma ,\delta ,q_{0},F)}"
+Modelled_mathematically_2,"{\displaystyle Q=\{S_{1},S_{2}\},}"
+Modelled_mathematically_3,"{\displaystyle \Sigma =\{0,1\},}"
+Modelled_mathematically_4,"{\displaystyle q_{0}=S_{1},}"
+Modelled_mathematically_5,"{\displaystyle F=\{S_{1}\},}"
+Modelled_mathematically_6,{\displaystyle \delta }
+Modelled_mathematically_7,{\displaystyle S_{2}}
+Modelled_mathematically_8,{\displaystyle S_{1}}
+Modelled_mathematically_9,{\displaystyle S_{1}}
+Modelled_mathematically_10,{\displaystyle S_{2}}
+Modelled_mathematically_11,{\displaystyle S_{1}}
+Modelled_mathematically_12,{\displaystyle S_{2}}
+Modelled_mathematically_13,{\displaystyle M}
+Modelled_mathematically_14,"{\displaystyle S_{1},}"
+Modelled_mathematically_15,{\displaystyle M}
+Modelled_mathematically_16,{\displaystyle V\!:\mathbb {R} ^{3}\!\to \mathbb {R} }
+Modelled_mathematically_17,"{\displaystyle \mathbf {r} \!:\mathbb {R} \to \mathbb {R} ^{3},}"
+Modelled_mathematically_18,"{\displaystyle -{\frac {\mathrm {d} ^{2}\mathbf {r} (t)}{\mathrm {d} t^{2}}}m={\frac {\partial V[\mathbf {r} (t)]}{\partial x}}\mathbf {\hat {x}} +{\frac {\partial V[\mathbf {r} (t)]}{\partial y}}\mathbf {\hat {y}} +{\frac {\partial V[\mathbf {r} (t)]}{\partial z}}\mathbf {\hat {z}} ,}"
+Modelled_mathematically_19,{\displaystyle m{\frac {\mathrm {d} ^{2}\mathbf {r} (t)}{\mathrm {d} t^{2}}}=-\nabla V[\mathbf {r} (t)].}
+Modelled_mathematically_20,{\displaystyle n}
+Modelled_mathematically_21,"{\displaystyle 1,2,\dots ,n}"
+Modelled_mathematically_22,"{\displaystyle p_{1},p_{2},\dots ,p_{n}.}"
+Modelled_mathematically_23,{\displaystyle U}
+Modelled_mathematically_24,"{\displaystyle x_{1},x_{2},\dots ,x_{n}}"
+Modelled_mathematically_25,{\displaystyle M}
+Modelled_mathematically_26,"{\displaystyle x_{1},x_{2},\dots ,x_{n}}"
+Modelled_mathematically_27,"{\displaystyle U(x_{1},x_{2},\dots ,x_{n}).}"
+Modelled_mathematically_28,"{\displaystyle \max \,U(x_{1},x_{2},\ldots ,x_{n})}"
+Modelled_mathematically_29,"{\displaystyle \sum _{i=1}^{n}p_{i}x_{i}\leq M,}"
+Modelled_mathematically_30,"{\displaystyle x_{i}\geq 0\;\;\;{\text{ for all }}i=1,2,\dots ,n.}"

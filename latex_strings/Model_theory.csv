@@ -1,0 +1,231 @@
+name,latex
+Model_theory_0,"{\displaystyle R(f(x,y),z)}"
+Model_theory_1,{\displaystyle y=x+1}
+Model_theory_2,"{\displaystyle \neg ,\land ,\lor ,\rightarrow }"
+Model_theory_3,{\displaystyle \forall v}
+Model_theory_4,{\displaystyle \exists v}
+Model_theory_5,{\displaystyle \varphi }
+Model_theory_6,{\displaystyle \varphi (x)}
+Model_theory_7,{\displaystyle x}
+Model_theory_8,{\displaystyle \varphi }
+Model_theory_9,{\displaystyle \psi }
+Model_theory_10,"{\displaystyle {\begin{array}{lcl}\varphi &=&\forall u\forall v(\exists w(x\times w=u\times v)\rightarrow (\exists w(x\times w=u)\lor \exists w(x\times w=v)))\land x\neq 0\land x\neq 1,:\\\psi &=&\forall u\forall v((u\times v=x)\rightarrow (u=x)\lor (v=x))\land x\neq 0\land x\neq 1.\end{array}}}"
+Model_theory_11,{\displaystyle {\mathcal {N}}}
+Model_theory_12,{\displaystyle n}
+Model_theory_13,{\displaystyle \varphi }
+Model_theory_14,{\displaystyle n}
+Model_theory_15,{\displaystyle \psi }
+Model_theory_16,{\displaystyle \models }
+Model_theory_17,{\displaystyle {\mathcal {N}}\models \varphi (n)\iff n}
+Model_theory_18,{\displaystyle {\mathcal {N}}\models \psi (n)\iff n}
+Model_theory_19,{\displaystyle T}
+Model_theory_20,{\displaystyle {\mathcal {M}}\models T}
+Model_theory_21,{\displaystyle T}
+Model_theory_22,{\displaystyle M}
+Model_theory_23,{\displaystyle M}
+Model_theory_24,"{\displaystyle \sigma _{or}=\{0,1,+,\times ,-,<\}}"
+Model_theory_25,{\displaystyle 0}
+Model_theory_26,{\displaystyle 1}
+Model_theory_27,{\displaystyle +}
+Model_theory_28,{\displaystyle \times }
+Model_theory_29,{\displaystyle -}
+Model_theory_30,{\displaystyle <}
+Model_theory_31,{\displaystyle \mathbb {Q} }
+Model_theory_32,{\displaystyle +}
+Model_theory_33,{\displaystyle \mathbb {Q} ^{2}}
+Model_theory_34,{\displaystyle \mathbb {Q} }
+Model_theory_35,{\displaystyle <}
+Model_theory_36,{\displaystyle \mathbb {Q} ^{2}}
+Model_theory_37,"{\displaystyle (\mathbb {Q} ,\sigma _{or})}"
+Model_theory_38,{\displaystyle {\mathcal {N}}}
+Model_theory_39,{\displaystyle T}
+Model_theory_40,{\displaystyle T}
+Model_theory_41,{\displaystyle {\mathcal {N}}}
+Model_theory_42,{\displaystyle {\mathcal {N}}}
+Model_theory_43,{\displaystyle {\mathcal {A}}}
+Model_theory_44,{\displaystyle {\mathcal {B}}}
+Model_theory_45,{\displaystyle {\mathcal {A}}}
+Model_theory_46,"{\displaystyle {\mathcal {A}}\models \varphi (a_{1},...,a_{n})}"
+Model_theory_47,"{\displaystyle {\mathcal {B}}\models \varphi (a_{1},...,a_{n})}"
+Model_theory_48,{\displaystyle {\mathcal {A}}}
+Model_theory_49,{\displaystyle {\mathcal {B}}}
+Model_theory_50,{\displaystyle {\mathcal {A}}\models \varphi }
+Model_theory_51,{\displaystyle {\mathcal {B}}\models \varphi }
+Model_theory_52,{\displaystyle {\overline {\mathbb {Q} }}}
+Model_theory_53,{\displaystyle \mathbb {C} }
+Model_theory_54,{\displaystyle \mathbb {Q} }
+Model_theory_55,{\displaystyle \mathbb {C} }
+Model_theory_56,{\displaystyle \mathbb {Q} }
+Model_theory_57,{\displaystyle {\mathcal {A}}}
+Model_theory_58,{\displaystyle {\mathcal {B}}}
+Model_theory_59,{\displaystyle {\mathcal {A}}}
+Model_theory_60,{\displaystyle {\mathcal {B}}}
+Model_theory_61,{\displaystyle \mathbb {N} }
+Model_theory_62,{\displaystyle \forall u\forall v(\exists w(x\times w=u\times v)\rightarrow (\exists w(x\times w=u)\lor \exists w(x\times w=v)))\land x\neq 0\land x\neq 1}
+Model_theory_63,{\displaystyle \exists y(2\times y=x)}
+Model_theory_64,{\displaystyle {\mathcal {M}}^{n}}
+Model_theory_65,{\displaystyle y=x\times x}
+Model_theory_66,"{\displaystyle (x,y)}"
+Model_theory_67,{\displaystyle y=x^{2}}
+Model_theory_68,{\displaystyle \mathbb {R} }
+Model_theory_69,{\displaystyle y=x\times x+\pi }
+Model_theory_70,{\displaystyle \pi }
+Model_theory_71,{\displaystyle \mathbb {R} }
+Model_theory_72,"{\displaystyle \forall x_{1}\dots \forall x_{n}(\phi (x_{1},\dots ,x_{n})\leftrightarrow \psi (x_{1},\dots ,x_{n}))}"
+Model_theory_73,"{\displaystyle \exists v_{1}\dots \exists v_{m}\psi (x_{1},\dots ,x_{n},v_{1},\dots ,v_{m})}"
+Model_theory_74,"{\displaystyle \{a_{1},\dots ,a_{n}\}}"
+Model_theory_75,{\displaystyle x=a_{1}\vee \dots \vee x=a_{n}}
+Model_theory_76,{\displaystyle {\mathcal {M}}}
+Model_theory_77,{\displaystyle A\subseteq {\mathcal {M}}}
+Model_theory_78,{\displaystyle {\mathcal {M}}}
+Model_theory_79,{\displaystyle \mathbb {R} }
+Model_theory_80,{\displaystyle \varphi (x)\;=\;\exists y(y\times y=x)}
+Model_theory_81,{\displaystyle \varphi }
+Model_theory_82,{\displaystyle \mathbb {R} }
+Model_theory_83,{\displaystyle {\mathcal {M}}}
+Model_theory_84,{\displaystyle A\subseteq {\mathcal {M}}}
+Model_theory_85,{\displaystyle {\mathcal {M}}}
+Model_theory_86,{\displaystyle {\mathcal {M}}^{n}}
+Model_theory_87,{\displaystyle a\in {\mathcal {M}}}
+Model_theory_88,{\displaystyle \varphi (x)}
+Model_theory_89,{\displaystyle {\mathcal {M}}}
+Model_theory_90,{\displaystyle \varphi (a)}
+Model_theory_91,{\displaystyle {\mathcal {M}}}
+Model_theory_92,{\displaystyle {\mathcal {M}}}
+Model_theory_93,"{\displaystyle a_{1},\dots ,a_{n}}"
+Model_theory_94,{\displaystyle {\mathcal {M}}}
+Model_theory_95,{\displaystyle {\mathcal {M}}}
+Model_theory_96,"{\displaystyle \varphi (x_{1},\dots ,x_{n})}"
+Model_theory_97,"{\displaystyle a_{1},\dots ,a_{n}}"
+Model_theory_98,"{\displaystyle a_{1},\dots ,a_{n}}"
+Model_theory_99,{\displaystyle {\mathcal {M}}}
+Model_theory_100,"{\displaystyle a_{1},\dots ,a_{n}}"
+Model_theory_101,"{\displaystyle b_{1},\dots ,b_{n}}"
+Model_theory_102,"{\displaystyle a_{1},\dots ,a_{n}}"
+Model_theory_103,"{\displaystyle b_{1},\dots ,b_{n}}"
+Model_theory_104,{\displaystyle \mathbb {R} }
+Model_theory_105,{\displaystyle a\in \mathbb {R} }
+Model_theory_106,"{\displaystyle a_{1},a_{2}}"
+Model_theory_107,{\displaystyle a_{1}<a_{2}}
+Model_theory_108,{\displaystyle a_{1}=a_{2}}
+Model_theory_109,{\displaystyle a_{2}<a_{1}}
+Model_theory_110,{\displaystyle \mathbb {Z} \subseteq \mathbb {R} }
+Model_theory_111,{\displaystyle {\mathcal {M}}}
+Model_theory_112,{\displaystyle {\mathcal {M}}}
+Model_theory_113,{\displaystyle {\mathcal {N}}}
+Model_theory_114,{\displaystyle {\mathcal {M}}}
+Model_theory_115,{\displaystyle S_{n}^{\mathcal {M}}(A)}
+Model_theory_116,{\displaystyle T}
+Model_theory_117,{\displaystyle {\mathcal {M}}}
+Model_theory_118,{\displaystyle S_{n}(T)}
+Model_theory_119,{\displaystyle T}
+Model_theory_120,{\displaystyle \varphi }
+Model_theory_121,{\displaystyle {\mathcal {M}}}
+Model_theory_122,{\displaystyle \varphi \rightarrow \psi }
+Model_theory_123,{\displaystyle \psi }
+Model_theory_124,{\displaystyle \mathbb {R} }
+Model_theory_125,{\displaystyle \{n<x|n\in \mathbb {Z} \}}
+Model_theory_126,{\displaystyle \mathbb {Z} \subseteq \mathbb {R} }
+Model_theory_127,{\displaystyle \mathbb {R} }
+Model_theory_128,{\displaystyle {\mathcal {M}}^{n}}
+Model_theory_129,{\displaystyle {\mathcal {M}}^{n}}
+Model_theory_130,{\displaystyle M}
+Model_theory_131,{\displaystyle n}
+Model_theory_132,{\displaystyle A}
+Model_theory_133,"{\displaystyle A[x_{1},\ldots ,x_{n}]}"
+Model_theory_134,{\displaystyle {\mathcal {M}}}
+Model_theory_135,{\displaystyle {\mathcal {M}}}
+Model_theory_136,{\displaystyle {\mathcal {M}}}
+Model_theory_137,{\displaystyle a\in {\mathcal {M}}}
+Model_theory_138,{\displaystyle {\mathcal {M}}}
+Model_theory_139,{\displaystyle {\mathcal {M}}}
+Model_theory_140,{\displaystyle A\subset {\mathcal {M}}}
+Model_theory_141,{\displaystyle {\mathcal {M}}}
+Model_theory_142,"{\displaystyle a_{1},\dots ,a_{n}}"
+Model_theory_143,"{\displaystyle b_{1},\dots ,b_{n}}"
+Model_theory_144,{\displaystyle {\mathcal {M}}}
+Model_theory_145,{\displaystyle {\mathcal {M}}}
+Model_theory_146,{\displaystyle <}
+Model_theory_147,"{\displaystyle a_{1},\dots ,a_{n}}"
+Model_theory_148,{\displaystyle \mathbb {R} }
+Model_theory_149,"{\displaystyle a_{1},\dots ,a_{n}}"
+Model_theory_150,{\displaystyle \mathbb {Z} }
+Model_theory_151,{\displaystyle \mathbb {Q} }
+Model_theory_152,{\displaystyle \mathbb {Q} }
+Model_theory_153,{\displaystyle {\mathcal {M}}^{n}}
+Model_theory_154,{\displaystyle A}
+Model_theory_155,{\displaystyle n}
+Model_theory_156,{\displaystyle A}
+Model_theory_157,{\displaystyle \{p|\varphi \in p\}}
+Model_theory_158,{\displaystyle \varphi }
+Model_theory_159,{\displaystyle \{p:f(x)=0\in p\}}
+Model_theory_160,{\displaystyle \{p:f(x)\neq 0\in p\}}
+Model_theory_161,{\displaystyle {\mathcal {T}}}
+Model_theory_162,{\displaystyle \Phi }
+Model_theory_163,{\displaystyle {\mathcal {M}}}
+Model_theory_164,{\displaystyle {\mathcal {T}}}
+Model_theory_165,{\displaystyle \Phi }
+Model_theory_166,{\displaystyle {\mathcal {M}}}
+Model_theory_167,{\displaystyle \Phi }
+Model_theory_168,{\displaystyle A\subset {\mathcal {M}}.}
+Model_theory_169,{\displaystyle {\mathcal {N}}}
+Model_theory_170,{\displaystyle {\mathcal {M}}}
+Model_theory_171,{\displaystyle \Phi }
+Model_theory_172,{\displaystyle {\mathcal {N}}}
+Model_theory_173,{\displaystyle {\mathcal {M}}_{i}}
+Model_theory_174,{\displaystyle \sigma }
+Model_theory_175,{\displaystyle \sigma }
+Model_theory_176,{\displaystyle \varphi ([(a_{i})_{i\in :I}])}
+Model_theory_177,{\displaystyle {\mathcal {M}}_{i}}
+Model_theory_178,{\displaystyle U}
+Model_theory_179,{\displaystyle i\in I}
+Model_theory_180,{\displaystyle {\mathcal {M}}_{i}\models \varphi (a_{i})}
+Model_theory_181,{\displaystyle {\mathcal {M}}}
+Model_theory_182,{\displaystyle {\mathcal {N}}}
+Model_theory_183,{\displaystyle {\mathcal {M}}}
+Model_theory_184,{\displaystyle {\mathcal {N}}}
+Model_theory_185,{\displaystyle \aleph _{0}}
+Model_theory_186,{\displaystyle \omega }
+Model_theory_187,{\displaystyle \omega }
+Model_theory_188,{\displaystyle \omega }
+Model_theory_189,"{\displaystyle (\mathbb {Q} ,<)}"
+Model_theory_190,"{\displaystyle (\mathbb {R} ,<)}"
+Model_theory_191,{\displaystyle \omega }
+Model_theory_192,"{\displaystyle p(x_{1},\dots ,x_{n})}"
+Model_theory_193,{\displaystyle x_{i}}
+Model_theory_194,{\displaystyle \mathbb {Q} }
+Model_theory_195,{\displaystyle \mathbb {R} }
+Model_theory_196,{\displaystyle \mathbb {C} }
+Model_theory_197,{\displaystyle \omega }
+Model_theory_198,{\displaystyle x=1+\dots +1}
+Model_theory_199,{\displaystyle \aleph _{0}}
+Model_theory_200,{\displaystyle \omega }
+Model_theory_201,{\displaystyle \omega }
+Model_theory_202,{\displaystyle \omega }
+Model_theory_203,{\displaystyle \lambda }
+Model_theory_204,{\displaystyle \lambda }
+Model_theory_205,{\displaystyle {\mathcal {M}}}
+Model_theory_206,{\displaystyle A\subset {\mathcal {M}}}
+Model_theory_207,{\displaystyle \lambda }
+Model_theory_208,{\displaystyle \lambda }
+Model_theory_209,{\displaystyle \lambda }
+Model_theory_210,{\displaystyle \lambda }
+Model_theory_211,{\displaystyle \aleph _{0}}
+Model_theory_212,{\displaystyle \omega }
+Model_theory_213,{\displaystyle \lambda }
+Model_theory_214,{\displaystyle \lambda }
+Model_theory_215,{\displaystyle \lambda }
+Model_theory_216,{\displaystyle \lambda ^{\aleph _{0}}=\lambda }
+Model_theory_217,{\displaystyle \lambda ^{\aleph _{0}}}
+Model_theory_218,{\displaystyle \lambda }
+Model_theory_219,{\displaystyle \lambda \geq 2^{\aleph _{0}}}
+Model_theory_220,{\displaystyle 2^{\aleph _{0}}}
+Model_theory_221,{\displaystyle \omega }
+Model_theory_222,{\displaystyle \omega }
+Model_theory_223,{\displaystyle \omega }
+Model_theory_224,{\displaystyle \lambda }
+Model_theory_225,{\displaystyle 2^{\lambda }}
+Model_theory_226,{\displaystyle \lambda }
+Model_theory_227,{\displaystyle \omega }
+Model_theory_228,{\displaystyle \omega }
+Model_theory_229,{\displaystyle \infty }

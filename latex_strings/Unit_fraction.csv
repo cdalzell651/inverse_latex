@@ -1,0 +1,69 @@
+name,latex
+Unit_fraction_0,"{\displaystyle {\frac {1}{n}},}"
+Unit_fraction_1,{\displaystyle n}
+Unit_fraction_2,{\displaystyle n}
+Unit_fraction_3,{\displaystyle 1/n}
+Unit_fraction_4,{\displaystyle {\frac {1}{x}}\times {\frac {1}{y}}={\frac {1}{xy}}.}
+Unit_fraction_5,{\displaystyle {\frac {1}{x}}+{\frac {1}{y}}={\frac {x+y}{xy}}}
+Unit_fraction_6,{\displaystyle {\frac {1}{x}}-{\frac {1}{y}}={\frac {y-x}{xy}}}
+Unit_fraction_7,{\displaystyle {\frac {1}{x}}\div {\frac {1}{y}}={\frac {y}{x}}.}
+Unit_fraction_8,{\displaystyle x}
+Unit_fraction_9,{\displaystyle y}
+Unit_fraction_10,{\displaystyle 1/x}
+Unit_fraction_11,{\displaystyle y}
+Unit_fraction_12,{\displaystyle x}
+Unit_fraction_13,{\displaystyle y}
+Unit_fraction_14,{\displaystyle x}
+Unit_fraction_15,{\displaystyle y}
+Unit_fraction_16,{\displaystyle a}
+Unit_fraction_17,{\displaystyle b}
+Unit_fraction_18,"{\displaystyle \displaystyle ax+by=\gcd(x,y)=1.}"
+Unit_fraction_19,{\displaystyle y}
+Unit_fraction_20,{\displaystyle by}
+Unit_fraction_21,{\displaystyle y}
+Unit_fraction_22,{\displaystyle \displaystyle ax\equiv 1{\pmod {y}}.}
+Unit_fraction_23,{\displaystyle a}
+Unit_fraction_24,{\displaystyle x}
+Unit_fraction_25,{\displaystyle x}
+Unit_fraction_26,{\displaystyle a\equiv {\frac {1}{x}}{\pmod {y}}.}
+Unit_fraction_27,{\displaystyle x}
+Unit_fraction_28,{\displaystyle y}
+Unit_fraction_29,{\displaystyle a}
+Unit_fraction_30,{\displaystyle {\frac {4}{5}}={\frac {1}{2}}+{\frac {1}{4}}+{\frac {1}{20}}={\frac {1}{3}}+{\frac {1}{5}}+{\frac {1}{6}}+{\frac {1}{10}}.}
+Unit_fraction_31,{\displaystyle 2x}
+Unit_fraction_32,{\displaystyle 2y}
+Unit_fraction_33,{\displaystyle 2z}
+Unit_fraction_34,"{\displaystyle x,y,z=2,3,5}"
+Unit_fraction_35,{\displaystyle {\tfrac {1}{x}}+{\tfrac {1}{y}}+{\tfrac {1}{z}}>1}
+Unit_fraction_36,{\displaystyle {\frac {1}{1}}+{\frac {1}{2}}+{\frac {1}{3}}+\cdots +{\frac {1}{n}}}
+Unit_fraction_37,{\displaystyle n}
+Unit_fraction_38,{\displaystyle \sum _{n=1}^{\infty }{\frac {(-1)^{n+1}}{n}}=1-{\frac {1}{2}}+{\frac {1}{3}}-{\frac {1}{4}}+{\frac {1}{5}}-\cdots =\ln 2.}
+Unit_fraction_39,{\displaystyle 1-{\frac {1}{3}}+{\frac {1}{5}}-{\frac {1}{7}}+{\frac {1}{9}}-\cdots ={\frac {\pi }{4}}.}
+Unit_fraction_40,{\displaystyle 1+{\frac {1}{4}}+{\frac {1}{9}}+{\frac {1}{16}}+\cdots ={\frac {\pi ^{2}}{6}}.}
+Unit_fraction_41,{\displaystyle 1+{\frac {1}{2}}+{\frac {1}{4}}+{\frac {1}{8}}+{\frac {1}{16}}+\cdots =2.}
+Unit_fraction_42,{\displaystyle i}
+Unit_fraction_43,{\displaystyle 1/i}
+Unit_fraction_44,"{\displaystyle B_{i,j}={\frac {1}{i+j-1}}.}"
+Unit_fraction_45,{\displaystyle {\begin{bmatrix}1&{\frac {1}{2}}&{\frac {1}{3}}\\{\frac {1}{2}}&{\frac {1}{3}}&{\frac {1}{4}}\\{\frac {1}{3}}&{\frac {1}{4}}&{\frac {1}{5}}\end{bmatrix}}}
+Unit_fraction_46,"{\displaystyle C_{i,j}={\frac {1}{F_{i+j-1}}},}"
+Unit_fraction_47,{\displaystyle F_{i}}
+Unit_fraction_48,{\displaystyle i}
+Unit_fraction_49,{\displaystyle a/b}
+Unit_fraction_50,{\displaystyle c/d}
+Unit_fraction_51,"{\displaystyle ad-bc=\pm 1,}"
+Unit_fraction_52,{\displaystyle \left|{\frac {1}{a}}-{\frac {1}{b}}\right|={\frac {|ad-bc|}{bd}}={\frac {1}{bd}}.}
+Unit_fraction_53,{\displaystyle {\tfrac {1}{2}}}
+Unit_fraction_54,{\displaystyle {\tfrac {3}{5}}}
+Unit_fraction_55,{\displaystyle 1\cdot 5-2\cdot 3=-1}
+Unit_fraction_56,{\displaystyle {\tfrac {3}{5}}-{\tfrac {1}{2}}={\tfrac {1}{10}}}
+Unit_fraction_57,{\displaystyle {\tfrac {1}{3}}}
+Unit_fraction_58,{\displaystyle {\tfrac {2}{3}}}
+Unit_fraction_59,{\displaystyle ad-bc=3}
+Unit_fraction_60,{\displaystyle a/b}
+Unit_fraction_61,{\displaystyle c/d}
+Unit_fraction_62,{\displaystyle n}
+Unit_fraction_63,{\displaystyle 1/n}
+Unit_fraction_64,{\displaystyle k}
+Unit_fraction_65,{\displaystyle 1/k}
+Unit_fraction_66,{\displaystyle 1/k}
+Unit_fraction_67,{\displaystyle \zeta (3)}
